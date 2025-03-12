@@ -72,17 +72,17 @@ parser = argparse.ArgumentParser(
 parser.add_argument(
     "-torchscript_dir",
     help="Directory to save torchscript models",
-    default=f"{datdir}/biosyn_windows/torchscript",
+    default=f"{datdir}/mibig_training/torchscript",
 )
 parser.add_argument(
     "-pytorch_checkpoint_fp",
     help="Pytorch checkpoint file path",
-    default=f"{datdir}/biosyn_windows/checkpoints/last.pt",
+    default=f"{datdir}/mibig_training/checkpoints/last.pt",
 )
 parser.add_argument(
     "-config_dir",
     help="Directory containing model config files",
-    default=f"{datdir}/biosyn_windows/configs",
+    default=f"{datdir}/mibig_training/configs",
 )
 
 if __name__ == "__main__":
