@@ -7,6 +7,9 @@ from omnicons.models.heads.NodeClassification import (
     MultiLabelNodeClassificationHead,
     SingleLabelNodeClassificationHead,
 )
+from omnicons.models.heads.SiameseClassification import (
+    SiameseGraphClassificationHead,
+)
 
 
 class NodeClsTaskHeadConfig(ConfigTemplate):
@@ -45,4 +48,29 @@ class NodeClsTaskHeadConfig(ConfigTemplate):
             return SingleLabelNodeClassificationHead(**self.properties)
 
 
-HeadConfig = Union[NodeClsTaskHeadConfig,]
+class SiameseGraphClsTaskHeadConfig(ConfigTemplate):
+
+    def __init__(
+        self,
+        hidden_size: int = 768,
+        hidden_dropout_prob: float = 0.1,
+        num_labels: int = 2,
+        class_weight: Optional[List[float]] = None,
+        analyze_inputs: List[Tuple[str, str]] = [("a", "b")],
+    ):
+        super().__init__(
+            base="SiameseGraphClsTaskHead",
+            properties={
+                "hidden_size": hidden_size,
+                "hidden_dropout_prob": hidden_dropout_prob,
+                "num_labels": num_labels,
+                "class_weight": class_weight,
+                "analyze_inputs": analyze_inputs,
+            },
+        )
+
+    def get_model(self) -> nn.Module:
+        return SiameseGraphClassificationHead(**self.properties)
+
+
+HeadConfig = Union[NodeClsTaskHeadConfig, SiameseGraphClsTaskHeadConfig]
