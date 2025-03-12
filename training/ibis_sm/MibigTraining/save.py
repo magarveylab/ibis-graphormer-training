@@ -24,3 +24,8 @@ parser.add_argument(
     help="Directory to save model checkpoints",
     default=f"{datdir}/training/mibig_training/checkpoints",
 )
+
+
+if __name__ == "__main__":
+    args = parser.parse_args()
+    save(checkpoint_dir=args.checkpoint_dir)
