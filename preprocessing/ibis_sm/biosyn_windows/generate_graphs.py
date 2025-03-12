@@ -3,7 +3,7 @@ import pickle
 from functools import partial
 from glob import glob
 from multiprocessing import Pool
-from typing import Literal
+from typing import Literal, Tuple
 
 import pandas as pd
 from tqdm import tqdm
@@ -14,14 +14,15 @@ from omnicons.graph_converters.homogeneous.genome_graph import OrfGraph
 
 
 def create_graph_from_csv_fp(
-    faa_fh: str,  # path to fasta amino acid file.
-    csv_fp: str,  # path to genome window csv file.
+    # path to genome window csv file and fasta amino acid file.
+    fhs: Tuple[str, str],
     graph_dir: str,  # directory to save graphs to
     orf_tolerance: int = 10000,
     orf_edge_method: Literal["raw", "unannotated"] = "raw",
     force_perfect_domain_edges: bool = False,
     include_domains: bool = False,
 ):
+    csv_fp, faa_fh = fhs
     orfs = get_orflist_from_fh(faa_fh=faa_fh)
     graph = OrfGraph()
     graph.add_orfs(
@@ -64,5 +65,5 @@ if __name__ == "__main__":
     graph_dir = ""  # path to save graphs to.
     pool = Pool(30)
     F = partial(create_graph_from_csv_fp, graph_dir=graph_dir)
-    process = pool.imap_unordered(F, all_fhs)
+    process = pool.imap_unordered(F, zip(all_fhs, faa_fhs))
     [p for p in tqdm(process, total=len(all_fhs))]
