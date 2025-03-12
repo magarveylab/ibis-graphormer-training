@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4174412339,4174412339_1_2613,104200393,BGC0002311,1,2613,['lanthionine biosynthesis protein'],True,RiPP
+4174412339,4174412339_2624_3547,24895089,BGC0002311,2624,3547,['lanthionine biosynthesis protein'],True,RiPP
+4174412339,4174412339_3544_4626,1099270969,BGC0002311,3544,4626,['hypothetical protein'],True,RiPP
+4174412339,4174412339_4626_5945,2042829766,BGC0002311,4626,5945,['hypothetical protein'],True,RiPP

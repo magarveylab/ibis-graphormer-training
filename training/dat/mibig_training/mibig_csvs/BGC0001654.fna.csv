@@ -1,0 +1,19 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3600584715,3600584715_1_975,2567200585,BGC0001654,1,975,['lipopolysaccharide core biosynthesis protein LpsA'],True,Saccharide
+3600584715,3600584715_1025_1759,3389517533,BGC0001654,1025,1759,"['Tyrosine protein kinase, active site']",True,Saccharide
+3600584715,3600584715_1780_3819,2365633675,BGC0001654,1780,3819,['glycoside transferase family 2'],True,Saccharide
+3600584715,3600584715_3982_4992,1497958641,BGC0001654,3982,4992,['glycoside transferase family 2'],True,Saccharide
+3600584715,3600584715_4994_6235,1808013936,BGC0001654,4994,6235,['glycoside transferase family 4'],True,Saccharide
+3600584715,3600584715_6261_7502,126351560,BGC0001654,6261,7502,['glycoside transferase family 4'],True,Saccharide
+3600584715,3600584715_7507_8748,2855730859,BGC0001654,7507,8748,['glycoside transferase family 4'],True,Saccharide
+3600584715,3600584715_8881_9870,3325193535,BGC0001654,8881,9870,['glycoside transferase family 2'],True,Saccharide
+3600584715,3600584715_9860_10849,1986547012,BGC0001654,9860,10849,['glycoside transferase family 2'],True,Saccharide
+3600584715,3600584715_10902_11882,4140343637,BGC0001654,10902,11882,['glycoside transferase family 2'],True,Saccharide
+3600584715,3600584715_11889_12332,1898712300,BGC0001654,11889,12332,['spermidine n1-acetyltransferase'],True,Saccharide
+3600584715,3600584715_12336_13520,195168150,BGC0001654,12336,13520,['putative carbamoyl-phosphate-synthetase'],True,Saccharide
+3600584715,3600584715_13537_14697,1408567079,BGC0001654,13537,14697,['aspartate aminotransferase'],True,Saccharide
+3600584715,3600584715_14699_15808,1796964706,BGC0001654,14699,15808,['nucleotide sugar transaminase'],True,Saccharide
+3600584715,3600584715_15963_16931,1529227451,BGC0001654,15963,16931,['glycoside transferase family 14'],True,Saccharide
+3600584715,3600584715_17151_17531,489385983,BGC0001654,17151,17531,['GtrA-like protein'],True,Saccharide
+3600584715,3600584715_17528_18463,246003761,BGC0001654,17528,18463,['glycoside transferase family 2'],True,Saccharide
+3600584715,3600584715_18472_19803,1333964287,BGC0001654,18472,19803,['putative membrane protein'],True,Saccharide

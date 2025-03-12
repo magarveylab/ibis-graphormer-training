@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1947097446,1947097446_1_396,848816713,BGC0000113,1,396,['cytochrome P-450 hydroxylase homolog'],True,Polyketide
+1947097446,1947097446_627_13649,822250569,BGC0000113,627,13649,['polyketide synthase modules 1 and 2'],True,Polyketide
+1947097446,1947097446_13693_19212,1952631878,BGC0000113,13693,19212,['polyketide synthase module 3'],True,Polyketide
+1947097446,1947097446_19269_30233,1119157549,BGC0000113,19269,30233,['polyketide synthase modules 4 and 5'],True,Polyketide
+1947097446,1947097446_30294_35003,1532141991,BGC0000113,30294,35003,['polyketide synthase module 6'],True,Polyketide
+1947097446,1947097446_35018_40639,2500043111,BGC0000113,35018,40639,['polyketide synthase module 7'],True,Polyketide
+1947097446,1947097446_40626_41096,168702904,BGC0000113,40626,41096,['N-methyltransferase homolog'],True,Polyketide

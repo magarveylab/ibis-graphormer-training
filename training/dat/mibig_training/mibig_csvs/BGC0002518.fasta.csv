@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3833025244,3833025244_1_774,1050824449,BGC0002518,1,774,['helix-turn-helix transcriptional regulator'],True,NRP
+3833025244,3833025244_1064_10561,2399627141,BGC0002518,1064,10561,['amino acid adenylation domain-containing protein'],True,NRP

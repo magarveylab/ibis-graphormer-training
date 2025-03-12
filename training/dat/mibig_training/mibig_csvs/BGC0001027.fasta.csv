@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4127154814,4127154814_1_1290,3026066915,BGC0001027,1,1290,['putative lysine-N-oxygenase'],True,NRP__Polyketide
+4127154814,4127154814_1345_2025,3024705951,BGC0001027,1345,2025,['putative N6-hydroxylysine acetyltransferase'],True,NRP__Polyketide
+4127154814,4127154814_2169_2924,3320897436,BGC0001027,2169,2924,['thioesterase'],True,NRP__Polyketide
+4127154814,4127154814_2921_4231,2663590338,BGC0001027,2921,4231,['putative polyketide synthase'],True,NRP__Polyketide
+4127154814,4127154814_4224_7310,326429362,BGC0001027,4224,7310,['putative polyketide synthase'],True,NRP__Polyketide
+4127154814,4127154814_7329_12434,3350666697,BGC0001027,7329,12434,['putative non-ribosomal peptide synthetase'],True,NRP__Polyketide
+4127154814,4127154814_12431_16999,3200857128,BGC0001027,12431,16999,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+4127154814,4127154814_17007_20510,2269661345,BGC0001027,17007,20510,['putative non-ribosomal peptide synthetase'],True,NRP__Polyketide

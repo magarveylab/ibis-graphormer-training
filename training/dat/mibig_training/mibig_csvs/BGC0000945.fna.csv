@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1231686806,1231686806_131_4918,1116566054,BGC0000945,131,4918,,True,Other
+1231686806,1231686806_4909_7383,807729564,BGC0000945,4909,7383,['nonribosomal peptide synthetase VibF'],True,Other
+1231686806,1231686806_7629_8444,2357629311,BGC0000945,7629,8444,['vibriobactin utilization protein ViuB'],True,Other
+1231686806,1231686806_8748_10811,2722904248,BGC0000945,8748,10811,['ferric vibriobactin receptor'],True,Other

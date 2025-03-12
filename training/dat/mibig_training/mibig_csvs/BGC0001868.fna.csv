@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3723689198,3723689198_1_1608,1880078734,BGC0001868,1,1608,['FMN-dependent N-oxidase'],True,Other
+3723689198,3723689198_1675_2835,881580257,BGC0001868,1675,2835,['FMN-dependent Baeyer-Villiger monooxygenase'],True,Other
+3723689198,3723689198_2860_3786,4001571993,BGC0001868,2860,3786,['RNA polymerase sigma factor'],True,Other
+3723689198,3723689198_4244_4543,3803489128,BGC0001868,4244,4543,['Antibiotic biosynthesis monooxygenase'],True,Other
+3723689198,3723689198_4886_5986,2654477410,BGC0001868,4886,5986,['Aromatic amino acid biosynthesis'],True,Other
+3723689198,3723689198_6145_6396,3398482688,BGC0001868,6145,6396,['Phenazine antibiotic biosynthesis protein'],True,Other
+3723689198,3723689198_6377_7006,2520160771,BGC0001868,6377,7006,"[""Pyridoxamine 5'-phosphate oxidase""]",True,Other
+3723689198,3723689198_7051_7902,1432988680,BGC0001868,7051,7902,"['2,3-Dihydro-3-hydroxyanthranilate isomerase']",True,Other
+3723689198,3723689198_7884_9803,3128594141,BGC0001868,7884,9803,['Anthranilate synthase'],True,Other
+3723689198,3723689198_9796_10425,184369843,BGC0001868,9796,10425,['Isochorismatase'],True,Other
+3723689198,3723689198_10565_11041,503983728,BGC0001868,10565,11041,['Phenazine biosynthesis protein'],True,Other

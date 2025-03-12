@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+650526847,650526847_1_360,2401509463,BGC0000383,1,360,['nuclear transport factor 2 family protein'],True,NRP__Polyketide
+650526847,650526847_412_3609,806436631,BGC0000383,412,3609,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+650526847,650526847_3638_4903,2380211991,BGC0000383,3638,4903,['MFS transporter'],True,NRP__Polyketide
+650526847,650526847_4900_17424,110107793,BGC0000383,4900,17424,['hybrid non-ribosomal peptide synthetase/type I polyketide synthase'],True,NRP__Polyketide
+650526847,650526847_17518_18348,2379447471,BGC0000383,17518,18348,['hypothetical protein'],True,NRP__Polyketide

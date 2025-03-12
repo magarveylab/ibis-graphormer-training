@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3871341278,3871341278_1_2535,4255130244,BGC0000513,1,2535,['serine/threonine protein kinase'],True,RiPP
+3871341278,3871341278_2603_2743,3976157596,BGC0000513,2603,2743,['hypothetical protein'],True,RiPP
+3871341278,3871341278_2839_4497,2658751374,BGC0000513,2839,4497,['putative ABC transporter'],True,RiPP
+3871341278,3871341278_4494_6203,1971615100,BGC0000513,4494,6203,['putative ABC transporter'],True,RiPP

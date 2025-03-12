@@ -1,0 +1,16 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2504311516,2504311516_1_687,971831302,BGC0000030,1,687,['uncharacterized protein'],True,Polyketide
+2504311516,2504311516_677_1084,910100588,BGC0000030,677,1084,['uncharacterized protein'],True,Polyketide
+2504311516,2504311516_1350_3461,2764408632,BGC0000030,1350,3461,['bikaverin cluster-polyketide synthase'],True,Polyketide
+2504311516,2504311516_3466_6951,1238278477,BGC0000030,3466,6951,['bikaverin cluster-polyketide synthase'],True,Polyketide
+2504311516,2504311516_7330_7620,3237041583,BGC0000030,7330,7620,['bikaverin cluster-polyketide synthase'],True,Polyketide
+2504311516,2504311516_8353_9234,3407420848,BGC0000030,8353,9234,['bikaverin cluster-monooxygenase'],True,Polyketide
+2504311516,2504311516_9278_9598,3988181051,BGC0000030,9278,9598,['bikaverin cluster-monooxygenase'],True,Polyketide
+2504311516,2504311516_9619_9930,2901149228,BGC0000030,9619,9930,['bikaverin cluster-monooxygenase'],True,Polyketide
+2504311516,2504311516_10332_10739,1936161255,BGC0000030,10332,10739,['bikaverin cluster-O-methyltransferase'],True,Polyketide
+2504311516,2504311516_10736_11365,2855573440,BGC0000030,10736,11365,['bikaverin cluster-O-methyltransferase'],True,Polyketide
+2504311516,2504311516_11307_11567,1480868441,BGC0000030,11307,11567,,True,Polyketide
+2504311516,2504311516_12567_13547,3036439168,BGC0000030,12567,13547,['bikaverin cluster-transcription factor enhancer'],True,Polyketide
+2504311516,2504311516_13737_15332,3424291210,BGC0000030,13737,15332,['bikaverin cluster-transcription factor'],True,Polyketide
+2504311516,2504311516_16610_16999,3251110224,BGC0000030,16610,16999,['bikaverin cluster-efflux pump'],True,Polyketide
+2504311516,2504311516_17175_17525,3304948400,BGC0000030,17175,17525,['bikaverin cluster-efflux pump'],True,Polyketide

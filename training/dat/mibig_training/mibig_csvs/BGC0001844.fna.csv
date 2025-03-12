@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+795506063,795506063_1_453,2690631122,BGC0001844,1,453,,False,
+795506063,795506063_963_20663,448721254,BGC0001844,963,20663,['non-ribosomal peptide synthetase'],True,NRP

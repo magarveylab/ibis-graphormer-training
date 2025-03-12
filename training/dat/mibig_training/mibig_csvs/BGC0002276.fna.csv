@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1244745945,1244745945_1_3813,3129985007,BGC0002276,1,3813,['hypothetical protein'],True,NRP

@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1687131922,1687131922_48_575,2268004172,BGC0002449,48,575,['nicotinamide-nucleotide amidohydrolase PncC'],True,Other
+1687131922,1687131922_627_1160,214487868,BGC0002449,627,1160,['hypothetical protein'],True,Other
+1687131922,1687131922_1133_1330,1261868688,BGC0002449,1133,1330,,True,Other
+1687131922,1687131922_1859_2188,1026881141,BGC0002449,1859,2188,['hypothetical protein'],True,Other
+1687131922,1687131922_2446_3588,2193161628,BGC0002449,2446,3588,['3 beta-hydroxysteroid dehydrogenase/delta 5-->4-isomerase'],True,Other
+1687131922,1687131922_3590_4687,3166933228,BGC0002449,3590,4687,['toluene-4-sulfonate monooxygenase system iron-sulfur subunit'],True,Other
+1687131922,1687131922_4680_5774,3569512058,BGC0002449,4680,5774,['hypothetical protein'],True,Other
+1687131922,1687131922_5789_7177,2192416974,BGC0002449,5789,7177,['lanosterol 14-alpha demethylase'],True,Other
+1687131922,1687131922_7174_10635,2487635437,BGC0002449,7174,10635,['squalene--hopene cyclase'],True,Other
+1687131922,1687131922_10663_11697,1515227145,BGC0002449,10663,11697,['sterol 24-C-methyltransferase'],True,Other
+1687131922,1687131922_11862_14375,996712681,BGC0002449,11862,14375,['DNA mismatch repair protein MutS'],True,Other

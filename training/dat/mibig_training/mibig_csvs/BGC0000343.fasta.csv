@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2204142157,2204142157_2_1174,2599050770,BGC0000343,2,1174,['isochorismate synthase'],True,NRP
+2204142157,2204142157_1171_2796,2079634818,BGC0000343,1171,2796,['enterobactin synthase subunit E'],True,NRP
+2204142157,2204142157_2810_3682,1554863185,BGC0000343,2810,3682,['isochorismatase'],True,NRP
+2204142157,2204142157_3679_6207,2748169310,BGC0000343,3679,6207,['enterobactin synthetase component F'],True,NRP

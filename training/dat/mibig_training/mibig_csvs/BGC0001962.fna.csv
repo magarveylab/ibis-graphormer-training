@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2858046127,2858046127_1_879,3807608932,BGC0001962,1,879,['phosphate ABC transporter permease subunit PstC'],True,Polyketide
+2858046127,2858046127_876_1661,1308922164,BGC0001962,876,1661,['ABC-type phosphate transport system protein'],True,Polyketide
+2858046127,2858046127_1850_2650,3189318858,BGC0001962,1850,2650,['SAM-dependent methyltransferase'],True,Polyketide
+2858046127,2858046127_2737_3840,1958519658,BGC0001962,2737,3840,['flavin-dependent oxidoreductase'],True,Polyketide
+2858046127,2858046127_3837_4970,1192643314,BGC0001962,3837,4970,['type III polyketide synthase'],True,Polyketide
+2858046127,2858046127_4957_5553,4124253497,BGC0001962,4957,5553,['PAP-fibrillin'],True,Polyketide
+2858046127,2858046127_5489_7027,1709970712,BGC0001962,5489,7027,['beta-lactamase'],True,Polyketide

@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+127206721,127206721_1_3651,1928278227,BGC0002069,1,3651,['indolepyruvate ferredoxin oxidoreductase family protein'],True,Other
+127206721,127206721_3715_4779,61947863,BGC0002069,3715,4779,['A-factor biosynthesis protein'],True,Other
+127206721,127206721_4776_5957,2978973667,BGC0002069,4776,5957,['NADH:flavin oxidoreductase'],True,Other
+127206721,127206721_5954_6727,2581067559,BGC0002069,5954,6727,['SDR family oxidoreductase'],True,Other
+127206721,127206721_6727_7545,1402908840,BGC0002069,6727,7545,['SDR family NAD(P)-dependent oxidoreductase'],True,Other
+127206721,127206721_7587_7901,3159032605,BGC0002069,7587,7901,['hypothetical protein'],True,Other
+127206721,127206721_7920_9275,1772715007,BGC0002069,7920,9275,['long-chain fatty acid--CoA ligase'],True,Other
+127206721,127206721_9312_9554,1307965860,BGC0002069,9312,9554,['acyl carrier protein'],True,Other
+127206721,127206721_9551_10624,2238958550,BGC0002069,9551,10624,['ketoacyl-ACP synthase III'],True,Other

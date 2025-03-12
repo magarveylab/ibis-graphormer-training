@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3748308033,3748308033_1_6978,3647170852,BGC0002480,1,6978,['non-ribosomal peptide synthetase (depsipeptide synthetase)'],True,Polyketide__NRP
+3748308033,3748308033_6975_10835,1919036118,BGC0002480,6975,10835,['polyketide synthase'],True,Polyketide__NRP
+3748308033,3748308033_11042_12400,3766776231,BGC0002480,11042,12400,['dimetal-carboxylate halogenase'],True,Polyketide__NRP
+3748308033,3748308033_12700_14115,3767688334,BGC0002480,12700,14115,['dimetal-carboxylate halogenase'],True,Polyketide__NRP
+3748308033,3748308033_14209_14487,3568622693,BGC0002480,14209,14487,['acyl carrier protein'],True,Polyketide__NRP
+3748308033,3748308033_14640_16520,1211255087,BGC0002480,14640,16520,['fatty acyl-AMP ligase'],True,Polyketide__NRP

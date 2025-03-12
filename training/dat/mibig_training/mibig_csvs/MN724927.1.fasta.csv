@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3484248658,3484248658_1_699,1152261445,BGC0002330,1,699,['glutathione S-transferase-like protein'],True,RiPP
+3484248658,3484248658_990_2039,4045186387,BGC0002330,990,2039,['cyclic nucleotide-binding domain-containing protein'],True,RiPP
+3484248658,3484248658_2063_3883,3174860119,BGC0002330,2063,3883,['NHLP bacteriocin system secretion protein'],True,RiPP
+3484248658,3484248658_3883_6120,3364830894,BGC0002330,3883,6120,['NHLP family bacteriocin export ABC transporter'],True,RiPP
+3484248658,3484248658_6302_7228,902201599,BGC0002330,6302,7228,['peptide arginase'],True,RiPP
+3484248658,3484248658_7354_8802,4281558809,BGC0002330,7354,8802,['rSAM peptide epimerase'],True,RiPP
+3484248658,3484248658_8860_12132,2906355069,BGC0002330,8860,12132,['type 2 lanthionine synthetase'],True,RiPP
+3484248658,3484248658_12263_12559,775275133,BGC0002330,12263,12559,['proteusin family (NHLP leader peptide) precursor'],True,RiPP
+3484248658,3484248658_12806_16516,4050598199,BGC0002330,12806,16516,['WD40 domain P-loop ATPase domain'],True,RiPP

@@ -1,0 +1,19 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2451608223,2451608223_1_2256,3268384497,BGC0002131,1,2256,['ABC transporter ATP-binding protein/permease'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_2798_3073,687108473,BGC0002131,2798,3073,['hypothetical protein'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_3564_6410,723662182,BGC0002131,3564,6410,['ATP-binding cassette domain-containing protein'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_6595_8844,570993743,BGC0002131,6595,8844,['heavy metal translocating P-type ATPase'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_9437_11092,136471004,BGC0002131,9437,11092,['tryptophan 7-halogenase'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_11700_13541,1616818129,BGC0002131,11700,13541,['NAD(P)/FAD-dependent oxidoreductase'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_13673_19375,392904689,BGC0002131,13673,19375,['type I polyketide synthase'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_19382_27172,1583010634,BGC0002131,19382,27172,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_27238_28449,3743703967,BGC0002131,27238,28449,['hypothetical protein'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_28638_29873,1977023835,BGC0002131,28638,29873,['glycosyl transferase family 1'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_30321_31109,350164484,BGC0002131,30321,31109,['FkbM family methyltransferase'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_31210_32253,681126650,BGC0002131,31210,32253,['NAD-dependent epimerase/dehydratase family protein'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_32253_33020,3306756434,BGC0002131,32253,33020,['NTP transferase domain-containing protein'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_33100_34317,2047913279,BGC0002131,33100,34317,['glycosyl transferase family 1'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_34384_35472,2461398627,BGC0002131,34384,35472,['NAD-dependent epimerase/dehydratase family protein'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_35616_37028,3773154915,BGC0002131,35616,37028,['MFS transporter'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_37090_38190,2088573769,BGC0002131,37090,38190,['hypothetical protein'],True,NRP__Polyketide__Saccharide
+2451608223,2451608223_38271_39122,3168062678,BGC0002131,38271,39122,['hypothetical protein'],True,NRP__Polyketide__Saccharide

@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4201253114,4201253114_1_2019,923469882,BGC0001632,1,2019,['cyanobactin S8 peptidase'],True,RiPP
+4201253114,4201253114_2106_2978,141902157,BGC0001632,2106,2978,['tryptophan prenyltransferase'],True,RiPP
+4201253114,4201253114_3721_3984,2037972705,BGC0001632,3721,3984,['kawaguchipeptin precursor peptide'],True,RiPP
+4201253114,4201253114_4290_4496,659874546,BGC0001632,4290,4496,['hypothetical protein'],True,RiPP
+4201253114,4201253114_4487_4645,580248226,BGC0001632,4487,4645,['kawaguchipeptin biosynthesis protein'],True,RiPP
+4201253114,4201253114_4734_5180,3474090289,BGC0001632,4734,5180,,False,

@@ -1,0 +1,32 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2442615199,2442615199_1_1389,1713803037,BGC0000171,1,1389,['putative peptide synthetase'],True,Polyketide
+2442615199,2442615199_1389_2429,3979306832,BGC0000171,1389,2429,['putative 3-dehydroquinate synthase'],True,Polyketide
+2442615199,2442615199_2426_3187,3768805383,BGC0000171,2426,3187,"['putative Dhna-type fructose-1,6-bisphosphate aldolase']",True,Polyketide
+2442615199,2442615199_3373_4092,3417133220,BGC0000171,3373,4092,,True,Polyketide
+2442615199,2442615199_4106_5683,256239727,BGC0000171,4106,5683,['drug resistance transporter'],True,Polyketide
+2442615199,2442615199_5643_6545,1038242670,BGC0000171,5643,6545,['lysr family transcriptional regulator'],True,Polyketide
+2442615199,2442615199_6799_8133,3098002922,BGC0000171,6799,8133,['signal transduction histidine kinase'],True,Polyketide
+2442615199,2442615199_8130_8750,83303362,BGC0000171,8130,8750,['two component transcriptional regulator'],True,Polyketide
+2442615199,2442615199_8903_9667,1825358624,BGC0000171,8903,9667,['thioesterase'],True,Polyketide
+2442615199,2442615199_9983_10867,1065568183,BGC0000171,9983,10867,['malonyl coa-ACP transferase'],True,Polyketide
+2442615199,2442615199_10869_11126,3108062388,BGC0000171,10869,11126,['acyl carrier protein'],True,Polyketide
+2442615199,2442615199_11170_13161,4036886174,BGC0000171,11170,13161,['amidotransferase'],True,Polyketide
+2442615199,2442615199_13158_32300,3282914519,BGC0000171,13158,32300,['type-I polyketide synthases'],True,Polyketide
+2442615199,2442615199_32300_32941,2737945479,BGC0000171,32300,32941,['putative flavoprotein decarboxylase'],True,Polyketide
+2442615199,2442615199_32938_34419,7883716,BGC0000171,32938,34419,['putative 3-octaprenyl-4-hydroxybenzoate'],True,Polyketide
+2442615199,2442615199_34427_34969,1673708122,BGC0000171,34427,34969,['hypothetical protein'],True,Polyketide
+2442615199,2442615199_34986_37160,2527806609,BGC0000171,34986,37160,['hypothetical protein'],True,Polyketide
+2442615199,2442615199_37217_37678,693207846,BGC0000171,37217,37678,['hypothetical protein'],True,Polyketide
+2442615199,2442615199_37798_39195,2344434113,BGC0000171,37798,39195,['putative monoxygenase'],True,Polyketide
+2442615199,2442615199_39195_40028,3683442242,BGC0000171,39195,40028,['putative ABC transporter inner membrane protein'],True,Polyketide
+2442615199,2442615199_40025_40912,3214828720,BGC0000171,40025,40912,['putative transporter permease'],True,Polyketide
+2442615199,2442615199_40919_42262,2227889597,BGC0000171,40919,42262,['putative ABC transporter extracellular membrane protein'],True,Polyketide
+2442615199,2442615199_42281_43489,4240416615,BGC0000171,42281,43489,['putative ABC transporter extracellular membrane protein'],True,Polyketide
+2442615199,2442615199_43528_44718,2538630752,BGC0000171,43528,44718,['putative acyl-CoA dehydrogenase'],True,Polyketide
+2442615199,2442615199_44718_45878,2795769281,BGC0000171,44718,45878,['putative alkanesulfonate monooxygenase'],True,Polyketide
+2442615199,2442615199_45915_47114,3383944768,BGC0000171,45915,47114,['putative acyl-CoA dehydrogenase'],True,Polyketide
+2442615199,2442615199_47121_47675,2038862442,BGC0000171,47121,47675,['putative NAD(P)H-dependent FMN reductase'],True,Polyketide
+2442615199,2442615199_47718_48935,9529896,BGC0000171,47718,48935,['putative dibenzothiophene desulfurization enzyme C'],True,Polyketide
+2442615199,2442615199_48966_50105,114982679,BGC0000171,48966,50105,['putative alkanesulfonate monooxyhenase'],True,Polyketide
+2442615199,2442615199_50634_51560,281790753,BGC0000171,50634,51560,['putative LysR family transcriptional regulator'],True,Polyketide
+2442615199,2442615199_51547_52488,124363930,BGC0000171,51547,52488,['putative G6PDH family F420-dependent oxidoreductase'],True,Polyketide

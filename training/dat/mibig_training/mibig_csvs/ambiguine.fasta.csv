@@ -1,0 +1,36 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1485795746,1485795746_257_712,2787943176,BGC0001126,257,712,['conserved membrane hypothetical protein (possible transporter)'],True,Terpene__Alkaloid
+1485795746,1485795746_720_1913,957161158,BGC0001126,720,1913,"[' ABC exporter membrane fusion protein, DevB family']",True,Terpene__Alkaloid
+1485795746,1485795746_1937_3103,67679837,BGC0001126,1937,3103,['DevC protein'],True,Terpene__Alkaloid
+1485795746,1485795746_3510_4382,603870114,BGC0001126,3510,4382,"['halogenase, 2OG-Fe(II) oxygenase family']",True,Terpene__Alkaloid
+1485795746,1485795746_4585_5442,2948635384,BGC0001126,4585,5442,['rieske oxygenase'],True,Terpene__Alkaloid
+1485795746,1485795746_5880_6563,3400935473,BGC0001126,5880,6563,['unknown function'],True,Terpene__Alkaloid
+1485795746,1485795746_6960_7652,2516193290,BGC0001126,6960,7652,['AmbU3'],True,Terpene__Alkaloid
+1485795746,1485795746_7982_8665,2761156623,BGC0001126,7982,8665,['AmbU2'],True,Terpene__Alkaloid
+1485795746,1485795746_8992_9678,3966781383,BGC0001126,8992,9678,['AmbU1'],True,Terpene__Alkaloid
+1485795746,1485795746_9766_10857,3018393663,BGC0001126,9766,10857,['rieske oxygenase'],True,Terpene__Alkaloid
+1485795746,1485795746_11166_12248,2469112902,BGC0001126,11166,12248,['rieske oxygenase'],True,Terpene__Alkaloid
+1485795746,1485795746_12336_13415,626889479,BGC0001126,12336,13415,['rieske oxygenase'],True,Terpene__Alkaloid
+1485795746,1485795746_13715_14683,3993321437,BGC0001126,13715,14683,['aromatic prenyl transferase'],True,Terpene__Alkaloid
+1485795746,1485795746_14911_16149,3083760644,BGC0001126,14911,16149,['4-hydroxy-3-methylbut-2-enyl diphosphate reductase (IspH)'],True,Terpene__Alkaloid
+1485795746,1485795746_16186_17226,1814310924,BGC0001126,16186,17226,['geranyl diphosphate synthase'],True,Terpene__Alkaloid
+1485795746,1485795746_18010_18207,3233034981,BGC0001126,18010,18207,,True,Terpene__Alkaloid
+1485795746,1485795746_19791_20489,2370805272,BGC0001126,19791,20489,['LuxR family transcriptional regulator'],True,Terpene__Alkaloid
+1485795746,1485795746_20721_21455,1995130694,BGC0001126,20721,21455,['LuxR family transcriptional regulator'],True,Terpene__Alkaloid
+1485795746,1485795746_22086_22205,3965115108,BGC0001126,22086,22205,,True,Terpene__Alkaloid
+1485795746,1485795746_22948_23526,1448105564,BGC0001126,22948,23526,['dephospho-CoA kinase-like protein'],True,Terpene__Alkaloid
+1485795746,1485795746_23591_24811,1565609213,BGC0001126,23591,24811,"['1-deoxy-D-xylulose 5-phosphate reductoisomerase (IspC, Dxr)']",True,Terpene__Alkaloid
+1485795746,1485795746_25117_26076,3983503355,BGC0001126,25117,26076,['isonitrile indole synthase A (IsnA)'],True,Terpene__Alkaloid
+1485795746,1485795746_26268_27260,2553386364,BGC0001126,26268,27260,['isonitrile indole synthase A (IsnA)'],True,Terpene__Alkaloid
+1485795746,1485795746_27260_28081,3283140692,BGC0001126,27260,28081,['isonitrile indole synthase B (IsnB)'],True,Terpene__Alkaloid
+1485795746,1485795746_27921_28247,1344913230,BGC0001126,27921,28247,,True,Terpene__Alkaloid
+1485795746,1485795746_28558_29487,2453501274,BGC0001126,28558,29487,['aromatic prenyl transferase'],True,Terpene__Alkaloid
+1485795746,1485795746_29744_31687,2878657440,BGC0001126,29744,31687,['1-deoxy-D-xylulose-5-phosphate synthase (DXS)'],True,Terpene__Alkaloid
+1485795746,1485795746_31760_32986,816479551,BGC0001126,31760,32986,['4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (IspG)'],True,Terpene__Alkaloid
+1485795746,1485795746_33201_34106,1095825675,BGC0001126,33201,34106,['3-deoxy-D-arabinoheptulosonate 7-phosphate (DAHP) synthase'],True,Terpene__Alkaloid
+1485795746,1485795746_34160_36364,3434215464,BGC0001126,34160,36364,['anthranilate synthase (TrpE)'],True,Terpene__Alkaloid
+1485795746,1485795746_36609_37460,1741334360,BGC0001126,36609,37460,['indole-3-glycerol phosphate synthase (TrpC)'],True,Terpene__Alkaloid
+1485795746,1485795746_37512_38324,43753386,BGC0001126,37512,38324,['tryptophan synthase subunit alpha (TrpA)'],True,Terpene__Alkaloid
+1485795746,1485795746_38486_39736,4073871748,BGC0001126,38486,39736,['tryptophan synthase subunit beta (TrpB)'],True,Terpene__Alkaloid
+1485795746,1485795746_39772_40869,2724177670,BGC0001126,39772,40869,['anthranilate phosphoribosyltransferase (TrpD)'],True,Terpene__Alkaloid
+1485795746,1485795746_40894_41538,53502420,BGC0001126,40894,41538,['phosphoglycerate mutase family protein'],True,Terpene__Alkaloid

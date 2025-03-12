@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3634075936,3634075936_1_132,2262075753,BGC0002474,1,132,,False,
+3634075936,3634075936_104_1885,815797880,BGC0002474,104,1885,['probable non-ribosomal peptide synthase'],True,NRP
+3634075936,3634075936_1949_2977,4255169597,BGC0002474,1949,2977,['probable isochorismate synthase'],True,NRP
+3634075936,3634075936_2932_3123,3415389345,BGC0002474,2932,3123,,True,NRP
+3634075936,3634075936_3142_4767,496508207,BGC0002474,3142,4767,"['probable 2,3-dihydroxybenzoate-AMP ligase protein']",True,NRP
+3634075936,3634075936_4860_5729,1255627361,BGC0002474,4860,5729,"['probable 2,3-dihydro-2,3-dihydroxybenzoate synthetase, isochorismatase protein']",True,NRP
+3634075936,3634075936_5743_6498,10661670,BGC0002474,5743,6498,"['probable 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase protein']",True,NRP
+3634075936,3634075936_6529_7254,95521725,BGC0002474,6529,7254,['probable phosphopantetheinyl transferase'],True,NRP

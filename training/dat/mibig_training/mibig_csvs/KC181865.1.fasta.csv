@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1863731580,1863731580_1_16158,807663179,BGC0001050,1,16158,['NRPS/PKS hybrid'],True,NRP__Polyketide
+1863731580,1863731580_16164_19730,3604976993,BGC0001050,16164,19730,['NRPS'],True,NRP__Polyketide

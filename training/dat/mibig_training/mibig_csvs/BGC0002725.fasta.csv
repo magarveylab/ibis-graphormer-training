@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3799784686,3799784686_1_192,2807243713,BGC0002725,1,192,['putative ATP-grasp-modified RiPP'],True,RiPP
+3799784686,3799784686_209_1195,2737534240,BGC0002725,209,1195,['ATP-grasp ribosomal peptide maturase'],True,RiPP

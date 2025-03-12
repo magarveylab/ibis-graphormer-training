@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3855888106,3855888106_1_855,3986724508,BGC0002647,1,855,,False,
+3855888106,3855888106_852_1361,2394404975,BGC0002647,852,1361,['dehydratase'],True,Alkaloid
+3855888106,3855888106_1371_2312,346593930,BGC0002647,1371,2312,,True,Alkaloid
+3855888106,3855888106_2339_3562,425261242,BGC0002647,2339,3562,['aminotransferase class I and II'],True,Alkaloid

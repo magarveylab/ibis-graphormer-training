@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1267922885,1267922885_1_540,503940037,BGC0000902,1,540,['hypothetical protein'],True,Polyketide
+1267922885,1267922885_576_1781,2175459789,BGC0000902,576,1781,['cytochrome P450'],True,Polyketide
+1267922885,1267922885_1778_2881,619570840,BGC0000902,1778,2881,['putative type III polyketide synthase'],True,Polyketide
+1267922885,1267922885_3235_3903,1901972943,BGC0000902,3235,3903,['transcriptional regulator'],True,Polyketide

@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4062979533,4062979533_1_984,1856386285,BGC0002566,1,984,['ornithine cyclodeaminase'],True,Other
+4062979533,4062979533_975_2321,1925862795,BGC0002566,975,2321,['Hypothetical protein'],True,Other
+4062979533,4062979533_2318_3376,2885253239,BGC0002566,2318,3376,['cystathionine beta-synthase'],True,Other
+4062979533,4062979533_3373_4755,4242162712,BGC0002566,3373,4755,['Conserved putative membrane protein'],True,Other

@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+204150878,204150878_7_1035,2052323998,BGC0001587,7,1035,['putative cysteine synthase'],True,Other
+204150878,204150878_1078_2451,3225442464,BGC0001587,1078,2451,['putative amino acid decarboxylase'],True,Other
+204150878,204150878_2442_3467,3482624796,BGC0001587,2442,3467,['putative ornithine cyclodeaminase'],True,Other
+204150878,204150878_3496_4488,3339593774,BGC0001587,3496,4488,['putative oxygenase'],True,Other
+204150878,204150878_4859_6409,3360505057,BGC0001587,4859,6409,['putative peptide ABC transporter solute-binding protein'],True,Other
+204150878,204150878_6397_7413,1958151742,BGC0001587,6397,7413,,True,Other
+204150878,204150878_7410_8255,3103148397,BGC0001587,7410,8255,,False,

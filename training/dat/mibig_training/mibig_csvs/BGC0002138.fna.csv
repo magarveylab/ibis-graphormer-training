@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3401370982,3401370982_76_4023,3917222034,BGC0002138,76,4023,['Iterative polyketide synthase'],True,Polyketide
+3401370982,3401370982_4079_5545,3084912718,BGC0002138,4079,5545,['PKS associated cyclopropanase'],True,Polyketide
+3401370982,3401370982_5535_6296,2884990574,BGC0002138,5535,6296,['beta-ketoacyl-ACP reductase'],True,Polyketide
+3401370982,3401370982_6342_7241,2367585759,BGC0002138,6342,7241,"['Acyl-ACP thioesterase, hot dog family']",True,Polyketide
+3401370982,3401370982_7469_9694,108302125,BGC0002138,7469,9694,['Transporter'],True,Polyketide

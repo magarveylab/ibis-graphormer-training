@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+501988595,501988595_1_1074,17833397,BGC0002645,1,1074,['hypothetical protein'],True,Other
+501988595,501988595_1124_2575,390381040,BGC0002645,1124,2575,['probable lyase'],True,Other
+501988595,501988595_2575_4008,1813308397,BGC0002645,2575,4008,['probable lyase'],True,Other
+501988595,501988595_4039_5025,2300057811,BGC0002645,4039,5025,['hypothetical protein'],True,Other
+501988595,501988595_5058_6026,435851420,BGC0002645,5058,6026,['hypothetical protein'],True,Other

@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2386842142,2386842142_524_2536,3109410398,BGC0001834,524,2536,['radical SAM-dependent methyltransferase'],True,NRP
+2386842142,2386842142_2688_13265,4048086054,BGC0001834,2688,13265,"['nonribosomal peptide synthetase (NRPS), subunit 1']",True,NRP
+2386842142,2386842142_13304_31144,375113873,BGC0001834,13304,31144,"['nonribosomal peptide synthetase (NRPS), subunit 2']",True,NRP
+2386842142,2386842142_31182_32192,2600418898,BGC0001834,31182,32192,['O-methyltransferase'],True,NRP
+2386842142,2386842142_32249_33403,2497658797,BGC0001834,32249,33403,"['tryptophan 2,3-dioxygenase']",True,NRP

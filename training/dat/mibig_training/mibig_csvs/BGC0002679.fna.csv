@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+101109758,101109758_1_765,2174108128,BGC0002679,1,765,"['2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase']",True,NRP
+101109758,101109758_768_1646,3648496128,BGC0002679,768,1646,['isochorismatase'],True,NRP
+101109758,101109758_1652_3259,2581096474,BGC0002679,1652,3259,"['2,3-dihydroxybenzoate-AMP ligase']",True,NRP
+101109758,101109758_3256_4434,2936242253,BGC0002679,3256,4434,['isochorismate synthase EntC / MenF'],True,NRP
+101109758,101109758_4647_8555,30359602,BGC0002679,4647,8555,,True,NRP
+101109758,101109758_8712_9479,416084343,BGC0002679,8712,9479,['probable iron transport system ATP-binding protein'],True,NRP
+101109758,101109758_9476_10543,3790750204,BGC0002679,9476,10543,['ferric citrate transport system permease protein'],True,NRP
+101109758,101109758_10540_11649,3607547511,BGC0002679,10540,11649,['probable periplasmic substrate-binding transport protein'],True,NRP
+101109758,101109758_11660_11941,1249993445,BGC0002679,11660,11941,['conserved hypothetical protein'],True,NRP
+101109758,101109758_12057_14156,3791538990,BGC0002679,12057,14156,['probable outer membrane receptor'],True,NRP

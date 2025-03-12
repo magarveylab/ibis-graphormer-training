@@ -1,0 +1,14 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4253682343,4253682343_1_912,2162910446,BGC0000663,1,912,['putative phytoene synthase'],True,Terpene
+4253682343,4253682343_909_1859,3291774574,BGC0000663,909,1859,['putative phytoene synthase'],True,Terpene
+4253682343,4253682343_1859_2017,3056925120,BGC0000663,1859,2017,['small hypothetical protein'],True,Terpene
+4253682343,4253682343_2014_3450,2499011870,BGC0000663,2014,3450,['putative phytoene dehydrogenase'],True,Terpene
+4253682343,4253682343_3447_4583,3429591585,BGC0000663,3447,4583,['putative polyprenyl synthatase'],True,Terpene
+4253682343,4253682343_4700_6742,2960488769,BGC0000663,4700,6742,['putative squalene-hopene cyclase'],True,Terpene
+4253682343,4253682343_6742_7383,3459484074,BGC0000663,6742,7383,['putative lipoprotein'],True,Terpene
+4253682343,4253682343_7390_8412,2193245090,BGC0000663,7390,8412,['conserved hypothetical protein'],True,Terpene
+4253682343,4253682343_8417_9571,522157283,BGC0000663,8417,9571,"['GcpE protein homolog, conserved hypothetical protein']",True,Terpene
+4253682343,4253682343_9597_11567,185488445,BGC0000663,9597,11567,['probable transketolase'],True,Terpene
+4253682343,4253682343_11568_12953,3228092711,BGC0000663,11568,12953,['probable aminotransferase'],True,Terpene
+4253682343,4253682343_13027_13641,64417284,BGC0000663,13027,13641,['putative DNA-binding protein'],True,Terpene
+4253682343,4253682343_13638_13757,3095152313,BGC0000663,13638,13757,['putative small hydrophobic secreted protein'],True,Terpene

@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2694490964,2694490964_1_978,2563068622,BGC0002613,1,978,['helix-turn-helix transcriptional regulator'],True,NRP__Polyketide
+2694490964,2694490964_1137_2099,1445791539,BGC0002613,1137,2099,['helix-turn-helix transcriptional regulator'],True,NRP__Polyketide
+2694490964,2694490964_2360_4327,846326363,BGC0002613,2360,4327,['TonB-dependent receptor'],True,NRP__Polyketide
+2694490964,2694490964_4332_5573,3520389948,BGC0002613,4332,5573,['MFS transporter'],True,NRP__Polyketide
+2694490964,2694490964_5682_11831,38930891,BGC0002613,5682,11831,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide
+2694490964,2694490964_11887_23865,2945762437,BGC0002613,11887,23865,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide
+2694490964,2694490964_23858_24943,2263739763,BGC0002613,23858,24943,['Gfo/Idh/MocA family oxidoreductase'],True,NRP__Polyketide
+2694490964,2694490964_24940_25776,4118375196,BGC0002613,24940,25776,['thioesterase'],True,NRP__Polyketide
+2694490964,2694490964_25769_27166,2802583309,BGC0002613,25769,27166,['salicylate synthase'],True,NRP__Polyketide
+2694490964,2694490964_27163_28770,2322086363,BGC0002613,27163,28770,['AMP-binding protein'],True,NRP__Polyketide
+2694490964,2694490964_28827_30515,1390533174,BGC0002613,28827,30515,['ABC transporter ATP-binding protein'],True,NRP__Polyketide
+2694490964,2694490964_30508_32160,1589522521,BGC0002613,30508,32160,['ABC transporter ATP-binding protein'],True,NRP__Polyketide

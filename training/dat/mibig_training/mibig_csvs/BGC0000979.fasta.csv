@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2304433427,2304433427_2_997,1253350476,BGC0000979,2,997,['polyketide synthase'],True,NRP__Polyketide
+2304433427,2304433427_1549_2724,1840502592,BGC0000979,1549,2724,['amidinotransferase'],True,NRP__Polyketide
+2304433427,2304433427_2739_6920,898501200,BGC0000979,2739,6920,['mixed nonribosomal peptide synthetase/ polyketide synthase'],True,NRP__Polyketide

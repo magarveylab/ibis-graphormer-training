@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3446749783,3446749783_1_1062,2638928388,BGC0001665,1,1062,"['chalcone synthase, Pks10']",True,Polyketide
+3446749783,3446749783_1197_7559,3613490503,BGC0001665,1197,7559,['polyketide synthase Pks7'],True,Polyketide
+3446749783,3446749783_7580_13924,3325636834,BGC0001665,7580,13924,"['polyketide synthase, Pks8']",True,Polyketide
+3446749783,3446749783_13930_17019,895313984,BGC0001665,13930,17019,['polyketide synthase Pks9'],True,Polyketide
+3446749783,3446749783_17174_18235,2999473959,BGC0001665,17174,18235,"['chalcone synthase, Pks11_1']",True,Polyketide
+3446749783,3446749783_18218_19519,2861258593,BGC0001665,18218,19519,['cytochrome P450 139A3 Cyp139A3'],True,Polyketide

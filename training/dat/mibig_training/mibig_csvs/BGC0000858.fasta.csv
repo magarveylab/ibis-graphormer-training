@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1765412104,1765412104_214_693,231779527,BGC0000858,214,693,"['L-2,4-diaminobutyric acid acetyltransferase']",True,Other
+1765412104,1765412104_690_1967,2964026701,BGC0000858,690,1967,"['L-2,4-diaminobutyric acid aminotransferase']",True,Other
+1765412104,1765412104_1964_2371,1908686390,BGC0000858,1964,2371,['ectoine synthase'],True,Other
+1765412104,1765412104_2403_3827,1396664223,BGC0000858,2403,3827,['transporter solute:sodium symporter (SSS) family protein'],True,Other
+1765412104,1765412104_3894_4253,1563889363,BGC0000858,3894,4253,,False,

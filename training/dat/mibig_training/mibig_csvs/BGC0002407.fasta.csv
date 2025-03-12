@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1399752529,1399752529_1_1272,263326783,BGC0002407,1,1272,['adenosylhomocysteinase'],True,Saccharide__Other
+1399752529,1399752529_1346_1882,649445084,BGC0002407,1346,1882,['adenine phosphoribosyltransferase'],True,Saccharide__Other
+1399752529,1399752529_1934_2653,2079736565,BGC0002407,1934,2653,['ribulose-phosphate 3-epimerase'],True,Saccharide__Other
+1399752529,1399752529_2637_3716,3333029821,BGC0002407,2637,3716,['ribose-phosphate pyrophosphokinase'],True,Saccharide__Other
+1399752529,1399752529_3713_4387,2536094666,BGC0002407,3713,4387,['hypothetical protein'],True,Saccharide__Other
+1399752529,1399752529_4384_4965,860234367,BGC0002407,4384,4965,"[""cytokinin riboside 5'-monophosphate phosphoribohydrolase""]",True,Saccharide__Other
+1399752529,1399752529_5203_6138,24026422,BGC0002407,5203,6138,['LacI family transcriptional regulator'],True,Saccharide__Other

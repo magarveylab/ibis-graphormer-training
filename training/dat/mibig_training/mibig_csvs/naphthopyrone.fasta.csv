@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1764068097,1764068097_145_1707,1120360931,BGC0000107,145,1707,['Conidial yellow pigment biosynthesis polyketide synthase (PKS)(EC 2.3.1.-) [Source:UniProtKB/Swiss-Prot;Acc:Q03149]'],True,Polyketide
+1764068097,1764068097_2052_2582,3940067816,BGC0000107,2052,2582,,True,Polyketide
+1764068097,1764068097_2666_6007,1532318414,BGC0000107,2666,6007,['Conidial yellow pigment biosynthesis polyketide synthase (PKS)(EC 2.3.1.-) [Source:UniProtKB/Swiss-Prot;Acc:Q03149]'],True,Polyketide

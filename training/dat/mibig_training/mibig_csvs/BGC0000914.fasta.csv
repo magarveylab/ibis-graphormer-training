@@ -1,0 +1,22 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3723260365,3723260365_1_525,1632238512,BGC0000914,1,525,"['putative oxidoreductase, MmyF']",True,Other
+3723260365,3723260365_556_1017,1871905037,BGC0000914,556,1017,"['hypothetical protein, MmyY']",True,Other
+3723260365,3723260365_1248_2189,1244589440,BGC0000914,1248,2189,"['putative DNA-binding protein, MmyB']",True,Other
+3723260365,3723260365_2276_2929,560500051,BGC0000914,2276,2929,"['hypothetical protein, MmyQ']",True,Other
+3723260365,3723260365_2999_4162,3340229309,BGC0000914,2999,4162,"['putative enoyl reductase, MmyE']",True,Other
+3723260365,3723260365_4735_5754,1788500387,BGC0000914,4735,5754,"['hypothetical protein, MmyD']",True,Other
+3723260365,3723260365_5866_6570,2859886841,BGC0000914,5866,6570,"['putative ATP/GTP-binding protein, MmyX']",True,Other
+3723260365,3723260365_6567_7565,3327142069,BGC0000914,6567,7565,"['putative acyl carrier protein synthase, MmyC']",True,Other
+3723260365,3723260365_7629_7877,1456676225,BGC0000914,7629,7877,"['putative acyl carrier protein, MmyA']",True,Other
+3723260365,3723260365_8001_8699,3043048417,BGC0000914,8001,8699,"['hypothetical protein, MmyP']",True,Other
+3723260365,3723260365_8696_9316,2649288885,BGC0000914,8696,9316,"['putative ATP/GTP-binding protein, MmyK']",True,Other
+3723260365,3723260365_9379_10806,2046081804,BGC0000914,9379,10806,"['methylenomycin A resistance protein, Mmr']",True,Other
+3723260365,3723260365_11023_11358,2939994254,BGC0000914,11023,11358,"['hypothetical protein, MmyJ']",True,Other
+3723260365,3723260365_11321_12502,2822386138,BGC0000914,11321,12502,"['putative oxidoreductase, MmyG']",True,Other
+3723260365,3723260365_12585_13706,4021588434,BGC0000914,12585,13706,"['putative monooxygenase, mmyO']",True,Other
+3723260365,3723260365_13737_14393,1754306324,BGC0000914,13737,14393,"['putative thioesterase, MmyT']",True,Other
+3723260365,3723260365_14687_15331,2456900041,BGC0000914,14687,15331,"['putative 2-Alkyl-4-hydroxymethylfuran-3-carboxylic acid-dependent transcriptional regulator (TetR-family), MmfR']",True,Other
+3723260365,3723260365_15526_16587,4026920206,BGC0000914,15526,16587,"['2-Alkyl-4-hydroxymethylfuran-3-carboxylic acid biosynthesis protein, MmfL']",True,Other
+3723260365,3723260365_16584_17786,2603839359,BGC0000914,16584,17786,"['putative oxidoreductase involved in 2-Alkyl-4-hydroxymethylfuran-3-carboxylic acid biosynthesis, MmfH']",True,Other
+3723260365,3723260365_17786_18580,2777034649,BGC0000914,17786,18580,"['putative phosphatase involved in 2-Alkyl-4-hydroxymethylfuran-3-carboxylic acid biosynthesis, MmfP']",True,Other
+3723260365,3723260365_18749_19342,3471980096,BGC0000914,18749,19342,"['putative 2-Alkyl-4-hydroxymethylfuran-3-carboxylic acid-dependent transcriptional regulator (TetR-family), MmyR']",True,Other

@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3393777555,3393777555_4_1182,1520521538,BGC0002031,4,1182,['putative cytochrome P450'],True,Alkaloid
+3393777555,3393777555_1231_2184,653828618,BGC0002031,1231,2184,['hypothetical protein'],True,Alkaloid
+3393777555,3393777555_2259_3380,1556597281,BGC0002031,2259,3380,['putative oxidoreductase'],True,Alkaloid
+3393777555,3393777555_3901_5337,3641301452,BGC0002031,3901,5337,['putative p-aminobenzoate synthase'],True,Alkaloid
+3393777555,3393777555_5334_5918,951347192,BGC0002031,5334,5918,['putative p-aminobenzoate synthase glutamine amidotransferase'],True,Alkaloid

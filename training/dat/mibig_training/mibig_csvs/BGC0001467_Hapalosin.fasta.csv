@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+268642626,268642626_1_5457,3925229004,BGC0001467,1,5457,['type I polyketide synthase'],True,NRP__Polyketide
+268642626,268642626_5472_10052,3395008463,BGC0001467,5472,10052,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+268642626,268642626_10197_17243,3457143097,BGC0001467,10197,17243,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+268642626,268642626_17240_23185,3987885680,BGC0001467,17240,23185,['type I polyketide synthase'],True,NRP__Polyketide
+268642626,268642626_23656_25782,338744993,BGC0001467,23656,25782,['AMP-dependent synthetase'],True,NRP__Polyketide

@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3966864550,3966864550_2_736,835606878,BGC0002411,2,736,['putative thioesterase involved in non-ribosomal peptide biosynthesis'],True,NRP__Polyketide
+3966864550,3966864550_800_1993,1853817026,BGC0002411,800,1993,"['putative oxidoreductase, aryl-alcohol dehydrogenase like protein']",True,NRP__Polyketide
+3966864550,3966864550_2093_7858,993155681,BGC0002411,2093,7858,"['amino acid adenylation enzyme/thioester reductase family protein,thioester reductase-like protein']",True,NRP__Polyketide
+3966864550,3966864550_7988_9010,3547609142,BGC0002411,7988,9010,['putative taurine catabolism dioxygenase'],True,NRP__Polyketide
+3966864550,3966864550_9012_13637,3152066514,BGC0002411,9012,13637,['amino acid adenylation enzyme/thioester reductase family protein'],True,NRP__Polyketide
+3966864550,3966864550_13698_18266,540466825,BGC0002411,13698,18266,['non-ribosomal peptide synthase/amino acid adenylation enzyme'],True,NRP__Polyketide
+3966864550,3966864550_18282_30359,2218718900,BGC0002411,18282,30359,['amino acid adenylation enzyme/thioester reductase family protein'],True,NRP__Polyketide
+3966864550,3966864550_30356_34135,3829710207,BGC0002411,30356,34135,"['beta-ketoacyl synthase family protein,acyltransferase family protein,phosphopantetheine-containing protein']",True,NRP__Polyketide
+3966864550,3966864550_34137_38873,3660681556,BGC0002411,34137,38873,['polyketide synthase family protein'],True,NRP__Polyketide
+3966864550,3966864550_38902_42096,275362914,BGC0002411,38902,42096,['polyketide synthase family protein'],True,NRP__Polyketide
+3966864550,3966864550_42098_44299,989130202,BGC0002411,42098,44299,['acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II'],True,NRP__Polyketide

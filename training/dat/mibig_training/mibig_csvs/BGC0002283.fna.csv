@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2788343080,2788343080_1_1155,2256743737,BGC0002283,1,1155,['hypothetical protein'],True,Terpene
+2788343080,2788343080_1197_2174,2983323747,BGC0002283,1197,2174,['methyltransferase family protein'],True,Terpene
+2788343080,2788343080_2171_4009,2824785403,BGC0002283,2171,4009,['1-deoxy-D-xylulose-5-phosphate synthase'],True,Terpene
+2788343080,2788343080_4042_4572,2944543673,BGC0002283,4042,4572,['isopentenyl-diphosphate delta-isomerase'],True,Terpene

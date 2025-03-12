@@ -1,0 +1,16 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2906482735,2906482735_1_1002,2942823058,BGC0002553,1,1002,['GNAT family N-acetyltransferase'],True,Other
+2906482735,2906482735_1414_2376,99302598,BGC0002553,1414,2376,"['dTDP-glucose 4,6-dehydratase/UDP-glucose 4-epimerase']",True,Other
+2906482735,2906482735_2373_3386,2977488325,BGC0002553,2373,3386,['radical SAM superfamily protein'],True,Other
+2906482735,2906482735_3386_3673,129480229,BGC0002553,3386,3673,['acyl carrier protein/phosphopantetheine-binding protein'],True,Other
+2906482735,2906482735_3984_4319,3206725191,BGC0002553,3984,4319,['hypothetical protein'],True,Other
+2906482735,2906482735_4288_5817,161660597,BGC0002553,4288,5817,['type I phosphodiesterase/nucleotide pyrophosphatase'],True,Other
+2906482735,2906482735_5814_6869,3348335614,BGC0002553,5814,6869,['enoyl-CoA hydratase/isomerase'],True,Other
+2906482735,2906482735_6811_7956,1458635646,BGC0002553,6811,7956,['beta-ketoacyl-[acyl-carrier-protein] synthase II/polyketide synthase'],True,Other
+2906482735,2906482735_7953_8684,1823675178,BGC0002553,7953,8684,['phosphatidylglycerophosphatase B'],True,Other
+2906482735,2906482735_8681_10042,1646622345,BGC0002553,8681,10042,['glycosyl transferase family 1'],True,Other
+2906482735,2906482735_10042_10734,2301954228,BGC0002553,10042,10734,['N-acetylglucosaminyl deacetylase LmbE family'],True,Other
+2906482735,2906482735_10724_11686,1623342724,BGC0002553,10724,11686,['ABC-type multidrug transport system ATPase'],True,Other
+2906482735,2906482735_11670_12455,4080768552,BGC0002553,11670,12455,['ABC-type multidrug transport system permease'],True,Other
+2906482735,2906482735_12483_13439,2309474367,BGC0002553,12483,13439,['UDP-glucose 4-epimerase GalE'],True,Other
+2906482735,2906482735_13436_14110,3785261449,BGC0002553,13436,14110,"[""4'-phosphopantetheinyl transferase""]",True,Other

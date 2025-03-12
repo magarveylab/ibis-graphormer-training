@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3861683563,3861683563_1_7194,2345305103,BGC0000308,1,7194,['aureusimine non-ribosomal peptide synthetase'],True,NRP
+3861683563,3861683563_7207_7851,628253971,BGC0000308,7207,7851,"[""4'-phosphopantetheinyl transferase-like protein""]",True,NRP

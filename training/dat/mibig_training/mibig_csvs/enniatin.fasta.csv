@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1271849,1271849_1021_10416,3662381942,BGC0000342,1021,10416,['enniatin synthetase'],True,NRP

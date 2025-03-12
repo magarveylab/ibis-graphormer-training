@@ -1,0 +1,23 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3663750333,3663750333_1_1026,2041458620,BGC0000344,1,1026,"['putative polyamine ABC transporter, periplasmic polyamine-binding protein']",True,NRP
+3663750333,3663750333_1023_1940,3263770845,BGC0000344,1023,1940,"['putative polyamine ABC transporter, permease protein']",True,NRP
+3663750333,3663750333_1947_2756,2374021621,BGC0000344,1947,2756,"['putative polyamine ABC transporter, permease protein']",True,NRP
+3663750333,3663750333_2776_3888,780084304,BGC0000344,2776,3888,"['putative polyamine ABC transporter, ATP binding protein']",True,NRP
+3663750333,3663750333_3995_5998,996957414,BGC0000344,3995,5998,['macrolide ABC efflux protein MacB'],True,NRP
+3663750333,3663750333_6001_7155,1735084429,BGC0000344,6001,7155,['macrolide efflux protein MacA'],True,NRP
+3663750333,3663750333_7242_21710,3970841747,BGC0000344,7242,21710,"['putative non-ribosomal peptide synthetase, terminal component']",True,NRP
+3663750333,3663750333_21749_47230,1726614192,BGC0000344,21749,47230,['putative non ribosomal peptide synthetase'],True,NRP
+3663750333,3663750333_47509_48432,183482527,BGC0000344,47509,48432,"['putative transcriptional regulator, LysR family']",True,NRP
+3663750333,3663750333_48547_49803,1831522331,BGC0000344,48547,49803,['hypothetical protein'],True,NRP
+3663750333,3663750333_49882_51069,1160080328,BGC0000344,49882,51069,['p-hydroxybenzoate hydroxylase (4-hydroxybenzoate 3-monooxygenase)'],True,NRP
+3663750333,3663750333_51227_52102,264914618,BGC0000344,51227,52102,['transcriptional regulator PobR'],True,NRP
+3663750333,3663750333_52188_53243,2667273427,BGC0000344,52188,53243,['conserved hypothetical protein; TPR domain protein'],True,NRP
+3663750333,3663750333_53266_55332,794061299,BGC0000344,53266,55332,['putative sensory box histidine kinase/response regulator (hybrid)'],True,NRP
+3663750333,3663750333_55313_55762,3180982114,BGC0000344,55313,55762,['Cytosine deaminase'],True,NRP
+3663750333,3663750333_55873_56595,2141749749,BGC0000344,55873,56595,['conserved hypothetical protein; ThiJ/PfpI family protein'],True,NRP
+3663750333,3663750333_56685_57758,384175307,BGC0000344,56685,57758,['4-hydroxyphenylpyruvate dioxygenase (4HPPD) (HPD) (HPPDase)'],True,NRP
+3663750333,3663750333_58115_59659,3225123196,BGC0000344,58115,59659,['putative phosphodiesterase (EAL domain)'],True,NRP
+3663750333,3663750333_59693_60580,1021762531,BGC0000344,59693,60580,['chloramphenicol-sensitive protein rarD'],True,NRP
+3663750333,3663750333_60543_62114,667171477,BGC0000344,60543,62114,"['conserved hypothetical protein; putative CBS domain; putative membrane protein, TerC/CorC family']",True,NRP
+3663750333,3663750333_62504_64507,1581226862,BGC0000344,62504,64507,"['putative peptidase, U32 family']",True,NRP
+3663750333,3663750333_64731_65288,3096216166,BGC0000344,64731,65288,['transcriptional regulator NfxB'],True,NRP

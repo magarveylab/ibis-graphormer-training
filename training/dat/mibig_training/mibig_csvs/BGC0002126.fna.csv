@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1817879738,1817879738_1_3087,103069044,BGC0002126,1,3087,['efflux RND transporter permease subunit'],True,NRP
+1817879738,1817879738_3089_4294,2984201638,BGC0002126,3089,4294,['efflux RND transporter periplasmic adaptor subunit'],True,NRP
+1817879738,1817879738_4291_5253,2326763770,BGC0002126,4291,5253,['Fe(II)/alpha-ketoglutarate dependent hydroxylase'],True,NRP
+1817879738,1817879738_5357_7183,1762029560,BGC0002126,5357,7183,['ABC transporter ATP-binding protein'],True,NRP
+1817879738,1817879738_7180_8775,1291851890,BGC0002126,7180,8775,['non-heme diiron monooxygenase'],True,NRP
+1817879738,1817879738_8784_16127,3160801825,BGC0002126,8784,16127,['non-ribosomal peptide synthase'],True,NRP
+1817879738,1817879738_16124_35599,3856906171,BGC0002126,16124,35599,['non-ribosomal peptide synthase'],True,NRP

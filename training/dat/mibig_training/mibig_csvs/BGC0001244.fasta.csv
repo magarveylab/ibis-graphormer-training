@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+281379937,281379937_1_5358,1760174281,BGC0001244,1,5358,['mellein synthase'],True,Polyketide

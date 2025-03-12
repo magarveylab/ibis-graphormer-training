@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4060694087,4060694087_3_176,4181369498,BGC0002621,3,176,,False,
+4060694087,4060694087_255_1562,2184136067,BGC0002621,255,1562,['MFS transporter'],True,Alkaloid
+4060694087,4060694087_1596_2795,2337299947,BGC0002621,1596,2795,['MFS transporter'],True,Alkaloid
+4060694087,4060694087_2856_3791,24026422,BGC0002621,2856,3791,['LacI family transcriptional regulator'],True,Alkaloid
+4060694087,4060694087_4029_4610,860234367,BGC0002621,4029,4610,"[""adenosine 5'-monophosphate phosphoribohydrolase""]",True,Alkaloid
+4060694087,4060694087_4607_5281,2536094666,BGC0002621,4607,5281,['HAD-like hydrolase'],True,Alkaloid
+4060694087,4060694087_5278_6357,3333029821,BGC0002621,5278,6357,['D-allulose-6-phosphate pyrophosphokinase'],True,Alkaloid
+4060694087,4060694087_6341_7060,2079736565,BGC0002621,6341,7060,['D-allulose 6-phosphate 3-epimerase'],True,Alkaloid
+4060694087,4060694087_7112_7648,649445084,BGC0002621,7112,7648,['adenine phosphoallulosyltransferase'],True,Alkaloid
+4060694087,4060694087_7722_8993,263326783,BGC0002621,7722,8993,['hydrolase'],True,Alkaloid

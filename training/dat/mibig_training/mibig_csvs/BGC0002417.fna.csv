@@ -1,0 +1,21 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1735542957,1735542957_1_621,3940591827,BGC0002417,1,621,"['RNA polymerase sigma factor, sigma-70 family']",True,NRP__Polyketide
+1735542957,1735542957_637_855,3200929308,BGC0002417,637,855,['putative anti-FecI sigma factor FecR'],True,NRP__Polyketide
+1735542957,1735542957_866_1102,4144421586,BGC0002417,866,1102,['hypothetical protein'],True,NRP__Polyketide
+1735542957,1735542957_1099_2790,3237373388,BGC0002417,1099,2790,['cyclic peptide transporter'],True,NRP__Polyketide
+1735542957,1735542957_2990_3769,1320239301,BGC0002417,2990,3769,['putative ferric iron reductase'],True,NRP__Polyketide
+1735542957,1735542957_3870_4715,1578636033,BGC0002417,3870,4715,['putative formyl transferase'],True,NRP__Polyketide
+1735542957,1735542957_4712_5746,4291689597,BGC0002417,4712,5746,['GNAT domain-containing protein'],True,NRP__Polyketide
+1735542957,1735542957_5789_7141,3724645996,BGC0002417,5789,7141,['putative monooxygenase'],True,NRP__Polyketide
+1735542957,1735542957_7304_9472,1056498589,BGC0002417,7304,9472,['putative plug domain-containing TonB-dependent receptor'],True,NRP__Polyketide
+1735542957,1735542957_9550_13623,889138350,BGC0002417,9550,13623,['putative non-ribosomal peptide synthetase'],True,NRP__Polyketide
+1735542957,1735542957_13620_21497,1924051456,BGC0002417,13620,21497,['putative non-ribosomal peptide synthetase'],True,NRP__Polyketide
+1735542957,1735542957_21497_24838,4010533800,BGC0002417,21497,24838,['putative non-ribosomal peptide synthetase'],True,NRP__Polyketide
+1735542957,1735542957_24835_29397,1438756117,BGC0002417,24835,29397,['putative polyketide synthase'],True,NRP__Polyketide
+1735542957,1735542957_29399_34714,3936662618,BGC0002417,29399,34714,['putative non-ribosomal peptide synthetase'],True,NRP__Polyketide
+1735542957,1735542957_34735_35727,2663438079,BGC0002417,34735,35727,['putative alpha-ketoglutarate-dependent taurine dioxygenase TauD'],True,NRP__Polyketide
+1735542957,1735542957_35724_36413,2211191396,BGC0002417,35724,36413,"[""putative 4'-phosphopantetheinyl transferase""]",True,NRP__Polyketide
+1735542957,1735542957_36391_37191,1147425073,BGC0002417,36391,37191,['thioesterase domain-containing protein'],True,NRP__Polyketide
+1735542957,1735542957_37134_37391,3960422490,BGC0002417,37134,37391,['MbtH domain-containing protein'],True,NRP__Polyketide
+1735542957,1735542957_37492_37695,2706910737,BGC0002417,37492,37695,['putative anti-FecI sigma factor FecR'],True,NRP__Polyketide
+1735542957,1735542957_37792_38337,3720415795,BGC0002417,37792,38337,"['putative RNA polymerase sigma factor, sigma-70 family']",True,NRP__Polyketide

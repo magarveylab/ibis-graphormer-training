@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+754931037,754931037_2_1066,3084716181,BGC0000278,2,1066,,False,
+754931037,754931037_1069_2373,3759859300,BGC0000278,1069,2373,"['NDP-hexose 3,4-dehydratase UrdQ']",True,Polyketide
+754931037,754931037_2414_3157,3021545227,BGC0000278,2414,3157,['NDP-hexose 4-ketoreductase UrdR'],True,Polyketide
+754931037,754931037_3196_4605,2837917835,BGC0000278,3196,4605,"['NDP-hexose 2,3-dehydratase UrdS']",True,Polyketide
+754931037,754931037_4602_5408,648090729,BGC0000278,4602,5408,['oxidoreductase UrdT'],True,Polyketide

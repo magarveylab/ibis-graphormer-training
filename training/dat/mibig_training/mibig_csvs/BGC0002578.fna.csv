@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3879982094,3879982094_1_1677,3921594694,BGC0002578,1,1677,['Arginine decarboxylase'],True,Other
+3879982094,3879982094_1963_3561,887152168,BGC0002578,1963,3561,['hypothetical protein'],True,Other
+3879982094,3879982094_3799_4863,2808100625,BGC0002578,3799,4863,['hypothetical protein'],True,Other
+3879982094,3879982094_4980_5582,1824751386,BGC0002578,4980,5582,['TetR-family transcriptional regulator'],True,Other
+3879982094,3879982094_5704_6741,903749096,BGC0002578,5704,6741,['A-factor biosynthesis protein AfsA'],True,Other
+3879982094,3879982094_6820_7116,1142741020,BGC0002578,6820,7116,['LysR family transcriptional regulator YnfL'],True,Other
+3879982094,3879982094_7113_7886,119771681,BGC0002578,7113,7886,"['HAD-superfamily subfamily IB, PSPase']",True,Other
+3879982094,3879982094_7893_8120,1320753010,BGC0002578,7893,8120,['hypothetical protein'],True,Other
+3879982094,3879982094_8173_8793,3006204285,BGC0002578,8173,8793,['TetR-family transcriptional regulator'],True,Other
+3879982094,3879982094_8928_10145,2056690256,BGC0002578,8928,10145,['hypothetical protein'],True,Other

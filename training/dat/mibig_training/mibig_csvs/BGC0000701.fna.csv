@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2517962769,2517962769_1_624,778079279,BGC0000701,1,624,,False,
+2517962769,2517962769_940_1617,3658608914,BGC0000701,940,1617,,False,
+2517962769,2517962769_2123_3361,3924489011,BGC0000701,2123,3361,['putative 2-epi-5-epi-valiolone synthase'],True,Saccharide
+2517962769,2517962769_3366_4487,2437138787,BGC0000701,3366,4487,['putative adenyltransferase'],True,Saccharide
+2517962769,2517962769_4484_5539,2738658677,BGC0000701,4484,5539,['putative 2-epi-5-epi-valiolone 7-kinase'],True,Saccharide

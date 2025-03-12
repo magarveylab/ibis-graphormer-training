@@ -1,0 +1,36 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4202578373,4202578373_1_855,1318876884,BGC0000212,1,855,['daunorubicin resistance transmembrane protein'],True,Polyketide
+4202578373,4202578373_852_1832,1506992420,BGC0000212,852,1832,['daunorubicin resistance ATP-binding protein DrrA'],True,Polyketide
+4202578373,4202578373_2039_2659,332353781,BGC0000212,2039,2659,['transcriptional regulator'],True,Polyketide
+4202578373,4202578373_2838_3278,3123987943,BGC0000212,2838,3278,['conserved hypothetical protein'],True,Polyketide
+4202578373,4202578373_3491_4333,2943464926,BGC0000212,3491,4333,['NAD dependent epimerase/dehydratase'],True,Polyketide
+4202578373,4202578373_4362_5075,2294473062,BGC0000212,4362,5075,['methyltransferase type 11'],True,Polyketide
+4202578373,4202578373_5217_6839,4118734853,BGC0000212,5217,6839,['secreted FAD-binding protein'],True,Polyketide
+4202578373,4202578373_6882_7361,2954701633,BGC0000212,6882,7361,['conserved hypothetical protein'],True,Polyketide
+4202578373,4202578373_7452_8294,942589446,BGC0000212,7452,8294,"['transcriptional regulatory protein, C']",True,Polyketide
+4202578373,4202578373_8343_8777,3062565736,BGC0000212,8343,8777,['conserved hypothetical protein'],True,Polyketide
+4202578373,4202578373_8978_9838,514094607,BGC0000212,8978,9838,['methyltransferase domain-containing protein'],True,Polyketide
+4202578373,4202578373_9981_11078,1268610430,BGC0000212,9981,11078,['modular polyketide synthase'],True,Polyketide
+4202578373,4202578373_11075_12139,2563198975,BGC0000212,11075,12139,['3-oxoacyl-ACP synthase III'],True,Polyketide
+4202578373,4202578373_12136_12414,4010125199,BGC0000212,12136,12414,['oxytetracycline polyketide synthase acyl carrier protein (ACP)'],True,Polyketide
+4202578373,4202578373_12505_13743,3306300963,BGC0000212,12505,13743,['tetracenomycin C polyketide beta-ketoacyl synthase 2'],True,Polyketide
+4202578373,4202578373_13740_15014,654344081,BGC0000212,13740,15014,['tetracenomycin C polyketide beta-ketoacyl synthase 1'],True,Polyketide
+4202578373,4202578373_15011_15364,768818337,BGC0000212,15011,15364,['antibiotic biosynthesis monooxygenase subfamily'],True,Polyketide
+4202578373,4202578373_15599_16384,56781445,BGC0000212,15599,16384,['monensin polyketide synthase ketoacyl reductase'],True,Polyketide
+4202578373,4202578373_16432_17784,1882429656,BGC0000212,16432,17784,['granaticin polyketide synthase bifunctional cyclase/dehydratase'],True,Polyketide
+4202578373,4202578373_17999_19321,1176449593,BGC0000212,17999,19321,['glycosyltransferase family 28 domain-containing protein'],True,Polyketide
+4202578373,4202578373_19322_19939,1767021189,BGC0000212,19322,19939,"['dTDP-4-dehydrorhamnose 3,5-epimerase']",True,Polyketide
+4202578373,4202578373_19927_20871,2774414817,BGC0000212,19927,20871,['NAD dependent epimerase/dehydratase'],True,Polyketide
+4202578373,4202578373_21079_22425,1740349644,BGC0000212,21079,22425,"['dTDP-4-keto-6-deoxy-L-hexose2,3-dehydratase']",True,Polyketide
+4202578373,4202578373_22591_23700,2030653538,BGC0000212,22591,23700,['daunorubicin biosynthesis sensory transduction protein DnrJ'],True,Polyketide
+4202578373,4202578373_23898_24773,2675196302,BGC0000212,23898,24773,['glucose-1-phosphate thymidylyltransferase'],True,Polyketide
+4202578373,4202578373_24834_25553,1726779862,BGC0000212,24834,25553,['methyltransferase type 11'],True,Polyketide
+4202578373,4202578373_25628_26407,3434702224,BGC0000212,25628,26407,['cyclase superfamily protein'],True,Polyketide
+4202578373,4202578373_26607_27041,4270918113,BGC0000212,26607,27041,['hydroxylacyl-CoA dehydrogenase'],True,Polyketide
+4202578373,4202578373_27085_27855,2436329133,BGC0000212,27085,27855,['ketoreductase'],True,Polyketide
+4202578373,4202578373_27879_29216,979216065,BGC0000212,27879,29216,['conserved hypothetical protein'],True,Polyketide
+4202578373,4202578373_29229_30551,3122228360,BGC0000212,29229,30551,['glycosyltransferase family 28 domain-containing protein'],True,Polyketide
+4202578373,4202578373_30539_31534,1544140076,BGC0000212,30539,31534,"['dTDP-glucose 4,6-dehydratase']",True,Polyketide
+4202578373,4202578373_31968_32348,3616694190,BGC0000212,31968,32348,,True,Polyketide
+4202578373,4202578373_32838_34142,404428388,BGC0000212,32838,34142,['lipopolysaccharide biosynthesis protein RfbH'],True,Polyketide
+4202578373,4202578373_34158_34976,515329298,BGC0000212,34158,34976,"['transcriptional regulatory protein, C']",True,Polyketide

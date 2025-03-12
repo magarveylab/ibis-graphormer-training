@@ -1,0 +1,25 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3384315176,3384315176_1_867,485035128,BGC0002291,1,867,['putative formamidopyrimidine-DNA glycosylase-like protein'],True,Polyketide
+3384315176,3384315176_1094_2428,3931629747,BGC0002291,1094,2428,['Catalase'],True,Polyketide
+3384315176,3384315176_2455_3795,1254580590,BGC0002291,2455,3795,['Crotonyl-CoA reductase'],True,Polyketide
+3384315176,3384315176_3908_5329,3835094380,BGC0002291,3908,5329,"['NDP-hexose 2,3-dehydratase']",True,Polyketide
+3384315176,3384315176_5326_6312,2866695619,BGC0002291,5326,6312,['L-glyceraldehyde 3-phosphate reductase'],True,Polyketide
+3384315176,3384315176_6312_7277,1275902068,BGC0002291,6312,7277,['dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD(P)(+))'],True,Polyketide
+3384315176,3384315176_7370_8101,2679205491,BGC0002291,7370,8101,['Transcriptional regulatory protein LiaR'],True,Polyketide
+3384315176,3384315176_8098_9360,334375939,BGC0002291,8098,9360,['Sensor histidine kinase LiaS'],True,Polyketide
+3384315176,3384315176_9362_10099,1429523347,BGC0002291,9362,10099,['Inner membrane transport permease YhhJ'],True,Polyketide
+3384315176,3384315176_10122_11036,1785131635,BGC0002291,10122,11036,['Daunorubicin/doxorubicin resistance ATP-binding protein DrrA'],True,Polyketide
+3384315176,3384315176_11198_11794,3503352970,BGC0002291,11198,11794,['dTDP-4-dehydrorhamnose 3-epimerase'],True,Polyketide
+3384315176,3384315176_11791_13044,3208991199,BGC0002291,11791,13044,['Desosaminyl transferase EryCIII precursor'],True,Polyketide
+3384315176,3384315176_13059_13844,1581638529,BGC0002291,13059,13844,['Linear gramicidin dehydrogenase LgrE'],True,Polyketide
+3384315176,3384315176_13901_20152,973312661,BGC0002291,13901,20152,['Phenolphthiocerol synthesis polyketide synthase type I Pks15/1'],True,Polyketide
+3384315176,3384315176_20191_30381,2297033212,BGC0002291,20191,30381,"['Erythronolide synthase, modules 3 and 4']",True,Polyketide
+3384315176,3384315176_30406_35355,3204158829,BGC0002291,30406,35355,"['Erythronolide synthase, modules 5 and 6']",True,Polyketide
+3384315176,3384315176_35417_40453,2392196307,BGC0002291,35417,40453,"['Erythronolide synthase, modules 1 and 2']",True,Polyketide
+3384315176,3384315176_40453_53808,1644052409,BGC0002291,40453,53808,"['Erythronolide synthase, modules 1 and 2']",True,Polyketide
+3384315176,3384315176_53945_54919,3115088903,BGC0002291,53945,54919,"['dTDP-glucose 4,6-dehydratase']",True,Polyketide
+3384315176,3384315176_54933_55883,966662944,BGC0002291,54933,55883,['Glucose-1-phosphate thymidylyltransferase 2'],True,Polyketide
+3384315176,3384315176_55942_58818,1763287324,BGC0002291,55942,58818,['Oxygen regulatory protein NreC'],True,Polyketide
+3384315176,3384315176_59379_61097,3257391383,BGC0002291,59379,61097,['3-hydroxybutyryl-CoA dehydrogenase'],True,Polyketide
+3384315176,3384315176_61400_62884,4037312883,BGC0002291,61400,62884,['hypothetical protein'],True,Polyketide
+3384315176,3384315176_62903_63223,2095955324,BGC0002291,62903,63223,['hypothetical protein'],True,Polyketide

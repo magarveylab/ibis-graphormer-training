@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2362376886,2362376886_1_387,3326554329,BGC0000436,1,387,"['uncharacterized protein, 4-oxalocrotonate tautomerase']",True,NRP
+2362376886,2362376886_457_1212,1730008254,BGC0000436,457,1212,['putative thioesterase involved in non-ribosomal peptide biosynthesis'],True,NRP
+2362376886,2362376886_1187_1294,2989449169,BGC0000436,1187,1294,['hypothetical protein'],True,NRP
+2362376886,2362376886_1291_2301,3382368769,BGC0000436,1291,2301,['fatty acid desaturase'],True,NRP
+2362376886,2362376886_2525_6862,1553000051,BGC0000436,2525,6862,['amino acid adenylation enzyme/thioester reductase family protein'],True,NRP
+2362376886,2362376886_6976_19461,3505248993,BGC0000436,6976,19461,['amino acid adenylation enzyme/thioester reductase family protein'],True,NRP
+2362376886,2362376886_19461_20735,1998782665,BGC0000436,19461,20735,['arabinose efflux permease family protein'],True,NRP

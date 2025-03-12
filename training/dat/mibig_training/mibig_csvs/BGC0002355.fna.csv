@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3883033863,3883033863_1_30153,3326830439,BGC0002355,1,30153,['modular polyketide synthase'],True,Polyketide__Other
+3883033863,3883033863_30213_40721,1204884211,BGC0002355,30213,40721,['modular polyketide synthase'],True,Polyketide__Other
+3883033863,3883033863_40746_60974,4148548250,BGC0002355,40746,60974,['modular polyketide synthase'],True,Polyketide__Other
+3883033863,3883033863_61041_66056,1623497144,BGC0002355,61041,66056,['modular polyketide synthase'],True,Polyketide__Other
+3883033863,3883033863_66388_82170,1525188710,BGC0002355,66388,82170,['modular polyketide synthase'],True,Polyketide__Other
+3883033863,3883033863_82264_98820,573041572,BGC0002355,82264,98820,['modular polyketide synthase'],True,Polyketide__Other
+3883033863,3883033863_98843_108520,901571585,BGC0002355,98843,108520,['modular polyketide synthase'],True,Polyketide__Other
+3883033863,3883033863_108583_131049,1418223423,BGC0002355,108583,131049,['modular polyketide synthase'],True,Polyketide__Other
+3883033863,3883033863_131120_132328,3504525228,BGC0002355,131120,132328,,True,Polyketide__Other
+3883033863,3883033863_132490_144171,4042596959,BGC0002355,132490,144171,['modular polyketide synthase'],True,Polyketide__Other

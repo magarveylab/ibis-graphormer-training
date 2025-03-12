@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4066510888,4066510888_1_741,548750267,BGC0001991,1,741,['SDR family oxidoreductase'],True,Polyketide
+4066510888,4066510888_797_7633,1930587858,BGC0001991,797,7633,['SDR family NAD(P)-dependent oxidoreductase'],True,Polyketide
+4066510888,4066510888_7685_8977,2667422923,BGC0001991,7685,8977,['NAD(P)-binding domain-containing protein'],True,Polyketide
+4066510888,4066510888_9027_14051,3198443961,BGC0001991,9027,14051,['aminotransferase class III-fold pyridoxal phosphate-dependent enzyme'],True,Polyketide
+4066510888,4066510888_14081_17062,2719992646,BGC0001991,14081,17062,['polyketide synthase'],True,Polyketide
+4066510888,4066510888_17059_19074,1727787537,BGC0001991,17059,19074,['acyltransferase domain-containing protein'],True,Polyketide
+4066510888,4066510888_19065_19328,2578028612,BGC0001991,19065,19328,['acyl carrier protein'],True,Polyketide
+4066510888,4066510888_19407_21200,1973039936,BGC0001991,19407,21200,['fatty acyl-AMP ligase'],True,Polyketide
+4066510888,4066510888_21197_21997,1075912463,BGC0001991,21197,21997,,True,Polyketide
+4066510888,4066510888_22108_23211,3051164010,BGC0001991,22108,23211,['DUF3047 domain-containing protein'],True,Polyketide
+4066510888,4066510888_23386_25209,2395099132,BGC0001991,23386,25209,['cytochrome P450'],True,Polyketide

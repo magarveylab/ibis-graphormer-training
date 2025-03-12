@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+554736983,554736983_1_4266,2176266781,BGC0000989,1,4266,['polyketide synthase'],True,NRP__Polyketide
+554736983,554736983_4263_8495,2651815830,BGC0000989,4263,8495,['nonribosomal peptide synthetase'],True,NRP__Polyketide
+554736983,554736983_8642_14140,3006793558,BGC0000989,8642,14140,['polyketide synthase'],True,NRP__Polyketide
+554736983,554736983_14137_35910,3975474803,BGC0000989,14137,35910,['polyketide synthase'],True,NRP__Polyketide
+554736983,554736983_35915_47311,2772064275,BGC0000989,35915,47311,['polyketide synthase'],True,NRP__Polyketide
+554736983,554736983_47326_54645,1552318455,BGC0000989,47326,54645,['polyketide synthase'],True,NRP__Polyketide
+554736983,554736983_54760_56019,2943544239,BGC0000989,54760,56019,['cytochrome P450'],True,NRP__Polyketide

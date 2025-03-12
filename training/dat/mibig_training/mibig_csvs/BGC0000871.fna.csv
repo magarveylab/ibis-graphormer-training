@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4063918035,4063918035_1_1029,3377406801,BGC0000871,1,1029,['NAD dependent epimerase/dehydratase family protein'],True,Other
+4063918035,4063918035_1026_5438,433098552,BGC0000871,1026,5438,['putative long-chain-fatty-acid CoA ligase'],True,Other
+4063918035,4063918035_5447_7057,1723526640,BGC0000871,5447,7057,['hypothetical protein'],True,Other
+4063918035,4063918035_7071_7736,3300202059,BGC0000871,7071,7736,"['HAD-superfamily subfamily IB hydrolase, TIGR01490']",True,Other
+4063918035,4063918035_7827_8768,2515845264,BGC0000871,7827,8768,['conserved hypothetical protein'],True,Other

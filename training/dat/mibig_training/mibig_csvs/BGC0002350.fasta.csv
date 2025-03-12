@@ -1,0 +1,42 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4010688621,4010688621_1_1815,3582907826,BGC0002350,1,1815,['ABC transporter ATP-binding protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_1812_2792,811734755,BGC0002350,1812,2792,['amidinotransferase'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_2828_3733,3788244136,BGC0002350,2828,3733,['bleomycin family antibiotic N-acetyltransferase BlmB'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_3730_4131,4074144300,BGC0002350,3730,4131,['hypothetical protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_4128_4709,4196595676,BGC0002350,4128,4709,['ankyrin repeat domain-containing protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_4767_5135,3659822035,BGC0002350,4767,5135,['bleomycin binding protein BLMA'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_5203_6117,1874421594,BGC0002350,5203,6117,['aspartyl/asparaginyl beta-hydroxylase domain-containing protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_6143_7417,1645141620,BGC0002350,6143,7417,['radical SAM protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_7414_8910,2214162537,BGC0002350,7414,8910,['D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_8907_9179,2597849133,BGC0002350,8907,9179,['hypothetical protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_9176_10813,969926673,BGC0002350,9176,10813,['carbamoyltransferase'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_10810_11982,4267769329,BGC0002350,10810,11982,['glycosyltransferase family 9 protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_12054_12617,4160347053,BGC0002350,12054,12617,['MbtH family NRPS accessory protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_12614_14002,3419088735,BGC0002350,12614,14002,['hypothetical protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_13999_15018,3121293646,BGC0002350,13999,15018,['TauD/TfdA family dioxygenase'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_15015_17837,3137247501,BGC0002350,15015,17837,['AMP-binding protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_17834_25732,999899504,BGC0002350,17834,25732,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_25725_27632,313329635,BGC0002350,25725,27632,['asparagine synthase (glutamine-hydrolyzing)'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_27638_29152,3107476869,BGC0002350,27638,29152,['aspartyl/asparaginyl beta-hydroxylase domain-containing protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_29145_30122,2490475058,BGC0002350,29145,30122,['NAD-dependent epimerase/dehydratase family protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_30119_32056,2347487222,BGC0002350,30119,32056,['hypothetical protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_32259_40289,1429741833,BGC0002350,32259,40289,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_40286_43900,4118201006,BGC0002350,40286,43900,['non-ribosomal peptide synthetase'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_43897_49422,3180158254,BGC0002350,43897,49422,['type I polyketide synthase'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_49419_52619,1236084589,BGC0002350,49419,52619,['non-ribosomal peptide synthetase'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_52616_59035,1975387091,BGC0002350,52616,59035,['non-ribosomal peptide synthetase'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_59317_61383,3682912871,BGC0002350,59317,61383,['hypothetical protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_61424_62143,3621468408,BGC0002350,61424,62143,['phosphatidylserine decarboxylase'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_62601_64235,1121242467,BGC0002350,62601,64235,,True,NRP__Polyketide__Saccharide
+4010688621,4010688621_64347_64688,673077127,BGC0002350,64347,64688,['winged helix-turn-helix transcriptional regulator'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_64851_65204,3528302214,BGC0002350,64851,65204,['alkylphosphonate utilization protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_65841_74303,1210492427,BGC0002350,65841,74303,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_74296_75309,3733354556,BGC0002350,74296,75309,['TauD/TfdA family dioxygenase'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_75320_76072,1206011864,BGC0002350,75320,76072,['thioesterase'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_76069_77352,2686851579,BGC0002350,76069,77352,['MFS transporter'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_77360_78178,1241933548,BGC0002350,77360,78178,['hypothetical protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_78175_79911,2566073782,BGC0002350,78175,79911,['non-ribosomal peptide synthetase'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_79908_80894,2307675952,BGC0002350,79908,80894,['TauD/TfdA family dioxygenase'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_81078_89051,524344117,BGC0002350,81078,89051,['type I polyketide synthase'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_89143_89760,600707698,BGC0002350,89143,89760,['helix-turn-helix domain-containing protein'],True,NRP__Polyketide__Saccharide
+4010688621,4010688621_89942_90958,4223067675,BGC0002350,89942,90958,['alpha/beta hydrolase'],True,NRP__Polyketide__Saccharide

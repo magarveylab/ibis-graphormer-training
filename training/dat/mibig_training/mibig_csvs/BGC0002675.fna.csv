@@ -1,0 +1,14 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3382998591,3382998591_1_1155,823594253,BGC0002675,1,1155,['acyl-CoA dehydrogenase'],True,Polyketide
+3382998591,3382998591_1158_3182,3244137894,BGC0002675,1158,3182,['NAD(P)-binding protein'],True,Polyketide
+3382998591,3382998591_3182_5830,3362690586,BGC0002675,3182,5830,['phosphoenolpyruvate synthase'],True,Polyketide
+3382998591,3382998591_5976_8528,3017805069,BGC0002675,5976,8528,['biosynthesis protein PigD'],True,Polyketide
+3382998591,3382998591_8525_11077,10040326,BGC0002675,8525,11077,['aminotransferase class III-fold pyridoxal phosphate-dependent enzyme'],True,Polyketide
+3382998591,3382998591_11145_12164,2217596743,BGC0002675,11145,12164,['SAM-dependent methyltransferase'],True,Polyketide
+3382998591,3382998591_12192_12440,1503905214,BGC0002675,12192,12440,['acyl carrier protein'],True,Polyketide
+3382998591,3382998591_12452_14398,1857151277,BGC0002675,12452,14398,['aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme'],True,Polyketide
+3382998591,3382998591_14401_15897,2043884175,BGC0002675,14401,15897,['AMP-binding protein'],True,Polyketide
+3382998591,3382998591_15914_18205,3627553374,BGC0002675,15914,18205,['3-ketoacyl-ACP synthase'],True,Polyketide
+3382998591,3382998591_18202_18516,2097543489,BGC0002675,18202,18516,['RedY'],True,Polyketide
+3382998591,3382998591_18513_19172,2329995611,BGC0002675,18513,19172,"[""4'-phosphopantetheinyl transferase superfamily protein""]",True,Polyketide
+3382998591,3382998591_19169_20254,1461799536,BGC0002675,19169,20254,['prodigiosin biosynthesis protein PigM'],True,Polyketide

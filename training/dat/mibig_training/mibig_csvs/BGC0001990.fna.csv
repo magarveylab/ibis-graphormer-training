@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1449045626,1449045626_131_661,4012968382,BGC0001990,131,661,"['P450 family sporulation-specific N-formyltyrosine oxidase Dit2, putative']",True,Other
+1449045626,1449045626_675_1685,2493468719,BGC0001990,675,1685,"['P450 family sporulation-specific N-formyltyrosine oxidase Dit2, putative']",True,Other
+1449045626,1449045626_2252_2779,679668706,BGC0001990,2252,2779,['conserved hypothetical protein'],True,Other
+1449045626,1449045626_3346_3774,3746439483,BGC0001990,3346,3774,"['O-methyltransferase, putative']",True,Other
+1449045626,1449045626_4183_4533,837822594,BGC0001990,4183,4533,"['O-methyltransferase, putative']",True,Other
+1449045626,1449045626_4526_4834,4021165853,BGC0001990,4526,4834,"['O-methyltransferase, putative']",True,Other
+1449045626,1449045626_6927_7145,2655834112,BGC0001990,6927,7145,,True,Other
+1449045626,1449045626_9515_10981,2820016916,BGC0001990,9515,10981,"['pyoverdine/dityrosine biosynthesis protein, putative']",True,Other
+1449045626,1449045626_11041_11850,2315576763,BGC0001990,11041,11850,"['pyoverdine/dityrosine biosynthesis protein, putative']",True,Other
+1449045626,1449045626_12936_13646,1743531052,BGC0001990,12936,13646,['ThiJ/PfpI family protein'],True,Other

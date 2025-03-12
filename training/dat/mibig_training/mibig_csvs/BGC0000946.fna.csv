@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1699644051,1699644051_283_1494,2286769150,BGC0000946,283,1494,['vibrioferrin biosynthesis protein PvsA'],True,Other
+1699644051,1699644051_1491_3323,3993554382,BGC0000946,1491,3323,['vibrioferrin biosynthesis protein PvsB'],True,Other
+1699644051,1699644051_3330_4535,1279791389,BGC0000946,3330,4535,['multi-drug efflux pump homolog PvsC'],True,Other
+1699644051,1699644051_4507_6336,3885549921,BGC0000946,4507,6336,['vibrioferrin biosynthesis protein PvsD'],True,Other
+1699644051,1699644051_6329_7531,4146533206,BGC0000946,6329,7531,['vibrioferrin biosynthesis protein PvsE'],True,Other
+1699644051,1699644051_7606_7734,4149942402,BGC0000946,7606,7734,,False,

@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2265608561,2265608561_1_945,3101474584,BGC0000996,1,945,['frontalamide hydroxylase'],True,NRP__Polyketide
+2265608561,2265608561_1084_10503,2942986488,BGC0000996,1084,10503,,True,NRP__Polyketide
+2265608561,2265608561_10500_12350,3758619250,BGC0000996,10500,12350,['FAD dependent oxidoreductase'],True,NRP__Polyketide
+2265608561,2265608561_12347_12445,1285302876,BGC0000996,12347,12445,,True,NRP__Polyketide
+2265608561,2265608561_12442_14256,985044562,BGC0000996,12442,14256,['FAD dependent oxidoreductase'],True,NRP__Polyketide
+2265608561,2265608561_14253_15308,749133307,BGC0000996,14253,15308,['leukotriene B4 12-hydroxydehydrogenase/15-oxo-prostaglandin 13-reductase'],True,NRP__Polyketide
+2265608561,2265608561_15394_16575,889979941,BGC0000996,15394,16575,['cytochrome P450 hydroxylase'],True,NRP__Polyketide

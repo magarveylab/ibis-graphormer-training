@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1222445370,1222445370_121_1200,2698461708,BGC0000677,121,1200,['geranylgeranyl diphosphate synthase'],True,Terpene
+1222445370,1222445370_1197_2120,3287687226,BGC0000677,1197,2120,['geranylgeranyl diphosphate cyclase'],True,Terpene
+1222445370,1222445370_2135_3496,2209819869,BGC0000677,2135,3496,['P450'],True,Terpene
+1222445370,1222445370_3579_4940,2850153170,BGC0000677,3579,4940,['P450'],True,Terpene

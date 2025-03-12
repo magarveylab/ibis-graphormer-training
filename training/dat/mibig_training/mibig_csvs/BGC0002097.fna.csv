@@ -1,0 +1,49 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4272935449,4272935449_1_1416,1120937952,BGC0002097,1,1416,['UbiD family decarboxylase'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_1413_2147,4229791070,BGC0002097,1413,2147,['transglutaminase domain-containing protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_2144_3004,1975436864,BGC0002097,2144,3004,['methyltransferase domain-containing protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_3200_4702,1071527301,BGC0002097,3200,4702,['FAD-binding oxidoreductase'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_4732_5814,3551692052,BGC0002097,4732,5814,['beta-lactamase family protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_5949_6386,3476427560,BGC0002097,5949,6386,['Ohr family peroxiredoxin'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_6399_7202,2499996670,BGC0002097,6399,7202,['TetR/AcrR family transcriptional regulator'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_7285_8121,3469906141,BGC0002097,7285,8121,['NAD(P)H-binding protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_8255_8710,719088552,BGC0002097,8255,8710,['ester cyclase'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_8713_9756,1515067278,BGC0002097,8713,9756,['zinc-binding dehydrogenase'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_9827_10810,2260231475,BGC0002097,9827,10810,['Gfo/Idh/MocA family oxidoreductase'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_10875_12167,764183771,BGC0002097,10875,12167,['hypothetical protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_12173_14962,4050596680,BGC0002097,12173,14962,['ATP-dependent helicase'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_15088_16122,4033385330,BGC0002097,15088,16122,['alpha-ketoacid dehydrogenase subunit beta'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_16142_17188,359325073,BGC0002097,16142,17188,,True,NRP__Polyketide__Saccharide
+4272935449,4272935449_17185_18666,2539125112,BGC0002097,17185,18666,"['NDP-hexose 2,3-dehydratase family protein']",True,NRP__Polyketide__Saccharide
+4272935449,4272935449_18666_19961,314586904,BGC0002097,18666,19961,['activator-dependent family glycosyltransferase'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_19983_20993,1187950515,BGC0002097,19983,20993,,True,NRP__Polyketide__Saccharide
+4272935449,4272935449_21179_21754,533997856,BGC0002097,21179,21754,"['dTDP-4-dehydrorhamnose 3,5-epimerase family protein']",True,NRP__Polyketide__Saccharide
+4272935449,4272935449_21816_22268,521164857,BGC0002097,21816,22268,['nuclear transport factor 2 family protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_22492_23481,2619344260,BGC0002097,22492,23481,['DMT family transporter'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_23522_24973,3755885812,BGC0002097,23522,24973,['MFS transporter'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_25041_26141,4269321361,BGC0002097,25041,26141,['alpha/beta fold hydrolase'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_26254_27087,2335978314,BGC0002097,26254,27087,['ABC transporter permease'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_27084_28160,581181003,BGC0002097,27084,28160,['ATP-binding cassette domain-containing protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_28329_29117,2126808808,BGC0002097,28329,29117,['TetR/AcrR family transcriptional regulator'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_29189_30085,2455454371,BGC0002097,29189,30085,['NmrA/HSCARG family protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_30109_30951,4202274275,BGC0002097,30109,30951,['NAD(P)H-binding protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_31019_31453,4196803434,BGC0002097,31019,31453,['ester cyclase'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_31487_31744,3738771584,BGC0002097,31487,31744,['acyl carrier protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_31778_32986,3406895121,BGC0002097,31778,32986,['ketosynthase chain-length factor'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_32983_34251,264190046,BGC0002097,32983,34251,['beta-ketoacyl-[acyl-carrier-protein] synthase family protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_34248_34601,2624125960,BGC0002097,34248,34601,['antibiotic biosynthesis monooxygenase'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_34796_35581,2395054123,BGC0002097,34796,35581,['SDR family NAD(P)-dependent oxidoreductase'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_35610_36569,1928088551,BGC0002097,35610,36569,['SRPBCC family protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_36641_37420,1071494907,BGC0002097,36641,37420,['SDR family oxidoreductase'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_37465_38463,273702306,BGC0002097,37465,38463,"['dTDP-glucose 4,6-dehydratase']",True,NRP__Polyketide__Saccharide
+4272935449,4272935449_38622_39518,4072296873,BGC0002097,38622,39518,['glucose-1-phosphate thymidylyltransferase RfbA'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_40187_41107,3592627564,BGC0002097,40187,41107,['AfsR/SARP family transcriptional regulator'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_41191_41889,2744479466,BGC0002097,41191,41889,['indole-3-glycerol-phosphate synthase'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_41922_42584,4248542051,BGC0002097,41922,42584,"[""N-(5'-phosphoribosyl)anthranilate isomerase""]",True,NRP__Polyketide__Saccharide
+4272935449,4272935449_42588_43727,4108752940,BGC0002097,42588,43727,['acyl-CoA dehydrogenase family protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_43784_44158,44665805,BGC0002097,43784,44158,['ectoine synthase'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_44155_44976,2602165347,BGC0002097,44155,44976,['tryptophan synthase subunit alpha'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_44969_46009,4145365971,BGC0002097,44969,46009,['hypothetical protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_46012_46275,4127473893,BGC0002097,46012,46275,['acyl carrier protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_46277_47758,2364002129,BGC0002097,46277,47758,['AMP-binding protein'],True,NRP__Polyketide__Saccharide
+4272935449,4272935449_47788_48564,3648649211,BGC0002097,47788,48564,['cyclase family protein'],True,NRP__Polyketide__Saccharide

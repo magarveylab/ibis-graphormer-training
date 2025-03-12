@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4144306502,4144306502_1_315,1650374125,BGC0001663,1,315,['acyl carrier protein'],True,Polyketide
+4144306502,4144306502_817_2223,1928985942,BGC0001663,817,2223,['hypothetical protein'],True,Polyketide
+4144306502,4144306502_2484_10193,293000028,BGC0001663,2484,10193,['type I polyketide synthase'],True,Polyketide
+4144306502,4144306502_10206_14396,1834623385,BGC0001663,10206,14396,['type I polyketide synthase'],True,Polyketide
+4144306502,4144306502_14506_15630,1003952352,BGC0001663,14506,15630,['type III polyketide synthase'],True,Polyketide
+4144306502,4144306502_15639_16238,2852804205,BGC0001663,15639,16238,['isoprenylcysteine carboxyl methyltransferase'],True,Polyketide
+4144306502,4144306502_16389_17771,1809823259,BGC0001663,16389,17771,['cytochrome P450'],True,Polyketide
+4144306502,4144306502_17888_20653,659476503,BGC0001663,17888,20653,['hemolysin/beta propeller containing protein'],True,Polyketide
+4144306502,4144306502_21151_22989,915740536,BGC0001663,21151,22989,['acyl-CoA synthase'],True,Polyketide

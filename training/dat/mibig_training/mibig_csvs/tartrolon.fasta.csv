@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4078539311,4078539311_1_591,2035605238,BGC0000185,1,591,"['acetyltransferase, GNAT family']",True,Polyketide
+4078539311,4078539311_1181_2044,4076611991,BGC0000185,1181,2044,['malonyl CoA-acyl carrier protein transacylase'],True,Polyketide
+4078539311,4078539311_2067_2777,2957660447,BGC0000185,2067,2777,['putative lipoprotein'],True,Polyketide
+4078539311,4078539311_3849_17468,1008967043,BGC0000185,3849,17468,"['modular polyketide synthase, type I PKS']",True,Polyketide
+4078539311,4078539311_17512_32355,175133157,BGC0000185,17512,32355,"['modular polyketide synthase, type I PKS']",True,Polyketide
+4078539311,4078539311_32397_46388,1661003985,BGC0000185,32397,46388,"['modular polyketide synthase, type I PKS']",True,Polyketide
+4078539311,4078539311_46404_47537,3073965851,BGC0000185,46404,47537,['Luciferase-like monooxygenase'],True,Polyketide
+4078539311,4078539311_47534_48340,4123195449,BGC0000185,47534,48340,['thioesterase domain protein'],True,Polyketide
+4078539311,4078539311_48428_49795,1052845174,BGC0000185,48428,49795,['PfaD family protein'],True,Polyketide
+4078539311,4078539311_49792_50247,3539758528,BGC0000185,49792,50247,['conserved hypothetical protein'],True,Polyketide

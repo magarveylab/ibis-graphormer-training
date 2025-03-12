@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1361096683,1361096683_1_759,2424748987,BGC0002274,1,759,['predicted protein'],True,NRP
+1361096683,1361096683_722_2779,2432906258,BGC0002274,722,2779,['predicted protein'],True,NRP

@@ -1,0 +1,19 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1970279605,1970279605_1_417,3602543317,BGC0001189,1,417,['putative cyclase/dehydrase; putatively involved in polyketide (linear poly-beta-ketones) synthesis; antibiotic biosynthesis'],True,NRP
+1970279605,1970279605_634_855,661381344,BGC0001189,634,855,"['conserved hypothetical protein, mbtH-like']",True,NRP
+1970279605,1970279605_858_1592,2244694151,BGC0001189,858,1592,"['Linear gramicidin dehydrogenase, type II thioesterase']",True,NRP
+1970279605,1970279605_1649_6169,426929695,BGC0001189,1649,6169,"['non ribosomal peptide synthase, antibiotic synthesis; contains 1 condensation domain, 1 AMP-acid ligases II domain, PP-binding, Phosphopantetheine attachment site and one taurine catabolism dioxygenase']",True,NRP
+1970279605,1970279605_6174_9353,3499694697,BGC0001189,6174,9353,"['non ribosomal peptide synthase, antibiotic synthesis; contains 1 condensation domain, 1 AMP-acid ligases II domain']",True,NRP
+1970279605,1970279605_9378_17168,1956053375,BGC0001189,9378,17168,"['non ribosomal peptide synthase, antibiotic synthesis; contains 3 condensation domains, 2 AMP-acid ligases II domains, 2 PP-binding, Phosphopantetheine attachment site']",True,NRP
+1970279605,1970279605_17169_29036,3017106535,BGC0001189,17169,29036,"['non ribosomal peptide synthase, antibiotic synthesis; contains 4 condensation domains, 3 AMP-acid ligases II domains, 3 PP-binding, Phosphopantetheine attachment site and a putative thioesterase domain']",True,NRP
+1970279605,1970279605_29126_31342,2989100063,BGC0001189,29126,31342,"['TonB-dependent siderophore receptor, HYDROXAMATE-TYPE FERRISIDEROPHORE RECEPTOR precursor']",True,NRP
+1970279605,1970279605_31439_32599,3735592936,BGC0001189,31439,32599,"['conserved hypothetical protein; putative Membrane protein; DUF337,Uncharacterized iron-regulated membrane protein']",True,NRP
+1970279605,1970279605_32596_32790,1241919098,BGC0001189,32596,32790,['hypothetical protein; putative exported protein'],True,NRP
+1970279605,1970279605_32732_33523,3541488660,BGC0001189,32732,33523,['putative reductase; Uncharacterized Fe-S protein'],True,NRP
+1970279605,1970279605_33971_34705,3320596895,BGC0001189,33971,34705,"['Transposase fragment, IS1111 family']",True,NRP
+1970279605,1970279605_35229_36869,2519439377,BGC0001189,35229,36869,"['ABC transporter ATP-binding protein, putative ABC-type siderophore export system']",True,NRP
+1970279605,1970279605_36896_37921,1627307991,BGC0001189,36896,37921,['putative ESTERASE/LIPASE PROTEIN'],True,NRP
+1970279605,1970279605_37983_39065,1094017854,BGC0001189,37983,39065,"['siderophore biosynthesis protein, putative acetyltransferase']",True,NRP
+1970279605,1970279605_39062_40420,3514305156,BGC0001189,39062,40420,['L-ornithine 5-monooxygenase(L-ornithine N5-oxygenase) L-lysine 6-monooxygenase (Lysine N(6)-hydroxylase); Siderophore biosynthesis protein'],True,NRP
+1970279605,1970279605_40384_41172,638372117,BGC0001189,40384,41172,"[""4'-phosphopantetheinyl transferase""]",True,NRP
+1970279605,1970279605_41379_41930,282430481,BGC0001189,41379,41930,['RNA polymerase sigma factor'],True,NRP

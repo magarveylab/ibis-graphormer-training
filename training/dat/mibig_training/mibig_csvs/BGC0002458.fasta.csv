@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3130227236,3130227236_1_1437,920950723,BGC0002458,1,1437,['nitrosuccinate lyase'],True,NRP
+3130227236,3130227236_1434_3395,2840798297,BGC0002458,1434,3395,['aspartate monooxygenase'],True,NRP
+3130227236,3130227236_3665_5083,3062512332,BGC0002458,3665,5083,['DNA-binding domain/PLP-dependent aminotransferase'],True,NRP

@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3523520761,3523520761_1_135,2851568494,BGC0001539,1,135,['conserved protein of unknown function'],True,RiPP
+3523520761,3523520761_211_2028,523976288,BGC0001539,211,2028,['putative asparagine synthetase'],True,RiPP
+3523520761,3523520761_2025_2282,1630342571,BGC0001539,2025,2282,,True,RiPP
+3523520761,3523520761_2279_2710,1113366974,BGC0001539,2279,2710,['conserved protein of unknown function'],True,RiPP

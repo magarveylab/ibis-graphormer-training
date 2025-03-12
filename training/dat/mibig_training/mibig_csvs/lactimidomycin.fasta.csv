@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2562662141,2562662141_1_1698,3223088632,BGC0000083,1,1698,['trans-acting acyl transferase/thioesterase fusion protein'],True,Polyketide
+2562662141,2562662141_1908_2162,1144148566,BGC0000083,1908,2162,['acyl carrier protein'],True,Polyketide
+2562662141,2562662141_2166_4136,1820147282,BGC0000083,2166,4136,['amidotransferase'],True,Polyketide
+2562662141,2562662141_4152_14462,1996890941,BGC0000083,4152,14462,['AT-less polyketide synthase'],True,Polyketide
+2562662141,2562662141_14549_39631,243389052,BGC0000083,14549,39631,['AT-less polyketide synthase'],True,Polyketide
+2562662141,2562662141_39628_45924,1507154300,BGC0000083,39628,45924,['AT-less polyketide synthase'],True,Polyketide
+2562662141,2562662141_45926_48232,698029077,BGC0000083,45926,48232,['trans-acting acyl transferase/oxidoreductase fusion protein'],True,Polyketide
+2562662141,2562662141_48456_49697,1937287663,BGC0000083,48456,49697,['Cytochrome P450 desaturase'],True,Polyketide
+2562662141,2562662141_49800_50543,3084775634,BGC0000083,49800,50543,['phosphopantetheinyl transferase'],True,Polyketide

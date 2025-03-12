@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+401144699,401144699_1_2967,441766381,BGC0001168,1,2967,['Adenylation and reductase domains containing protein'],True,NRP
+401144699,401144699_2990_3772,782035117,BGC0001168,2990,3772,['Leucyl/Phenylalanil-tRNA-Protein transferase'],True,NRP
+401144699,401144699_3800_4582,852264459,BGC0001168,3800,4582,['N-Acyl transferase'],True,NRP

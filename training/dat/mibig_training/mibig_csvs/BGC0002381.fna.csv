@@ -1,0 +1,30 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+981995969,981995969_2_604,1458910909,BGC0002381,2,604,,False,
+981995969,981995969_1048_3180,1532555433,BGC0002381,1048,3180,['AAA family ATPase'],True,Alkaloid__Polyketide
+981995969,981995969_3240_3644,4014093907,BGC0002381,3240,3644,['tautomerase family protein'],True,Alkaloid__Polyketide
+981995969,981995969_3770_4360,3286355587,BGC0002381,3770,4360,['hypothetical protein'],True,Alkaloid__Polyketide
+981995969,981995969_4425_4985,1170510485,BGC0002381,4425,4985,['TetR/AcrR family transcriptional regulator'],True,Alkaloid__Polyketide
+981995969,981995969_5165_7423,2668485121,BGC0002381,5165,7423,['MMPL family transporter'],True,Alkaloid__Polyketide
+981995969,981995969_7600_7809,3771392256,BGC0002381,7600,7809,['hypothetical protein'],True,Alkaloid__Polyketide
+981995969,981995969_7900_9162,2330236705,BGC0002381,7900,9162,,True,Alkaloid__Polyketide
+981995969,981995969_9159_9998,3326962474,BGC0002381,9159,9998,,True,Alkaloid__Polyketide
+981995969,981995969_10001_12703,467328947,BGC0002381,10001,12703,['PEP-utilizing enzyme'],True,Alkaloid__Polyketide
+981995969,981995969_12726_13793,2663697003,BGC0002381,12726,13793,['class I SAM-dependent methyltransferase'],True,Alkaloid__Polyketide
+981995969,981995969_13790_14632,3291465096,BGC0002381,13790,14632,['alpha/beta fold hydrolase'],True,Alkaloid__Polyketide
+981995969,981995969_14646_16262,1691133745,BGC0002381,14646,16262,['D-alanine--poly(phosphoribitol) ligase'],True,Alkaloid__Polyketide
+981995969,981995969_16274_18166,840136354,BGC0002381,16274,18166,['aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme'],True,Alkaloid__Polyketide
+981995969,981995969_18163_18423,3035381912,BGC0002381,18163,18423,['acyl carrier protein'],True,Alkaloid__Polyketide
+981995969,981995969_18860_21820,2900243583,BGC0002381,18860,21820,['polyketide synthase'],True,Alkaloid__Polyketide
+981995969,981995969_21817_22959,1399075801,BGC0002381,21817,22959,['acyl-CoA dehydrogenase family protein'],True,Alkaloid__Polyketide
+981995969,981995969_23072_23389,3750504281,BGC0002381,23072,23389,['hypothetical protein'],True,Alkaloid__Polyketide
+981995969,981995969_23507_24748,315439027,BGC0002381,23507,24748,['beta-ketoacyl-[acyl-carrier-protein] synthase family protein'],True,Alkaloid__Polyketide
+981995969,981995969_24748_24984,3945414830,BGC0002381,24748,24984,['acyl carrier protein'],True,Alkaloid__Polyketide
+981995969,981995969_25099_26112,2032818393,BGC0002381,25099,26112,['ketoacyl-ACP synthase III'],True,Alkaloid__Polyketide
+981995969,981995969_26124_26612,2860721219,BGC0002381,26124,26612,['SRPBCC family protein'],True,Alkaloid__Polyketide
+981995969,981995969_26605_27939,1191420129,BGC0002381,26605,27939,['aminotransferase class III-fold pyridoxal phosphate-dependent enzyme'],True,Alkaloid__Polyketide
+981995969,981995969_27936_29771,2822286894,BGC0002381,27936,29771,,True,Alkaloid__Polyketide
+981995969,981995969_30180_30944,3928188117,BGC0002381,30180,30944,['AfsR/SARP family transcriptional regulator'],True,Alkaloid__Polyketide
+981995969,981995969_31174_31404,3070455696,BGC0002381,31174,31404,['hypothetical protein'],True,Alkaloid__Polyketide
+981995969,981995969_31401_31994,2792351912,BGC0002381,31401,31994,['sigma-70 family RNA polymerase sigma factor'],True,Alkaloid__Polyketide
+981995969,981995969_32833_33939,1492838010,BGC0002381,32833,33939,['hemolysin family protein'],True,Alkaloid__Polyketide
+981995969,981995969_33936_34982,3388322815,BGC0002381,33936,34982,,False,

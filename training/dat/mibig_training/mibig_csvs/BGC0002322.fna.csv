@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2850379158,2850379158_1_126,3131560991,BGC0002322,1,126,['hypothetical protein'],True,Other
+2850379158,2850379158_296_943,1648551755,BGC0002322,296,943,,True,Other
+2850379158,2850379158_940_2463,2658715637,BGC0002322,940,2463,['hypothetical protein'],True,Other
+2850379158,2850379158_2475_4106,138768587,BGC0002322,2475,4106,"['ABC transporter, ATP-binding/permease protein']",True,Other

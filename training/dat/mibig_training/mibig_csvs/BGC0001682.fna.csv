@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+426289333,426289333_1_756,3307296615,BGC0001682,1,756,['putative hemolysin'],True,Other
+426289333,426289333_756_1532,2176998338,BGC0001682,756,1532,['probable acyltransferase'],True,Other

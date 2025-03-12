@@ -1,0 +1,37 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2988871182,2988871182_1_1635,1207004707,BGC0000709,1,1635,['hypothetical protein'],True,Saccharide
+2988871182,2988871182_1632_2567,3381919384,BGC0000709,1632,2567,['putative ATPase'],True,Saccharide
+2988871182,2988871182_2560_7962,811537767,BGC0000709,2560,7962,['putative multidomain-regulator'],True,Saccharide
+2988871182,2988871182_8100_8348,1027469956,BGC0000709,8100,8348,['putative pectinesterase (possible fragmentary and non-functional)'],True,Saccharide
+2988871182,2988871182_8621_9043,2694989915,BGC0000709,8621,9043,['putative integral membrane protein'],True,Saccharide
+2988871182,2988871182_9188_10006,1865446066,BGC0000709,9188,10006,"[""aminoglycoside 3'-phosphotransferase""]",True,Saccharide
+2988871182,2988871182_10003_11298,1373116519,BGC0000709,10003,11298,"['possible regulator, NeoG']",True,Saccharide
+2988871182,2988871182_11288_11809,705675750,BGC0000709,11288,11809,"['possible regulator, NeoH']",True,Saccharide
+2988871182,2988871182_12208_12735,594232234,BGC0000709,12208,12735,"['possible regulator, NeoI']",True,Saccharide
+2988871182,2988871182_12947_13969,1463273443,BGC0000709,12947,13969,"['putative 3-amino-2,3-dideoxy-scyllo-inositol 1-dehydrogenase, NeoE']",True,Saccharide
+2988871182,2988871182_14048_15322,4172173436,BGC0000709,14048,15322,"['putative bifunctional L-glutamine:ketocyclitol aminotransferase I and II, NeoS']",True,Saccharide
+2988871182,2988871182_15493_16785,2478361465,BGC0000709,15493,16785,"['putative 2-deoxy-scyllo-inosose synthase, NeoC']",True,Saccharide
+2988871182,2988871182_16932_18197,382213207,BGC0000709,16932,18197,"['putative UDP-NAc-glucosamine:2-deoxystreptamine 4-glycosyltransferase, NeoM']",True,Saccharide
+2988871182,2988871182_18185_20185,1673357487,BGC0000709,18185,20185,"['putative ABC transporter, ATP-binding protein, NeoT']",True,Saccharide
+2988871182,2988871182_20182_21966,3163229519,BGC0000709,20182,21966,"['putative ABC transporter, ATP-binding protein, NeoU']",True,Saccharide
+2988871182,2988871182_21914_23800,488026254,BGC0000709,21914,23800,,True,Saccharide
+2988871182,2988871182_23974_24873,4071128482,BGC0000709,23974,24873,"['putative Fe-S oxidoreductase, NeoN']",True,Saccharide
+2988871182,2988871182_24870_25571,238480691,BGC0000709,24870,25571,"['putative phosphatase in neomycin pathway, NeoP']",True,Saccharide
+2988871182,2988871182_25517_25819,3267525676,BGC0000709,25517,25819,,True,Saccharide
+2988871182,2988871182_25812_26912,711493303,BGC0000709,25812,26912,"['putative hexosaminyltransferase II or mannosyltransferase, NeoF']",True,Saccharide
+2988871182,2988871182_26905_27744,1713941374,BGC0000709,26905,27744,"['putative 2-N-acetylhexosamine deacetylase, NeoD']",True,Saccharide
+2988871182,2988871182_27942_29924,3903544977,BGC0000709,27942,29924,"['putative neomycin production protein, NeoL']",True,Saccharide
+2988871182,2988871182_30041_31291,3394599777,BGC0000709,30041,31291,"[""putative bifunctional neomycin 6'-and 6'''-aminotransferase, NeoB""]",True,Saccharide
+2988871182,2988871182_31440_35321,631628736,BGC0000709,31440,35321,"['putative neomycin production protein, NeoA']",True,Saccharide
+2988871182,2988871182_35483_36346,1927321165,BGC0000709,35483,36346,['AacC8'],True,Saccharide
+2988871182,2988871182_36726_39386,3724709134,BGC0000709,36726,39386,"['putative regulator, NeoR']",True,Saccharide
+2988871182,2988871182_39714_40235,3906690021,BGC0000709,39714,40235,['hypothetical protein'],True,Saccharide
+2988871182,2988871182_40437_40817,3044854065,BGC0000709,40437,40817,['hypothetical protein'],True,Saccharide
+2988871182,2988871182_41084_42448,737000900,BGC0000709,41084,42448,['putative serine protease'],True,Saccharide
+2988871182,2988871182_42552_43502,3816275986,BGC0000709,42552,43502,['putative lysR-family regulatory protein'],True,Saccharide
+2988871182,2988871182_43828_46047,4208556218,BGC0000709,43828,46047,['putative isocitrate dehydrogenase'],True,Saccharide
+2988871182,2988871182_46279_48168,1712867702,BGC0000709,46279,48168,['putative heat shock protein HSP70'],True,Saccharide
+2988871182,2988871182_48165_48506,297524137,BGC0000709,48165,48506,['hypothetical protein'],True,Saccharide
+2988871182,2988871182_48677_49135,2132019416,BGC0000709,48677,49135,['putative integral membrane protein'],True,Saccharide
+2988871182,2988871182_49233_49997,297551511,BGC0000709,49233,49997,['hypothetical protein'],True,Saccharide
+2988871182,2988871182_50079_50465,3784920477,BGC0000709,50079,50465,['putative proton-dependent transporter'],True,Saccharide

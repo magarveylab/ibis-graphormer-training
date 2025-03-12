@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2643679734,2643679734_1_813,2177856949,BGC0000037,1,813,"['polyketide synthase, putative (JCVI)']",True,Polyketide
+2643679734,2643679734_800_5392,629209714,BGC0000037,800,5392,"['polyketide synthase, putative (JCVI)']",True,Polyketide
+2643679734,2643679734_5389_7041,1395148756,BGC0000037,5389,7041,"['polyketide synthase, putative (JCVI)']",True,Polyketide
+2643679734,2643679734_7171_7821,1867599627,BGC0000037,7171,7821,"['polyketide synthase, putative (JCVI)']",True,Polyketide

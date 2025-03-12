@@ -1,0 +1,17 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3207928555,3207928555_1_1320,4090996244,BGC0001614,1,1320,"['major facilitator transporter, involved in Hassallidin biosynthesis']",True,NRP
+3207928555,3207928555_1352_2992,4155754500,BGC0001614,1352,2992,"['membrane hypothetical protein, involved in Hassallidin biosynthesis']",True,NRP
+3207928555,3207928555_3041_4153,4171763182,BGC0001614,3041,4153,['membrane protein with putative acyltransferase activity'],True,NRP
+3207928555,3207928555_4228_4764,1299290020,BGC0001614,4228,4764,,True,NRP
+3207928555,3207928555_4811_15850,1000066673,BGC0001614,4811,15850,"['Non-ribosomal peptide synthase, involved in Hassallidin biosynthesis']",True,NRP
+3207928555,3207928555_15874_24963,480931074,BGC0001614,15874,24963,"['Non-ribosomal peptide synthase, involved in Hassallidin biosynthesis']",True,NRP
+3207928555,3207928555_24979_25557,1141763187,BGC0001614,24979,25557,"['Aspartyl/asparaginyl beta-hydroxylase family protein, involved in Hassallidin biosynthesis']",True,NRP
+3207928555,3207928555_25753_26517,3876859794,BGC0001614,25753,26517,"['3-oxoacyl-(Acyl-carrier-protein) reductase, involved in Hassallidin biosynthesis']",True,NRP
+3207928555,3207928555_26539_27273,3051396992,BGC0001614,26539,27273,"['Glycosyltransferase DXD motif-containing protein, involved in Hassallidin biosynthesis']",True,NRP
+3207928555,3207928555_27319_28971,2634001807,BGC0001614,27319,28971,"['ABC-type uncharacterized transport system, permease and ATPase components, involved in Hassallidin biosynthesis']",True,NRP
+3207928555,3207928555_29031_30317,3150291798,BGC0001614,29031,30317,"['major facilitator superfamily transporter, involved in Hassallidin biosynthesis']",True,NRP
+3207928555,3207928555_30314_30544,3538825124,BGC0001614,30314,30544,"['conserved hypothetical protein, MbtH-like, involved in Hassallidin biosynthesis']",True,NRP
+3207928555,3207928555_30541_36987,2485065852,BGC0001614,30541,36987,['non-ribosomal peptide synthase involved in Hassallidin biosynthesis'],True,NRP
+3207928555,3207928555_37058_39079,3836334491,BGC0001614,37058,39079,"['glycosyl hydrolase, involved in Hassallidin biosynthesis']",True,NRP
+3207928555,3207928555_39138_39230,4281841084,BGC0001614,39138,39230,,True,NRP
+3207928555,3207928555_39402_47882,1778957235,BGC0001614,39402,47882,['Non-ribosomal peptide synthase involved in Hassallidin biosynthesis'],True,NRP

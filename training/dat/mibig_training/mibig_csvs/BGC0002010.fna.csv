@@ -1,0 +1,29 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+247683147,247683147_1_990,2808915393,BGC0002010,1,990,['cytochrome d ubiquinol oxidase subunit II'],True,NRP__Polyketide
+247683147,247683147_1054_2373,3255679450,BGC0002010,1054,2373,['cytochrome ubiquinol oxidase subunit I'],True,NRP__Polyketide
+247683147,247683147_2432_3313,539960646,BGC0002010,2432,3313,['LysR substrate-binding domain-containing protein'],True,NRP__Polyketide
+247683147,247683147_3450_5252,1030480786,BGC0002010,3450,5252,['fatty acyl-AMP ligase'],True,NRP__Polyketide
+247683147,247683147_5249_6499,3024551763,BGC0002010,5249,6499,['crotonyl-CoA carboxylase/reductase'],True,NRP__Polyketide
+247683147,247683147_6585_8987,681289849,BGC0002010,6585,8987,['type I polyketide synthase'],True,NRP__Polyketide
+247683147,247683147_9043_10098,3104160583,BGC0002010,9043,10098,['aldo/keto reductase'],True,NRP__Polyketide
+247683147,247683147_10165_10959,3542578405,BGC0002010,10165,10959,['alpha/beta fold hydrolase'],True,NRP__Polyketide
+247683147,247683147_10956_13697,358774971,BGC0002010,10956,13697,['type I polyketide synthase'],True,NRP__Polyketide
+247683147,247683147_13690_14019,1805646853,BGC0002010,13690,14019,['phosphopantetheine-binding protein'],True,NRP__Polyketide
+247683147,247683147_14185_15630,3311276160,BGC0002010,14185,15630,['aldehyde dehydrogenase family protein'],True,NRP__Polyketide
+247683147,247683147_15630_16727,1623825231,BGC0002010,15630,16727,['hypothetical protein'],True,NRP__Polyketide
+247683147,247683147_16925_17266,4226737925,BGC0002010,16925,17266,['hypothetical protein'],True,NRP__Polyketide
+247683147,247683147_17273_18640,3726393423,BGC0002010,17273,18640,['FAD-binding protein'],True,NRP__Polyketide
+247683147,247683147_18682_20319,3908210846,BGC0002010,18682,20319,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide
+247683147,247683147_20406_21068,2441656762,BGC0002010,20406,21068,['phenazine biosynthesis FMN-dependent oxidase PhzG'],True,NRP__Polyketide
+247683147,247683147_21152_22003,1434494066,BGC0002010,21152,22003,['PhzF family phenazine biosynthesis isomerase'],True,NRP__Polyketide
+247683147,247683147_22071_23954,2080019373,BGC0002010,22071,23954,['phenazine-specific anthranilate synthase component I'],True,NRP__Polyketide
+247683147,247683147_23951_24574,4018538867,BGC0002010,23951,24574,['isochorismatase family protein'],True,NRP__Polyketide
+247683147,247683147_24597_25772,3016462307,BGC0002010,24597,25772,['3-deoxy-7-phosphoheptulonate synthase'],True,NRP__Polyketide
+247683147,247683147_25825_26325,1527118067,BGC0002010,25825,26325,['PhzA/PhzB family protein'],True,NRP__Polyketide
+247683147,247683147_26660_27694,3371867915,BGC0002010,26660,27694,['ketoacyl-ACP synthase III family protein'],True,NRP__Polyketide
+247683147,247683147_27753_28046,1387227667,BGC0002010,27753,28046,['phosphopantetheine-binding protein'],True,NRP__Polyketide
+247683147,247683147_28081_30621,3044869400,BGC0002010,28081,30621,['LuxR C-terminal-related transcriptional regulator'],True,NRP__Polyketide
+247683147,247683147_30707_31576,3628166131,BGC0002010,30707,31576,['class I SAM-dependent methyltransferase'],True,NRP__Polyketide
+247683147,247683147_31757_33307,1906090128,BGC0002010,31757,33307,['MFS transporter'],True,NRP__Polyketide
+247683147,247683147_33427_35772,1322553587,BGC0002010,33427,35772,['FAD-dependent oxidoreductase'],True,NRP__Polyketide
+247683147,247683147_36111_36734,769411292,BGC0002010,36111,36734,['TetR/AcrR family transcriptional regulator'],True,NRP__Polyketide

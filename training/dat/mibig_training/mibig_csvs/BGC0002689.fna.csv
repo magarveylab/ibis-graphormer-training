@@ -1,0 +1,20 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+41133667,41133667_1_759,3527276000,BGC0002689,1,759,"['putative enterobactin synthetase component A (2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase)']",True,NRP
+41133667,41133667_750_4640,3920859282,BGC0002689,750,4640,['putative enterobactin synthetase component F'],True,NRP
+41133667,41133667_4637_4894,4181111070,BGC0002689,4637,4894,['putative phosphopantetheine attachment site protein'],True,NRP
+41133667,41133667_4894_5526,3205508538,BGC0002689,4894,5526,['putative hydrolase'],True,NRP
+41133667,41133667_5526_7178,3333737255,BGC0002689,5526,7178,"['putative siderophore specific 2,3-dihydroxybenzoate-AMP ligase']",True,NRP
+41133667,41133667_7175_8368,1086919283,BGC0002689,7175,8368,['putative enterobactin synthetase component C (isochorismate synthase)'],True,NRP
+41133667,41133667_8365_9561,3828957986,BGC0002689,8365,9561,"['putative Major Facilitator Superfamily tetracycline resistance protein, class A']",True,NRP
+41133667,41133667_9715_10059,3228926154,BGC0002689,9715,10059,['putative transmembrane protein'],True,NRP
+41133667,41133667_10148_11083,1927896688,BGC0002689,10148,11083,"['putative monooxygenase, luciferase-like']",True,NRP
+41133667,41133667_11150_11599,2752681486,BGC0002689,11150,11599,['putative GCN5-related acetyltransferase'],True,NRP
+41133667,41133667_11642_13249,3536683927,BGC0002689,11642,13249,['conserved hypothetical exported protein'],True,NRP
+41133667,41133667_13492_14121,805371609,BGC0002689,13492,14121,['putative superoxide dismutase [Mn]'],True,NRP
+41133667,41133667_14118_14693,1011509689,BGC0002689,14118,14693,['putative flavin reductase'],True,NRP
+41133667,41133667_14693_15028,1667753251,BGC0002689,14693,15028,['conserved hypothetical protein'],True,NRP
+41133667,41133667_15034_16182,3359653491,BGC0002689,15034,16182,['putative transmembrane LINOLEOYL-CoA DESATURASE (DELTA(6)-DESATURASE)'],True,NRP
+41133667,41133667_16194_17303,3624605062,BGC0002689,16194,17303,['putative Fe/S OXIDOREDUCTASE'],True,NRP
+41133667,41133667_17357_18013,3175878690,BGC0002689,17357,18013,['putative TetR-family trancriptional regulatory protein'],True,NRP
+41133667,41133667_18380_20731,1920261747,BGC0002689,18380,20731,['putative autotransporter protein'],True,NRP
+41133667,41133667_20992_23151,341699287,BGC0002689,20992,23151,['putative TonB-dependent outer membrane protein'],True,NRP

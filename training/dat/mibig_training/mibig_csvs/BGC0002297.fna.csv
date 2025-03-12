@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3799109697,3799109697_1_951,3361672680,BGC0002297,1,951,['phosphoglycerate dehydrogenase'],True,NRP__Polyketide
+3799109697,3799109697_1021_2031,2104302630,BGC0002297,1021,2031,['O-methyltransferase'],True,NRP__Polyketide
+3799109697,3799109697_2278_14001,4003975588,BGC0002297,2278,14001,['type I polyketide synthase'],True,NRP__Polyketide
+3799109697,3799109697_14077_24546,3415003848,BGC0002297,14077,24546,['hybrid peptide synthetase/polyketide synthase'],True,NRP__Polyketide
+3799109697,3799109697_24560_25276,1301561717,BGC0002297,24560,25276,['amino acid racemase'],True,NRP__Polyketide
+3799109697,3799109697_25463_33397,1854229251,BGC0002297,25463,33397,['hybrid peptide synthetase/polyketide synthase'],True,NRP__Polyketide
+3799109697,3799109697_33626_35380,2714712065,BGC0002297,33626,35380,['ABC transporter'],True,NRP__Polyketide
+3799109697,3799109697_35453_43804,935872483,BGC0002297,35453,43804,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+3799109697,3799109697_43820_50212,2821608979,BGC0002297,43820,50212,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+3799109697,3799109697_50272_54162,767596690,BGC0002297,50272,54162,['non-ribosomal peptide synthetase'],True,NRP__Polyketide

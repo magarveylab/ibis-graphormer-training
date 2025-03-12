@@ -1,0 +1,20 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2009688131,2009688131_1_900,2840283848,BGC0001080,1,900,"['5,10-dihydrophenazine-1-carboxylate 9-dimethylallyltransferase (dihydro-PCA prenyltransferase)']",True,Other
+2009688131,2009688131_1009_2046,2777185263,BGC0001080,1009,2046,['mevalonate kinase'],True,Other
+2009688131,2009688131_2036_3091,3357888194,BGC0001080,2036,3091,['diphosphomevalonate decarboxylase'],True,Other
+2009688131,2009688131_3088_4203,2725306093,BGC0001080,3088,4203,['phosphomevalonate kinase'],True,Other
+2009688131,2009688131_4200_5291,516946980,BGC0001080,4200,5291,['type II isopentenyl diphosphate delta isomerase'],True,Other
+2009688131,2009688131_5321_6349,2597564084,BGC0001080,5321,6349,['3-hydroxy-3-methylglutaryl-CoA reductase'],True,Other
+2009688131,2009688131_6353_7528,3147737875,BGC0001080,6353,7528,['3-hydroxy-3-methylglutaryl-CoA synthase'],True,Other
+2009688131,2009688131_7593_8570,3273069153,BGC0001080,7593,8570,['3-oxoacyl-[acyl-carrier-protein] synthase'],True,Other
+2009688131,2009688131_8640_9353,939054031,BGC0001080,8640,9353,['Flavodoxin'],True,Other
+2009688131,2009688131_9322_9504,2190061364,BGC0001080,9322,9504,,True,Other
+2009688131,2009688131_9501_10121,3645009897,BGC0001080,9501,10121,['conserved hypothetical protein ovmZ-like'],True,Other
+2009688131,2009688131_10210_11232,1336817274,BGC0001080,10210,11232,['phenazine N-methyltransferase'],True,Other
+2009688131,2009688131_11292_11798,352025655,BGC0001080,11292,11798,['Phenazine biosynthesis protein PhzB'],True,Other
+2009688131,2009688131_11834_12535,3835993721,BGC0001080,11834,12535,['FMN-dependent oxidase'],True,Other
+2009688131,2009688131_12528_13367,1138615854,BGC0001080,12528,13367,"['trans-2,3-dihydro-3-hydroxyanthranilate isomerase']",True,Other
+2009688131,2009688131_13464_15404,3022539856,BGC0001080,13464,15404,['2-amino-2-desoxy-isochorismate synthase'],True,Other
+2009688131,2009688131_15401_16024,2642104835,BGC0001080,15401,16024,"['2,3-dihydro-3-hydroxy-anthranilate synthase']",True,Other
+2009688131,2009688131_16103_17281,1252647939,BGC0001080,16103,17281,['3-deoxy-D-arabino-heptulosonic acid 7-phosphate synthase'],True,Other
+2009688131,2009688131_17316_17804,3141604165,BGC0001080,17316,17804,['Phenazine biosynthesis protein PhzA'],True,Other

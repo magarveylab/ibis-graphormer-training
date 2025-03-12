@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1525719645,1525719645_1_795,367754711,BGC0001842,1,795,['putative LuxR-family regulatory protein'],True,NRP
+1525719645,1525719645_1287_7697,2284318095,BGC0001842,1287,7697,['putative non-ribosomal peptide synthetase'],True,NRP
+1525719645,1525719645_7883_24151,2551917530,BGC0001842,7883,24151,['putative non-ribosomal peptide synthetase'],True,NRP
+1525719645,1525719645_24148_38796,2470587224,BGC0001842,24148,38796,['putative non-ribosomal peptide synthetase'],True,NRP
+1525719645,1525719645_38863_40011,2627076817,BGC0001842,38863,40011,['putative drug-efflux protein'],True,NRP
+1525719645,1525719645_40014_41969,1665627617,BGC0001842,40014,41969,['macrolide-specific ABC-type efflux carrier'],True,NRP
+1525719645,1525719645_42035_42814,833572018,BGC0001842,42035,42814,['putative LuxR-family regulatory protein'],True,NRP

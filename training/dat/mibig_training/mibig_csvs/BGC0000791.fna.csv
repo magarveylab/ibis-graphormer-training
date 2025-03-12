@@ -1,0 +1,14 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+868847306,868847306_1_891,3224294432,BGC0000791,1,891,['UDP-glucose pyrophosphorylase'],True,Saccharide
+868847306,868847306_1282_2361,3619059448,BGC0000791,1282,2361,"['dTDP-D-glucose-4,6-dehydratase']",True,Saccharide
+868847306,868847306_2358_3230,3528171805,BGC0000791,2358,3230,['glucose-1-phosphate thymidylyltransferase'],True,Saccharide
+868847306,868847306_3232_3633,2986554297,BGC0000791,3232,3633,"['dTDP-6-deoxy-3,4-keto-hexulose isomerase']",True,Saccharide
+868847306,868847306_3626_4078,1228317526,BGC0000791,3626,4078,['acetyltransferase'],True,Saccharide
+868847306,868847306_4079_5014,3633058282,BGC0000791,4079,5014,['hypothetical protein'],True,Saccharide
+868847306,868847306_5011_6114,1158047282,BGC0000791,5011,6114,['aminotransferase'],True,Saccharide
+868847306,868847306_6111_7373,2607387999,BGC0000791,6111,7373,['O-antigen flippase'],True,Saccharide
+868847306,868847306_7373_8317,4262872765,BGC0000791,7373,8317,['glycosyl transferase'],True,Saccharide
+868847306,868847306_8356_9636,2671377458,BGC0000791,8356,9636,['O-antigen polymerase'],True,Saccharide
+868847306,868847306_9623_10501,2134970469,BGC0000791,9623,10501,['glycosyl transferase'],True,Saccharide
+868847306,868847306_10491_11255,2286051188,BGC0000791,10491,11255,['glycosyl transferase'],True,Saccharide
+868847306,868847306_11469_12875,3486519150,BGC0000791,11469,12875,['6-phosphogluconate dehydrogenase'],True,Saccharide

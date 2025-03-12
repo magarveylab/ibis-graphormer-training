@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+749672476,749672476_1_2208,484473902,BGC0000686,1,2208,"['squalene-hopene-cyclase, putative']",True,Terpene
+749672476,749672476_2284_2457,829500717,BGC0000686,2284,2457,,True,Terpene
+749672476,749672476_2643_4232,3278060629,BGC0000686,2643,4232,"['cytochrome P450 monooxygenase, putative']",True,Terpene
+749672476,749672476_4964_6487,1912483725,BGC0000686,4964,6487,"['cytochrome P450 monooxygenase, putative']",True,Terpene
+749672476,749672476_6523_7296,2452288430,BGC0000686,6523,7296,"['short chain dehydrogenase, putative']",True,Terpene
+749672476,749672476_7577_9100,903626576,BGC0000686,7577,9100,"['cytochrome P450 monooxygenase, putative']",True,Terpene
+749672476,749672476_9525_10961,394986846,BGC0000686,9525,10961,['transferase family protein'],True,Terpene
+749672476,749672476_11151_12665,392439669,BGC0000686,11151,12665,"['cytochrome P450 monooxygenase, putative']",True,Terpene
+749672476,749672476_12854_14458,693464999,BGC0000686,12854,14458,,True,Terpene
+749672476,749672476_14487_16277,2470851039,BGC0000686,14487,16277,"['extracellular 3-ketosteroid 1-dehydrogenase, putative']",True,Terpene

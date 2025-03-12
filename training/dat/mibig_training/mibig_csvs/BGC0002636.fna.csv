@@ -1,0 +1,30 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+830478396,830478396_1_876,2566021550,BGC0002636,1,876,,False,
+830478396,830478396_938_3445,608662677,BGC0002636,938,3445,['putative HTH-type transcriptional regulator'],True,Polyketide
+830478396,830478396_3414_3737,765883688,BGC0002636,3414,3737,['phenyloxazoline synthase'],True,Polyketide
+830478396,830478396_3734_4765,2269155174,BGC0002636,3734,4765,['3-oxoacyl-[acyl-carrier-protein] synthase 3'],True,Polyketide
+830478396,830478396_5516_6232,2564047615,BGC0002636,5516,6232,['response regulator MprA'],True,Polyketide
+830478396,830478396_6586_7074,789522882,BGC0002636,6586,7074,['phenazine biosynthesis protein PhzB 2'],True,Polyketide
+830478396,830478396_7107_8282,478592087,BGC0002636,7107,8282,['phospho-2-dehydro-3-deoxyheptonate aldolase'],True,Polyketide
+830478396,830478396_8335_8958,3956993010,BGC0002636,8335,8958,['phenazine biosynthesis protein PhzD'],True,Polyketide
+830478396,830478396_8955_10838,828438961,BGC0002636,8955,10838,"['anthranilate synthase component 1, pyocyanine specific']",True,Polyketide
+830478396,830478396_10862_11698,522732091,BGC0002636,10862,11698,"['trans-2,3-dihydro-3-hydroxyanthranilate isomerase']",True,Polyketide
+830478396,830478396_11752_12399,930092771,BGC0002636,11752,12399,['phenazine biosynthesis protein PhzG'],True,Polyketide
+830478396,830478396_12548_14158,3808456724,BGC0002636,12548,14158,['tyrocidine synthase 3'],True,Polyketide
+830478396,830478396_14212_15594,2373127633,BGC0002636,14212,15594,['mitomycin radical oxidase'],True,Polyketide
+830478396,830478396_15669_16025,2360431470,BGC0002636,15669,16025,['hypothetical protein'],True,Polyketide
+830478396,830478396_16159_17331,336167909,BGC0002636,16159,17331,['hypothetical protein'],True,Polyketide
+830478396,830478396_17331_18740,1331106183,BGC0002636,17331,18740,['hypothetical protein'],True,Polyketide
+830478396,830478396_18859_20082,3102597798,BGC0002636,18859,20082,['s-adenosylmethionine synthase'],True,Polyketide
+830478396,830478396_20119_21099,711597521,BGC0002636,20119,21099,['adenosine kinase'],True,Polyketide
+830478396,830478396_21096_21980,2650061978,BGC0002636,21096,21980,"['5,10-methylenetetrahydrofolate reductase']",True,Polyketide
+830478396,830478396_22208_22534,1129429396,BGC0002636,22208,22534,['linear gramicidin synthase subunit B'],True,Polyketide
+830478396,830478396_22527_25295,4007939398,BGC0002636,22527,25295,['phthiocerol synthesis polyketide synthase type I PpsE'],True,Polyketide
+830478396,830478396_25292_26086,3111833607,BGC0002636,25292,26086,['thioesterase PikA5'],True,Polyketide
+830478396,830478396_26096_27151,3270866033,BGC0002636,26096,27151,['aldo-keto reductase IolS'],True,Polyketide
+830478396,830478396_27201_29546,312451373,BGC0002636,27201,29546,['phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsE'],True,Polyketide
+830478396,830478396_29620_30864,1668491157,BGC0002636,29620,30864,['crotonyl-CoA reductase'],True,Polyketide
+830478396,830478396_30913_32664,1018718232,BGC0002636,30913,32664,['long-chain-fatty-acid--AMP ligase FadD26'],True,Polyketide
+830478396,830478396_32795_33721,509870863,BGC0002636,32795,33721,['HTH-type transcriptional regulator GltC'],True,Polyketide
+830478396,830478396_33746_35074,2393585136,BGC0002636,33746,35074,['cytochrome bd ubiquinol oxidase subunit 1'],True,Polyketide
+830478396,830478396_35120_36094,655299426,BGC0002636,35120,36094,['cytochrome bd-I ubiquinol oxidase subunit 2'],True,Polyketide

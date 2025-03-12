@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3365433221,3365433221_1_11823,1826640217,BGC0001133,1,11823,['putative Phenylalanine racemase (ATP-hydrolyzing)'],True,NRP
+3365433221,3365433221_11828_25888,3982594360,BGC0001133,11828,25888,['putative Ornithine racemase'],True,NRP

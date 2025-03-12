@@ -1,0 +1,38 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+316372937,316372937_1_1605,3575706664,BGC0002140,1,1605,['putative multidrug-efflux transporter'],True,Polyketide
+316372937,316372937_1758_2498,344080504,BGC0002140,1758,2498,['hypothetical protein'],True,Polyketide
+316372937,316372937_2601_3719,2092692894,BGC0002140,2601,3719,['NADH oxidase'],True,Polyketide
+316372937,316372937_3825_5405,1202965498,BGC0002140,3825,5405,['Multidrug resistance protein 3'],True,Polyketide
+316372937,316372937_5436_6035,3376671766,BGC0002140,5436,6035,['FMN-dependent NADPH-azoreductase'],True,Polyketide
+316372937,316372937_6208_6891,659987811,BGC0002140,6208,6891,['Tetracycline repressor protein class E'],True,Polyketide
+316372937,316372937_7021_7872,1870572585,BGC0002140,7021,7872,['hypothetical protein'],True,Polyketide
+316372937,316372937_8190_9668,3197499918,BGC0002140,8190,9668,['Anhydrotetracycline monooxygenase'],True,Polyketide
+316372937,316372937_9691_10017,4190574702,BGC0002140,9691,10017,['Tetracenomycin F2 cyclase'],True,Polyketide
+316372937,316372937_10014_11294,2430220262,BGC0002140,10014,11294,['Actinorhodin polyketide putative beta-ketoacyl synthase 1'],True,Polyketide
+316372937,316372937_11291_12517,1415032784,BGC0002140,11291,12517,['Actinorhodin polyketide putative beta-ketoacyl synthase 2'],True,Polyketide
+316372937,316372937_12702_12971,2852052543,BGC0002140,12702,12971,['Oxytetracycline polyketide synthase acyl carrier protein'],True,Polyketide
+316372937,316372937_13221_14006,2787292034,BGC0002140,13221,14006,['putative ketoacyl reductase'],True,Polyketide
+316372937,316372937_14048_14983,88560372,BGC0002140,14048,14983,['putative polyketide cyclase'],True,Polyketide
+316372937,316372937_14986_16983,3109017887,BGC0002140,14986,16983,['Anhydrotetracycline monooxygenase'],True,Polyketide
+316372937,316372937_17004_18218,2880026405,BGC0002140,17004,18218,['putative MFS-type transporter EfpA'],True,Polyketide
+316372937,316372937_18277_19569,3705493994,BGC0002140,18277,19569,['Aclacinomycin-T 2-deoxy-L-fucose transferase'],True,Polyketide
+316372937,316372937_19595_20809,3697686567,BGC0002140,19595,20809,['L-noviosyl transferase'],True,Polyketide
+316372937,316372937_20791_21372,2030362423,BGC0002140,20791,21372,"['dTDP-4-dehydrorhamnose 3,5-epimerase']",True,Polyketide
+316372937,316372937_21375_22505,1887440248,BGC0002140,21375,22505,['L-noviosyl transferase'],True,Polyketide
+316372937,316372937_22531_23598,2988415377,BGC0002140,22531,23598,['Glucose-1-phosphate thymidylyltransferase'],True,Polyketide
+316372937,316372937_23595_24578,783588374,BGC0002140,23595,24578,"['dTDP-glucose 4,6-dehydratase']",True,Polyketide
+316372937,316372937_24568_25629,2156130771,BGC0002140,24568,25629,['dTDP-6-deoxy-L-talose 4-dehydrogenase (NAD(P)(+))'],True,Polyketide
+316372937,316372937_25626_26930,517397778,BGC0002140,25626,26930,['GDP-perosamine synthase'],True,Polyketide
+316372937,316372937_26976_27740,1879262463,BGC0002140,26976,27740,"['dTDP-glucose 4,6-dehydratase']",True,Polyketide
+316372937,316372937_27808_28779,1577967561,BGC0002140,27808,28779,['hypothetical protein'],True,Polyketide
+316372937,316372937_28845_30245,2588428228,BGC0002140,28845,30245,['hypothetical protein'],True,Polyketide
+316372937,316372937_30242_31198,1133718366,BGC0002140,30242,31198,['Glucose--fructose oxidoreductase'],True,Polyketide
+316372937,316372937_31233_31958,340681496,BGC0002140,31233,31958,"[""4'-phosphopantetheinyl transferase psf-1""]",True,Polyketide
+316372937,316372937_31973_33565,3523304725,BGC0002140,31973,33565,['putative propionyl-CoA carboxylase beta chain 5'],True,Polyketide
+316372937,316372937_33605_34270,3979679871,BGC0002140,33605,34270,['hypothetical protein'],True,Polyketide
+316372937,316372937_34429_36015,3853170260,BGC0002140,34429,36015,['Aclacinomycin-N/aclacinomycin-A oxidase'],True,Polyketide
+316372937,316372937_36133_36570,4189947445,BGC0002140,36133,36570,['hypothetical protein'],True,Polyketide
+316372937,316372937_36673_36903,3729269864,BGC0002140,36673,36903,['hypothetical protein'],True,Polyketide
+316372937,316372937_37125_37841,2801636835,BGC0002140,37125,37841,['Transcriptional regulatory protein YycF'],True,Polyketide
+316372937,316372937_38455_40374,1945965500,BGC0002140,38455,40374,['2-oxoglutarate oxidoreductase subunit KorA'],True,Polyketide
+316372937,316372937_40367_41461,1717014307,BGC0002140,40367,41461,['2-oxoglutarate oxidoreductase subunit KorB'],True,Polyketide

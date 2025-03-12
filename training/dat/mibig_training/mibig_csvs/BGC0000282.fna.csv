@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1242297287,1242297287_1_1017,3299835181,BGC0000282,1,1017,['monooxygenase'],True,Polyketide
+1242297287,1242297287_1014_1547,4169021241,BGC0000282,1014,1547,['methyltransferase'],True,Polyketide
+1242297287,1242297287_1561_2613,1553090609,BGC0000282,1561,2613,['type-III PKS'],True,Polyketide

@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3751764782,3751764782_1_453,4086643344,BGC0001077,1,453,['hypothetical protein'],True,Polyketide
+3751764782,3751764782_450_1505,4184112903,BGC0001077,450,1505,['putative type-III polyketide synthase'],True,Polyketide
+3751764782,3751764782_1502_2656,1929413102,BGC0001077,1502,2656,['alkylresorcinol hydroxylase'],True,Polyketide
+3751764782,3751764782_2646_3419,994283376,BGC0001077,2646,3419,['3-alkyl-2-hydroxyresorcinol methyltransferase'],True,Polyketide
+3751764782,3751764782_3467_4216,1693075333,BGC0001077,3467,4216,['6-alkyl-2-methoxyhydroquinones prenyltransferase'],True,Polyketide
+3751764782,3751764782_4322_5089,1887228417,BGC0001077,4322,5089,['hypothetical protein'],True,Polyketide
+3751764782,3751764782_5126_6550,3970676419,BGC0001077,5126,6550,['putative DNA repair protein'],True,Polyketide

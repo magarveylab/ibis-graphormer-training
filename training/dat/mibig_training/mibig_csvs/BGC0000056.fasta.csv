@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2135836775,2135836775_3_890,544481848,BGC0000056,3,890,['EspT3'],True,Polyketide
+2135836775,2135836775_887_6481,374110738,BGC0000056,887,6481,['EspE'],True,Polyketide
+2135836775,2135836775_6624_6689,292021815,BGC0000056,6624,6689,['EspE7'],True,Polyketide

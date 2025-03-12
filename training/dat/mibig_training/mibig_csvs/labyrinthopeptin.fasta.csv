@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+939501280,939501280_1_2589,3454829809,BGC0000519,1,2589,['serine/threonine kinase'],True,RiPP
+939501280,939501280_2599_2721,470781899,BGC0000519,2599,2721,['labyrinthopeptin A1/A3 prepropeptide'],True,RiPP
+939501280,939501280_2761_2877,3464830179,BGC0000519,2761,2877,['labyrinthopeptin A2 prepropeptide'],True,RiPP
+939501280,939501280_2988_4688,4053931562,BGC0000519,2988,4688,['ABC-transporter'],True,RiPP
+939501280,939501280_4685_6400,933629019,BGC0000519,4685,6400,['ABC-transporter'],True,RiPP

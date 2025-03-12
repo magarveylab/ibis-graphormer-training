@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1486310640,1486310640_1_858,1607252284,BGC0001006,1,858,['Methyltransferase type 11'],True,NRP__Polyketide
+1486310640,1486310640_969_8099,4093211335,BGC0001006,969,8099,['thioester reductase domain'],True,NRP__Polyketide
+1486310640,1486310640_8226_10196,4144758565,BGC0001006,8226,10196,['asparagine synthase (glutamine-hydrolysing)'],True,NRP__Polyketide
+1486310640,1486310640_10308_11786,1490803936,BGC0001006,10308,11786,['Xaa-Pro aminopeptidase'],True,NRP__Polyketide
+1486310640,1486310640_12068_13639,1862141374,BGC0001006,12068,13639,['hypothetical protein'],True,NRP__Polyketide
+1486310640,1486310640_13985_16006,3918622092,BGC0001006,13985,16006,['hypothetical protein'],True,NRP__Polyketide
+1486310640,1486310640_16073_18913,571620358,BGC0001006,16073,18913,"['alpha-1,6-glucosidase, pullulanase-type']",True,NRP__Polyketide
+1486310640,1486310640_19201_22035,2906564067,BGC0001006,19201,22035,['aconitase'],True,NRP__Polyketide
+1486310640,1486310640_22195_22443,189599128,BGC0001006,22195,22443,['hypothetical protein'],True,NRP__Polyketide
+1486310640,1486310640_22552_23478,3636624325,BGC0001006,22552,23478,['protein of unknown function RIO1'],True,NRP__Polyketide
+1486310640,1486310640_23634_24278,2599294948,BGC0001006,23634,24278,"['HAD-superfamily hydrolase, subfamily IA, variant 1']",True,NRP__Polyketide
+1486310640,1486310640_24473_25045,2719844000,BGC0001006,24473,25045,"['transcriptional regulator, TetR family']",True,NRP__Polyketide

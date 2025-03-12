@@ -1,0 +1,20 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2357012132,2357012132_2_862,475521584,BGC0000294,2,862,['probable acinetobactin utilization protein'],True,NRP
+2357012132,2357012132_1255_3102,2229275484,BGC0000294,1255,3102,['probable acinetobactin biosynthesis protein'],True,NRP
+2357012132,2357012132_3173_5266,3996937110,BGC0000294,3173,5266,['probable acinetobactin biosynthesis protein'],True,NRP
+2357012132,2357012132_5413_5520,3939115189,BGC0000294,5413,5520,,True,NRP
+2357012132,2357012132_5832_6773,1614248467,BGC0000294,5832,6773,['probable ferric acinetobactin transport system permease protein'],True,NRP
+2357012132,2357012132_6773_7720,2403400176,BGC0000294,6773,7720,['probable ferric acinetobactin transport system permease protein'],True,NRP
+2357012132,2357012132_7717_8487,2116187522,BGC0000294,7717,8487,['probable ferric acinetobactin transport system ATP-binding protein'],True,NRP
+2357012132,2357012132_8494_9462,3585365525,BGC0000294,8494,9462,['probable ferric acinetobactin binding protein'],True,NRP
+2357012132,2357012132_9548_11848,1936657426,BGC0000294,9548,11848,['probable ferric acinetobactin receptor'],True,NRP
+2357012132,2357012132_11913_13223,881370876,BGC0000294,11913,13223,['probable acinetobactin biosynthesis protein'],True,NRP
+2357012132,2357012132_13271_16213,3305658580,BGC0000294,13271,16213,['probable acinetobactin biosynthesis protein'],True,NRP
+2357012132,2357012132_16375_18003,3456708939,BGC0000294,16375,18003,['probable acinetobactin biosynthesis protein'],True,NRP
+2357012132,2357012132_18021_18890,1385645753,BGC0000294,18021,18890,['probable acinetobactin biosynthesis protein'],True,NRP
+2357012132,2357012132_19008_20159,764853184,BGC0000294,19008,20159,['probable acinetobactin biosynthesis protein'],True,NRP
+2357012132,2357012132_20406_22016,640310168,BGC0000294,20406,22016,['probable ABC transporter'],True,NRP
+2357012132,2357012132_22013_23608,2576983813,BGC0000294,22013,23608,['probable ABC transporter'],True,NRP
+2357012132,2357012132_23702_24415,3467986463,BGC0000294,23702,24415,['probable acinetobactin biosynthesis protein'],True,NRP
+2357012132,2357012132_24426_25181,2491182065,BGC0000294,24426,25181,['probable acinetobactin biosynthesis protein'],True,NRP
+2357012132,2357012132_25219_26475,867056413,BGC0000294,25219,26475,['probable acinetobactin biosynthesis protein'],True,NRP

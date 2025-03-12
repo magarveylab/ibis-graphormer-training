@@ -1,0 +1,18 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1650401466,1650401466_1_6303,2984230754,BGC0001305,1,6303,['probable polyketide synthase'],True,Polyketide
+1650401466,1650401466_6476_6613,2066532451,BGC0001305,6476,6613,['probable polyketide synthase'],True,Polyketide
+1650401466,1650401466_6912_7646,3375608912,BGC0001305,6912,7646,['probable polyketide synthase'],True,Polyketide
+1650401466,1650401466_8285_8797,1152144464,BGC0001305,8285,8797,['related to C.carbonum toxD protein'],True,Polyketide
+1650401466,1650401466_9020_9379,693693113,BGC0001305,9020,9379,['related to C.carbonum toxD protein'],True,Polyketide
+1650401466,1650401466_9466_9789,3893341177,BGC0001305,9466,9789,,True,Polyketide
+1650401466,1650401466_9927_10424,1669905595,BGC0001305,9927,10424,['related to DltD N-terminal domain protein'],True,Polyketide
+1650401466,1650401466_10451_10609,2493005601,BGC0001305,10451,10609,['related to DltD N-terminal domain protein'],True,Polyketide
+1650401466,1650401466_10883_11368,2574193975,BGC0001305,10883,11368,['related to DltD N-terminal domain protein'],True,Polyketide
+1650401466,1650401466_12858_13232,47152424,BGC0001305,12858,13232,['related to monocarboxylate transporter 2'],True,Polyketide
+1650401466,1650401466_13336_13710,2361474630,BGC0001305,13336,13710,['related to monocarboxylate transporter 2'],True,Polyketide
+1650401466,1650401466_14125_14466,2499439411,BGC0001305,14125,14466,['related to monocarboxylate transporter 2'],True,Polyketide
+1650401466,1650401466_14609_14998,1051852940,BGC0001305,14609,14998,,True,Polyketide
+1650401466,1650401466_15319_15486,2349100453,BGC0001305,15319,15486,,True,Polyketide
+1650401466,1650401466_15668_16774,3248357892,BGC0001305,15668,16774,['uncharacterized protein'],True,Polyketide
+1650401466,1650401466_22522_23763,3101908979,BGC0001305,22522,23763,['related to O-methylsterigmatocystin oxidoreductase'],True,Polyketide
+1650401466,1650401466_23897_24253,1322013963,BGC0001305,23897,24253,['related to O-methylsterigmatocystin oxidoreductase'],True,Polyketide

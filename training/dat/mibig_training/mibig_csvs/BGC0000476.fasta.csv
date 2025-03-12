@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4109952279,4109952279_3_227,2798504574,BGC0000476,3,227,['patellamide precursor protein'],True,RiPP
+4109952279,4109952279_169_240,3295974505,BGC0000476,169,240,,True,RiPP

@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+205954200,205954200_55_5313,3795118158,BGC0002706,55,5313,['saframycin Mx1 synthetase B'],True,NRP
+205954200,205954200_5354_13171,2435939616,BGC0002706,5354,13171,['saframycin Mx1 synthetase A'],True,NRP
+205954200,205954200_13217_13879,1698307388,BGC0002706,13217,13879,['putative O-methyltransferase'],True,NRP

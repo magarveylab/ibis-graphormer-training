@@ -1,0 +1,14 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+681555623,681555623_162_755,1702532398,BGC0002294,162,755,,False,
+681555623,681555623_752_1552,2844753031,BGC0002294,752,1552,['methylated-DNA--protein-cysteine methyltransferase'],True,Other
+681555623,681555623_1611_2156,1455368801,BGC0002294,1611,2156,['methylated-DNA--protein-cysteine methyltransferase'],True,Other
+681555623,681555623_2239_3006,364923966,BGC0002294,2239,3006,['proline hydroxylase'],True,Other
+681555623,681555623_3290_4375,1183015857,BGC0002294,3290,4375,['protein arginine N-methyltransferase'],True,Other
+681555623,681555623_4446_5861,795777661,BGC0002294,4446,5861,['cupin domain-containing diiron protein'],True,Other
+681555623,681555623_5852_6226,3316676595,BGC0002294,5852,6226,['Rieske domain-containing protein'],True,Other
+681555623,681555623_6372_7622,1514352523,BGC0002294,6372,7622,['argininosuccinate lyase'],True,Other
+681555623,681555623_7619_8914,1274676601,BGC0002294,7619,8914,['MFS-type transporter'],True,Other
+681555623,681555623_8958_9914,4269818407,BGC0002294,8958,9914,['putative alpha/beta hydrolase'],True,Other
+681555623,681555623_9901_11175,2274679049,BGC0002294,9901,11175,['ATP-dependent N-fumaramoyl-DAP-amino acid ligase'],True,Other
+681555623,681555623_11172_11804,836906432,BGC0002294,11172,11804,['putative membrane protein'],True,Other
+681555623,681555623_11842_11946,856662153,BGC0002294,11842,11946,['regulatory protein AfsR'],True,Other

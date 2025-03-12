@@ -1,0 +1,18 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2966181122,2966181122_1_171,2609664107,BGC0000259,1,171,,False,
+2966181122,2966181122_168_575,1850802190,BGC0000259,168,575,['putative transcriptional regulator of CopA'],True,Polyketide
+2966181122,2966181122_982_2139,2629728613,BGC0000259,982,2139,['putative acyl-CoA dehydrogenase'],True,Polyketide
+2966181122,2966181122_2139_4151,207633788,BGC0000259,2139,4151,['hypothetical protein'],True,Polyketide
+2966181122,2966181122_4148_6814,1361598984,BGC0000259,4148,6814,['putative phosphoenolpyruvate-utilizing enzyme'],True,Polyketide
+2966181122,2966181122_6985_9591,59962141,BGC0000259,6985,9591,['hypothetical protein'],True,Polyketide
+2966181122,2966181122_9588_12149,3314378442,BGC0000259,9588,12149,['putative aminotransferase'],True,Polyketide
+2966181122,2966181122_12160_13176,1862853421,BGC0000259,12160,13176,['putative O-methyl transferase'],True,Polyketide
+2966181122,2966181122_13200_13463,4184556598,BGC0000259,13200,13463,['putative peptidyl carrier protein'],True,Polyketide
+2966181122,2966181122_13460_15406,3179169502,BGC0000259,13460,15406,['putative aminotransferase'],True,Polyketide
+2966181122,2966181122_15411_16883,3080841015,BGC0000259,15411,16883,['putative L-prolyl-AMP ligase'],True,Polyketide
+2966181122,2966181122_16880_19168,2881626091,BGC0000259,16880,19168,['putative Beta-ketomyristol-ACP synthase'],True,Polyketide
+2966181122,2966181122_19182_19496,1268806890,BGC0000259,19182,19496,['hypothetical protein'],True,Polyketide
+2966181122,2966181122_19480_20127,2521583242,BGC0000259,19480,20127,"[""putative 4'-phosphopantetheinyl transferase""]",True,Polyketide
+2966181122,2966181122_20124_21182,1874440417,BGC0000259,20124,21182,['hypothetical protein'],True,Polyketide
+2966181122,2966181122_21201_21929,3442957306,BGC0000259,21201,21929,['putative oxidoreductase'],True,Polyketide
+2966181122,2966181122_22123_24834,2730557458,BGC0000259,22123,24834,['putative copper transporting P-type ATPase efflux pump'],True,Polyketide

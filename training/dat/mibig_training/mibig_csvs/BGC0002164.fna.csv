@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+409679134,409679134_1_8322,2843788252,BGC0002164,1,8322,['peramine synthetase'],True,NRP

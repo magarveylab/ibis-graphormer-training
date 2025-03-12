@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+914468233,914468233_1_414,1931491523,BGC0002342,1,414,['hypothetical protein'],True,NRP__Polyketide
+914468233,914468233_569_4219,1683663082,BGC0002342,569,4219,['AMP-dependent synthetase/ligase'],True,NRP__Polyketide
+914468233,914468233_4286_5104,1135925254,BGC0002342,4286,5104,['fatty acid desaturase subfamily protein'],True,NRP__Polyketide
+914468233,914468233_5152_5994,2991627019,BGC0002342,5152,5994,['hypothetical protein'],True,NRP__Polyketide
+914468233,914468233_6076_8829,537691076,BGC0002342,6076,8829,['short-chain dehydrogenase/reductase SDR'],True,NRP__Polyketide
+914468233,914468233_8858_12145,3252148843,BGC0002342,8858,12145,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+914468233,914468233_12142_12516,714838756,BGC0002342,12142,12516,['short-chain dehydrogenase/reductase SDR'],True,NRP__Polyketide
+914468233,914468233_12564_14144,1761541209,BGC0002342,12564,14144,['long-chain-fatty-acid--CoA ligase'],True,NRP__Polyketide
+914468233,914468233_14177_21559,1220204194,BGC0002342,14177,21559,['short-chain dehydrogenase/reductase SDR'],True,NRP__Polyketide

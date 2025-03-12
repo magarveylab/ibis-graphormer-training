@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1692258231,1692258231_1_120,4022194916,BGC0001781,1,120,['putative lasso peptide precursor'],True,RiPP
+1692258231,1692258231_364_2169,2240060516,BGC0001781,364,2169,['putative lasso peptide modification enzyme'],True,RiPP
+1692258231,1692258231_2214_2471,385446063,BGC0001781,2214,2471,['putative lasso peptide modification enzyme'],True,RiPP
+1692258231,1692258231_2468_2902,3530326848,BGC0001781,2468,2902,['putative lasso peptide modification enzyme'],True,RiPP

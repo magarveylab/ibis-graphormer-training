@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3963536554,3963536554_186_3038,1456734041,BGC0000563,186,3038,['bifunctional lantibiotic synthetase'],True,RiPP
+3963536554,3963536554_3054_3209,2977283408,BGC0000563,3054,3209,['lantibiotic precursor'],True,RiPP
+3963536554,3963536554_3295_4422,3718842537,BGC0000563,3295,4422,['ABC transporter ATP-binding subunit'],True,RiPP
+3963536554,3963536554_4419_5330,1645692495,BGC0000563,4419,5330,['ABC transporter membrane permease subunit'],True,RiPP

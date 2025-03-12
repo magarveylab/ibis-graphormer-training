@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4260382916,4260382916_177_944,2389177535,BGC0000572,177,944,['transglutaminase-like superfamily protein'],True,RiPP
+4260382916,4260382916_907_2628,1317280504,BGC0000572,907,2628,['asparagine synthase family protein'],True,RiPP
+4260382916,4260382916_2747_4516,3018299875,BGC0000572,2747,4516,['ABC transporter family protein'],True,RiPP

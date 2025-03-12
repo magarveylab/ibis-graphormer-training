@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2003461417,2003461417_1_1278,121306554,BGC0000776,1,1278,['KDO transferase'],True,Saccharide
+2003461417,2003461417_1691_2749,2563218915,BGC0000776,1691,2749,['heptosyl-III-transferase'],True,Saccharide
+2003461417,2003461417_2746_3870,2800475727,BGC0000776,2746,3870,"['UDP-glucose:(heptosyl)LPS alpha-1,3-glucosyltransferase']",True,Saccharide
+2003461417,2003461417_3863_4660,1061426415,BGC0000776,3863,4660,['heptosyl-I-kinase'],True,Saccharide
+2003461417,2003461417_4676_5692,3306590772,BGC0000776,4676,5692,"['UDP-glucose:(glucosyl)LPS alpha-1,3-glucosyltransferase']",True,Saccharide
+2003461417,2003461417_5709_6704,4270685249,BGC0000776,5709,6704,"['UDP-galactose:(glucosyl)LPS alpha-1,2-galactosyltransferase']",True,Saccharide
+2003461417,2003461417_6714_7406,3585114011,BGC0000776,6714,7406,['heptosyl-II-kinase'],True,Saccharide
+2003461417,2003461417_7432_8460,2536085185,BGC0000776,7432,8460,"['UDP-galactose:(galactosyl)LPS alpha-1,2-galactosyltransferase']",True,Saccharide
+2003461417,2003461417_8542_9525,3635944634,BGC0000776,8542,9525,"['beta-1,3-glucosyltransferase']",True,Saccharide
+2003461417,2003461417_9571_10824,1447687615,BGC0000776,9571,10824,['putative lipid A-core surface polymer ligase'],True,Saccharide
+2003461417,2003461417_10894_11820,1873518247,BGC0000776,10894,11820,['heptosyl-I-transferase'],True,Saccharide

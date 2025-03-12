@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+651982608,651982608_4_825,4032481715,BGC0001394,4,825,['iron-chelator utilization protein'],True,NRP__Polyketide
+651982608,651982608_1044_2465,382940912,BGC0001394,1044,2465,['hypothetical protein'],True,NRP__Polyketide
+651982608,651982608_2610_7136,1449477338,BGC0001394,2610,7136,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+651982608,651982608_7133_13564,3808841310,BGC0001394,7133,13564,['polyketide synthase'],True,NRP__Polyketide
+651982608,651982608_13561_29148,1158574175,BGC0001394,13561,29148,['polyketide synthase'],True,NRP__Polyketide
+651982608,651982608_29151_34709,2932946805,BGC0001394,29151,34709,['polyketide synthase'],True,NRP__Polyketide
+651982608,651982608_34726_40299,3179971755,BGC0001394,34726,40299,['polyketide synthase'],True,NRP__Polyketide
+651982608,651982608_40296_45938,1253493072,BGC0001394,40296,45938,['polyketide synthase'],True,NRP__Polyketide
+651982608,651982608_45961_52491,2828810488,BGC0001394,45961,52491,['polyketide synthase'],True,NRP__Polyketide
+651982608,651982608_52488_54230,398468909,BGC0001394,52488,54230,"['alpha keto acid dehydrogenase complex, E2 component, dihydrolipoamide acetyltransferase']",True,NRP__Polyketide
+651982608,651982608_54230_55207,3707017813,BGC0001394,54230,55207,['pyruvate dehydrogenase subunit beta'],True,NRP__Polyketide
+651982608,651982608_55204_56241,3396685059,BGC0001394,55204,56241,"['pyruvate dehydrogenase complex, E1 component, pyruvate dehydrogenase subunit alpha']",True,NRP__Polyketide

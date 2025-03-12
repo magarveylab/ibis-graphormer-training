@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1140847730,1140847730_203_400,1403531824,BGC0000657,203,400,,False,
+1140847730,1140847730_644_2044,2539443097,BGC0000657,644,2044,['cyclic nucleotide-binding protein'],True,Terpene
+1140847730,1140847730_2133_3002,2808991049,BGC0000657,2133,3002,['SAM-dependent methyltransferase'],True,Terpene
+1140847730,1140847730_3098_4291,257108273,BGC0000657,3098,4291,['monoterpene cyclase'],True,Terpene
+1140847730,1140847730_4377_5774,4045965457,BGC0000657,4377,5774,['cyclic nucleotide-binding protein'],True,Terpene

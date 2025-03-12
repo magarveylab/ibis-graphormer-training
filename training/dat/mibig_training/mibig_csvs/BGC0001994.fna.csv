@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1506741144,1506741144_1_894,3787108264,BGC0001994,1,894,['DMT family transporter'],True,Other
+1506741144,1506741144_1092_2540,576556029,BGC0001994,1092,2540,['peptide ligase PGM1-related protein'],True,Other
+1506741144,1506741144_2620_4155,2586288321,BGC0001994,2620,4155,['PLP-dependent transferase'],True,Other
+1506741144,1506741144_4152_4925,2679393999,BGC0001994,4152,4925,['iron-containing redox enzyme family protein'],True,Other
+1506741144,1506741144_4994_5752,2245733243,BGC0001994,4994,5752,['hypothetical protein'],True,Other
+1506741144,1506741144_6164_6970,911722291,BGC0001994,6164,6970,['hypothetical protein'],True,Other

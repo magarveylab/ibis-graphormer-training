@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+889378989,889378989_1_804,2889245227,BGC0001173,1,804,['methyltransferase domain family'],True,RiPP
+889378989,889378989_833_1504,2839417440,BGC0001173,833,1504,['caax amino protease family'],True,RiPP
+889378989,889378989_1509_2318,2589473021,BGC0001173,1509,2318,['SagB-type dehydrogenase domain protein'],True,RiPP
+889378989,889378989_2343_3689,913689425,BGC0001173,2343,3689,['conserved hypothetical protein'],True,RiPP
+889378989,889378989_3692_4672,1541240145,BGC0001173,3692,4672,['conserved hypothetical protein'],True,RiPP
+889378989,889378989_4697_5395,4015739138,BGC0001173,4697,5395,['conserved hypothetical protein'],True,RiPP
+889378989,889378989_6278_6997,2149994453,BGC0001173,6278,6997,['conserved hypothetical protein'],True,RiPP
+889378989,889378989_7142_7888,2518578860,BGC0001173,7142,7888,['putative ABC transporter permease'],True,RiPP
+889378989,889378989_8151_9044,451247278,BGC0001173,8151,9044,['Nod factor export ATP-binding protein I (Nodulation ATP-binding protein I)'],True,RiPP
+889378989,889378989_9066_9359,2446789349,BGC0001173,9066,9359,,True,RiPP
+889378989,889378989_9352_9945,2285980198,BGC0001173,9352,9945,"['membrane protein, putative']",True,RiPP

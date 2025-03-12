@@ -1,0 +1,19 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2386622590,2386622590_152_1000,4203530546,BGC0000785,152,1000,['putative diadenosine tetraphosphatase'],True,Saccharide
+2386622590,2386622590_1378_2439,1312137886,BGC0000785,1378,2439,"['putative dTDP-D-glucose 4, 6-dehydratase']",True,Saccharide
+2386622590,2386622590_2451_3344,3226084547,BGC0000785,2451,3344,['putative glucose-1-phosphate thymidyltransferase'],True,Saccharide
+2386622590,2386622590_3329_3880,4186144842,BGC0000785,3329,3880,['putative dTDP-4-keto-6-deoxy-D-glucose'],True,Saccharide
+2386622590,2386622590_3877_4773,3227064528,BGC0000785,3877,4773,['putative dTDP-4-keto-L-rhamnose reductase'],True,Saccharide
+2386622590,2386622590_4800_5633,1352993062,BGC0000785,4800,5633,['putative ABC-2 transporter integral membrane component'],True,Saccharide
+2386622590,2386622590_5623_7032,3470217672,BGC0000785,5623,7032,['putative ABC-2 transporter hydrophilic component'],True,Saccharide
+2386622590,2386622590_7029_8267,2288052016,BGC0000785,7029,8267,['putative O-antigen acetylase'],True,Saccharide
+2386622590,2386622590_8267_9358,3181964177,BGC0000785,8267,9358,['putative epimerase/dehydratase'],True,Saccharide
+2386622590,2386622590_9379_10302,181875267,BGC0000785,9379,10302,['putative glycosyl transferase'],True,Saccharide
+2386622590,2386622590_10306_12030,1798068576,BGC0000785,10306,12030,['putative O-antigen methyl transferase'],True,Saccharide
+2386622590,2386622590_12082_13923,750966083,BGC0000785,12082,13923,['putative glycosyl transferase'],True,Saccharide
+2386622590,2386622590_13872_14828,1613129848,BGC0000785,13872,14828,,True,Saccharide
+2386622590,2386622590_14825_15790,1191022852,BGC0000785,14825,15790,['putative epimerase/dehydratase'],True,Saccharide
+2386622590,2386622590_15808_16818,247307973,BGC0000785,15808,16818,['putative undecaprenyl phosphate N-acetylglucosaminyltransferase'],True,Saccharide
+2386622590,2386622590_16825_18738,3544085106,BGC0000785,16825,18738,['putative epimerase/dehydratase'],True,Saccharide
+2386622590,2386622590_18858_19691,3409405614,BGC0000785,18858,19691,,True,Saccharide
+2386622590,2386622590_19715_19915,2495757219,BGC0000785,19715,19915,['hypothetical protein 4'],True,Saccharide

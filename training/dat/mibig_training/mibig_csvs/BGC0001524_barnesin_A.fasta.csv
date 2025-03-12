@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2881152794,2881152794_65_877,1705264454,BGC0001524,65,877,['response regulator with CheY-like receiver domain and winged-helix DNA-binding domain'],True,NRP__Polyketide
+2881152794,2881152794_1112_1558,1605349234,BGC0001524,1112,1558,['uncharacterized protein associated with GTPases'],True,NRP__Polyketide
+2881152794,2881152794_1563_3224,2518333723,BGC0001524,1563,3224,['cyclic peptide transporter'],True,NRP__Polyketide
+2881152794,2881152794_3221_4090,1359880586,BGC0001524,3221,4090,"['membrane protease subunit, stomatin/prohibitin']",True,NRP__Polyketide
+2881152794,2881152794_4098_5273,2512739019,BGC0001524,4098,5273,"['amino acid/amide ABC transporter substrate-binding protein, HAAT family']",True,NRP__Polyketide
+2881152794,2881152794_5289_11894,3051197285,BGC0001524,5289,11894,['amino acid adenylation enzyme/thioester reductase family protein'],True,NRP__Polyketide
+2881152794,2881152794_11891_16723,4140152880,BGC0001524,11891,16723,"['beta-ketoacyl synthase family protein,phosphopantetheine-containing protein']",True,NRP__Polyketide
+2881152794,2881152794_16775_17296,3675906628,BGC0001524,16775,17296,['uncharacterized protein associated with GTPases'],True,NRP__Polyketide
+2881152794,2881152794_17467_18102,4168899455,BGC0001524,17467,18102,['phosphopantetheinyl transferase'],True,NRP__Polyketide
+2881152794,2881152794_18181_18978,3762421575,BGC0001524,18181,18978,['periplasmic component of amino acid ABC-type transporter/signal transduction system'],True,NRP__Polyketide
+2881152794,2881152794_18975_20297,1849878483,BGC0001524,18975,20297,['Na+/H+ dicarboxylate symporter'],True,NRP__Polyketide
+2881152794,2881152794_20287_20982,633719192,BGC0001524,20287,20982,['hypothetical protein'],True,NRP__Polyketide

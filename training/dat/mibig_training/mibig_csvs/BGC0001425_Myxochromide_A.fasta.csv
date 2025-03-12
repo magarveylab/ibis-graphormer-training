@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3906159809,3906159809_634_7092,2330206785,BGC0001425,634,7092,['polyketide synthase'],True,NRP__Polyketide
+3906159809,3906159809_7089_16235,356944255,BGC0001425,7089,16235,['nonribosomal peptide synthetase'],True,NRP__Polyketide
+3906159809,3906159809_16232_29665,404539845,BGC0001425,16232,29665,['nonribosomal peptide synthetase'],True,NRP__Polyketide
+3906159809,3906159809_29662_30126,186745067,BGC0001425,29662,30126,['membrane protein'],True,NRP__Polyketide

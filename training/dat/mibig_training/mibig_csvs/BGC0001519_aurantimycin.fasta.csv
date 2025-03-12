@@ -1,0 +1,35 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+539199745,539199745_1_621,1228626902,BGC0001519,1,621,,False,
+539199745,539199745_726_1001,2735598629,BGC0001519,726,1001,['putative Polyketide synthase PksN'],True,NRP__Polyketide
+539199745,539199745_1246_1791,1683574379,BGC0001519,1246,1791,"[""putative NADH:riboflavin 5'-phosphate oxidoreductase""]",True,NRP__Polyketide
+539199745,539199745_1900_3075,18420558,BGC0001519,1900,3075,['putative Cytochrome-SU2'],True,NRP__Polyketide
+539199745,539199745_3188_4324,3615142326,BGC0001519,3188,4324,['hypothetical protein'],True,NRP__Polyketide
+539199745,539199745_4408_5346,1853928649,BGC0001519,4408,5346,['putative 3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 2'],True,NRP__Polyketide
+539199745,539199745_5343_5591,1652999044,BGC0001519,5343,5591,['hypothetical protein'],True,NRP__Polyketide
+539199745,539199745_5653_5880,2350816077,BGC0001519,5653,5880,['putative dehydrogenase'],True,NRP__Polyketide
+539199745,539199745_5898_6878,2287529811,BGC0001519,5898,6878,['putative Pyruvate dehydrogenase E1 component subunit beta'],True,NRP__Polyketide
+539199745,539199745_6878_7717,1087949736,BGC0001519,6878,7717,['putative 3-methyl-2-oxobutanoate dehydrogenase subunit alpha'],True,NRP__Polyketide
+539199745,539199745_8471_8686,782040375,BGC0001519,8471,8686,['putative protein MbtH'],True,NRP__Polyketide
+539199745,539199745_8818_9540,3994712651,BGC0001519,8818,9540,['hypothetical protein'],True,NRP__Polyketide
+539199745,539199745_9633_11225,1634368069,BGC0001519,9633,11225,['putative Bacitracin synthase 3'],True,NRP__Polyketide
+539199745,539199745_11259_11489,3373793,BGC0001519,11259,11489,['hypothetical protein'],True,NRP__Polyketide
+539199745,539199745_11776_12963,1025728562,BGC0001519,11776,12963,['putative Digeranylgeranylglycerophospholipid reductase 1'],True,NRP__Polyketide
+539199745,539199745_13008_21656,43188236,BGC0001519,13008,21656,['putative Linear gramicidin synthase subunit C'],True,NRP__Polyketide
+539199745,539199745_21668_29392,633599117,BGC0001519,21668,29392,['putative Linear gramicidin synthase subunit C'],True,NRP__Polyketide
+539199745,539199745_29397_33221,848164317,BGC0001519,29397,33221,['putative Dimodular nonribosomal peptide synthase'],True,NRP__Polyketide
+539199745,539199745_33292_34026,1038045626,BGC0001519,33292,34026,['putative cadicidin biosynthesis thioesterase'],True,NRP__Polyketide
+539199745,539199745_34151_35089,1201613626,BGC0001519,34151,35089,['putative Daunorubicin/doxorubicin resistance ATP-binding protein DrrA'],True,NRP__Polyketide
+539199745,539199745_35086_35847,2404906353,BGC0001519,35086,35847,['putative Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB'],True,NRP__Polyketide
+539199745,539199745_35831_36682,3052172016,BGC0001519,35831,36682,,True,NRP__Polyketide
+539199745,539199745_36970_37239,2405103166,BGC0001519,36970,37239,,True,NRP__Polyketide
+539199745,539199745_37236_38486,2908388432,BGC0001519,37236,38486,['putative cytochrome'],True,NRP__Polyketide
+539199745,539199745_38483_39220,706774816,BGC0001519,38483,39220,['putative Linear gramicidin dehydrogenase LgrE'],True,NRP__Polyketide
+539199745,539199745_39273_42434,1859289758,BGC0001519,39273,42434,"['putative Oleandomycin polyketide synthase, modules 5 and 6']",True,NRP__Polyketide
+539199745,539199745_42474_48158,4263860029,BGC0001519,42474,48158,['putative Phenolphthiocerol synthesis polyketide synthase type I Pks15/1'],True,NRP__Polyketide
+539199745,539199745_48169_54768,718998256,BGC0001519,48169,54768,['putative Phenolphthiocerol synthesis polyketide synthase type I Pks15/1'],True,NRP__Polyketide
+539199745,539199745_54770_57892,42456882,BGC0001519,54770,57892,"['putative Erythronolide synthase, modules 3 and 4']",True,NRP__Polyketide
+539199745,539199745_58083_61322,541486361,BGC0001519,58083,61322,['putative Dimodular nonribosomal peptide synthase'],True,NRP__Polyketide
+539199745,539199745_61459_62205,3967073073,BGC0001519,61459,62205,['hypothetical protein'],True,NRP__Polyketide
+539199745,539199745_62280_62996,4146442974,BGC0001519,62280,62996,['hypothetical protein'],True,NRP__Polyketide
+539199745,539199745_63753_64163,3933107321,BGC0001519,63753,64163,,True,NRP__Polyketide
+539199745,539199745_64160_64789,960050167,BGC0001519,64160,64789,['hypothetical protein'],True,NRP__Polyketide

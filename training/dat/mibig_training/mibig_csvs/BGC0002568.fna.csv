@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2851083296,2851083296_1_1542,3980098945,BGC0002568,1,1542,['putative nucleotide-binding ABC transporter subunit'],True,Other
+2851083296,2851083296_1539_2345,346501771,BGC0002568,1539,2345,['putative transport system integral membrane protein'],True,Other
+2851083296,2851083296_2342_3361,2850886663,BGC0002568,2342,3361,,True,Other
+2851083296,2851083296_3346_4899,789857060,BGC0002568,3346,4899,['putative secreted solute-binding protein'],True,Other
+2851083296,2851083296_5189_6178,3939909903,BGC0002568,5189,6178,['putative oxygenase (putative secreted protein)'],True,Other
+2851083296,2851083296_6175_7197,828620334,BGC0002568,6175,7197,['putative ornithine cyclodeaminase'],True,Other
+2851083296,2851083296_7194_8540,1011355115,BGC0002568,7194,8540,['putative lysine/ornithine decarboxylase'],True,Other
+2851083296,2851083296_8571_9629,3949464102,BGC0002568,8571,9629,['putative cystathionine beta-synthase'],True,Other
+2851083296,2851083296_9629_11038,273978095,BGC0002568,9629,11038,['multidrug resistance protein'],True,Other

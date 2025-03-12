@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3113987347,3113987347_1_135,2446777728,BGC0002049,1,135,['microviridin/marinostatin family tricyclic proteinase inhibitor'],True,RiPP
+3113987347,3113987347_424_1416,541999879,BGC0002049,424,1416,['MvdC family ATP-grasp ribosomal peptide maturase'],True,RiPP
+3113987347,3113987347_1491_2468,868879429,BGC0002049,1491,2468,['MvdD family ATP-grasp ribosomal peptide maturase'],True,RiPP
+3113987347,3113987347_2600_4696,2975084603,BGC0002049,2600,4696,['patatin'],True,RiPP
+3113987347,3113987347_4825_5229,918266288,BGC0002049,4825,5229,['hypothetical protein'],True,RiPP
+3113987347,3113987347_5541_7559,873565447,BGC0002049,5541,7559,['ABC transporter ATP-binding protein/permease'],True,RiPP

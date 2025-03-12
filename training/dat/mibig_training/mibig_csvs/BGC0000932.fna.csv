@@ -1,0 +1,20 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4204452331,4204452331_1_2133,1045554656,BGC0000932,1,2133,['phenylacetic acid degradation protein PaaZ'],True,Other
+4204452331,4204452331_2168_2737,762989773,BGC0000932,2168,2737,"['putative flavoprotein, HFCD family']",True,Other
+4204452331,4204452331_2817_3257,2332254316,BGC0000932,2817,3257,['hypothetical protein'],True,Other
+4204452331,4204452331_3262_4323,240049018,BGC0000932,3262,4323,['hypothetical protein'],True,Other
+4204452331,4204452331_4415_5740,1042549803,BGC0000932,4415,5740,['hypothetical protein'],True,Other
+4204452331,4204452331_5871_7328,643586602,BGC0000932,5871,7328,['putative sodium dependent symporter'],True,Other
+4204452331,4204452331_7626_8084,2314137501,BGC0000932,7626,8084,['hypothetical protein'],True,Other
+4204452331,4204452331_8235_9728,150470181,BGC0000932,8235,9728,"['ABC transporter, extracellular solute-binding protein']",True,Other
+4204452331,4204452331_9733_10776,1048977697,BGC0000932,9733,10776,"['ABC transporter, integral inner membrane component']",True,Other
+4204452331,4204452331_10777_11586,1965644659,BGC0000932,10777,11586,"['ABC transporter, integral inner membrane component']",True,Other
+4204452331,4204452331_11583_13079,1862545864,BGC0000932,11583,13079,"['ABC transporter, ATP-binding protein']",True,Other
+4204452331,4204452331_13076_13633,431653618,BGC0000932,13076,13633,['putative cation transort protein'],True,Other
+4204452331,4204452331_13717_14403,585777151,BGC0000932,13717,14403,"['conserved hypothetical protein, peptidase M23-like protein']",True,Other
+4204452331,4204452331_14400_14981,3489603807,BGC0000932,14400,14981,['hypothetical protein'],True,Other
+4204452331,4204452331_15022_16215,1600209838,BGC0000932,15022,16215,['acyl-CoA dehydrogenase TdaE'],True,Other
+4204452331,4204452331_16239_16655,118666516,BGC0000932,16239,16655,['thioesterase superfamily protein TdaD'],True,Other
+4204452331,4204452331_16693_17295,3351182839,BGC0000932,16693,17295,['prephenate dehydratase TdaC-like protein'],True,Other
+4204452331,4204452331_17815_18513,728374180,BGC0000932,17815,18513,['putative beta etherase TdaB'],True,Other
+4204452331,4204452331_18728_19618,319549746,BGC0000932,18728,19618,"['transcriptional regulator, LysR family']",True,Other

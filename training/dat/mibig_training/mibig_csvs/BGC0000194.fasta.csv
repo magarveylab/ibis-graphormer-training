@@ -1,0 +1,23 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1624372067,1624372067_1_441,3563195071,BGC0000194,1,441,['hydroxylacyl-CoA dehydrogenase'],True,Polyketide
+1624372067,1624372067_515_1438,2955694360,BGC0000194,515,1438,['hydroxylacyl-CoA dehydrogenase'],True,Polyketide
+1624372067,1624372067_1438_2424,3184882250,BGC0000194,1438,2424,['putative oxidoreductase'],True,Polyketide
+1624372067,1624372067_2491_3135,2812777009,BGC0000194,2491,3135,['putative dehydratase'],True,Polyketide
+1624372067,1624372067_3169_4089,2688104680,BGC0000194,3169,4089,['putative oxidoreductase'],True,Polyketide
+1624372067,1624372067_4086_5687,2439702411,BGC0000194,4086,5687,['integral membrane protein'],True,Polyketide
+1624372067,1624372067_5689_6084,3097653145,BGC0000194,5689,6084,['hypothetical protein'],True,Polyketide
+1624372067,1624372067_6179_7024,3578308307,BGC0000194,6179,7024,['hypothetical protein'],True,Polyketide
+1624372067,1624372067_7049_7933,1727673290,BGC0000194,7049,7933,['conserved hypothetical protein'],True,Polyketide
+1624372067,1624372067_7930_9075,3660591304,BGC0000194,7930,9075,['putative hydrolase'],True,Polyketide
+1624372067,1624372067_9068_9409,474804804,BGC0000194,9068,9409,['hypothetical protein'],True,Polyketide
+1624372067,1624372067_9375_10127,3984979520,BGC0000194,9375,10127,['putative transcriptional regulatory protein'],True,Polyketide
+1624372067,1624372067_10265_12001,1341013007,BGC0000194,10265,12001,['putative actinorhodin transporter'],True,Polyketide
+1624372067,1624372067_12001_14136,530639035,BGC0000194,12001,14136,['putative membrane protein'],True,Polyketide
+1624372067,1624372067_14286_15053,2355951080,BGC0000194,14286,15053,['actinorhodin cluster activator protein'],True,Polyketide
+1624372067,1624372067_15127_15912,2797457555,BGC0000194,15127,15912,['ketoacyl reductase'],True,Polyketide
+1624372067,1624372067_15993_17396,1017122130,BGC0000194,15993,17396,['actinorhodin polyketide beta-ketoacyl synthase alpha subunit'],True,Polyketide
+1624372067,1624372067_17393_18616,773536207,BGC0000194,17393,18616,['actinorhodin polyketide beta-ketoacyl synthase beta subunit'],True,Polyketide
+1624372067,1624372067_18641_18901,265598045,BGC0000194,18641,18901,['actinorhodin polyketide synthase acyl carrier protein'],True,Polyketide
+1624372067,1624372067_18898_19848,285315963,BGC0000194,18898,19848,['actinorhodin polyketide synthase bifunctional cyclase/dehydratase'],True,Polyketide
+1624372067,1624372067_19845_20738,98281362,BGC0000194,19845,20738,['cyclase'],True,Polyketide
+1624372067,1624372067_20750_21283,2597886966,BGC0000194,20750,21283,['actinorhodin polyketide putative dimerase'],True,Polyketide

@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1445236065,1445236065_71_1687,2151077899,BGC0000719,71,1687,['putative polyvinylalcohol dehydrogenase'],True,Saccharide
+1445236065,1445236065_2523_3623,2162335182,BGC0000719,2523,3623,['putative dehydrogenase'],True,Saccharide
+1445236065,1445236065_3733_5031,3534370064,BGC0000719,3733,5031,['putative transporter'],True,Saccharide
+1445236065,1445236065_5208_6395,2340564089,BGC0000719,5208,6395,['putative aminotransferase'],True,Saccharide
+1445236065,1445236065_6448_7974,3918426454,BGC0000719,6448,7974,['putative dehydrogenase'],True,Saccharide
+1445236065,1445236065_8025_9737,1829438994,BGC0000719,8025,9737,['putative carbamoyl transferase'],True,Saccharide
+1445236065,1445236065_9848_11122,1944129468,BGC0000719,9848,11122,['L-glutamine:2-deoxy-scyllo-inosose aminotransferase'],True,Saccharide
+1445236065,1445236065_11152_12312,3601551519,BGC0000719,11152,12312,['2-deoxy-scyllo-inosose synthase'],True,Saccharide
+1445236065,1445236065_12309_12866,3761651799,BGC0000719,12309,12866,['putative oxidoreductase'],True,Saccharide

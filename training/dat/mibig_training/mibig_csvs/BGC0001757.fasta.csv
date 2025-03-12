@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+64996239,64996239_1_1008,1217128846,BGC0001757,1,1008,['Pyoverdine biosynthesis protein'],True,Other
+64996239,64996239_1042_1932,3091994712,BGC0001757,1042,1932,['Pyoverdine biosynthesis protein'],True,Other
+64996239,64996239_1936_3222,501659920,BGC0001757,1936,3222,['conserved hypothetical protein'],True,Other

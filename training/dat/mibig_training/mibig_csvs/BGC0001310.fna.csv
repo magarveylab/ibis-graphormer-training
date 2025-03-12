@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+286726588,286726588_163_1365,507563513,BGC0001310,163,1365,['Cytochrome P450'],True,Polyketide
+286726588,286726588_1650_2705,2450259961,BGC0001310,1650,2705,"['Type III PKS, putative chalcone synthase']",True,Polyketide

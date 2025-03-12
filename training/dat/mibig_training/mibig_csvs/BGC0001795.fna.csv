@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2211490210,2211490210_11_18310,2367431895,BGC0001795,11,18310,['malonyl CoA-acyl carrier protein transacylase'],True,Polyketide
+2211490210,2211490210_18927_46427,829353196,BGC0001795,18927,46427,['malonyl CoA-acyl carrier protein transacylase'],True,Polyketide
+2211490210,2211490210_46569_59957,3077876367,BGC0001795,46569,59957,['malonyl CoA-acyl carrier protein transacylase'],True,Polyketide
+2211490210,2211490210_60231_84284,1273411868,BGC0001795,60231,84284,['malonyl CoA-acyl carrier protein transacylase'],True,Polyketide
+2211490210,2211490210_84548_85585,73164622,BGC0001795,84548,85585,['malonyl CoA-acyl carrier protein transacylase'],True,Polyketide
+2211490210,2211490210_85899_86558,777227208,BGC0001795,85899,86558,['hypothetical protein'],True,Polyketide
+2211490210,2211490210_86667_87641,2850063653,BGC0001795,86667,87641,['hypothetical protein'],True,Polyketide

@@ -1,0 +1,33 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+152784492,152784492_1_285,832522620,BGC0001886,1,285,['probable aflatoxin efflux pump AFLT'],True,Polyketide
+152784492,152784492_711_1007,782834708,BGC0001886,711,1007,['probable aflatoxin efflux pump AFLT'],True,Polyketide
+152784492,152784492_1284_2027,3833537428,BGC0001886,1284,2027,['probable aflatoxin efflux pump AFLT'],True,Polyketide
+152784492,152784492_3416_3781,25954651,BGC0001886,3416,3781,,True,Polyketide
+152784492,152784492_4562_5788,2782164577,BGC0001886,4562,5788,['related to maackiain detoxification protein 1'],True,Polyketide
+152784492,152784492_6694_7647,218473497,BGC0001886,6694,7647,['uncharacterized protein'],True,Polyketide
+152784492,152784492_8124_8345,1032538229,BGC0001886,8124,8345,['uncharacterized protein'],True,Polyketide
+152784492,152784492_8559_8738,3785320259,BGC0001886,8559,8738,,True,Polyketide
+152784492,152784492_9297_9518,2304094199,BGC0001886,9297,9518,['uncharacterized protein'],True,Polyketide
+152784492,152784492_9798_10034,3721460001,BGC0001886,9798,10034,['uncharacterized protein'],True,Polyketide
+152784492,152784492_10660_12024,546686158,BGC0001886,10660,12024,['uncharacterized protein'],True,Polyketide
+152784492,152784492_12584_12874,655140092,BGC0001886,12584,12874,['probable scytalone dehydratase'],True,Polyketide
+152784492,152784492_13132_13287,1970186229,BGC0001886,13132,13287,,True,Polyketide
+152784492,152784492_13652_14074,3945507061,BGC0001886,13652,14074,['probable tetrahydroxynaphthalene reductase'],True,Polyketide
+152784492,152784492_14274_14480,1959321629,BGC0001886,14274,14480,['probable tetrahydroxynaphthalene reductase'],True,Polyketide
+152784492,152784492_15788_16342,3803747834,BGC0001886,15788,16342,,True,Polyketide
+152784492,152784492_17856_18632,2287010541,BGC0001886,17856,18632,['uncharacterized protein'],True,Polyketide
+152784492,152784492_18732_18836,3609032096,BGC0001886,18732,18836,,True,Polyketide
+152784492,152784492_19228_20751,918567059,BGC0001886,19228,20751,['related to phenol 2-monooxygenase'],True,Polyketide
+152784492,152784492_21167_21739,1280976305,BGC0001886,21167,21739,['o-methyltransferase that catalyse the methylation of nor-rubrofusarin resulting in formation of rubrofusarin'],True,Polyketide
+152784492,152784492_21794_22498,2775376729,BGC0001886,21794,22498,['o-methyltransferase that catalyse the methylation of nor-rubrofusarin resulting in formation of rubrofusarin'],True,Polyketide
+152784492,152784492_23477_23608,1958333467,BGC0001886,23477,23608,,True,Polyketide
+152784492,152784492_24346_25020,1350977589,BGC0001886,24346,25020,,True,Polyketide
+152784492,152784492_25005_26054,834016574,BGC0001886,25005,26054,['uncharacterized protein'],True,Polyketide
+152784492,152784492_26417_26587,820609270,BGC0001886,26417,26587,['uncharacterized protein'],True,Polyketide
+152784492,152784492_26853_27053,2412232895,BGC0001886,26853,27053,,True,Polyketide
+152784492,152784492_28091_28543,2341416769,BGC0001886,28091,28543,['uncharacterized protein'],True,Polyketide
+152784492,152784492_28784_29497,3324285500,BGC0001886,28784,29497,['uncharacterized protein'],True,Polyketide
+152784492,152784492_30127_30720,1154906634,BGC0001886,30127,30720,,True,Polyketide
+152784492,152784492_30968_32902,1530730812,BGC0001886,30968,32902,['polyketide synthase that catalyse the condensation of one acetyl-CoA and six malonyl-CoA resulting in formation of nor-rubrofusarin'],True,Polyketide
+152784492,152784492_32862_35414,4267872609,BGC0001886,32862,35414,['polyketide synthase that catalyse the condensation of one acetyl-CoA and six malonyl-CoA resulting in formation of nor-rubrofusarin'],True,Polyketide
+152784492,152784492_35472_36704,2480261885,BGC0001886,35472,36704,['polyketide synthase that catalyse the condensation of one acetyl-CoA and six malonyl-CoA resulting in formation of nor-rubrofusarin'],True,Polyketide

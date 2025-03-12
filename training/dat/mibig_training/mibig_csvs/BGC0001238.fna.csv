@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1065304776,1065304776_108_554,3841800540,BGC0001238,108,554,['8-amino-7-oxononanoate synthase'],True,Other
+1065304776,1065304776_617_1294,88886884,BGC0001238,617,1294,['8-amino-7-oxononanoate synthase'],True,Other
+1065304776,1065304776_2784_3443,4099642666,BGC0001238,2784,3443,['truncated dethiobiotin synthetase/adenosylmethionine-8-amino-7-oxononanoate aminotransferase'],True,Other
+1065304776,1065304776_3452_3898,1539582091,BGC0001238,3452,3898,,True,Other
+1065304776,1065304776_4011_4574,1069582557,BGC0001238,4011,4574,,True,Other
+1065304776,1065304776_6125_6955,4204329289,BGC0001238,6125,6955,['biotin synthase'],True,Other

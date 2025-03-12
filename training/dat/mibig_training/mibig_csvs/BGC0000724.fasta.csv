@@ -1,0 +1,29 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2544265730,2544265730_1_1287,470467055,BGC0000724,1,1287,['putative NAD(P)-dependent oxidoreductase'],True,Saccharide
+2544265730,2544265730_1284_1478,4165235038,BGC0000724,1284,1478,,True,Saccharide
+2544265730,2544265730_1764_3518,2924729388,BGC0000724,1764,3518,['putative ABC-type multidrug transport system ATPase and permease component'],True,Saccharide
+2544265730,2544265730_3515_5257,3359703237,BGC0000724,3515,5257,['putative ABC-type multidrug transport system ATPase and permease component'],True,Saccharide
+2544265730,2544265730_5349_6089,4135717705,BGC0000724,5349,6089,['putative L-glutaminyl-2-N-methyltransferase'],True,Saccharide
+2544265730,2544265730_6153_6842,1208898051,BGC0000724,6153,6842,['StsF protein'],True,Saccharide
+2544265730,2544265730_6839_7831,3802069944,BGC0000724,6839,7831,['putative ATP:scyllo-inosamine phosphotransferase'],True,Saccharide
+2544265730,2544265730_7867_8511,2787674043,BGC0000724,7867,8511,['putative aminosugar-converting enzyme'],True,Saccharide
+2544265730,2544265730_8518_9792,4268308284,BGC0000724,8518,9792,['putative L-glutamine:scyllo-inosose aminotransferase'],True,Saccharide
+2544265730,2544265730_10124_11554,861715272,BGC0000724,10124,11554,['putative NADH:N-amidino-scyllo-inosamine oxidoreductase'],True,Saccharide
+2544265730,2544265730_11611_12843,850007448,BGC0000724,11611,12843,['putative L-alanine:N-amidino-3-keto-scyllo-inosamine aminotransferase'],True,Saccharide
+2544265730,2544265730_12885_13664,23991199,BGC0000724,12885,13664,['putative glucose-1-phosphate thymidylyltransferase'],True,Saccharide
+2544265730,2544265730_13776_14720,1114994837,BGC0000724,13776,14720,['putative N-amidionostreptamine 6-phosphotransferase'],True,Saccharide
+2544265730,2544265730_14717_15769,2036280013,BGC0000724,14717,15769,['putative scyllo-inosamine-4-phosphate amidinotransferase'],True,Saccharide
+2544265730,2544265730_15812_16414,1360534488,BGC0000724,15812,16414,"['putative dTDP-4-dehydrorhamnose 3,5-epimerase']",True,Saccharide
+2544265730,2544265730_16446_17360,2825013181,BGC0000724,16446,17360,['putative dTDP-4-dehydrorhamnose reductase'],True,Saccharide
+2544265730,2544265730_17417_18406,3987918080,BGC0000724,17417,18406,"['putative dTDP-glucose 4,6-dehydratase']",True,Saccharide
+2544265730,2544265730_18493_19560,961068692,BGC0000724,18493,19560,['putative glucose-1-phosphate thymidylyltransferase'],True,Saccharide
+2544265730,2544265730_19967_21019,2528794172,BGC0000724,19967,21019,['streptomycin biosynthesis operon regulator'],True,Saccharide
+2544265730,2544265730_21254_22177,3543940879,BGC0000724,21254,22177,['streptomycin 6-phosphotransferase'],True,Saccharide
+2544265730,2544265730_22668_23714,4064190486,BGC0000724,22668,23714,['scyllo-inosamine-4-phosphate amidinotransferase'],True,Saccharide
+2544265730,2544265730_23758_24603,3253805308,BGC0000724,23758,24603,['StrF protein'],True,Saccharide
+2544265730,2544265730_24613_25212,330039519,BGC0000724,24613,25212,['StrG protein'],True,Saccharide
+2544265730,2544265730_25374_26528,4002758083,BGC0000724,25374,26528,['putative dTDP-dihydrostreptose--streptidine-6-phosphate dihydrostreptosyltransferase'],True,Saccharide
+2544265730,2544265730_26573_27619,3655030480,BGC0000724,26573,27619,['putative NAD:myo-inositol oxidoreductase'],True,Saccharide
+2544265730,2544265730_27616_28965,3970736226,BGC0000724,27616,28965,['putative streptomycin-6-phosphate phosphatase'],True,Saccharide
+2544265730,2544265730_29078_30214,259976166,BGC0000724,29078,30214,['putative N-methyl-L-glucosamine biosynthetic aminotransferase'],True,Saccharide
+2544265730,2544265730_30321_31274,594253703,BGC0000724,30321,31274,['putative oxidoreductase'],True,Saccharide

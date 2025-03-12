@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3404750592,3404750592_164_1054,3922061684,BGC0000335,164,1054,['JmjC domain-containing protein'],True,NRP__Polyketide
+3404750592,3404750592_1159_2589,3872392822,BGC0000335,1159,2589,['beta-lactamase'],True,NRP__Polyketide
+3404750592,3404750592_2886_3968,1310308795,BGC0000335,2886,3968,['beta-lactamase'],True,NRP__Polyketide
+3404750592,3404750592_4002_5441,2149706163,BGC0000335,4002,5441,['beta-lactamase'],True,NRP__Polyketide
+3404750592,3404750592_5528_18073,2996684388,BGC0000335,5528,18073,['putative aspartate racemase'],True,NRP__Polyketide
+3404750592,3404750592_18088_19098,2806655894,BGC0000335,18088,19098,['putative taurine catabolism dioxygenase'],True,NRP__Polyketide
+3404750592,3404750592_19123_26763,3734357343,BGC0000335,19123,26763,['nonribosomal peptide synthetase'],True,NRP__Polyketide
+3404750592,3404750592_26793_35432,346731972,BGC0000335,26793,35432,['nonribosomal peptide synthetase'],True,NRP__Polyketide
+3404750592,3404750592_35486_36382,4213830963,BGC0000335,35486,36382,['short chain dehydrogenase'],True,NRP__Polyketide
+3404750592,3404750592_36480_37469,646856293,BGC0000335,36480,37469,['LysR family transcriptional regulator'],True,NRP__Polyketide

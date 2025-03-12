@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1332252713,1332252713_1_999,3850987828,BGC0000943,1,999,['siderophore transport system permease'],True,Other
+1332252713,1332252713_996_1991,3291617939,BGC0000943,996,1991,"['Siderophore staphylobactin ABC transporter, permease protein SirB']",True,Other
+1332252713,1332252713_2007_2999,904575823,BGC0000943,2007,2999,"['Siderophore staphylobactin ABC transporter, substrate-binding protein SirA']",True,Other
+1332252713,1332252713_3230_4210,636094909,BGC0000943,3230,4210,['Siderophore staphylobactin biosynthesis protein SbnA'],True,Other
+1332252713,1332252713_4207_5217,1748618093,BGC0000943,4207,5217,['Ornithine cyclodeaminase / Siderophore staphylobactin biosynthesis protein SbnB'],True,Other
+1332252713,1332252713_5238_6992,3354271920,BGC0000943,5238,6992,['Siderophore staphylobactin biosynthesis protein SbnC'],True,Other
+1332252713,1332252713_6985_8241,4034229170,BGC0000943,6985,8241,['Siderophore staphylobactin biosynthesis protein SbnD'],True,Other
+1332252713,1332252713_8231_9967,503357891,BGC0000943,8231,9967,['Siderophore staphylobactin biosynthesis protein SbnE'],True,Other
+1332252713,1332252713_9948_11726,1416741443,BGC0000943,9948,11726,['Siderophore synthase'],True,Other
+1332252713,1332252713_11698_12477,657346135,BGC0000943,11698,12477,['Siderophore staphylobactin biosynthesis protein SbnG'],True,Other
+1332252713,1332252713_12477_13679,4242178064,BGC0000943,12477,13679,['Siderophore staphylobactin biosynthesis protein SbnH'],True,Other
+1332252713,1332252713_13683_14447,729515648,BGC0000943,13683,14447,['Siderophore staphylobactin biosynthesis protein SbnI'],True,Other

@@ -1,0 +1,17 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1603313827,1603313827_1_1398,2271161500,BGC0001819,1,1398,['MFS transporter'],True,Polyketide
+1603313827,1603313827_1501_2304,2357901028,BGC0001819,1501,2304,['enoyl-CoA hydratase-related protein'],True,Polyketide
+1603313827,1603313827_2338_3033,2077569053,BGC0001819,2338,3033,"[""4'-phosphopantetheinyl transferase superfamily protein""]",True,Polyketide
+1603313827,1603313827_3022_6999,2192785968,BGC0001819,3022,6999,['type I polyketide synthase'],True,Polyketide
+1603313827,1603313827_7001_13711,3056288726,BGC0001819,7001,13711,['type I polyketide synthase'],True,Polyketide
+1603313827,1603313827_13982_15259,3726894992,BGC0001819,13982,15259,['FAD-dependent oxidoreductase'],True,Polyketide
+1603313827,1603313827_15296_16981,3867172470,BGC0001819,15296,16981,['tryptophan 7-halogenase'],True,Polyketide
+1603313827,1603313827_17138_17665,3947035449,BGC0001819,17138,17665,['flavin reductase family protein'],True,Polyketide
+1603313827,1603313827_17690_18340,1655855955,BGC0001819,17690,18340,['isochorismatase family protein'],True,Polyketide
+1603313827,1603313827_18345_19907,3269762684,BGC0001819,18345,19907,['MFS transporter'],True,Polyketide
+1603313827,1603313827_20094_22943,634090498,BGC0001819,20094,22943,['LuxR family transcriptional regulator'],True,Polyketide
+1603313827,1603313827_23073_24158,1677902658,BGC0001819,23073,24158,['type III polyketide synthase'],True,Polyketide
+1603313827,1603313827_24237_24947,2165965265,BGC0001819,24237,24947,['enoyl-CoA hydratase/isomerase family protein'],True,Polyketide
+1603313827,1603313827_24947_26335,186540862,BGC0001819,24947,26335,['enoyl-CoA hydratase/isomerase family protein'],True,Polyketide
+1603313827,1603313827_26332_28065,4237965321,BGC0001819,26332,28065,['thiamine pyrophosphate-binding protein'],True,Polyketide
+1603313827,1603313827_28103_29563,2918347087,BGC0001819,28103,29563,['aldehyde dehydrogenase family protein'],True,Polyketide

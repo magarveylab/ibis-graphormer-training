@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1973920869,1973920869_1_1734,627204211,BGC0000423,1,1734,['putative ABC transport system integral membrane component'],True,NRP
+1973920869,1973920869_1731_3599,2584441760,BGC0000423,1731,3599,['putative ABC-transport system ATP-binding component'],True,NRP
+1973920869,1973920869_3599_4669,657559911,BGC0000423,3599,4669,['putative secreted siderophore-binding lipoprotein (transport system associated)'],True,NRP
+1973920869,1973920869_4740_4949,340240893,BGC0000423,4740,4949,['putative MbtH homolog'],True,NRP
+1973920869,1973920869_4964_24022,1962386226,BGC0000423,4964,24022,['putative NRPS/siderophore biosynthesis protein'],True,NRP
+1973920869,1973920869_24219_25259,3661741890,BGC0000423,24219,25259,"['putative siderophore transport system integral membrane component, FecCD family']",True,NRP
+1973920869,1973920869_25542_26651,3035958352,BGC0000423,25542,26651,"['putative siderophore transport system integral membrane component, FecCD family']",True,NRP
+1973920869,1973920869_26656_27570,2031575915,BGC0000423,26656,27570,['putative siderophore transport system ATP-binding component'],True,NRP
+1973920869,1973920869_27614_28561,805131322,BGC0000423,27614,28561,['putative formyltransferase'],True,NRP
+1973920869,1973920869_28608_30020,7927328,BGC0000423,28608,30020,['putative peptide N-oxygenase'],True,NRP

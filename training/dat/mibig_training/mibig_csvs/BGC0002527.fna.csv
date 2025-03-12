@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2884205132,2884205132_1_1185,231239887,BGC0002527,1,1185,['diaminopimelate decarboxylase'],True,Other
+2884205132,2884205132_1182_2942,178121552,BGC0002527,1182,2942,"['siderophore biosynthesis protein, IucA/IucC family']",True,Other
+2884205132,2884205132_2939_4078,1065113115,BGC0002527,2939,4078,"['transporter, MFS superfamily']",True,Other
+2884205132,2884205132_4063_5841,2261687997,BGC0002527,4063,5841,"['siderophore biosynthesis protein, IucA/IucC family']",True,Other
+2884205132,2884205132_5838_7037,1740211521,BGC0002527,5838,7037,['hypothetical protein'],True,Other
+2884205132,2884205132_7117_9231,3693860402,BGC0002527,7117,9231,['TonB-dependent siderophore receptor'],True,Other
+2884205132,2884205132_9238_10014,1945688505,BGC0002527,9238,10014,"['2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase, HpcH/HpaI family']",True,Other

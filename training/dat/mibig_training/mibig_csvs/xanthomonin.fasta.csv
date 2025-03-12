@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1765327638,1765327638_1_141,2215608950,BGC0000580,1,141,['hypothetical protein'],True,RiPP
+1765327638,1765327638_190_336,3423489955,BGC0000580,190,336,['hypothetical protein'],True,RiPP
+1765327638,1765327638_447_1121,2104376429,BGC0000580,447,1121,['hypothetical protein'],True,RiPP
+1765327638,1765327638_1121_2854,3425993603,BGC0000580,1121,2854,['asparagine synthase (glutamine-hydrolyzing)'],True,RiPP

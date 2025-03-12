@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4233196543,4233196543_1_4806,3545119681,BGC0002472,1,4806,['non-ribosomal peptide synthetase'],True,NRP
+4233196543,4233196543_4823_7150,1299310355,BGC0002472,4823,7150,['bifunctional Gfo/Idh/MocA family oxidoreductase/class I SAM-dependent methyltransferase'],True,NRP
+4233196543,4233196543_7160_8365,1366582277,BGC0002472,7160,8365,['saccharopine dehydrogenase NADP-binding domain-containing protein'],True,NRP
+4233196543,4233196543_8383_17457,3834169268,BGC0002472,8383,17457,['non-ribosomal peptide synthetase'],True,NRP
+4233196543,4233196543_17487_20447,4205718766,BGC0002472,17487,20447,['salicylate synthase'],True,NRP
+4233196543,4233196543_20762_21496,605880239,BGC0002472,20762,21496,"[""4'-phosphopantetheinyl transferase superfamily protein""]",True,NRP
+4233196543,4233196543_21501_22280,3603281540,BGC0002472,21501,22280,['thioesterase II family protein'],True,NRP

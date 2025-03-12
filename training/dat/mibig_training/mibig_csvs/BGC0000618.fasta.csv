@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1914225769,1914225769_1_147,2017639220,BGC0000618,1,147,['enterocin induction factor'],True,RiPP
+1914225769,1914225769_251_562,3155051132,BGC0000618,251,562,['enterocin A immunity protein'],True,RiPP
+1914225769,1914225769_564_761,4087833631,BGC0000618,564,761,['enterocin A'],True,RiPP

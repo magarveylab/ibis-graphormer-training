@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2104892202,2104892202_1_1254,2631510908,BGC0001465,1,1254,['FAD-dependent oxidoreductase'],True,Other
+2104892202,2104892202_1266_1586,2288373941,BGC0001465,1266,1586,['2Fe-2S iron-sulfur cluster-binding protein'],True,Other
+2104892202,2104892202_1609_2187,3322335259,BGC0001465,1609,2187,['carboxymuconolactone decarboxylase family protein'],True,Other
+2104892202,2104892202_2449_3579,3368229487,BGC0001465,2449,3579,['alpha/beta fold hydrolase'],True,Other
+2104892202,2104892202_3576_4808,3691852729,BGC0001465,3576,4808,['NAD(P)/FAD-dependent oxidoreductase'],True,Other
+2104892202,2104892202_4872_5750,3131699425,BGC0001465,4872,5750,['sulfite exporter TauE/SafE family protein'],True,Other
+2104892202,2104892202_5765_6907,1495789240,BGC0001465,5765,6907,['acyl-CoA dehydrogenase family protein'],True,Other
+2104892202,2104892202_6904_8433,1822612900,BGC0001465,6904,8433,['amino acid adenylation domain-containing protein'],True,Other
+2104892202,2104892202_8513_10063,3878338621,BGC0001465,8513,10063,['NAD(P)-binding domain-containing protein'],True,Other
+2104892202,2104892202_10117_10746,4253651771,BGC0001465,10117,10746,['chorismate pyruvate-lyase family protein'],True,Other
+2104892202,2104892202_10733_12220,2624670301,BGC0001465,10733,12220,['cytochrome P450'],True,Other

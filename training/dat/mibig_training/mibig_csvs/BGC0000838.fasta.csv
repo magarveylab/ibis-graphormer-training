@@ -1,0 +1,36 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4203283448,4203283448_1_1290,867927480,BGC0000838,1,1290,['Phenylacetate--CoA ligase'],True,Polyketide
+4203283448,4203283448_1287_2954,2929754985,BGC0000838,1287,2954,"['peptidase family C45, acyl-coenzyme A:6-aminopenicillanic acid acyl-transferase']",True,Polyketide
+4203283448,4203283448_2961_4478,1836786839,BGC0000838,2961,4478,"['All-trans-retinol 13,14-reductase']",True,Polyketide
+4203283448,4203283448_4479_8159,2744118305,BGC0000838,4479,8159,['probable bifunctional phospholipid/glycerol acyltransferase and transporter'],True,Polyketide
+4203283448,4203283448_8313_9500,2002750112,BGC0000838,8313,9500,['Candidate beta-glycosyltransferase; Glycosyltransferase family 2'],True,Polyketide
+4203283448,4203283448_9519_10004,2530426377,BGC0000838,9519,10004,['hypothetical protein'],True,Polyketide
+4203283448,4203283448_10007_10378,701417021,BGC0000838,10007,10378,"['Beta-hydroxyacyl-(acyl-carrier-protein) dehydratase, FabA/FabZ']",True,Polyketide
+4203283448,4203283448_10391_11008,851002444,BGC0000838,10391,11008,['hypothetical protein'],True,Polyketide
+4203283448,4203283448_11008_11610,538321121,BGC0000838,11008,11610,['hypothetical protein'],True,Polyketide
+4203283448,4203283448_11648_12283,148480699,BGC0000838,11648,12283,['hypothetical lipoprotein'],True,Polyketide
+4203283448,4203283448_12249_12875,97473322,BGC0000838,12249,12875,['Possible lipoprotein carrier protein LolA'],True,Polyketide
+4203283448,4203283448_12985_13770,2902711762,BGC0000838,12985,13770,['Candidate polysaccharide deacetylase; Carbohydrate esterase family 4'],True,Polyketide
+4203283448,4203283448_13767_14828,3369927842,BGC0000838,13767,14828,['3-oxoacyl-(acyl-carrier-protein) synthase-like protein'],True,Polyketide
+4203283448,4203283448_14830_16029,2596061913,BGC0000838,14830,16029,['beta-ketoacyl synthase'],True,Polyketide
+4203283448,4203283448_16172_16429,140133547,BGC0000838,16172,16429,['hypothetical protein'],True,Polyketide
+4203283448,4203283448_16432_17049,789963633,BGC0000838,16432,17049,['hypothetical protein'],True,Polyketide
+4203283448,4203283448_17076_18074,1806717076,BGC0000838,17076,18074,['hypothetical protein'],True,Polyketide
+4203283448,4203283448_18147_18947,3730621639,BGC0000838,18147,18947,['hypothetical protein'],True,Polyketide
+4203283448,4203283448_18944_20083,3120449192,BGC0000838,18944,20083,['beta-ketoacyl synthase'],True,Polyketide
+4203283448,4203283448_20193_20642,2241516802,BGC0000838,20193,20642,['thioesterase superfamily protein'],True,Polyketide
+4203283448,4203283448_20617_21900,1890488855,BGC0000838,20617,21900,"['ABC-2 type transporter, permease component']",True,Polyketide
+4203283448,4203283448_21890_22642,3441498689,BGC0000838,21890,22642,"['ABC transporter related, ATPase component']",True,Polyketide
+4203283448,4203283448_22650_23648,187381270,BGC0000838,22650,23648,['hypothetical protein'],True,Polyketide
+4203283448,4203283448_23649_24053,210488582,BGC0000838,23649,24053,['hypothetical protein'],True,Polyketide
+4203283448,4203283448_24376_24783,3834482485,BGC0000838,24376,24783,['Possible beta hydroxy acyl ACP dehydratase'],True,Polyketide
+4203283448,4203283448_24847_25278,286214508,BGC0000838,24847,25278,['Possible beta hydroxy acyl ACP dehydratase'],True,Polyketide
+4203283448,4203283448_25278_26411,1459218614,BGC0000838,25278,26411,['3-oxoacyl-[acyl-carrier-protein] synthase III protein DarB'],True,Polyketide
+4203283448,4203283448_26429_27331,4023161748,BGC0000838,26429,27331,['Dialkylrecorsinol condensing enzyme DarA'],True,Polyketide
+4203283448,4203283448_27620_28498,3431337053,BGC0000838,27620,28498,['lipid A biosynthesis acyltransferase'],True,Polyketide
+4203283448,4203283448_28498_28752,1139821818,BGC0000838,28498,28752,['hypothetical protein'],True,Polyketide
+4203283448,4203283448_28745_29980,1456016632,BGC0000838,28745,29980,['3-oxoacyl-[acyl-carrier-protein] synthase I'],True,Polyketide
+4203283448,4203283448_30152_30883,1124769172,BGC0000838,30152,30883,['short-chain dehydrogenase/reductase SDR'],True,Polyketide
+4203283448,4203283448_30893_32122,3157374982,BGC0000838,30893,32122,['Protein of unknown function with Leptospira KWG-like repeat'],True,Polyketide
+4203283448,4203283448_32191_33711,3009737196,BGC0000838,32191,33711,['Histidine ammonia-lyase'],True,Polyketide
+4203283448,4203283448_33813_35063,3579873088,BGC0000838,33813,35063,['tryptophan halogenase'],True,Polyketide

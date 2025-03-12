@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+273263186,273263186_1_897,441601914,BGC0000870,1,897,['Methoxy mycolic acid synthase 4 MmaA4 (methyl mycolic acid synthase 4) (MMA4) (hydroxy mycolic acid synthase)'],True,Other
+273263186,273263186_971_1852,30792475,BGC0000870,971,1852,['Methoxy mycolic acid synthase 3 MmaA3 (methyl mycolic acid synthase 3) (MMA3) (hydroxy mycolic acid synthase)'],True,Other
+273263186,273263186_2000_2863,120641871,BGC0000870,2000,2863,['Methoxy mycolic acid synthase 2 MmaA2 (methyl mycolic acid synthase 2) (MMA2) (hydroxy mycolic acid synthase)'],True,Other
+273263186,273263186_3030_3890,2152901124,BGC0000870,3030,3890,['Methoxy mycolic acid synthase 1 MmaA1 (methyl mycolic acid synthase 1) (MMA1) (hydroxy mycolic acid synthase)'],True,Other

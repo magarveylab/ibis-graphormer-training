@@ -1,0 +1,27 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4221893420,4221893420_3_185,3760336069,BGC0001078,3,185,,False,
+4221893420,4221893420_695_1765,1358938412,BGC0001078,695,1765,['Probable Type III PKS'],True,Terpene__Polyketide
+4221893420,4221893420_1854_2363,2111013579,BGC0001078,1854,2363,['hypothetical protein'],True,Terpene__Polyketide
+4221893420,4221893420_2369_3526,137178899,BGC0001078,2369,3526,['hypothetical protein'],True,Terpene__Polyketide
+4221893420,4221893420_3523_4518,1751785535,BGC0001078,3523,4518,['Probable methyltransferase'],True,Terpene__Polyketide
+4221893420,4221893420_4553_6139,2928168066,BGC0001078,4553,6139,['fatty-acid-CoA ligase homolog'],True,Terpene__Polyketide
+4221893420,4221893420_6199_7272,391280231,BGC0001078,6199,7272,['Probable methyltransferase'],True,Terpene__Polyketide
+4221893420,4221893420_7425_8348,1952771596,BGC0001078,7425,8348,['cloQ homologue'],True,Terpene__Polyketide
+4221893420,4221893420_8345_9649,1103349722,BGC0001078,8345,9649,['P450'],True,Terpene__Polyketide
+4221893420,4221893420_9709_10716,3880789953,BGC0001078,9709,10716,['mevalonate kinase'],True,Terpene__Polyketide
+4221893420,4221893420_10706_11719,3753858395,BGC0001078,10706,11719,['mevalonate diphosphate decarboxylase'],True,Terpene__Polyketide
+4221893420,4221893420_11716_12855,601394022,BGC0001078,11716,12855,['phosphomevalonate kinase'],True,Terpene__Polyketide
+4221893420,4221893420_12852_13943,1585487587,BGC0001078,12852,13943,['Type II isopentenyl diphosphate isomerase'],True,Terpene__Polyketide
+4221893420,4221893420_13940_14998,241160404,BGC0001078,13940,14998,['3-hydroxy-3-methylglutaryl-CoA reductase'],True,Terpene__Polyketide
+4221893420,4221893420_15003_16178,4125215141,BGC0001078,15003,16178,['3-hydroxy-3-methylglutaryl-CoA synthase'],True,Terpene__Polyketide
+4221893420,4221893420_16259_17233,984688732,BGC0001078,16259,17233,['putative 3-oxoacyl-[acyl-carrier-protein]'],True,Terpene__Polyketide
+4221893420,4221893420_17341_19278,3960501642,BGC0001078,17341,19278,['hypothetical protein'],True,Terpene__Polyketide
+4221893420,4221893420_19268_20722,2951137884,BGC0001078,19268,20722,"['3-carboxy-cis,cis-muconate cycloisomerase homologue']",True,Terpene__Polyketide
+4221893420,4221893420_20691_20873,3086565347,BGC0001078,20691,20873,,True,Terpene__Polyketide
+4221893420,4221893420_20870_21499,1082590419,BGC0001078,20870,21499,['ovmZ homologue'],True,Terpene__Polyketide
+4221893420,4221893420_21724_22794,2977696846,BGC0001078,21724,22794,['Probable geranyl diphosphate synthase'],True,Terpene__Polyketide
+4221893420,4221893420_23040_23717,918253114,BGC0001078,23040,23717,['Probable short-chain Z-isoprenyl diphosphate synthase'],True,Terpene__Polyketide
+4221893420,4221893420_23859_24932,523825430,BGC0001078,23859,24932,['Probable methyltransferase'],True,Terpene__Polyketide
+4221893420,4221893420_25035_25982,3022164658,BGC0001078,25035,25982,['Putative transcriptional regulator'],True,Terpene__Polyketide
+4221893420,4221893420_26139_27167,3508339855,BGC0001078,26139,27167,['Putative transcriptional regulator'],True,Terpene__Polyketide
+4221893420,4221893420_27164_27448,871463983,BGC0001078,27164,27448,,False,

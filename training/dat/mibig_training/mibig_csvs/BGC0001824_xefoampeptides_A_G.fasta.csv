@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2859827209,2859827209_1_420,614907034,BGC0001824,1,420,['hypothetical protein'],True,NRP
+2859827209,2859827209_436_1125,1173654075,BGC0001824,436,1125,['helix-turn-helix transcriptional regulator'],True,NRP
+2859827209,2859827209_1152_2432,1634934640,BGC0001824,1152,2432,['cytosine permease'],True,NRP
+2859827209,2859827209_2923_14448,1490711687,BGC0001824,2923,14448,['peptide synthase'],True,NRP
+2859827209,2859827209_15107_16657,4262071637,BGC0001824,15107,16657,['tryptophan halogenase'],True,NRP
+2859827209,2859827209_16761_17537,1363890124,BGC0001824,16761,17537,['short chain dehydrogenase/reductase family oxidoreductase'],True,NRP

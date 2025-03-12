@@ -1,0 +1,33 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3399324070,3399324070_1_753,3211440979,BGC0002361,1,753,['IclR family transcriptional regulator'],True,Polyketide__Saccharide
+3399324070,3399324070_970_2568,3102962708,BGC0002361,970,2568,['FAD-binding oxidoreductase'],True,Polyketide__Saccharide
+3399324070,3399324070_2606_3055,1882308609,BGC0002361,2606,3055,['hypothetical protein'],True,Polyketide__Saccharide
+3399324070,3399324070_3943_4779,3818496918,BGC0002361,3943,4779,['response regulator transcription factor'],True,Polyketide__Saccharide
+3399324070,3399324070_5038_6156,3660279434,BGC0002361,5038,6156,['NADH:flavin oxidoreductase'],True,Polyketide__Saccharide
+3399324070,3399324070_6244_7827,1872297602,BGC0002361,6244,7827,['DHA2 family efflux MFS transporter permease subunit'],True,Polyketide__Saccharide
+3399324070,3399324070_7842_8441,3424588008,BGC0002361,7842,8441,['NADPH-dependent oxidoreductase'],True,Polyketide__Saccharide
+3399324070,3399324070_8559_9314,562194048,BGC0002361,8559,9314,['TetR family transcriptional regulator'],True,Polyketide__Saccharide
+3399324070,3399324070_9495_10331,327071570,BGC0002361,9495,10331,['hypothetical protein'],True,Polyketide__Saccharide
+3399324070,3399324070_10563_12047,4185666071,BGC0002361,10563,12047,['monooxygenase'],True,Polyketide__Saccharide
+3399324070,3399324070_12106_12432,544546797,BGC0002361,12106,12432,['TcmI family type II polyketide cyclase'],True,Polyketide__Saccharide
+3399324070,3399324070_12429_13718,4289641092,BGC0002361,12429,13718,['beta-ketoacyl-[acyl-carrier-protein] synthase family protein'],True,Polyketide__Saccharide
+3399324070,3399324070_13715_14941,2352005242,BGC0002361,13715,14941,['ketosynthase chain-length factor'],True,Polyketide__Saccharide
+3399324070,3399324070_14998_15267,887661376,BGC0002361,14998,15267,['acyl carrier protein'],True,Polyketide__Saccharide
+3399324070,3399324070_15300_16100,1104392844,BGC0002361,15300,16100,['SDR family NAD(P)-dependent oxidoreductase'],True,Polyketide__Saccharide
+3399324070,3399324070_16127_17065,3808282799,BGC0002361,16127,17065,['cyclase'],True,Polyketide__Saccharide
+3399324070,3399324070_17105_19066,2159432372,BGC0002361,17105,19066,['SDR family oxidoreductase'],True,Polyketide__Saccharide
+3399324070,3399324070_19184_20407,941450301,BGC0002361,19184,20407,['MFS transporter'],True,Polyketide__Saccharide
+3399324070,3399324070_20440_21732,3189678377,BGC0002361,20440,21732,['activator-dependent family glycosyltransferase'],True,Polyketide__Saccharide
+3399324070,3399324070_21772_22944,510011512,BGC0002361,21772,22944,['DUF1205 domain-containing protein'],True,Polyketide__Saccharide
+3399324070,3399324070_22991_23596,1416251772,BGC0002361,22991,23596,['dTDP-4-keto-6-deoxy-D-glucose epimerase'],True,Polyketide__Saccharide
+3399324070,3399324070_23593_24729,3794838836,BGC0002361,23593,24729,['DUF1205 domain-containing protein'],True,Polyketide__Saccharide
+3399324070,3399324070_24814_25881,3064382489,BGC0002361,24814,25881,['glucose-1-phosphate thymidylyltransferase'],True,Polyketide__Saccharide
+3399324070,3399324070_25878_26864,211378679,BGC0002361,25878,26864,"['dTDP-glucose 4,6-dehydratase']",True,Polyketide__Saccharide
+3399324070,3399324070_26857_27855,4187780958,BGC0002361,26857,27855,['NAD(P)-dependent oxidoreductase'],True,Polyketide__Saccharide
+3399324070,3399324070_27852_29159,2257524478,BGC0002361,27852,29159,['lipopolysaccharide biosynthesis protein RfbH'],True,Polyketide__Saccharide
+3399324070,3399324070_29226_30275,1328460854,BGC0002361,29226,30275,['hypothetical protein'],True,Polyketide__Saccharide
+3399324070,3399324070_30288_31685,4108359051,BGC0002361,30288,31685,"['NDP-hexose 2,3-dehydratase']",True,Polyketide__Saccharide
+3399324070,3399324070_31682_32734,2791920927,BGC0002361,31682,32734,['Gfo/Idh/MocA family oxidoreductase'],True,Polyketide__Saccharide
+3399324070,3399324070_32682_33416,1139413605,BGC0002361,32682,33416,"[""4'-phosphopantetheinyl transferase superfamily protein""]",True,Polyketide__Saccharide
+3399324070,3399324070_33433_35004,1737512879,BGC0002361,33433,35004,['acyl-CoA carboxylase subunit beta'],True,Polyketide__Saccharide
+3399324070,3399324070_35016_35222,3587841858,BGC0002361,35016,35222,['acyl-CoA carboxylase subunit epsilon'],True,Polyketide__Saccharide

@@ -1,0 +1,21 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2820571059,2820571059_1_900,3772711621,BGC0001765,1,900,['GlcNAc transferase'],True,Saccharide
+2820571059,2820571059_972_1238,1322724992,BGC0001765,972,1238,['hypothetical protein'],True,Saccharide
+2820571059,2820571059_1578_1856,14071772,BGC0001765,1578,1856,['exopolysaccharide production repressor exox'],True,Saccharide
+2820571059,2820571059_1966_2955,3321506810,BGC0001765,1966,2955,['glycosyl transferase family A'],True,Saccharide
+2820571059,2820571059_3138_4103,1692027236,BGC0001765,3138,4103,['succinoglycan biosynthesis protein exov'],True,Saccharide
+2820571059,2820571059_4155_5120,4230132328,BGC0001765,4155,5120,['succinoglycan biosynthesis protein exow'],True,Saccharide
+2820571059,2820571059_5238_6716,1401685677,BGC0001765,5238,6716,['succinoglycan biosynthesis protein exop'],True,Saccharide
+2820571059,2820571059_7088_8236,388969281,BGC0001765,7088,8236,['succinoglycan biosynthesis protein exoh'],True,Saccharide
+2820571059,2820571059_8241_9032,3850754166,BGC0001765,8241,9032,"['1,3-1,4-beta-glycanase']",True,Saccharide
+2820571059,2820571059_9098_10279,1785758979,BGC0001765,9098,10279,['glycosyl transferase family 1'],True,Saccharide
+2820571059,2820571059_10297_11295,2910140442,BGC0001765,10297,11295,['succinoglycan biosynthesis protein exoa'],True,Saccharide
+2820571059,2820571059_11292_12236,3643943448,BGC0001765,11292,12236,['glycosyl transferase family A'],True,Saccharide
+2820571059,2820571059_12236_13231,2542860529,BGC0001765,12236,13231,['glycosyl transferase'],True,Saccharide
+2820571059,2820571059_13299_14204,936213377,BGC0001765,13299,14204,['UTP--glucose-1-phosphate uridylyltransferase'],True,Saccharide
+2820571059,2820571059_14313_16661,127143165,BGC0001765,14313,16661,['chain-length determining protein'],True,Saccharide
+2820571059,2820571059_16907_17851,1936008321,BGC0001765,16907,17851,['glyoxylate/hydroxypyruvate reductase A'],True,Saccharide
+2820571059,2820571059_17869_20832,1114119322,BGC0001765,17869,20832,['hybrid sensor histidine kinase/response regulator'],True,Saccharide
+2820571059,2820571059_21197_22195,3874378114,BGC0001765,21197,22195,['ABC transporter substrate-binding protein'],True,Saccharide
+2820571059,2820571059_22408_23295,543737267,BGC0001765,22408,23295,['ABC transporter permease'],True,Saccharide
+2820571059,2820571059_23288_24349,343916614,BGC0001765,23288,24349,['proline/glycine betaine ABC transporter ATP-binding protein'],True,Saccharide

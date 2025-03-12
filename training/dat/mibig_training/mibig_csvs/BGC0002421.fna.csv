@@ -1,0 +1,16 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+898539913,898539913_1_2184,2882238556,BGC0002421,1,2184,['TonB-dependent siderophore receptor'],True,NRP
+898539913,898539913_2181_3119,3609325424,BGC0002421,2181,3119,"['transcriptional regulator, LysR family']",True,NRP
+898539913,898539913_3248_4879,3724882238,BGC0002421,3248,4879,['major facilitator superfamily (MFS) efflux pump'],True,NRP
+898539913,898539913_4947_5789,1535778127,BGC0002421,4947,5789,['conserved hypothetical protein'],True,NRP
+898539913,898539913_5830_7200,4267368145,BGC0002421,5830,7200,['l-ornithine 5-monooxygenase'],True,NRP
+898539913,898539913_7323_12350,4002917146,BGC0002421,7323,12350,['Non-ribosomal peptide synthetase'],True,NRP
+898539913,898539913_12428_22147,873214222,BGC0002421,12428,22147,['Non-ribosomal peptide synthase'],True,NRP
+898539913,898539913_22428_24194,2766336024,BGC0002421,22428,24194,"['ABC cyclic peptide efflux pump, fused ATPase and inner membrane subunits']",True,NRP
+898539913,898539913_24262_25080,2465272977,BGC0002421,24262,25080,"['ABC Fe3+-hydroxamate transporter, periplasmic ligand binding protein']",True,NRP
+898539913,898539913_25368_26186,259338245,BGC0002421,25368,26186,['Putative iron reductase'],True,NRP
+898539913,898539913_26186_28300,2925254709,BGC0002421,26186,28300,"['ABC Fe3+-siderophore transporter, inner membrane subunit']",True,NRP
+898539913,898539913_28297_29163,2757870215,BGC0002421,28297,29163,"['ABC cobalamin/Fe3+-siderophores transporter, ATPase subunit']",True,NRP
+898539913,898539913_29160_30182,1009200146,BGC0002421,29160,30182,['conserved hypothetical protein'],True,NRP
+898539913,898539913_30255_30494,1321094967,BGC0002421,30255,30494,['conserved hypothetical protein'],True,NRP
+898539913,898539913_30621_31292,462958862,BGC0002421,30621,31292,['Sigma-24 (FecI)'],True,NRP

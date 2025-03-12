@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+588510990,588510990_1_1050,330131878,BGC0001453,1,1050,['ABC_transporter_substrate-binding_protein'],True,Other
+588510990,588510990_1440_1997,1322629759,BGC0001453,1440,1997,['siderophore-interacting_protein'],True,Other
+588510990,588510990_2172_3614,3831681458,BGC0001453,2172,3614,['pyridoxal 5-phosfate (PLP)-dependen_lysine_decarboxylase'],True,Other
+588510990,588510990_3598_4890,2115848892,BGC0001453,3598,4890,['FAD-dependent monooxygenase'],True,Other
+588510990,588510990_4887_5438,313299938,BGC0001453,4887,5438,['N-acetyltransferase'],True,Other
+588510990,588510990_5435_7234,2903111380,BGC0001453,5435,7234,['NTP-dependent siderophore synthetase'],True,Other

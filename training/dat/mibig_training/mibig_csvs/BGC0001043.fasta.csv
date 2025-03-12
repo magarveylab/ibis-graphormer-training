@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+657874548,657874548_1_1191,1070637158,BGC0001043,1,1191,['putative cytochrome P450'],True,NRP__Polyketide
+657874548,657874548_1240_2295,1596793160,BGC0001043,1240,2295,['putative oxidoreductase'],True,NRP__Polyketide
+657874548,657874548_2292_3959,2306333899,BGC0001043,2292,3959,['putative FAD-dependent oxidoreductase'],True,NRP__Polyketide
+657874548,657874548_4013_5695,1441715970,BGC0001043,4013,5695,['putative FAD-dependent oxidoreductase'],True,NRP__Polyketide
+657874548,657874548_5685_15155,2533117050,BGC0001043,5685,15155,['putative NRPS-type-I PKS fusion protein'],True,NRP__Polyketide
+657874548,657874548_15242_16183,1309487644,BGC0001043,15242,16183,['hypothetical protein'],True,NRP__Polyketide

@@ -1,0 +1,14 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+21554531,21554531_1_2217,3637962700,BGC0002413,1,2217,['TonB-dependent siderophore receptor family protein'],True,NRP
+21554531,21554531_2568_3911,9062975,BGC0002413,2568,3911,['hypothetical protein'],True,NRP
+21554531,21554531_3901_4131,4194065376,BGC0002413,3901,4131,['mbtH-like family protein'],True,NRP
+21554531,21554531_4237_11442,1384569968,BGC0002413,4237,11442,['amino acid adenylation domain protein'],True,NRP
+21554531,21554531_11932_12744,1036659656,BGC0002413,11932,12744,['ABC transporter family protein'],True,NRP
+21554531,21554531_12741_13784,4044466107,BGC0002413,12741,13784,['fecCD transport family protein'],True,NRP
+21554531,21554531_13781_14827,976184800,BGC0002413,13781,14827,['ferric enterobactin transport system permease protein fepD'],True,NRP
+21554531,21554531_15025_16293,2254365486,BGC0002413,15025,16293,['major Facilitator Superfamily protein'],True,NRP
+21554531,21554531_16435_17478,3872670250,BGC0002413,16435,17478,['periplasmic binding family protein'],True,NRP
+21554531,21554531_17758_18972,913875912,BGC0002413,17758,18972,['isochorismate synthase family protein'],True,NRP
+21554531,21554531_18969_20603,1832117022,BGC0002413,18969,20603,"['(2,3-dihydroxybenzoyl)adenylate synthase']",True,NRP
+21554531,21554531_20614_21522,269369682,BGC0002413,20614,21522,['isochorismatase'],True,NRP
+21554531,21554531_21522_22337,1299882365,BGC0002413,21522,22337,"['2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase']",True,NRP

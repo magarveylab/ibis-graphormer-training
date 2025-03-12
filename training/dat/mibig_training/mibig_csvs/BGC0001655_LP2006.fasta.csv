@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2201053036,2201053036_379_519,3734110335,BGC0001655,379,519,['lasso RiPP family leader peptide-containing protein'],True,RiPP
+2201053036,2201053036_657_2501,44698725,BGC0001655,657,2501,['asparagine synthase-related protein'],True,RiPP
+2201053036,2201053036_2504_2761,1856295602,BGC0001655,2504,2761,['lasso peptide biosynthesis PqqD family chaperone'],True,RiPP
+2201053036,2201053036_2758_3192,762464842,BGC0001655,2758,3192,,True,RiPP
+2201053036,2201053036_3182_3775,1793408854,BGC0001655,3182,3775,['hypothetical protein'],True,RiPP
+2201053036,2201053036_3765_4697,78635424,BGC0001655,3765,4697,['ATP-binding cassette domain-containing protein'],True,RiPP
+2201053036,2201053036_4694_5572,1844747795,BGC0001655,4694,5572,['ABC transporter permease'],True,RiPP

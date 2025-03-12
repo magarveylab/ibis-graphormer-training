@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1348515729,1348515729_1_1017,1180054842,BGC0001456,1,1017,['2Fe-2S ferredoxin'],True,Terpene
+1348515729,1348515729_1014_2045,3173029037,BGC0001456,1014,2045,['phytoene_/_squalene_synthase'],True,Terpene
+1348515729,1348515729_2042_3586,2430524885,BGC0001456,2042,3586,['phytoene desaturase'],True,Terpene
+1348515729,1348515729_3583_4974,2388260375,BGC0001456,3583,4974,['geranylgeranyl pyrophosphate synthase'],True,Terpene
+1348515729,1348515729_5310_5930,3726639829,BGC0001456,5310,5930,"['RNA_polymerase,_sigma-24_subunit']",True,Terpene
+1348515729,1348515729_6172_7362,1964893677,BGC0001456,6172,7362,['lycopene_cyclase'],True,Terpene
+1348515729,1348515729_7418_8152,1675214566,BGC0001456,7418,8152,['methyltransferase'],True,Terpene
+1348515729,1348515729_8149_9777,2722254391,BGC0001456,8149,9777,['isorenieratene synthase'],True,Terpene

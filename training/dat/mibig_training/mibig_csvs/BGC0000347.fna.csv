@@ -1,0 +1,15 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1657396850,1657396850_1_381,3839227048,BGC0000347,1,381,['putative iron-dependent regulatory protein'],True,NRP
+1657396850,1657396850_610_1359,1392951567,BGC0000347,610,1359,['putative non-ribosomal peptide synthesis thioesterase'],True,NRP
+1657396850,1657396850_1346_2029,2521905596,BGC0000347,1346,2029,"[""putative 4'-phosphopantetheinyl transferase superfamily protein""]",True,NRP
+1657396850,1657396850_2038_3621,65178827,BGC0000347,2038,3621,['equibactin siderophore biosynthetic protein'],True,NRP
+1657396850,1657396850_3636_9707,3979727357,BGC0000347,3636,9707,['equibactin equibactin nonribosomal peptide synthase protein'],True,NRP
+1657396850,1657396850_9707_11830,2130372275,BGC0000347,9707,11830,['equibactin biosynthetic protein'],True,NRP
+1657396850,1657396850_11814_15632,4078495596,BGC0000347,11814,15632,['equibactin nonribosomal peptide synthase protein'],True,NRP
+1657396850,1657396850_15622_16209,744459518,BGC0000347,15622,16209,['putative membrane protein'],True,NRP
+1657396850,1657396850_16211_16882,279026547,BGC0000347,16211,16882,['putative transmembrane protein'],True,NRP
+1657396850,1657396850_16896_18272,2099419256,BGC0000347,16896,18272,['putative ABC transporter ATP-binding component'],True,NRP
+1657396850,1657396850_18295_20052,3899404217,BGC0000347,18295,20052,"['ABC transporter, ATP-binding membrane protein']",True,NRP
+1657396850,1657396850_20057_21802,605803222,BGC0000347,20057,21802,['ABC transporter ATP-binding membrane protein'],True,NRP
+1657396850,1657396850_21822_22886,2387074877,BGC0000347,21822,22886,['putative oxidoreductase'],True,NRP
+1657396850,1657396850_22914_23813,3564704368,BGC0000347,22914,23813,['putative membrane protein'],True,NRP

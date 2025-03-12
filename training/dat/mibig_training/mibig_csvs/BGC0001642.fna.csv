@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1183148062,1183148062_1_216,2946572407,BGC0001642,1,216,['related to pentalenene synthase'],True,Terpene
+1183148062,1183148062_306_569,90487081,BGC0001642,306,569,['related to pentalenene synthase'],True,Terpene
+1183148062,1183148062_1290_1589,1822605375,BGC0001642,1290,1589,,True,Terpene

@@ -1,0 +1,56 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+262894069,262894069_2_1489,2865886952,BGC0000119,2,1489,['phosphoribosylformylglycinamidine synthase II-like protein'],True,Polyketide__Saccharide
+262894069,262894069_1756_2643,3997869109,BGC0000119,1756,2643,['hypothetical protein'],True,Polyketide__Saccharide
+262894069,262894069_2803_4314,2302930684,BGC0000119,2803,4314,['n-acetylgalactosamine-6-sulfate sulfatase-like protein'],True,Polyketide__Saccharide
+262894069,262894069_5443_7026,3485214780,BGC0000119,5443,7026,['amidophosphoribosyltransferase-like protein'],True,Polyketide__Saccharide
+262894069,262894069_7060_8160,1291135286,BGC0000119,7060,8160,['phosphoribosylaminoimidazole synthetase-like protein'],True,Polyketide__Saccharide
+262894069,262894069_8475_8738,3047264739,BGC0000119,8475,8738,,True,Polyketide__Saccharide
+262894069,262894069_9066_10160,2727957783,BGC0000119,9066,10160,['valine dehydrogenase (NADP+)-like protein'],True,Polyketide__Saccharide
+262894069,262894069_10449_11279,1596113346,BGC0000119,10449,11279,['hypothetical protein'],True,Polyketide__Saccharide
+262894069,262894069_11803_12009,446951357,BGC0000119,11803,12009,,True,Polyketide__Saccharide
+262894069,262894069_12500_13135,1965519594,BGC0000119,12500,13135,['hypothetical protein'],True,Polyketide__Saccharide
+262894069,262894069_14199_18185,2613600827,BGC0000119,14199,18185,['ATP-dependent helicase-like protein'],True,Polyketide__Saccharide
+262894069,262894069_18497_19801,4093157534,BGC0000119,18497,19801,,True,Polyketide__Saccharide
+262894069,262894069_19928_21616,2100587039,BGC0000119,19928,21616,['putative ECF-family RNA polymerase sigma factor'],True,Polyketide__Saccharide
+262894069,262894069_21753_22910,129421019,BGC0000119,21753,22910,['putative FAD-dependent pyridine nucleotide-disulphide oxidoreductase'],True,Polyketide__Saccharide
+262894069,262894069_23582_24052,4108273540,BGC0000119,23582,24052,['hypothetical protein'],True,Polyketide__Saccharide
+262894069,262894069_24357_24932,3165411926,BGC0000119,24357,24932,['putative translation initiation factor IF-2'],True,Polyketide__Saccharide
+262894069,262894069_25602_27968,433690369,BGC0000119,25602,27968,['putative ATP-dependent RNA helicase'],True,Polyketide__Saccharide
+262894069,262894069_28797_29690,1543453047,BGC0000119,28797,29690,,True,Polyketide__Saccharide
+262894069,262894069_29893_31086,3776899418,BGC0000119,29893,31086,['putative cytochrome P450 monooxygenase'],True,Polyketide__Saccharide
+262894069,262894069_31140_31628,1358837413,BGC0000119,31140,31628,['glutathione peroxidase-like protein'],True,Polyketide__Saccharide
+262894069,262894069_31845_33038,3867783743,BGC0000119,31845,33038,['L-alanine:N-amidino-3-keto-scyllo-inosamine aminotransferase-like protein'],True,Polyketide__Saccharide
+262894069,262894069_33035_34747,3691188062,BGC0000119,33035,34747,['putative carbamoyltransferase'],True,Polyketide__Saccharide
+262894069,262894069_35020_36123,334707942,BGC0000119,35020,36123,['Fe-S radical SAM oxidoreductase-like protein'],True,Polyketide__Saccharide
+262894069,262894069_36189_37265,633250728,BGC0000119,36189,37265,['HemK family methyltransferase'],True,Polyketide__Saccharide
+262894069,262894069_37258_37794,2768138077,BGC0000119,37258,37794,['putative glucokinase'],True,Polyketide__Saccharide
+262894069,262894069_37794_38429,411409279,BGC0000119,37794,38429,['two component transcriptional regulator'],True,Polyketide__Saccharide
+262894069,262894069_38620_39756,1698865123,BGC0000119,38620,39756,['putative nucleotydyltransferase'],True,Polyketide__Saccharide
+262894069,262894069_40259_42160,3806929090,BGC0000119,40259,42160,['putative C-methyltransferase'],True,Polyketide__Saccharide
+262894069,262894069_42192_42476,3114097653,BGC0000119,42192,42476,['putative acyl carrier protein'],True,Polyketide__Saccharide
+262894069,262894069_42482_43438,2602790046,BGC0000119,42482,43438,['putative glycosyltransferase'],True,Polyketide__Saccharide
+262894069,262894069_43435_45123,1231592227,BGC0000119,43435,45123,['putative ketoacyl-ACP synthase'],True,Polyketide__Saccharide
+262894069,262894069_45116_46843,1673601220,BGC0000119,45116,46843,['putative C-methyltransferase'],True,Polyketide__Saccharide
+262894069,262894069_46894_48630,2392079614,BGC0000119,46894,48630,['putative C-methyltransferase'],True,Polyketide__Saccharide
+262894069,262894069_48634_49689,2801060511,BGC0000119,48634,49689,['putative NAD dependent dehydrogenase'],True,Polyketide__Saccharide
+262894069,262894069_50000_50794,1403365304,BGC0000119,50000,50794,['putative hydrolase/acyltransferase'],True,Polyketide__Saccharide
+262894069,262894069_50883_51518,1598282747,BGC0000119,50883,51518,['phosphopantetheinyl transferase'],True,Polyketide__Saccharide
+262894069,262894069_52474_58062,3804921109,BGC0000119,52474,58062,['6-methylsalicylic acid synthase'],True,Polyketide__Saccharide
+262894069,262894069_58056_59129,1515066184,BGC0000119,58056,59129,['ketoacyl-ACP synthase'],True,Polyketide__Saccharide
+262894069,262894069_59143_60660,1187132749,BGC0000119,59143,60660,['putative AMP-forming acyl-CoA synthetase'],True,Polyketide__Saccharide
+262894069,262894069_60657_61991,2164256207,BGC0000119,60657,61991,['glutamate-1-semialdehyde aminotransferase-like protein'],True,Polyketide__Saccharide
+262894069,262894069_62237_62992,642638883,BGC0000119,62237,62992,['putative short-chain dehydrogenase/reductase'],True,Polyketide__Saccharide
+262894069,262894069_63030_63710,1151066841,BGC0000119,63030,63710,['putative phosphatase'],True,Polyketide__Saccharide
+262894069,262894069_63731_64411,1719135732,BGC0000119,63731,64411,,True,Polyketide__Saccharide
+262894069,262894069_64683_65450,2422367178,BGC0000119,64683,65450,['hypothetical protein'],True,Polyketide__Saccharide
+262894069,262894069_66186_67481,1776262305,BGC0000119,66186,67481,['integral membrane protein'],True,Polyketide__Saccharide
+262894069,262894069_68047_69201,2889548122,BGC0000119,68047,69201,['putative peptidase'],True,Polyketide__Saccharide
+262894069,262894069_69778_70359,1805776333,BGC0000119,69778,70359,['nourseothricin acetyltransferase-like protein'],True,Polyketide__Saccharide
+262894069,262894069_70343_73489,1800555996,BGC0000119,70343,73489,['putative ATP-dependent helicase'],True,Polyketide__Saccharide
+262894069,262894069_73641_74723,3326810550,BGC0000119,73641,74723,['hypothetical protein'],True,Polyketide__Saccharide
+262894069,262894069_74737_76854,539740948,BGC0000119,74737,76854,,True,Polyketide__Saccharide
+262894069,262894069_77327_78118,2203947924,BGC0000119,77327,78118,['putative methyltransferase'],True,Polyketide__Saccharide
+262894069,262894069_78767_79978,3628503568,BGC0000119,78767,79978,['hypothetical protein'],True,Polyketide__Saccharide
+262894069,262894069_80490_81917,4230888740,BGC0000119,80490,81917,['sporulation associated protein'],True,Polyketide__Saccharide
+262894069,262894069_82906_84993,1012180179,BGC0000119,82906,84993,['putative secreted protein'],True,Polyketide__Saccharide
+262894069,262894069_85292_86350,94052998,BGC0000119,85292,86350,['multi-domain regulatory protein'],True,Polyketide__Saccharide

@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4007545737,4007545737_1_1071,1746834416,BGC0000944,1,1071,['Nonribosomal peptide synthetase independent siderophore (NIS) Synthetase'],True,Other
+4007545737,4007545737_1078_2835,1506378006,BGC0000944,1078,2835,['Siderophore Transporter'],True,Other
+4007545737,4007545737_2822_4015,2419843263,BGC0000944,2822,4015,['Nonribosomal peptide synthetase independent siderophore (NIS) Synthetase'],True,Other
+4007545737,4007545737_4117_6093,1122898524,BGC0000944,4117,6093,['L-ornithine Racemase'],True,Other

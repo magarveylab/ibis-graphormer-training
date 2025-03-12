@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4279056424,4279056424_1_855,3665499192,BGC0002489,1,855,['hypothetical protein'],True,Other
+4279056424,4279056424_837_2138,2381374840,BGC0002489,837,2138,['hypothetical protein'],True,Other
+4279056424,4279056424_2135_2926,1149114808,BGC0002489,2135,2926,['hypothetical protein'],True,Other
+4279056424,4279056424_2956_5082,389594909,BGC0002489,2956,5082,['probable outer membrane protein precursor'],True,Other

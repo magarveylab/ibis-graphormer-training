@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+720856818,720856818_1_1677,3308731256,BGC0000189,1,1677,['putative 3-oxoacyl-[acyl-carrier-protein] synthase'],True,Polyketide
+720856818,720856818_2021_3130,1989438234,BGC0000189,2021,3130,['alcohol dehydrogenase class III'],True,Polyketide
+720856818,720856818_3179_4045,884419233,BGC0000189,3179,4045,['putative esterase'],True,Polyketide
+720856818,720856818_4110_5090,307844737,BGC0000189,4110,5090,['3-oxoacyl-[acyl-carrier-protein] synthase III'],True,Polyketide
+720856818,720856818_5405_6436,4063898749,BGC0000189,5405,6436,"['acylating ketosynthases, acylation of the XclA-derived xenolcyloins with acetyl-, propionyl- or maleonyl-CoA']",True,Polyketide
+720856818,720856818_6426_8123,1234665058,BGC0000189,6426,8123,['S-selective acyloin-like condensation enzyme'],True,Polyketide

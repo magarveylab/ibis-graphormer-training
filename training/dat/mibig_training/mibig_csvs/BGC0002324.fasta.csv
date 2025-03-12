@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2066897486,2066897486_1_774,1934624070,BGC0002324,1,774,"['2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase']",True,NRP__Polyketide
+2066897486,2066897486_870_2096,4241551400,BGC0002324,870,2096,['isochorismate synthase DhbC'],True,NRP__Polyketide
+2066897486,2066897486_2093_3745,2385633881,BGC0002324,2093,3745,"['(2,3-dihydroxybenzoyl)adenylate synthase']",True,NRP__Polyketide
+2066897486,2066897486_3760_4671,709506892,BGC0002324,3760,4671,['isochorismatase family protein'],True,NRP__Polyketide
+2066897486,2066897486_4736_9058,2584149705,BGC0002324,4736,9058,['myxochelin non-ribosomal peptide synthetase MxcG'],True,NRP__Polyketide
+2066897486,2066897486_9093_10475,2118877430,BGC0002324,9093,10475,['3-deoxy-7-phosphoheptulonate synthase class II'],True,NRP__Polyketide
+2066897486,2066897486_10535_13072,3171150025,BGC0002324,10535,13072,['TonB-dependent siderophore myxochelin receptor MxcH'],True,NRP__Polyketide
+2066897486,2066897486_13125_14363,1381259816,BGC0002324,13125,14363,['hypothetical protein'],True,NRP__Polyketide
+2066897486,2066897486_14373_15473,2159007511,BGC0002324,14373,15473,['PepSY domain-containing protein'],True,NRP__Polyketide
+2066897486,2066897486_15488_16237,603940363,BGC0002324,15488,16237,['MotA/TolQ/ExbB proton channel family protein'],True,NRP__Polyketide
+2066897486,2066897486_16240_16668,1376868359,BGC0002324,16240,16668,['biopolymer transporter ExbD'],True,NRP__Polyketide
+2066897486,2066897486_16655_17497,150677135,BGC0002324,16655,17497,['TonB family protein'],True,NRP__Polyketide

@@ -1,0 +1,26 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+370382495,370382495_1_24465,1168451668,BGC0000151,1,24465,['Type I modular polyketide synthase'],True,Polyketide__Saccharide
+370382495,370382495_24482_35467,3523440360,BGC0000151,24482,35467,['Type I modular polyketide synthase'],True,Polyketide__Saccharide
+370382495,370382495_35504_52819,889791232,BGC0000151,35504,52819,['Type I modular polyketide synthase'],True,Polyketide__Saccharide
+370382495,370382495_53051_53704,3636248848,BGC0000151,53051,53704,['putative two-component system response regulator'],True,Polyketide__Saccharide
+370382495,370382495_53694_55070,1323215950,BGC0000151,53694,55070,['putative two-component system sensor kinase'],True,Polyketide__Saccharide
+370382495,370382495_55019_55804,2441952759,BGC0000151,55019,55804,['putative integral membrane protein'],True,Polyketide__Saccharide
+370382495,370382495_55801_56703,108835814,BGC0000151,55801,56703,"['putative ABC transporter, ATP-binding subunit']",True,Polyketide__Saccharide
+370382495,370382495_56859_57593,1762640711,BGC0000151,56859,57593,['putative TDP-N-dimethyldesosamine-N-methyltransferase'],True,Polyketide__Saccharide
+370382495,370382495_57590_58147,3057633714,BGC0000151,57590,58147,"['putative 3,4 keto-isomerase']",True,Polyketide__Saccharide
+370382495,370382495_58260_77261,53862873,BGC0000151,58260,77261,['Type I modular polyketide synthase'],True,Polyketide__Saccharide
+370382495,370382495_77266_87936,3468739166,BGC0000151,77266,87936,['Type I modular polyketide synthase'],True,Polyketide__Saccharide
+370382495,370382495_87972_97445,1712690239,BGC0000151,87972,97445,['Type I modular polyketide synthase'],True,Polyketide__Saccharide
+370382495,370382495_97877_108574,3749218094,BGC0000151,97877,108574,['Type I modular polyketide synthase'],True,Polyketide__Saccharide
+370382495,370382495_108577_113310,934632423,BGC0000151,108577,113310,['Type I modular polyketide synthase'],True,Polyketide__Saccharide
+370382495,370382495_113307_129650,3716688747,BGC0000151,113307,129650,['Type I modular polyketide synthase'],True,Polyketide__Saccharide
+370382495,370382495_129844_131088,4099907876,BGC0000151,129844,131088,['Cytochrome P450'],True,Polyketide__Saccharide
+370382495,370382495_131540_132736,3526887942,BGC0000151,131540,132736,['Cytochrome P450'],True,Polyketide__Saccharide
+370382495,370382495_132828_133937,3606915230,BGC0000151,132828,133937,['putative aminotransferase'],True,Polyketide__Saccharide
+370382495,370382495_134178_135434,342425755,BGC0000151,134178,135434,['Glycosyltransferase'],True,Polyketide__Saccharide
+370382495,370382495_135996_137783,655846933,BGC0000151,135996,137783,['Putative acyl-CoA synthetase'],True,Polyketide__Saccharide
+370382495,370382495_137844_139463,984425906,BGC0000151,137844,139463,['Putative carboxyl transferase'],True,Polyketide__Saccharide
+370382495,370382495_139963_142839,3727673320,BGC0000151,139963,142839,['Transcriptional activator (LAL)'],True,Polyketide__Saccharide
+370382495,370382495_143187_143954,2555355005,BGC0000151,143187,143954,['putative thioesterase'],True,Polyketide__Saccharide
+370382495,370382495_144129_145118,2705797590,BGC0000151,144129,145118,"['putative dTDP-glucose 4,6-dehydratase']",True,Polyketide__Saccharide
+370382495,370382495_145128_146000,2310278733,BGC0000151,145128,146000,['putative glucose-1-phosphate thymidyltransferase'],True,Polyketide__Saccharide

@@ -1,0 +1,34 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1618770173,1618770173_2_1282,873708039,BGC0001439,2,1282,['beta-ACP synthase'],True,Polyketide__Saccharide
+1618770173,1618770173_1279_2496,3184531639,BGC0001439,1279,2496,['ketosynthase chain-length factor'],True,Polyketide__Saccharide
+1618770173,1618770173_2576_2833,1736325390,BGC0001439,2576,2833,['actinorhodin polyketide synthase'],True,Polyketide__Saccharide
+1618770173,1618770173_2870_4708,2646925783,BGC0001439,2870,4708,['asparagine synthase (glutamine-hydrolyzing)'],True,Polyketide__Saccharide
+1618770173,1618770173_4805_6112,2083163443,BGC0001439,4805,6112,['lipopolysaccharide biosynthesis protein RfbH'],True,Polyketide__Saccharide
+1618770173,1618770173_6272_7306,1524025598,BGC0001439,6272,7306,['hypothetical protein'],True,Polyketide__Saccharide
+1618770173,1618770173_7331_8092,3498303958,BGC0001439,7331,8092,['short-chain dehydrogenase'],True,Polyketide__Saccharide
+1618770173,1618770173_8274_9608,63150667,BGC0001439,8274,9608,['hypothetical protein'],True,Polyketide__Saccharide
+1618770173,1618770173_9605_10744,2275197702,BGC0001439,9605,10744,['hypothetical protein'],True,Polyketide__Saccharide
+1618770173,1618770173_10737_11792,3399087300,BGC0001439,10737,11792,['hypothetical protein'],True,Polyketide__Saccharide
+1618770173,1618770173_11920_13137,3580578126,BGC0001439,11920,13137,['hypothetical protein'],True,Polyketide__Saccharide
+1618770173,1618770173_13241_14248,348289581,BGC0001439,13241,14248,['hypothetical protein'],True,Polyketide__Saccharide
+1618770173,1618770173_14431_15036,463840546,BGC0001439,14431,15036,"['dTDP-4-dehydrorhamnose 3,5-epimerase']",True,Polyketide__Saccharide
+1618770173,1618770173_15109_18363,1991452612,BGC0001439,15109,18363,['hypothetical protein'],True,Polyketide__Saccharide
+1618770173,1618770173_18388_19584,2201945359,BGC0001439,18388,19584,['hypothetical protein'],True,Polyketide__Saccharide
+1618770173,1618770173_19589_20752,3055474858,BGC0001439,19589,20752,['glycosyl transferase'],True,Polyketide__Saccharide
+1618770173,1618770173_20880_21500,3331883076,BGC0001439,20880,21500,,True,Polyketide__Saccharide
+1618770173,1618770173_21748_23346,1671616671,BGC0001439,21748,23346,['hypothetical protein'],True,Polyketide__Saccharide
+1618770173,1618770173_23529_24677,942057851,BGC0001439,23529,24677,['hypothetical protein'],True,Polyketide__Saccharide
+1618770173,1618770173_24782_25726,1426744125,BGC0001439,24782,25726,['glucose-1-phosphate thymidylyltransferase'],True,Polyketide__Saccharide
+1618770173,1618770173_25736_26404,3250915026,BGC0001439,25736,26404,['hypothetical protein'],True,Polyketide__Saccharide
+1618770173,1618770173_26781_27575,4291550780,BGC0001439,26781,27575,['hypothetical protein'],True,Polyketide__Saccharide
+1618770173,1618770173_27703_28749,329136844,BGC0001439,27703,28749,['oxidoreductase'],True,Polyketide__Saccharide
+1618770173,1618770173_28743_30188,3122434108,BGC0001439,28743,30188,"['NDP-hexose 2,3-dehydratase']",True,Polyketide__Saccharide
+1618770173,1618770173_30220_31185,225927968,BGC0001439,30220,31185,"['dTDP-glucose 4,6-dehydratase']",True,Polyketide__Saccharide
+1618770173,1618770173_31227_32258,3437005752,BGC0001439,31227,32258,['polyketide synthase'],True,Polyketide__Saccharide
+1618770173,1618770173_32287_33234,2301101559,BGC0001439,32287,33234,['aromatase'],True,Polyketide__Saccharide
+1618770173,1618770173_33428_33868,1536033819,BGC0001439,33428,33868,['hydroxylacyl-CoA dehydrogenase'],True,Polyketide__Saccharide
+1618770173,1618770173_33931_34704,2638011179,BGC0001439,33931,34704,['cyclase'],True,Polyketide__Saccharide
+1618770173,1618770173_34714_36369,336073775,BGC0001439,34714,36369,['oxygenase'],True,Polyketide__Saccharide
+1618770173,1618770173_36547_38130,1086747662,BGC0001439,36547,38130,['acyl--CoA ligase'],True,Polyketide__Saccharide
+1618770173,1618770173_38183_38485,3462049385,BGC0001439,38183,38485,['oxygenase'],True,Polyketide__Saccharide
+1618770173,1618770173_38493_40064,1763199240,BGC0001439,38493,40064,['methylmalonyl-CoA carboxyltransferase'],True,Polyketide__Saccharide

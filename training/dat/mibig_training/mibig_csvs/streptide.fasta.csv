@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1764607814,1764607814_1_1092,2374862259,BGC0001209,1,1092,['Predicted transporter'],True,RiPP
+1764607814,1764607814_1089_2408,2411567376,BGC0001209,1089,2408,['Radical SAM superfamily enzyme'],True,RiPP
+1764607814,1764607814_2478_2570,3212825420,BGC0001209,2478,2570,['Predicted protein'],True,RiPP
+1764607814,1764607814_2653_3513,1027820619,BGC0001209,2653,3513,"['Transcriptional regulator, xre family']",True,RiPP

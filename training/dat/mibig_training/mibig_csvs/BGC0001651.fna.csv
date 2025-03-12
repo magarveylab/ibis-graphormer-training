@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1388610172,1388610172_1_693,1808106985,BGC0001651,1,693,['putative N-acylneuraminate cytidylyltransferase'],True,Other
+1388610172,1388610172_690_1727,4142656626,BGC0001651,690,1727,['nucleotidyl transferase'],True,Other
+1388610172,1388610172_1728_2882,4016427446,BGC0001651,1728,2882,"['UDP-N-acetyl-D-glucosamine 2-epimerase, UDP-hydrolysing']",True,Other
+1388610172,1388610172_2879_3889,1280979320,BGC0001651,2879,3889,['N-acetylneuraminate synthase'],True,Other
+1388610172,1388610172_3886_4521,2450735849,BGC0001651,3886,4521,,True,Other
+1388610172,1388610172_4518_5552,576260310,BGC0001651,4518,5552,['polysaccharide deacetylase'],True,Other
+1388610172,1388610172_5549_6577,1352780138,BGC0001651,5549,6577,['hypothetical protein'],True,Other
+1388610172,1388610172_6580_7575,1329824142,BGC0001651,6580,7575,['beta-ketoacyl-acyl-carrier-protein synthase III'],True,Other
+1388610172,1388610172_7591_8340,886583686,BGC0001651,7591,8340,"['oxidoreductase, short chain dehydrogenase/reductase family protein']",True,Other
+1388610172,1388610172_8340_8570,48257597,BGC0001651,8340,8570,['hypothetical protein'],True,Other
+1388610172,1388610172_8574_9728,4051611446,BGC0001651,8574,9728,['DegT/DnrJ/EryC1/StrS aminotransferase family protein'],True,Other
+1388610172,1388610172_9734_10711,906623391,BGC0001651,9734,10711,['NAD dependent epimerase/dehydratase family protein'],True,Other

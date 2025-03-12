@@ -1,0 +1,30 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1345482247,1345482247_1_822,3733230649,BGC0000201,1,822,['SARP-family auricin specific regulator'],True,Polyketide__Saccharide
+1345482247,1345482247_1125_1946,773879138,BGC0000201,1125,1946,['SARP family transcriptional regulator'],True,Polyketide__Saccharide
+1345482247,1345482247_2063_2332,3746280695,BGC0000201,2063,2332,['putative acyl carrier protein'],True,Polyketide__Saccharide
+1345482247,1345482247_2430_3395,1851013038,BGC0000201,2430,3395,['polyketide cyclase/dehydrase'],True,Polyketide__Saccharide
+1345482247,1345482247_3679_4296,3125862414,BGC0000201,3679,4296,['auricin-specific repressor of TetR family'],True,Polyketide__Saccharide
+1345482247,1345482247_4524_5294,102034466,BGC0000201,4524,5294,['auricin-specific activator'],True,Polyketide__Saccharide
+1345482247,1345482247_5367_6248,97782867,BGC0000201,5367,6248,['putative regulatory protein'],True,Polyketide__Saccharide
+1345482247,1345482247_6519_7985,3692541052,BGC0000201,6519,7985,['auricin polyketide oxiygenase'],True,Polyketide__Saccharide
+1345482247,1345482247_8160_8807,3949135833,BGC0000201,8160,8807,['TetR family transcriptional regulator'],True,Polyketide__Saccharide
+1345482247,1345482247_8890_9222,2780648686,BGC0000201,8890,9222,['auricin polyketide cyclase'],True,Polyketide__Saccharide
+1345482247,1345482247_9260_10528,319493934,BGC0000201,9260,10528,['auricin polyketide beta-ketoacyl synthase alpha subunit'],True,Polyketide__Saccharide
+1345482247,1345482247_10525_11742,1146656733,BGC0000201,10525,11742,['auricin polyketide beta-ketoacyl synthase beta subunit'],True,Polyketide__Saccharide
+1345482247,1345482247_11840_12124,1887764920,BGC0000201,11840,12124,['auricin polyketide acyl carrier protein'],True,Polyketide__Saccharide
+1345482247,1345482247_12217_13002,610739739,BGC0000201,12217,13002,['auricin polyketide ketoreductase'],True,Polyketide__Saccharide
+1345482247,1345482247_13037_13999,3265925549,BGC0000201,13037,13999,['auricin polyketide cyclase/dehydratase'],True,Polyketide__Saccharide
+1345482247,1345482247_14002_16326,3056936740,BGC0000201,14002,16326,['auricin polyketide oxygenase-reductase'],True,Polyketide__Saccharide
+1345482247,1345482247_16474_17949,1775504691,BGC0000201,16474,17949,['major facilitator superfamily transporter'],True,Polyketide__Saccharide
+1345482247,1345482247_18015_18392,3170148465,BGC0000201,18015,18392,['hypothetical protein'],True,Polyketide__Saccharide
+1345482247,1345482247_18389_19216,3971052547,BGC0000201,18389,19216,"[""4'-phosphopantetheinyl transferase""]",True,Polyketide__Saccharide
+1345482247,1345482247_19247_20197,2217788906,BGC0000201,19247,20197,['malonyl CoA-acyl carrier protein transacylase'],True,Polyketide__Saccharide
+1345482247,1345482247_20228_21790,2330275833,BGC0000201,20228,21790,['methylmalonyl-CoA carboxyltransferase'],True,Polyketide__Saccharide
+1345482247,1345482247_21826_22062,158570739,BGC0000201,21826,22062,['hypothetical protein'],True,Polyketide__Saccharide
+1345482247,1345482247_22150_23163,2059816869,BGC0000201,22150,23163,"['NDP-D-glucose 4,6-dehydratase']",True,Polyketide__Saccharide
+1345482247,1345482247_23160_24464,3400487879,BGC0000201,23160,24464,"['NDP-D-glucose 3,4-dehydratase']",True,Polyketide__Saccharide
+1345482247,1345482247_24461_25858,339880013,BGC0000201,24461,25858,"['NDP-D-glucose 2,3-dehydratase']",True,Polyketide__Saccharide
+1345482247,1345482247_25858_26823,1999141271,BGC0000201,25858,26823,['NDP-D-glucose 3-ketoreductase'],True,Polyketide__Saccharide
+1345482247,1345482247_26896_27393,9380426,BGC0000201,26896,27393,['hypothetical protein'],True,Polyketide__Saccharide
+1345482247,1345482247_27401_27595,467998519,BGC0000201,27401,27595,['hypothetical protein'],True,Polyketide__Saccharide
+1345482247,1345482247_27623_28528,3561988027,BGC0000201,27623,28528,['putative acetyltransferase'],True,Polyketide__Saccharide

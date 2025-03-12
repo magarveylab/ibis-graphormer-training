@@ -1,0 +1,21 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+327685697,327685697_13_684,1633725799,BGC0001150,13,684,['TetR family transcription regulator'],True,Polyketide
+327685697,327685697_838_2514,289585500,BGC0001150,838,2514,"['drug resistance transporter, EmrB/QacA family']",True,Polyketide
+327685697,327685697_2611_2841,3757686445,BGC0001150,2611,2841,['acyl-carrier protein'],True,Polyketide
+327685697,327685697_2895_3929,2204118891,BGC0001150,2895,3929,['Ketoacyl-acyl carrier protein synthase III'],True,Polyketide
+327685697,327685697_3941_5260,2943365904,BGC0001150,3941,5260,['Ketoacyl-acyl carrier protein synthase II'],True,Polyketide
+327685697,327685697_5544_6809,3326409247,BGC0001150,5544,6809,['Ketoacyl-acyl carrier protein synthase II'],True,Polyketide
+327685697,327685697_6806_8668,3176109315,BGC0001150,6806,8668,['3-ketoacid (adipate/glutaconate) CoA transferase'],True,Polyketide
+327685697,327685697_8706_9665,278825825,BGC0001150,8706,9665,['Ketoacyl-acyl carrier protein synthase III'],True,Polyketide
+327685697,327685697_9718_10752,2123214827,BGC0001150,9718,10752,['Ketoacyl-acyl carrier protein synthase III'],True,Polyketide
+327685697,327685697_10806_11600,147090780,BGC0001150,10806,11600,['Ketoacyl-(acyl-carrier-protein) reductase'],True,Polyketide
+327685697,327685697_11685_12695,1195851586,BGC0001150,11685,12695,['Ketoacyl-acyl carrier protein synthase III'],True,Polyketide
+327685697,327685697_12712_14007,2137135375,BGC0001150,12712,14007,['Ketoacyl-acyl carrier protein synthase II'],True,Polyketide
+327685697,327685697_14000_15577,1969400981,BGC0001150,14000,15577,['Ketoacyl-(acyl-carrier-protein) reductase'],True,Polyketide
+327685697,327685697_15574_16401,113374997,BGC0001150,15574,16401,['Ketoacyl-(acyl-carrier-protein) reductase'],True,Polyketide
+327685697,327685697_16398_18101,3547655996,BGC0001150,16398,18101,['Hydroxyl acids CoA ligase'],True,Polyketide
+327685697,327685697_18085_19068,3956492782,BGC0001150,18085,19068,['Metal-dependent hydrolase (resistance)'],True,Polyketide
+327685697,327685697_19165_20511,442807248,BGC0001150,19165,20511,['Aminotransferase'],True,Polyketide
+327685697,327685697_20572_21381,3154200837,BGC0001150,20572,21381,['Methyltransferase'],True,Polyketide
+327685697,327685697_21599_22405,2395876899,BGC0001150,21599,22405,['Enoyl-CoA hydratase'],True,Polyketide
+327685697,327685697_22430_23077,2585618271,BGC0001150,22430,23077,['Response regulator LuxR family'],True,Polyketide

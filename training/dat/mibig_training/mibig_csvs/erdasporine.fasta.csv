@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3725698857,3725698857_19_1059,194766482,BGC0001336,19,1059,['O-methyltransferase'],True,Alkaloid
+3725698857,3725698857_1144_2796,3996080336,BGC0001336,1144,2796,['FAD-binding monooxygenase'],True,Alkaloid
+3725698857,3725698857_2783_4282,2263569340,BGC0001336,2783,4282,['indole-3-pyruvic acid imine synthase EspO'],True,Alkaloid
+3725698857,3725698857_4282_7596,1040963890,BGC0001336,4282,7596,['chromopyrrolic acid synthase'],True,Alkaloid
+3725698857,3725698857_7628_9034,846738186,BGC0001336,7628,9034,['cytochrome P450'],True,Alkaloid
+3725698857,3725698857_9259_10971,598688907,BGC0001336,9259,10971,['putative transporter EspT1'],True,Alkaloid
+3725698857,3725698857_11265_12620,2650710173,BGC0001336,11265,12620,['putative transporter EspT2'],True,Alkaloid

@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4120147391,4120147391_3_92,2433808860,BGC0000601,3,92,,True,RiPP
+4120147391,4120147391_235_1467,1356177973,BGC0000601,235,1467,['synthesis of sporulation killing factor A'],True,RiPP
+4120147391,4120147391_1464_2954,747667007,BGC0000601,1464,2954,['sporulation killing factor biosynthesis and export'],True,RiPP
+4120147391,4120147391_2973_3692,3079975906,BGC0000601,2973,3692,['sporulation killing factor biosynthesis and export; ABC transporter (binding protein)'],True,RiPP
+4120147391,4120147391_3685_5100,2139675599,BGC0000601,3685,5100,['sporulation killing factor biosynthesis and export; ABC transporter (permease)'],True,RiPP
+4120147391,4120147391_5147_5662,2241014054,BGC0000601,5147,5662,['sporulation killing factor biosynthesis and export'],True,RiPP
+4120147391,4120147391_5667_6092,4244601619,BGC0000601,5667,6092,['sibling killing effect; sporulation killing factor biosynthesis and export'],True,RiPP

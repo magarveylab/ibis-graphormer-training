@@ -1,0 +1,31 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+8911052,8911052_563_997,3967436534,BGC0002672,563,997,['putative MarR transcriptional regulator'],True,Polyketide
+8911052,8911052_1088_2818,2498872132,BGC0002672,1088,2818,['putative carboxylase'],True,Polyketide
+8911052,8911052_2845_4296,3411068895,BGC0002672,2845,4296,['putative FAD-dependent monooxygenase'],True,Polyketide
+8911052,8911052_4313_4639,446294715,BGC0002672,4313,4639,['cyclase'],True,Polyketide
+8911052,8911052_4636_5907,1463801013,BGC0002672,4636,5907,['ketoacyl synthase'],True,Polyketide
+8911052,8911052_5904_7118,4211346016,BGC0002672,5904,7118,['chain length factor'],True,Polyketide
+8911052,8911052_7141_7404,382039603,BGC0002672,7141,7404,['acyl carrier protein'],True,Polyketide
+8911052,8911052_7420_8202,156506008,BGC0002672,7420,8202,['reductase'],True,Polyketide
+8911052,8911052_8243_9187,3831101007,BGC0002672,8243,9187,['cyclase'],True,Polyketide
+8911052,8911052_9192_11111,1927825213,BGC0002672,9192,11111,['putative SDR family oxidoreductase'],True,Polyketide
+8911052,8911052_11126_12697,40131132,BGC0002672,11126,12697,['putative decarboxylase beta subunit'],True,Polyketide
+8911052,8911052_12694_12813,3071650418,BGC0002672,12694,12813,['hypothetical protein'],True,Polyketide
+8911052,8911052_12810_13016,762994600,BGC0002672,12810,13016,['putative decarboxylase epsilon subunit'],True,Polyketide
+8911052,8911052_13032_14015,2711261220,BGC0002672,13032,14015,['putative LLM class flavin-dependent oxidoreductase'],True,Polyketide
+8911052,8911052_14008_15189,3511965874,BGC0002672,14008,15189,['putative MFS transporter'],True,Polyketide
+8911052,8911052_15186_15770,3823415284,BGC0002672,15186,15770,['putative NADH-dependent oxidoreductase'],True,Polyketide
+8911052,8911052_15780_17171,3107952479,BGC0002672,15780,17171,['putative LuxR transcriptional regulator'],True,Polyketide
+8911052,8911052_17258_18463,3144921052,BGC0002672,17258,18463,['putative LuxR transcriptional regulator'],True,Polyketide
+8911052,8911052_18612_19397,1361683787,BGC0002672,18612,19397,['putative SDR family oxidoreductase'],True,Polyketide
+8911052,8911052_19580_20083,1825908567,BGC0002672,19580,20083,['putative nuclear transport factor 2 family protein'],True,Polyketide
+8911052,8911052_20097_21386,1515992821,BGC0002672,20097,21386,['putative LuxR transcriptional regulator'],True,Polyketide
+8911052,8911052_21796_22242,1272923848,BGC0002672,21796,22242,['putative Rrf2 family transcriptional regulator'],True,Polyketide
+8911052,8911052_22334_23785,3012647041,BGC0002672,22334,23785,['putative MFS transporter'],True,Polyketide
+8911052,8911052_23821_24591,1678978899,BGC0002672,23821,24591,['putative methyltransferase'],True,Polyketide
+8911052,8911052_24784_26178,637934249,BGC0002672,24784,26178,['putative LuxR transcriptional regulator'],True,Polyketide
+8911052,8911052_26312_27151,1774740025,BGC0002672,26312,27151,['putative SDR family oxidoreductase'],True,Polyketide
+8911052,8911052_27183_28379,3357884075,BGC0002672,27183,28379,['putative cytochrome P450'],True,Polyketide
+8911052,8911052_28459_29247,1803844217,BGC0002672,28459,29247,['putative SDR family oxidoreductase'],True,Polyketide
+8911052,8911052_29461_30681,2480107557,BGC0002672,29461,30681,['putative vanadium-dependent haloperoxidase'],True,Polyketide
+8911052,8911052_30859_31668,3837965432,BGC0002672,30859,31668,,False,

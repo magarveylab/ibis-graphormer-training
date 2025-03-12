@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4028206149,4028206149_1_945,2611681986,BGC0000848,1,945,['A-factor biosynthesis enzyme'],True,Other

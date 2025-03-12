@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2430781974,2430781974_3_788,85900378,BGC0001948,3,788,,False,
+2430781974,2430781974_880_2085,2445373466,BGC0001948,880,2085,['NascB'],True,Other
+2430781974,2430781974_2104_3579,1878791532,BGC0001948,2104,3579,['trasportor protein'],True,Other

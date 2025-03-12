@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2702727710,2702727710_1_3654,1986086563,BGC0000177,1,3654,['transcriptional regulator'],True,Polyketide
+2702727710,2702727710_4026_5615,3012490478,BGC0000177,4026,5615,['trans-acting acyl transferase/thioesterase fusion protein'],True,Polyketide
+2702727710,2702727710_5701_5952,2672574650,BGC0000177,5701,5952,['acyl carrier protein'],True,Polyketide
+2702727710,2702727710_5957_7927,467942467,BGC0000177,5957,7927,['amidotransferase'],True,Polyketide
+2702727710,2702727710_7943_17521,1444872764,BGC0000177,7943,17521,['AT-less polyketide synthase'],True,Polyketide
+2702727710,2702727710_17583_41648,944152757,BGC0000177,17583,41648,['AT-less polyketide synthase'],True,Polyketide
+2702727710,2702727710_41645_47566,184705703,BGC0000177,41645,47566,['AT-less polyketide synthase'],True,Polyketide
+2702727710,2702727710_47568_49823,1119910959,BGC0000177,47568,49823,['trans-acting acyl transferase/oxidoreductase fusion protein'],True,Polyketide
+2702727710,2702727710_49855_50871,2364885567,BGC0000177,49855,50871,['oxidoreductase'],True,Polyketide
+2702727710,2702727710_51167_52012,207745570,BGC0000177,51167,52012,['O-methyl transferase'],True,Polyketide
+2702727710,2702727710_52125_53336,864209213,BGC0000177,52125,53336,['hydroxylase'],True,Polyketide

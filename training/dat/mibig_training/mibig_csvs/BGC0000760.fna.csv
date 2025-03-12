@@ -1,0 +1,23 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3868727187,3868727187_1_534,1158242671,BGC0000760,1,534,['putative macrophage infectivity potentiator'],True,Saccharide
+3868727187,3868727187_711_2891,3164977793,BGC0000760,711,2891,['protein tyrosine kinase'],True,Saccharide
+3868727187,3868727187_2911_3339,158374880,BGC0000760,2911,3339,['putative protein tyrosine phosphatase'],True,Saccharide
+3868727187,3868727187_3345_4445,1572713385,BGC0000760,3345,4445,['putative outer membrane protein'],True,Saccharide
+3868727187,3868727187_5062_6192,821977142,BGC0000760,5062,6192,['putative UDP-N-acetylglucosamine 2-epimerase'],True,Saccharide
+3868727187,3868727187_6225_7478,3740721729,BGC0000760,6225,7478,['putative NDP-N-acetyl-D-galactosaminuronic acid dehydrogenase'],True,Saccharide
+3868727187,3868727187_7479_8033,3588920995,BGC0000760,7479,8033,['putative galactoside acetyltransferase'],True,Saccharide
+3868727187,3868727187_8039_9244,1905357728,BGC0000760,8039,9244,['putative emulsan repeating unit flippase'],True,Saccharide
+3868727187,3868727187_9241_10551,1442648120,BGC0000760,9241,10551,['putative emulsan repeating unit polymerase'],True,Saccharide
+3868727187,3868727187_10552_11511,2493603800,BGC0000760,10552,11511,['putative glycosyl transferase'],True,Saccharide
+3868727187,3868727187_11511_13649,2669564671,BGC0000760,11511,13649,['unknown'],True,Saccharide
+3868727187,3868727187_13646_15460,3032214522,BGC0000760,13646,15460,,True,Saccharide
+3868727187,3868727187_15457_16668,1513693111,BGC0000760,15457,16668,['putative glycosyltransferase'],True,Saccharide
+3868727187,3868727187_16670_17281,383323416,BGC0000760,16670,17281,['putative UDP-galactose phosphate transferase'],True,Saccharide
+3868727187,3868727187_17278_17928,1590496404,BGC0000760,17278,17928,['putative acetyltransferase'],True,Saccharide
+3868727187,3868727187_17960_19135,2983815062,BGC0000760,17960,19135,['putative amino-transferase'],True,Saccharide
+3868727187,3868727187_19273_21147,880705370,BGC0000760,19273,21147,"['putative dTDP-glucose-4,6-dehydratase']",True,Saccharide
+3868727187,3868727187_21161_22036,4221486581,BGC0000760,21161,22036,['putative UTP-glucose-1-phosphate uridylyltransferase'],True,Saccharide
+3868727187,3868727187_22053_23303,568637818,BGC0000760,22053,23303,['putative UDP-glucose dehydrogenase'],True,Saccharide
+3868727187,3868727187_23306_24979,1402541513,BGC0000760,23306,24979,['putative phosphoglucose isomerase'],True,Saccharide
+3868727187,3868727187_24972_25988,2823075780,BGC0000760,24972,25988,['putative UDP-glucose 4-epimerase'],True,Saccharide
+3868727187,3868727187_26036_26953,1554762794,BGC0000760,26036,26953,['putative phosphoglucomutase'],True,Saccharide

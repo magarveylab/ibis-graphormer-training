@@ -1,0 +1,16 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1252004227,1252004227_2_667,1290276252,BGC0000758,2,667,['type 1 capsule synthesis gene'],True,Saccharide
+1252004227,1252004227_682_1368,4233975435,BGC0000758,682,1368,['type 1 capsule synthesis gene'],True,Saccharide
+1252004227,1252004227_1371_2138,1273723308,BGC0000758,1371,2138,['type 1 capsule synthesis gene'],True,Saccharide
+1252004227,1252004227_2163_3962,2880190510,BGC0000758,2163,3962,['type 1 capsule synthesis gene'],True,Saccharide
+1252004227,1252004227_3990_5312,2135751170,BGC0000758,3990,5312,['type 1 capsule synthesis gene'],True,Saccharide
+1252004227,1252004227_5314_6504,2784398427,BGC0000758,5314,6504,['type 1 capsule synthesis gene'],True,Saccharide
+1252004227,1252004227_6515_7033,3767101671,BGC0000758,6515,7033,['type 1 capsule synthesis gene'],True,Saccharide
+1252004227,1252004227_7033_8100,1684375728,BGC0000758,7033,8100,['type 1 capsule synthesis gene'],True,Saccharide
+1252004227,1252004227_8119_9123,1393075812,BGC0000758,8119,9123,['type 1 capsule synthesis gene'],True,Saccharide
+1252004227,1252004227_9143_10318,426001881,BGC0000758,9143,10318,['type 1 capsule synthesis gene'],True,Saccharide
+1252004227,1252004227_10311_11660,1146206982,BGC0000758,10311,11660,['type 1 capsule synthesis gene'],True,Saccharide
+1252004227,1252004227_11673_12947,3154996701,BGC0000758,11673,12947,['type 1 capsule synthesis gene'],True,Saccharide
+1252004227,1252004227_12975_14117,647770179,BGC0000758,12975,14117,['type 1 capsule synthesis gene'],True,Saccharide
+1252004227,1252004227_14117_14674,2701752233,BGC0000758,14117,14674,['type 8 capsule synthesis gene'],True,Saccharide
+1252004227,1252004227_14674_15537,4176342847,BGC0000758,14674,15537,['type 8 capsule synthesis gene'],True,Saccharide

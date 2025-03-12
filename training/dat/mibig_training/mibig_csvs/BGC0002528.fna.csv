@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+263443217,263443217_1_1299,17825486,BGC0002528,1,1299,['Condensation domain protein'],True,NRP
+263443217,263443217_1353_2444,3662125454,BGC0002528,1353,2444,['esterase'],True,NRP
+263443217,263443217_2473_3270,3043970101,BGC0002528,2473,3270,"['2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase, short-chain dehydrogenase/reductase']",True,NRP
+263443217,263443217_3280_7272,65093673,BGC0002528,3280,7272,['enterochelin sythetase component F (Serine-activating enzyme) (Seryl-AMP ligase)'],True,NRP
+263443217,263443217_7274_8140,3142659664,BGC0002528,7274,8140,"['Isochorismatase (2,3 dihydro-2,3 dihydroxybenzoate synthase)']",True,NRP
+263443217,263443217_8203_9849,1932498723,BGC0002528,8203,9849,"['enterobactin synthetase component E (2,3-dihydroxybenzoate-AMP ligase)']",True,NRP
+263443217,263443217_9846_11057,106246920,BGC0002528,9846,11057,['Isochorismate synthase'],True,NRP
+263443217,263443217_11269_12492,4144688216,BGC0002528,11269,12492,"['catecholate siderophore efflux pump, MFS_1 family']",True,NRP

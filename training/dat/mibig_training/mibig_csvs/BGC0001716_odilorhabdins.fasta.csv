@@ -1,0 +1,16 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3757984541,3757984541_1_498,3078631541,BGC0001716,1,498,['hypothetical protein'],True,NRP
+3757984541,3757984541_800_1153,838482598,BGC0001716,800,1153,['conserved hypothetical protein'],True,NRP
+3757984541,3757984541_1210_1773,1808472894,BGC0001716,1210,1773,['conserved hypothetical protein'],True,NRP
+3757984541,3757984541_1727_2032,239524514,BGC0001716,1727,2032,['conserved hypothetical protein'],True,NRP
+3757984541,3757984541_2163_4568,2988984404,BGC0001716,2163,4568,['putative Aculeacin A acylase precursor [Contains: Aculeacin A small subunit; Aculeacin A large subunit]'],True,NRP
+3757984541,3757984541_4565_5524,1636403556,BGC0001716,4565,5524,['putative Clavaminate synthase'],True,NRP
+3757984541,3757984541_5606_6349,4036915013,BGC0001716,5606,6349,['conserved hypothetical protein'],True,NRP
+3757984541,3757984541_6425_8053,1818143097,BGC0001716,6425,8053,"['putative transport proteins (ABC superfamily, membrane (N-terminal), atp_bind (C-terminal))']",True,NRP
+3757984541,3757984541_8144_19072,3710746363,BGC0001716,8144,19072,['putative Phenylalanine racemase (ATP-hydrolyzing)'],True,NRP
+3757984541,3757984541_19069_22485,2334040182,BGC0001716,19069,22485,['conserved hypothetical protein'],True,NRP
+3757984541,3757984541_22485_32318,892092049,BGC0001716,22485,32318,['putative Ornithine racemase'],True,NRP
+3757984541,3757984541_32315_40636,2229200248,BGC0001716,32315,40636,['putative Ornithine racemase'],True,NRP
+3757984541,3757984541_40781_41236,1653872061,BGC0001716,40781,41236,['conserved hypothetical protein'],True,NRP
+3757984541,3757984541_41255_42112,2491513234,BGC0001716,41255,42112,['conserved hypothetical protein'],True,NRP
+3757984541,3757984541_42134_43441,892111986,BGC0001716,42134,43441,"['Diaminobutyrate--2-oxoglutarate transaminase (Diaminobutyrate--2-oxoglutarate aminotransferase) (L-2,4-diaminobutyric acid transaminase) (DABA aminotransferase)']",True,NRP

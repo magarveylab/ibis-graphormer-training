@@ -1,0 +1,59 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+902840292,902840292_1_1575,1866046121,BGC0000241,1,1575,"['drug resistance transporter, EmrB/QacA subfamily']",True,Polyketide__Saccharide
+902840292,902840292_1803_2288,1506340811,BGC0000241,1803,2288,['hypothetical protein'],True,Polyketide__Saccharide
+902840292,902840292_2448_3278,1308852509,BGC0000241,2448,3278,['hypothetical protein'],True,Polyketide__Saccharide
+902840292,902840292_3275_4225,4096483302,BGC0000241,3275,4225,['ABC transporter related'],True,Polyketide__Saccharide
+902840292,902840292_4200_4826,3166347401,BGC0000241,4200,4826,,True,Polyketide__Saccharide
+902840292,902840292_4860_5636,4080626205,BGC0000241,4860,5636,['hypothetical protein'],True,Polyketide__Saccharide
+902840292,902840292_5885_6721,2468938160,BGC0000241,5885,6721,['transcriptional activator domain'],True,Polyketide__Saccharide
+902840292,902840292_7467_8312,883183194,BGC0000241,7467,8312,"['transcriptional regulator, AraC family']",True,Polyketide__Saccharide
+902840292,902840292_8554_9993,3270349303,BGC0000241,8554,9993,"['NDP-hexose 2,3-dehydratase']",True,Polyketide__Saccharide
+902840292,902840292_10046_10711,3199019234,BGC0000241,10046,10711,['hypothetical protein'],True,Polyketide__Saccharide
+902840292,902840292_10756_11190,179595728,BGC0000241,10756,11190,['Carboxymuconolactone decarboxylase'],True,Polyketide__Saccharide
+902840292,902840292_11132_11923,2491324107,BGC0000241,11132,11923,['peptidase C26'],True,Polyketide__Saccharide
+902840292,902840292_12425_14197,3851389762,BGC0000241,12425,14197,"['monooxygenase, FAD-binding']",True,Polyketide__Saccharide
+902840292,902840292_14360_15826,3405127487,BGC0000241,14360,15826,['protoporphyrinogen oxidase'],True,Polyketide__Saccharide
+902840292,902840292_15947_17053,1571621757,BGC0000241,15947,17053,['ParB domain protein nuclease'],True,Polyketide__Saccharide
+902840292,902840292_17105_18616,394218066,BGC0000241,17105,18616,"['monooxygenase, FAD-binding']",True,Polyketide__Saccharide
+902840292,902840292_18613_20085,866461317,BGC0000241,18613,20085,"['monooxygenase, FAD-binding']",True,Polyketide__Saccharide
+902840292,902840292_20301_21029,1407240255,BGC0000241,20301,21029,['short-chain dehydrogenase/reductase SDR'],True,Polyketide__Saccharide
+902840292,902840292_21084_21956,565158209,BGC0000241,21084,21956,['NmrA family protein'],True,Polyketide__Saccharide
+902840292,902840292_22030_22647,769955243,BGC0000241,22030,22647,['hypothetical protein'],True,Polyketide__Saccharide
+902840292,902840292_22662_22991,2197181663,BGC0000241,22662,22991,['Polyketide synthesis cyclase'],True,Polyketide__Saccharide
+902840292,902840292_23020_23805,2776393636,BGC0000241,23020,23805,['short-chain dehydrogenase/reductase SDR'],True,Polyketide__Saccharide
+902840292,902840292_23996_25033,4179893817,BGC0000241,23996,25033,['hydroxyneurosporene-O-methyltransferase'],True,Polyketide__Saccharide
+902840292,902840292_25087_26598,1156783971,BGC0000241,25087,26598,"['monooxygenase, FAD-binding']",True,Polyketide__Saccharide
+902840292,902840292_26624_27583,4262597014,BGC0000241,26624,27583,['cyclase/dehydrase'],True,Polyketide__Saccharide
+902840292,902840292_27580_29019,2632245440,BGC0000241,27580,29019,"['monooxygenase, FAD-binding']",True,Polyketide__Saccharide
+902840292,902840292_29006_30484,2573802531,BGC0000241,29006,30484,"['monooxygenase, FAD-binding']",True,Polyketide__Saccharide
+902840292,902840292_30554_31297,1078080719,BGC0000241,30554,31297,['hypothetical protein'],True,Polyketide__Saccharide
+902840292,902840292_31366_33249,770376419,BGC0000241,31366,33249,['hypothetical protein'],True,Polyketide__Saccharide
+902840292,902840292_33224_33580,4261808591,BGC0000241,33224,33580,"['4Fe-4S ferredoxin, iron-sulfur binding domain protein']",True,Polyketide__Saccharide
+902840292,902840292_33650_34444,2982407256,BGC0000241,33650,34444,['hypothetical protein'],True,Polyketide__Saccharide
+902840292,902840292_34496_35992,1215147975,BGC0000241,34496,35992,['L-glutamine synthetase'],True,Polyketide__Saccharide
+902840292,902840292_35995_37431,1388220499,BGC0000241,35995,37431,['Amidase'],True,Polyketide__Saccharide
+902840292,902840292_37650_38942,4043754516,BGC0000241,37650,38942,['Adenylosuccinate lyase'],True,Polyketide__Saccharide
+902840292,902840292_38926_39327,2139972758,BGC0000241,38926,39327,['GCN5-related N-acetyltransferase'],True,Polyketide__Saccharide
+902840292,902840292_39400_41169,2857936267,BGC0000241,39400,41169,['ABC transporter related'],True,Polyketide__Saccharide
+902840292,902840292_41309_41629,2329579788,BGC0000241,41309,41629,['Rieske (2Fe-2S) domain protein'],True,Polyketide__Saccharide
+902840292,902840292_41876_42286,808147526,BGC0000241,41876,42286,['Glyoxalase/bleomycin resistance protein/dioxygenase'],True,Polyketide__Saccharide
+902840292,902840292_42355_43152,3457343546,BGC0000241,42355,43152,['Glyoxalase/bleomycin resistance protein/dioxygenase'],True,Polyketide__Saccharide
+902840292,902840292_43237_44643,1162292078,BGC0000241,43237,44643,['TAP domain protein'],True,Polyketide__Saccharide
+902840292,902840292_44991_46133,2950013247,BGC0000241,44991,46133,['protein of unknown function DUF1205'],True,Polyketide__Saccharide
+902840292,902840292_46130_47089,2425465179,BGC0000241,46130,47089,"['O-methyltransferase, family 2']",True,Polyketide__Saccharide
+902840292,902840292_47427_48368,2979967479,BGC0000241,47427,48368,['hypothetical protein'],True,Polyketide__Saccharide
+902840292,902840292_48434_49420,3336714570,BGC0000241,48434,49420,['NAD-dependent epimerase/dehydratase'],True,Polyketide__Saccharide
+902840292,902840292_49430_50041,3843023399,BGC0000241,49430,50041,"['dTDP-4-dehydrorhamnose 3,5-epimerase']",True,Polyketide__Saccharide
+902840292,902840292_50092_51105,808348131,BGC0000241,50092,51105,['oxidoreductase domain protein'],True,Polyketide__Saccharide
+902840292,902840292_51125_51859,3530040989,BGC0000241,51125,51859,['hypothetical protein'],True,Polyketide__Saccharide
+902840292,902840292_51931_52971,1781469986,BGC0000241,51931,52971,['protein of unknown function DUF1205'],True,Polyketide__Saccharide
+902840292,902840292_52988_54199,3054006956,BGC0000241,52988,54199,['DegT/DnrJ/EryC1/StrS aminotransferase'],True,Polyketide__Saccharide
+902840292,902840292_54374_55381,2238911867,BGC0000241,54374,55381,"['dTDP-glucose 4,6-dehydratase']",True,Polyketide__Saccharide
+902840292,902840292_55393_56649,89949888,BGC0000241,55393,56649,['beta-ketoacyl synthase'],True,Polyketide__Saccharide
+902840292,902840292_56646_57932,1337919122,BGC0000241,56646,57932,['beta-ketoacyl synthase'],True,Polyketide__Saccharide
+902840292,902840292_57932_58186,2046378679,BGC0000241,57932,58186,['phosphopantetheine-binding'],True,Polyketide__Saccharide
+902840292,902840292_58168_59151,461692692,BGC0000241,58168,59151,['acyl transferase domain protein'],True,Polyketide__Saccharide
+902840292,902840292_59273_60247,1606452685,BGC0000241,59273,60247,['hypothetical protein'],True,Polyketide__Saccharide
+902840292,902840292_60266_60589,3533428163,BGC0000241,60266,60589,,True,Polyketide__Saccharide
+902840292,902840292_60683_61174,1782691635,BGC0000241,60683,61174,"['transcriptional regulator, AraC family']",True,Polyketide__Saccharide
+902840292,902840292_61359_62231,3135844516,BGC0000241,61359,62231,['Glucose-1-phosphate thymidylyltransferase'],True,Polyketide__Saccharide

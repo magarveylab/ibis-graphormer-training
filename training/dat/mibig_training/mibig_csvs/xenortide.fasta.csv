@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1913821931,1913821931_1_6003,2189152558,BGC0000465,1,6003,['putative Peptide synthetase'],True,NRP
+1913821931,1913821931_6000_10043,1961143845,BGC0000465,6000,10043,['putative Peptide synthetase'],True,NRP

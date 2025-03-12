@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3533750874,3533750874_55_873,931747022,BGC0000025,55,873,,False,
+3533750874,3533750874_931_2169,3846516832,BGC0000025,931,2169,['glycosyl transferase'],True,Polyketide
+3533750874,3533750874_2075_3154,2605388851,BGC0000025,2075,3154,"['dTDP-glucose 4,6-dehydratase']",True,Polyketide
+3533750874,3533750874_3139_4038,1570774627,BGC0000025,3139,4038,['glucose-1-phosphate thymidyltransferase'],True,Polyketide
+3533750874,3533750874_4164_5195,1726299197,BGC0000025,4164,5195,['dTDP-4-keto-6-deoxy-L-hexose 4-reductase'],True,Polyketide
+3533750874,3533750874_5249_5926,3344377726,BGC0000025,5249,5926,"['dTDP-4-keto-6-deoxyhexose 3,5-epimerase']",True,Polyketide
+3533750874,3533750874_5988_7397,2739878947,BGC0000025,5988,7397,"['dTDP-4-keto-6-deoxy-L-hexose2,3-dehydratase']",True,Polyketide
+3533750874,3533750874_7394_8167,4063574873,BGC0000025,7394,8167,['dTDP-6-deoxy-L-hexose 3-O-methyltransferase'],True,Polyketide
+3533750874,3533750874_8254_9297,2652725748,BGC0000025,8254,9297,"['dTDP-4-keto-6-deoxy-L-hexose 2,3-reductase']",True,Polyketide

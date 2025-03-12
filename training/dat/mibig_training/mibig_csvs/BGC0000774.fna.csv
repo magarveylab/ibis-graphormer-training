@@ -1,0 +1,36 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4061038434,4061038434_2_772,3013964544,BGC0000774,2,772,,False,
+4061038434,4061038434_815_940,2834723951,BGC0000774,815,940,,True,Saccharide
+4061038434,4061038434_1054_1692,1990629137,BGC0000774,1054,1692,['beta-subunit of putative 3-oxoacid CoA-transferase'],True,Saccharide
+4061038434,4061038434_1692_2420,641397199,BGC0000774,1692,2420,['alpha subunit of putative 3-oxoacid CoA-transferase'],True,Saccharide
+4061038434,4061038434_2555_3901,3482036310,BGC0000774,2555,3901,['phosphoglucomutase / phosphomannomutase'],True,Saccharide
+4061038434,4061038434_3947_5350,4242142263,BGC0000774,3947,5350,['phosphomannose isomerase / GDP-mannose pyrophosphorylase'],True,Saccharide
+4061038434,4061038434_5472_6380,353912132,BGC0000774,5472,6380,['dTDP-4-dehydrorhamnose reductase'],True,Saccharide
+4061038434,4061038434_6377_6934,498914130,BGC0000774,6377,6934,"['dTDP-4-dehydrorhamnose 3,5-epimerase']",True,Saccharide
+4061038434,4061038434_6931_7818,323567564,BGC0000774,6931,7818,['glucose-1-phosphate thymidylyltransferase'],True,Saccharide
+4061038434,4061038434_7882_8937,862802167,BGC0000774,7882,8937,"['dTDP-glucose 4,6-dehydratase']",True,Saccharide
+4061038434,4061038434_9166_9912,522967180,BGC0000774,9166,9912,['putative electron-transferring flavoprotein beta subunit'],True,Saccharide
+4061038434,4061038434_9912_10856,4187527599,BGC0000774,9912,10856,['putative electron-transferring flavoprotein alpha subunit'],True,Saccharide
+4061038434,4061038434_11312_12415,1224470239,BGC0000774,11312,12415,['nucleotide sugar aminotransferase'],True,Saccharide
+4061038434,4061038434_12400_13371,1403367220,BGC0000774,12400,13371,['glycosyltransferase'],True,Saccharide
+4061038434,4061038434_13368_14297,549376857,BGC0000774,13368,14297,['bifunctional nucleotide hexosamine acetyltransferase / isomerase'],True,Saccharide
+4061038434,4061038434_14284_14724,1926736690,BGC0000774,14284,14724,['putative integral membrane protein WxcN'],True,Saccharide
+4061038434,4061038434_14815_17046,930105117,BGC0000774,14815,17046,['integral membrane protein'],True,Saccharide
+4061038434,4061038434_17188_18126,2173320447,BGC0000774,17188,18126,['GDP-4-dehydro-D-rhamnose reductase'],True,Saccharide
+4061038434,4061038434_18110_19144,2677327577,BGC0000774,18110,19144,"['GDP-mannose 4,6-dehydratase']",True,Saccharide
+4061038434,4061038434_19222_19821,1453051977,BGC0000774,19222,19821,['Unknown'],True,Saccharide
+4061038434,4061038434_19857_21626,3834691344,BGC0000774,19857,21626,['putative glycosyltransferase'],True,Saccharide
+4061038434,4061038434_21623_22684,1406710837,BGC0000774,21623,22684,['glycosyltransferase'],True,Saccharide
+4061038434,4061038434_22734_25022,1444258177,BGC0000774,22734,25022,['putative protein kinase'],True,Saccharide
+4061038434,4061038434_25062_26348,4131739500,BGC0000774,25062,26348,['ATP-binding component of an ABC-type polysaccharide exporter'],True,Saccharide
+4061038434,4061038434_26345_27130,1463007406,BGC0000774,26345,27130,['permease protein of an ABC-type polysaccaharide exporter'],True,Saccharide
+4061038434,4061038434_27214_28599,2370737158,BGC0000774,27214,28599,['glycosyltransferase'],True,Saccharide
+4061038434,4061038434_28596_29795,1923938484,BGC0000774,28596,29795,['cystathionine gamma-synthase'],True,Saccharide
+4061038434,4061038434_29889_31259,1735452543,BGC0000774,29889,31259,['cystathionine beta-lyase'],True,Saccharide
+4061038434,4061038434_31491_31709,1898905352,BGC0000774,31491,31709,['UptF'],True,Saccharide
+4061038434,4061038434_32051_32941,2386602220,BGC0000774,32051,32941,['putative outer membrane protein UptE precursor'],True,Saccharide
+4061038434,4061038434_32938_33267,3860646202,BGC0000774,32938,33267,['putative outer membrane protein UptD precursor'],True,Saccharide
+4061038434,4061038434_33420_34553,1738634589,BGC0000774,33420,34553,['type II secretion system protein-like protein'],True,Saccharide
+4061038434,4061038434_35073_35735,73896029,BGC0000774,35073,35735,['putative maleylacetoacetate isomerase'],True,Saccharide
+4061038434,4061038434_35779_36768,3437607418,BGC0000774,35779,36768,['putative dioxygenase'],True,Saccharide
+4061038434,4061038434_37148_37753,669555732,BGC0000774,37148,37753,['putative ATP-dependent RNA helicase'],True,Saccharide

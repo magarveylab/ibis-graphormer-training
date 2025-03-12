@@ -1,0 +1,15 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1844548284,1844548284_1_489,330056845,BGC0000969,1,489,,False,
+1844548284,1844548284_657_1877,1490640580,BGC0000969,657,1877,['hypothetical protein'],True,NRP__Polyketide
+1844548284,1844548284_2262_3953,113073744,BGC0000969,2262,3953,['putative phosphoenol pyruvate synthase'],True,NRP__Polyketide
+1844548284,1844548284_3967_16515,3668268151,BGC0000969,3967,16515,['polyketide synthase'],True,NRP__Polyketide
+1844548284,1844548284_16512_23108,72006056,BGC0000969,16512,23108,['polyketide synthase'],True,NRP__Polyketide
+1844548284,1844548284_23105_26461,3558811726,BGC0000969,23105,26461,['non-ribosomal peptide synthase'],True,NRP__Polyketide
+1844548284,1844548284_26668_38406,4061683898,BGC0000969,26668,38406,['non-ribosomal peptide synthase'],True,NRP__Polyketide
+1844548284,1844548284_38459_40027,1179345446,BGC0000969,38459,40027,['tryptophan halogenase'],True,NRP__Polyketide
+1844548284,1844548284_40179_41774,890024772,BGC0000969,40179,41774,['tyrosine aminomutase'],True,NRP__Polyketide
+1844548284,1844548284_41795_42673,3505563705,BGC0000969,41795,42673,['putative phosphoenol pyruvate synthase'],True,NRP__Polyketide
+1844548284,1844548284_42765_44243,2550446686,BGC0000969,42765,44243,"[""putative nucleotidase-2',3'-cyclic phosphodiesterase""]",True,NRP__Polyketide
+1844548284,1844548284_44537_45397,818298901,BGC0000969,44537,45397,['hypothetical protein'],True,NRP__Polyketide
+1844548284,1844548284_45410_46171,3275880792,BGC0000969,45410,46171,['putative cephalosporin hydroxylase'],True,NRP__Polyketide
+1844548284,1844548284_46182_48533,710197086,BGC0000969,46182,48533,['putative heavy metal translocating P-type ATPase'],True,NRP__Polyketide

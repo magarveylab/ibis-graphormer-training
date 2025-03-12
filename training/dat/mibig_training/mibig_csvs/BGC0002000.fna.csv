@@ -1,0 +1,15 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1432388689,1432388689_1_1515,1822075952,BGC0002000,1,1515,['DHA2 family efflux MFS transporter permease subunit'],True,Polyketide
+1432388689,1432388689_1553_2206,2790855197,BGC0002000,1553,2206,['TcmI family type II polyketide cyclase'],True,Polyketide
+1432388689,1432388689_2698_3126,829349517,BGC0002000,2698,3126,['nuclear transport factor 2 family protein'],True,Polyketide
+1432388689,1432388689_3185_3994,3524376687,BGC0002000,3185,3994,['response regulator transcription factor'],True,Polyketide
+1432388689,1432388689_4095_5315,2990925927,BGC0002000,4095,5315,['cytochrome P450'],True,Polyketide
+1432388689,1432388689_5327_5521,2259865197,BGC0002000,5327,5521,['(4Fe-4S)-binding protein'],True,Polyketide
+1432388689,1432388689_5589_6059,186890022,BGC0002000,5589,6059,['nuclear transport factor 2 family protein'],True,Polyketide
+1432388689,1432388689_6277_6927,1452386892,BGC0002000,6277,6927,,True,Polyketide
+1432388689,1432388689_6924_8195,1428214173,BGC0002000,6924,8195,['beta-ketoacyl-[acyl-carrier-protein] synthase family protein'],True,Polyketide
+1432388689,1432388689_8192_9388,527179014,BGC0002000,8192,9388,['ketosynthase chain-length factor'],True,Polyketide
+1432388689,1432388689_9451_9717,4143966586,BGC0002000,9451,9717,['acyl carrier protein'],True,Polyketide
+1432388689,1432388689_9807_10592,3801055970,BGC0002000,9807,10592,['3-oxoacyl-ACP reductase FabG'],True,Polyketide
+1432388689,1432388689_10626_11591,1344091996,BGC0002000,10626,11591,['aromatase/cyclase'],True,Polyketide
+1432388689,1432388689_11588_12502,3103516271,BGC0002000,11588,12502,['alpha/beta fold hydrolase'],True,Polyketide

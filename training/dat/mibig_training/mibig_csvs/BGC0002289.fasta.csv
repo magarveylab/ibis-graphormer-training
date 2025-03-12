@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2335407669,2335407669_4_1785,2501214058,BGC0002289,4,1785,['Lactococcin transport/processing ATP-binding protein LcnC-like'],True,RiPP
+2335407669,2335407669_1782_3542,2930341126,BGC0002289,1782,3542,['Uncharacterized ABC transporter ATP-binding protein YfiC'],True,RiPP
+2335407669,2335407669_3651_3782,2816533494,BGC0002289,3651,3782,['Hypothetical Protein sle_05790'],True,RiPP
+2335407669,2335407669_3811_4326,3006685038,BGC0002289,3811,4326,,True,RiPP
+2335407669,2335407669_4323_4580,4115736608,BGC0002289,4323,4580,['Conserved Hypothetical Protein'],True,RiPP
+2335407669,2335407669_4584_6464,2415559789,BGC0002289,4584,6464,['Asparagine Synthase'],True,RiPP

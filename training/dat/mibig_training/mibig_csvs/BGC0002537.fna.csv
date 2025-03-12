@@ -1,0 +1,30 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+59395893,59395893_134_997,930175532,BGC0002537,134,997,,True,Polyketide__Terpene
+59395893,59395893_1720_2331,3051585753,BGC0002537,1720,2331,['terpene cyclase SptB'],True,Polyketide__Terpene
+59395893,59395893_2343_2501,363665058,BGC0002537,2343,2501,['terpene cyclase SptB'],True,Polyketide__Terpene
+59395893,59395893_2846_3007,4191691695,BGC0002537,2846,3007,,True,Polyketide__Terpene
+59395893,59395893_3096_3584,3798141490,BGC0002537,3096,3584,['short-chain dehydrogenase/reductase SptC'],True,Polyketide__Terpene
+59395893,59395893_3617_3952,3453880163,BGC0002537,3617,3952,['short-chain dehydrogenase/reductase SptC'],True,Polyketide__Terpene
+59395893,59395893_4155_5138,4248988244,BGC0002537,4155,5138,['prenyltransferase SptD'],True,Polyketide__Terpene
+59395893,59395893_5337_5816,3277421087,BGC0002537,5337,5816,['flavin-dependent monooxygenase SptE'],True,Polyketide__Terpene
+59395893,59395893_5827_6234,412733167,BGC0002537,5827,6234,['flavin-dependent monooxygenase SptE'],True,Polyketide__Terpene
+59395893,59395893_6283_6582,2516163845,BGC0002537,6283,6582,['flavin-dependent monooxygenase SptE'],True,Polyketide__Terpene
+59395893,59395893_6595_6900,1783892324,BGC0002537,6595,6900,['flavin-dependent monooxygenase SptE'],True,Polyketide__Terpene
+59395893,59395893_7212_8717,2723398460,BGC0002537,7212,8717,['acetyltransferase SptG'],True,Polyketide__Terpene
+59395893,59395893_9270_10127,2564346171,BGC0002537,9270,10127,['2-oxoglutarate/Fe(II)-dependent dioxygenase SptF'],True,Polyketide__Terpene
+59395893,59395893_11220_12092,1746385752,BGC0002537,11220,12092,['2-oxoglutarate/Fe(II)-dependent dioxygenase SptN'],True,Polyketide__Terpene
+59395893,59395893_12553_13428,2786936541,BGC0002537,12553,13428,['short-chain dehydrogenase/reductase SptI'],True,Polyketide__Terpene
+59395893,59395893_13995_14336,2856946859,BGC0002537,13995,14336,['cytochrome P450 monooxygenase/hydrolase SptK'],True,Polyketide__Terpene
+59395893,59395893_14469_14759,3768533566,BGC0002537,14469,14759,['cytochrome P450 monooxygenase/hydrolase SptK'],True,Polyketide__Terpene
+59395893,59395893_14774_14986,782930572,BGC0002537,14774,14986,['cytochrome P450 monooxygenase/hydrolase SptK'],True,Polyketide__Terpene
+59395893,59395893_15097_15549,4185136219,BGC0002537,15097,15549,['cytochrome P450 monooxygenase/hydrolase SptK'],True,Polyketide__Terpene
+59395893,59395893_15927_16937,3816196278,BGC0002537,15927,16937,['cytochrome P450 monooxygenase/hydrolase SptK'],True,Polyketide__Terpene
+59395893,59395893_17315_17431,3757545915,BGC0002537,17315,17431,['hypothetical protein SptL'],True,Polyketide__Terpene
+59395893,59395893_17415_17702,1065519344,BGC0002537,17415,17702,['hypothetical protein SptL'],True,Polyketide__Terpene
+59395893,59395893_18035_18220,3911464095,BGC0002537,18035,18220,,True,Polyketide__Terpene
+59395893,59395893_18275_18736,4237591862,BGC0002537,18275,18736,,True,Polyketide__Terpene
+59395893,59395893_19218_19823,1238797753,BGC0002537,19218,19823,['polyketide synthase SptM'],True,Polyketide__Terpene
+59395893,59395893_19934_20974,1450720653,BGC0002537,19934,20974,['polyketide synthase SptM'],True,Polyketide__Terpene
+59395893,59395893_21039_21377,3613123544,BGC0002537,21039,21377,['polyketide synthase SptM'],True,Polyketide__Terpene
+59395893,59395893_21440_25777,3334290626,BGC0002537,21440,25777,['polyketide synthase SptM'],True,Polyketide__Terpene
+59395893,59395893_25841_26716,468927436,BGC0002537,25841,26716,['polyketide synthase SptM'],True,Polyketide__Terpene

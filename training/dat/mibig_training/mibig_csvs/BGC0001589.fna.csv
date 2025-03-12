@@ -1,0 +1,22 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4074835386,4074835386_1_1119,3076992531,BGC0001589,1,1119,['polysaccharide biosynthesis/export family protein'],True,Saccharide
+4074835386,4074835386_1856_4171,3863288170,BGC0001589,1856,4171,['Wzz/FepE/Etk N-terminal domain-containing protein'],True,Saccharide
+4074835386,4074835386_4368_5792,1506657356,BGC0001589,4368,5792,['DUF6418 domain-containing protein'],True,Saccharide
+4074835386,4074835386_5967_7112,3740983616,BGC0001589,5967,7112,['acyltransferase'],True,Saccharide
+4074835386,4074835386_7322_9133,2984587716,BGC0001589,7322,9133,['alpha/beta hydrolase'],True,Saccharide
+4074835386,4074835386_9500_10630,1189374849,BGC0001589,9500,10630,['glycosyltransferase'],True,Saccharide
+4074835386,4074835386_10669_11922,3285957390,BGC0001589,10669,11922,['oligosaccharide flippase family protein'],True,Saccharide
+4074835386,4074835386_12077_13165,3043521772,BGC0001589,12077,13165,['glycosyltransferase family 4 protein'],True,Saccharide
+4074835386,4074835386_13178_14365,2902182404,BGC0001589,13178,14365,['glycosyltransferase'],True,Saccharide
+4074835386,4074835386_15047_16291,1512608090,BGC0001589,15047,16291,['right-handed parallel beta-helix repeat-containing protein'],True,Saccharide
+4074835386,4074835386_16386_17906,1760430150,BGC0001589,16386,17906,['mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase'],True,Saccharide
+4074835386,4074835386_17903_18562,1850067866,BGC0001589,17903,18562,,True,Saccharide
+4074835386,4074835386_19802_21193,3109317387,BGC0001589,19802,21193,['sigma-54 dependent transcriptional regulator'],True,Saccharide
+4074835386,4074835386_21248_23734,3658826759,BGC0001589,21248,23734,['glycoside hydrolase family 2 protein'],True,Saccharide
+4074835386,4074835386_23731_24786,1434325818,BGC0001589,23731,24786,['DUF1839 family protein'],True,Saccharide
+4074835386,4074835386_24783_25757,2644812164,BGC0001589,24783,25757,['amino acid--[acyl-carrier-protein] ligase'],True,Saccharide
+4074835386,4074835386_25754_26950,1586842203,BGC0001589,25754,26950,['acyl-CoA/acyl-ACP dehydrogenase'],True,Saccharide
+4074835386,4074835386_26947_27198,3108110513,BGC0001589,26947,27198,['acyl carrier protein'],True,Saccharide
+4074835386,4074835386_27379_28161,3722692010,BGC0001589,27379,28161,['Crp/Fnr family transcriptional regulator'],True,Saccharide
+4074835386,4074835386_29082_29864,1504054670,BGC0001589,29082,29864,['Crp/Fnr family transcriptional regulator'],True,Saccharide
+4074835386,4074835386_29897_31282,287789497,BGC0001589,29897,31282,['undecaprenyl-phosphate glucose phosphotransferase'],True,Saccharide

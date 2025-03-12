@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1649827376,1649827376_1_1251,4129043218,BGC0002076,1,1251,['A-factor biosynthesis protein'],True,Other
+1649827376,1649827376_1248_2396,2442230544,BGC0002076,1248,2396,['NADH:flavin oxidoreductase'],True,Other
+1649827376,1649827376_2410_3180,1656219815,BGC0002076,2410,3180,['SDR family oxidoreductase'],True,Other

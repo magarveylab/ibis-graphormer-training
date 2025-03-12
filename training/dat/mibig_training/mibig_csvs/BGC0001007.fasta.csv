@@ -1,0 +1,14 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+280520636,280520636_1_858,313556868,BGC0001007,1,858,['Methyltransferase type 11'],True,Polyketide__NRP
+280520636,280520636_915_8039,592721583,BGC0001007,915,8039,['thioester reductase domain'],True,Polyketide__NRP
+280520636,280520636_8219_10189,2860018230,BGC0001007,8219,10189,['asparagine synthase (glutamine-hydrolyzing)'],True,Polyketide__NRP
+280520636,280520636_10300_11778,305309052,BGC0001007,10300,11778,['Xaa-Pro aminopeptidase'],True,Polyketide__NRP
+280520636,280520636_12055_13653,2706750212,BGC0001007,12055,13653,['conserved hypothetical protein'],True,Polyketide__NRP
+280520636,280520636_14002_16524,3635979478,BGC0001007,14002,16524,['hypothetical protein'],True,Polyketide__NRP
+280520636,280520636_16708_17301,3766904289,BGC0001007,16708,17301,['conserved hypothetical protein'],True,Polyketide__NRP
+280520636,280520636_17317_17475,612037626,BGC0001007,17317,17475,['hypothetical protein'],True,Polyketide__NRP
+280520636,280520636_17770_20616,20490709,BGC0001007,17770,20616,['aconitate hydratase 1'],True,Polyketide__NRP
+280520636,280520636_20803_21051,618868051,BGC0001007,20803,21051,['conserved hypothetical protein'],True,Polyketide__NRP
+280520636,280520636_21188_22114,2688074215,BGC0001007,21188,22114,['protein of unknown function RIO1'],True,Polyketide__NRP
+280520636,280520636_22268_22912,2882836761,BGC0001007,22268,22912,"['HAD-superfamily hydrolase, subfamily IA, variant 1']",True,Polyketide__NRP
+280520636,280520636_23115_23687,1000960504,BGC0001007,23115,23687,"['transcriptional regulator, TetR family']",True,Polyketide__NRP

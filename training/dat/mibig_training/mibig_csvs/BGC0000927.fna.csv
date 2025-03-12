@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+946276367,946276367_2_637,1176255487,BGC0000927,2,637,['GTP cyclohydrolase II'],True,Other
+946276367,946276367_744_1247,116711926,BGC0000927,744,1247,['MarR-family transcriptional regulator'],True,Other
+946276367,946276367_1323_2450,4279887248,BGC0000927,1323,2450,['Riboflavin biosynthesis protein RibD'],True,Other

@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3575575397,3575575397_1_1239,1296213240,BGC0001201,1,1239,['Cytochrome P450 CYP264B1'],True,Terpene
+3575575397,3575575397_1302_2291,485757948,BGC0001201,1302,2291,['putative terpene cyclase'],True,Terpene

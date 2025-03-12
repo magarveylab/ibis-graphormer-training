@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3009352718,3009352718_1_483,1372745889,BGC0000918,1,483,['asnC-family transcriptional regulatory protein'],True,Other
+3009352718,3009352718_606_1751,2744885551,BGC0000918,606,1751,['4-hydroxyphenylpyruvate dioxygenase'],True,Other
+3009352718,3009352718_1897_3486,863139114,BGC0000918,1897,3486,['hypothetical protein'],True,Other
+3009352718,3009352718_3639_4994,1877381337,BGC0000918,3639,4994,['putative oxidoreductase'],True,Other

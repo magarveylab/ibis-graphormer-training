@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1679259418,1679259418_499_9519,1281731023,BGC0001187,499,9519,['GLPKS3'],True,NRP__Polyketide
+1679259418,1679259418_9519_12209,1984446881,BGC0001187,9519,12209,['GLNRPS7'],True,NRP__Polyketide

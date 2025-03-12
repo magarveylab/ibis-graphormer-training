@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2830935438,2830935438_1120_1422,114760523,BGC0000485,1120,1422,['acidocin B'],True,RiPP
+2830935438,2830935438_1506_1850,1476015156,BGC0000485,1506,1850,,True,RiPP

@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1230437605,1230437605_1_828,1974134464,BGC0000675,1,828,['methyltransferase type 12'],True,Terpene
+1230437605,1230437605_825_1313,4211305703,BGC0000675,825,1313,,True,Terpene
+1230437605,1230437605_1377_2180,2602717485,BGC0000675,1377,2180,['truncated pentalenene C13 hydroxylase'],True,Terpene
+1230437605,1230437605_2177_3433,448529587,BGC0000675,2177,3433,['hypothetical protein'],True,Terpene
+1230437605,1230437605_3639_4976,4225954749,BGC0000675,3639,4976,['cytochrome P450 hydroxylase'],True,Terpene

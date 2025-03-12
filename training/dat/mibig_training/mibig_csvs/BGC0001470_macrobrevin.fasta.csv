@@ -1,0 +1,16 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2008828104,2008828104_1_14322,2613230250,BGC0001470,1,14322,['trans-acyltransferase polyketide synthase'],True,Polyketide
+2008828104,2008828104_14366_24760,267046279,BGC0001470,14366,24760,['trans-acyltransferase polyketide synthase'],True,Polyketide
+2008828104,2008828104_24757_30561,2641571452,BGC0001470,24757,30561,['trans-acyltransferase polyketide synthase'],True,Polyketide
+2008828104,2008828104_30584_31330,2753286335,BGC0001470,30584,31330,['enoyl-CoA hydratase'],True,Polyketide
+2008828104,2008828104_31337_32101,3268722253,BGC0001470,31337,32101,['enoyl-CoA hydratase'],True,Polyketide
+2008828104,2008828104_32101_33357,2803400679,BGC0001470,32101,33357,['3-hydroxy-3-methylglutaryl-ACP synthase'],True,Polyketide
+2008828104,2008828104_33376_34614,915704005,BGC0001470,33376,34614,['polyketide beta-ketoacyl:ACP synthase'],True,Polyketide
+2008828104,2008828104_34592_34834,2573822660,BGC0001470,34592,34834,['acyl carrier protein'],True,Polyketide
+2008828104,2008828104_34831_48240,284071127,BGC0001470,34831,48240,['trans-acyltransferase polyketide synthase'],True,Polyketide
+2008828104,2008828104_48259_53790,3989875010,BGC0001470,48259,53790,['trans-acyltransferase polyketide synthase'],True,Polyketide
+2008828104,2008828104_53815_69555,1284693661,BGC0001470,53815,69555,['trans-acyltransferase polyketide synthase'],True,Polyketide
+2008828104,2008828104_69564_77471,3857055292,BGC0001470,69564,77471,['trans-acyltransferase polyketide synthase'],True,Polyketide
+2008828104,2008828104_77512_87249,2473921360,BGC0001470,77512,87249,['trans-acyltransferase polyketide synthase'],True,Polyketide
+2008828104,2008828104_87299_91858,27334381,BGC0001470,87299,91858,['trans-acyltransferase polyketide synthase'],True,Polyketide
+2008828104,2008828104_91876_95175,512412790,BGC0001470,91876,95175,['acyltransferase acyltransferase 2-Nitropropane dioxygenase (NPD)-like domain'],True,Polyketide

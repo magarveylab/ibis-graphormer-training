@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3904806529,3904806529_1_1161,1706689837,BGC0002711,1,1161,['3-Oxoacyl-(acyl-carrier-protein (ACP)) synthase III'],True,Polyketide
+3904806529,3904806529_1342_3102,981208811,BGC0002711,1342,3102,['thiamine pyrophosphate enzyme domain protein TPP-binding'],True,Polyketide
+3904806529,3904806529_3204_4745,1296031876,BGC0002711,3204,4745,['AMP-dependent synthetase and ligase'],True,Polyketide
+3904806529,3904806529_4927_6636,1944190425,BGC0002711,4927,6636,['phenylalanine/histidine ammonia-lyase'],True,Polyketide
+3904806529,3904806529_6747_7748,2026046939,BGC0002711,6747,7748,['3-oxoacyl-(acyl-carrier-protein) synthase III'],True,Polyketide
+3904806529,3904806529_7879_9147,187293530,BGC0002711,7879,9147,['beta-ketoacyl synthase'],True,Polyketide
+3904806529,3904806529_9157_9402,767708345,BGC0002711,9157,9402,['acyl carrier protein'],True,Polyketide

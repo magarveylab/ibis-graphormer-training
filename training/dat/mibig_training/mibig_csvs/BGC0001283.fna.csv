@@ -1,0 +1,28 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+734641096,734641096_1_306,3596075365,BGC0001283,1,306,,False,
+734641096,734641096_399_812,2050816255,BGC0001283,399,812,['arsenate reductase ArsC'],True,Polyketide
+734641096,734641096_809_1801,1508435093,BGC0001283,809,1801,['thioredoxin-disulfide reductase'],True,Polyketide
+734641096,734641096_1890_2312,1824936114,BGC0001283,1890,2312,['cobalamin B12-binding domain-containing protein'],True,Polyketide
+734641096,734641096_2355_3950,4145993266,BGC0001283,2355,3950,['methylmalonyl-CoA mutase family protein'],True,Polyketide
+734641096,734641096_4006_4281,1245907167,BGC0001283,4006,4281,['DUF5988 family protein'],True,Polyketide
+734641096,734641096_4775_5128,3164898867,BGC0001283,4775,5128,['metalloregulator ArsR/SmtB family transcription factor'],True,Polyketide
+734641096,734641096_5213_5992,3491695297,BGC0001283,5213,5992,['SDR family NAD(P)-dependent oxidoreductase'],True,Polyketide
+734641096,734641096_6053_7534,3517001020,BGC0001283,6053,7534,['NAD(P)-binding domain-containing protein'],True,Polyketide
+734641096,734641096_7570_7731,1500642749,BGC0001283,7570,7731,['hypothetical protein'],True,Polyketide
+734641096,734641096_8230_15306,742538269,BGC0001283,8230,15306,['SDR family NAD(P)-dependent oxidoreductase'],True,Polyketide
+734641096,734641096_15333_16373,1747121752,BGC0001283,15333,16373,['ketoacyl-ACP synthase III family protein'],True,Polyketide
+734641096,734641096_16458_17153,2052195378,BGC0001283,16458,17153,['VTT domain-containing protein'],True,Polyketide
+734641096,734641096_17150_18253,1104373506,BGC0001283,17150,18253,['phosphonopyruvate decarboxylase'],True,Polyketide
+734641096,734641096_18329_18730,2260161222,BGC0001283,18329,18730,['metalloregulator ArsR/SmtB family transcription factor'],True,Polyketide
+734641096,734641096_18799_20364,110012494,BGC0001283,18799,20364,['DHA2 family efflux MFS transporter permease subunit'],True,Polyketide
+734641096,734641096_20687_20941,4231209002,BGC0001283,20687,20941,,True,Polyketide
+734641096,734641096_21193_21831,2939329181,BGC0001283,21193,21831,['CTP synthase'],True,Polyketide
+734641096,734641096_21942_24464,3533650589,BGC0001283,21942,24464,['molybdopterin-dependent oxidoreductase'],True,Polyketide
+734641096,734641096_24520_25842,3953549446,BGC0001283,24520,25842,['3-phosphoshikimate 1-carboxyvinyltransferase'],True,Polyketide
+734641096,734641096_25839_27374,436072497,BGC0001283,25839,27374,"['2,3-bisphosphoglycerate-independent phosphoglycerate mutase']",True,Polyketide
+734641096,734641096_27371_27730,3126009686,BGC0001283,27371,27730,['hypothetical protein'],True,Polyketide
+734641096,734641096_28051_28923,3607144453,BGC0001283,28051,28923,['phosphate ABC transporter substrate-binding protein'],True,Polyketide
+734641096,734641096_28927_30738,1347609973,BGC0001283,28927,30738,['phosphate ABC transporter permease subunit PstC'],True,Polyketide
+734641096,734641096_30726_31415,619241951,BGC0001283,30726,31415,['ATP-binding cassette domain-containing protein'],True,Polyketide
+734641096,734641096_31537_31878,868643476,BGC0001283,31537,31878,['metalloregulator ArsR/SmtB family transcription factor'],True,Polyketide
+734641096,734641096_31996_32355,2215210824,BGC0001283,31996,32355,['metalloregulator ArsR/SmtB family transcription factor'],True,Polyketide

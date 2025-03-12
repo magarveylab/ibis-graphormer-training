@@ -1,0 +1,17 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+30395248,30395248_1_774,1445030220,BGC0002123,1,774,,False,
+30395248,30395248_781_1548,3797638162,BGC0002123,781,1548,"[""4'-phosphopantetheinyl transferase superfamily protein""]",True,NRP__Polyketide
+30395248,30395248_1483_10461,2128907770,BGC0002123,1483,10461,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+30395248,30395248_10470_14588,2360818675,BGC0002123,10470,14588,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+30395248,30395248_14585_24988,3718330916,BGC0002123,14585,24988,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide
+30395248,30395248_25025_33322,3986136581,BGC0002123,25025,33322,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide
+30395248,30395248_33540_34781,1415051213,BGC0002123,33540,34781,['MFS transporter'],True,NRP__Polyketide
+30395248,30395248_34816_35862,3546694297,BGC0002123,34816,35862,['GSCFA domain-containing protein'],True,NRP__Polyketide
+30395248,30395248_35831_36544,3111651401,BGC0002123,35831,36544,['hypothetical protein'],True,NRP__Polyketide
+30395248,30395248_36531_37163,2630942781,BGC0002123,36531,37163,['hypothetical protein'],True,NRP__Polyketide
+30395248,30395248_37193_38104,3553098918,BGC0002123,37193,38104,['TauD/TfdA family dioxygenase'],True,NRP__Polyketide
+30395248,30395248_38210_39442,3689041822,BGC0002123,38210,39442,['MFS transporter'],True,NRP__Polyketide
+30395248,30395248_39586_40059,2752544531,BGC0002123,39586,40059,['GNAT family N-acetyltransferase'],True,NRP__Polyketide
+30395248,30395248_40140_41177,1210850233,BGC0002123,40140,41177,['ABC transporter substrate-binding protein'],True,NRP__Polyketide
+30395248,30395248_41147_42532,1364479342,BGC0002123,41147,42532,['HAMP domain-containing histidine kinase'],True,NRP__Polyketide
+30395248,30395248_42529_43194,2603209031,BGC0002123,42529,43194,['response regulator transcription factor'],True,NRP__Polyketide

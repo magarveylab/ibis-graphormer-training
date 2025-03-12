@@ -1,0 +1,32 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1040263202,1040263202_126_998,315558532,BGC0000668,126,998,"['halogenase, 2OG-Fe(II) oxygenase family']",True,Terpene__Alkaloid
+1040263202,1040263202_1632_1721,2086009859,BGC0000668,1632,1721,,True,Terpene__Alkaloid
+1040263202,1040263202_1779_2822,1507760725,BGC0000668,1779,2822,['N-methyl transferase'],True,Terpene__Alkaloid
+1040263202,1040263202_2892_3572,1319795422,BGC0000668,2892,3572,['Unknown'],True,Terpene__Alkaloid
+1040263202,1040263202_3593_4672,880775057,BGC0000668,3593,4672,['Rieske oxygenase'],True,Terpene__Alkaloid
+1040263202,1040263202_4840_5928,1912589367,BGC0000668,4840,5928,['Rieske oxygenase'],True,Terpene__Alkaloid
+1040263202,1040263202_6124_7197,989605844,BGC0000668,6124,7197,['Rieske oxygenase'],True,Terpene__Alkaloid
+1040263202,1040263202_7404_8486,3598134031,BGC0000668,7404,8486,['Rieske oxygenase'],True,Terpene__Alkaloid
+1040263202,1040263202_8668_9354,1373757300,BGC0000668,8668,9354,['Unknown'],True,Terpene__Alkaloid
+1040263202,1040263202_9427_10686,2042757697,BGC0000668,9427,10686,['4-hydroxy-3-methylbut-2-enyl diphosphate reductase(IspH)'],True,Terpene__Alkaloid
+1040263202,1040263202_10723_11727,491904889,BGC0000668,10723,11727,['geranyl diphosphate synthase'],True,Terpene__Alkaloid
+1040263202,1040263202_13352_14056,1638438474,BGC0000668,13352,14056,['LuxR family transcriptional regulator'],True,Terpene__Alkaloid
+1040263202,1040263202_14278_15009,227079964,BGC0000668,14278,15009,['LuxR family transcriptional regulator'],True,Terpene__Alkaloid
+1040263202,1040263202_15577_16668,1345459354,BGC0000668,15577,16668,['putative two component response regulator'],True,Terpene__Alkaloid
+1040263202,1040263202_16776_17420,3827567769,BGC0000668,16776,17420,['phosphoglycerate mutase family protein'],True,Terpene__Alkaloid
+1040263202,1040263202_17445_18542,1187728934,BGC0000668,17445,18542,['anthranilate phosphoribosyltransferase (TrpD)'],True,Terpene__Alkaloid
+1040263202,1040263202_18567_19814,426230611,BGC0000668,18567,19814,['tryptophan synthase subunit beta (TrpB)'],True,Terpene__Alkaloid
+1040263202,1040263202_19954_20778,531043225,BGC0000668,19954,20778,['tryptophan synthase subunit alpha (TrpA)'],True,Terpene__Alkaloid
+1040263202,1040263202_20861_21724,2847655511,BGC0000668,20861,21724,['indole-3-glycerol phosphate synthase (TrpC)'],True,Terpene__Alkaloid
+1040263202,1040263202_21867_24071,2471000479,BGC0000668,21867,24071,['anthranilate synthase (TrpE)'],True,Terpene__Alkaloid
+1040263202,1040263202_24125_25030,2504428791,BGC0000668,24125,25030,['3-deoxy-D-arabinoheptulosonate 7-phosphate (DAHP) synthase'],True,Terpene__Alkaloid
+1040263202,1040263202_25171_26397,938952557,BGC0000668,25171,26397,['4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (IspG)'],True,Terpene__Alkaloid
+1040263202,1040263202_26470_28413,2653764498,BGC0000668,26470,28413,['1-deoxy-D-xylulose-5-phosphate synthase (DXS)'],True,Terpene__Alkaloid
+1040263202,1040263202_28667_29593,4083403040,BGC0000668,28667,29593,['aromatic prenyl transferase'],True,Terpene__Alkaloid
+1040263202,1040263202_29910_30731,532370120,BGC0000668,29910,30731,['isonitrile indole synthase B (IsnB)'],True,Terpene__Alkaloid
+1040263202,1040263202_30728_31723,2140065768,BGC0000668,30728,31723,['isonitrile indole synthase A (IsnA)'],True,Terpene__Alkaloid
+1040263202,1040263202_32131_33102,3927989350,BGC0000668,32131,33102,['isonitrile indole synthase A (IsnA)'],True,Terpene__Alkaloid
+1040263202,1040263202_33386_33895,1849924201,BGC0000668,33386,33895,['transposase'],True,Terpene__Alkaloid
+1040263202,1040263202_33979_34446,3721307372,BGC0000668,33979,34446,['transposase'],True,Terpene__Alkaloid
+1040263202,1040263202_34708_35928,1720670374,BGC0000668,34708,35928,"['1-deoxy-D-xylulose 5-phosphate reductoisomerase (IspC, Dxr)']",True,Terpene__Alkaloid
+1040263202,1040263202_35993_36568,2693892648,BGC0000668,35993,36568,['dephospho-CoA kinase-like protein'],True,Terpene__Alkaloid

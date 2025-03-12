@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3209709251,3209709251_1_633,3089990465,BGC0000583,1,633,['putative ABC transporter ATP-binding protein'],True,RiPP
+3209709251,3209709251_630_1367,3456056836,BGC0000583,630,1367,['putative methyltransferase'],True,RiPP
+3209709251,3209709251_1360_1932,3766490858,BGC0000583,1360,1932,['putative phosphopantothenoylcysteine synthetase/decarboxylase'],True,RiPP
+3209709251,3209709251_1929_2495,173806808,BGC0000583,1929,2495,['hypothetical protein'],True,RiPP
+3209709251,3209709251_2485_4005,1347609977,BGC0000583,2485,4005,['hypothetical protein'],True,RiPP
+3209709251,3209709251_4359_4553,427830793,BGC0000583,4359,4553,,True,RiPP
+3209709251,3209709251_5076_6725,464691037,BGC0000583,5076,6725,['putative SARP-family pathway specific regulatory protein'],True,RiPP

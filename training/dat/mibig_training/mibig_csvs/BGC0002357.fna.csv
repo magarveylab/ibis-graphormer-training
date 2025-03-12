@@ -1,0 +1,30 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+304929200,304929200_1_1497,3329142983,BGC0002357,1,1497,['putative methylmalonic acid semialdehyde dehydrogenase'],True,Polyketide__Other
+304929200,304929200_1642_2085,2474911149,BGC0002357,1642,2085,['hypothetical protein'],True,Polyketide__Other
+304929200,304929200_2170_4263,4005163470,BGC0002357,2170,4263,['putative integral membrane protein'],True,Polyketide__Other
+304929200,304929200_4260_4364,1549424319,BGC0002357,4260,4364,,True,Polyketide__Other
+304929200,304929200_4507_5265,201868863,BGC0002357,4507,5265,['putative type II TE'],True,Polyketide__Other
+304929200,304929200_5354_8197,4072199572,BGC0002357,5354,8197,['putative transcriptional regulator'],True,Polyketide__Other
+304929200,304929200_8219_8851,1093126890,BGC0002357,8219,8851,['putative DNA-binding response regulator'],True,Polyketide__Other
+304929200,304929200_8844_10088,1155068504,BGC0002357,8844,10088,['putative two-component system sensor kinase'],True,Polyketide__Other
+304929200,304929200_10259_10834,3552514768,BGC0002357,10259,10834,['hypothetical protein'],True,Polyketide__Other
+304929200,304929200_10903_11403,1063475378,BGC0002357,10903,11403,['putative membrane protein'],True,Polyketide__Other
+304929200,304929200_11400_12944,3669888985,BGC0002357,11400,12944,['putative membrane protein'],True,Polyketide__Other
+304929200,304929200_13256_52225,662703828,BGC0002357,13256,52225,['modular polyketide synthase'],True,Polyketide__Other
+304929200,304929200_52276_63456,2566341541,BGC0002357,52276,63456,['modular polyketide synthase'],True,Polyketide__Other
+304929200,304929200_63483_83654,388142419,BGC0002357,63483,83654,['modular polyketide synthase'],True,Polyketide__Other
+304929200,304929200_83722_88686,2494799893,BGC0002357,83722,88686,['modular polyketide synthase'],True,Polyketide__Other
+304929200,304929200_88945_104451,1942256667,BGC0002357,88945,104451,['modular polyketide synthase'],True,Polyketide__Other
+304929200,304929200_104503_120615,2332503857,BGC0002357,104503,120615,['modular polyketide synthase'],True,Polyketide__Other
+304929200,304929200_120672_130289,145808925,BGC0002357,120672,130289,['modular polyketide synthase'],True,Polyketide__Other
+304929200,304929200_130346_147454,463445312,BGC0002357,130346,147454,['modular polyketide synthase'],True,Polyketide__Other
+304929200,304929200_147515_169678,957272996,BGC0002357,147515,169678,['modular polyketide synthase'],True,Polyketide__Other
+304929200,304929200_169791_170738,3846542937,BGC0002357,169791,170738,['putative acyl transferase'],True,Polyketide__Other
+304929200,304929200_170779_172395,4020079014,BGC0002357,170779,172395,['putative ABC-2 type transporter'],True,Polyketide__Other
+304929200,304929200_172392_173399,2944499361,BGC0002357,172392,173399,['putative ABC transporter'],True,Polyketide__Other
+304929200,304929200_173719_174381,1903818879,BGC0002357,173719,174381,['putative type II TE'],True,Polyketide__Other
+304929200,304929200_174438_175850,573390560,BGC0002357,174438,175850,['putative acyl CoA ligase'],True,Polyketide__Other
+304929200,304929200_175962_177620,4103209514,BGC0002357,175962,177620,['putative amino oxidase'],True,Polyketide__Other
+304929200,304929200_177660_180527,516454503,BGC0002357,177660,180527,['putative LuxR family transcriptional regulator'],True,Polyketide__Other
+304929200,304929200_181106_182149,1632845400,BGC0002357,181106,182149,['putative sulfotransferase'],True,Polyketide__Other
+304929200,304929200_182342_183340,1955338683,BGC0002357,182342,183340,['putative amidinohydrolase'],True,Polyketide__Other

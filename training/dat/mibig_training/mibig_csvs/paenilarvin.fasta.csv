@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2983145140,2983145140_1_7806,1372637943,BGC0000402,1,7806,['nonribosomal peptide ligase subunit'],True,NRP
+2983145140,2983145140_7943_24052,1399012235,BGC0000402,7943,24052,['nonribosomal peptide ligase subunit'],True,NRP
+2983145140,2983145140_24096_36050,734889542,BGC0000402,24096,36050,['putative non-ribosomal peptide ligase/ polyketide synthase hybrid'],True,NRP
+2983145140,2983145140_36081_37280,755578019,BGC0000402,36081,37280,['putative malonyl CoA-acyl carrier protein transacylase'],True,NRP

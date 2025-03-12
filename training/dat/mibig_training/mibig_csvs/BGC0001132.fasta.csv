@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3733078368,3733078368_1_12417,1194265987,BGC0001132,1,12417,['Non Ribosomal peptide synthetase (-succinylbenzoate--CoA ligase)'],True,NRP

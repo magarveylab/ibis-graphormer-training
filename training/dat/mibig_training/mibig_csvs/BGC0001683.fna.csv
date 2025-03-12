@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+273946024,273946024_1_579,396453636,BGC0001683,1,579,['hypothetical protein'],True,Other
+273946024,273946024_583_2193,129178990,BGC0001683,583,2193,['serine-pyruvate aminotransferase'],True,Other
+273946024,273946024_2180_4009,2260338078,BGC0001683,2180,4009,['phosphoglycerol transferase'],True,Other
+273946024,273946024_4026_4331,3385224202,BGC0001683,4026,4331,['hypothetical protein'],True,Other

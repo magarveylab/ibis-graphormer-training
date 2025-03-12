@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+622056971,622056971_1_357,3103631795,BGC0002176,1,357,['hypothetical protein'],True,Terpene
+622056971,622056971_474_692,3962025134,BGC0002176,474,692,,True,Terpene
+622056971,622056971_885_1199,2862691416,BGC0002176,885,1199,['hypothetical protein'],True,Terpene

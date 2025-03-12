@@ -1,0 +1,14 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2329457379,2329457379_1_1422,221114045,BGC0002422,1,1422,['diaminobutyrate aminotransferase apoenzyme'],True,NRP
+2329457379,2329457379_1531_3594,3999865343,BGC0002422,1531,3594,['TonB-dependent siderophore receptor'],True,NRP
+2329457379,2329457379_3843_4820,440729274,BGC0002422,3843,4820,"['Taurine dioxygenase, alpha-ketoglutarate-dependent']",True,NRP
+2329457379,2329457379_4828_8256,857931387,BGC0002422,4828,8256,['Acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II'],True,NRP
+2329457379,2329457379_8274_9320,2716320757,BGC0002422,8274,9320,"['Taurine dioxygenase, alpha-ketoglutarate-dependent']",True,NRP
+2329457379,2329457379_9432_12494,3459007716,BGC0002422,9432,12494,['amino acid adenylation domain-containing protein'],True,NRP
+2329457379,2329457379_12553_26487,2413857153,BGC0002422,12553,26487,['non-ribosomal peptide synthase domain TIGR01720/amino acid adenylation domain-containing protein'],True,NRP
+2329457379,2329457379_26574_35675,765227706,BGC0002422,26574,35675,['amino acid adenylation domain-containing protein'],True,NRP
+2329457379,2329457379_35734_36237,3529571779,BGC0002422,35734,36237,['Condensation domain-containing protein'],True,NRP
+2329457379,2329457379_36234_39563,3837323366,BGC0002422,36234,39563,['Phosphopantetheine attachment site'],True,NRP
+2329457379,2329457379_39560_41203,3542057708,BGC0002422,39560,41203,['putative ATP-binding cassette transporter'],True,NRP
+2329457379,2329457379_41249_41836,2863492516,BGC0002422,41249,41836,['ferric iron reductase protein FhuF'],True,NRP
+2329457379,2329457379_42138_43841,4004154524,BGC0002422,42138,43841,['putative ATP-binding cassette transporter'],True,NRP

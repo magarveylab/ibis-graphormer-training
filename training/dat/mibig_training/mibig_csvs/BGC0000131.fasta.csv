@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4284205723,4284205723_1_1125,4118846471,BGC0000131,1,1125,['2-oxoglutarate ferredoxin oxidoreductase beta subunit'],True,Polyketide
+4284205723,4284205723_1163_2602,4123048927,BGC0000131,1163,2602,['membrane antiporter'],True,Polyketide
+4284205723,4284205723_2698_3837,1720365427,BGC0000131,2698,3837,['acyl-CoA dehydrogenase'],True,Polyketide
+4284205723,4284205723_3834_5312,3095169505,BGC0000131,3834,5312,['amino acid adenyltransferase'],True,Polyketide
+4284205723,4284205723_5312_5875,3909926069,BGC0000131,5312,5875,['flavin reductase'],True,Polyketide
+4284205723,4284205723_5984_6280,2755719966,BGC0000131,5984,6280,['acyl-carrier protein'],True,Polyketide

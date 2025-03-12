@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3242307949,3242307949_254_1879,1411173403,BGC0001475,254,1879,['dihydroxy-acid dehydratase'],True,Terpene
+3242307949,3242307949_3157_4386,1247259439,BGC0001475,3157,4386,['hypothetical protein'],True,Terpene
+3242307949,3242307949_5487_5753,3001583996,BGC0001475,5487,5753,['hypothetical protein'],True,Terpene
+3242307949,3242307949_5795_6781,581575626,BGC0001475,5795,6781,['hypothetical protein'],True,Terpene
+3242307949,3242307949_8260_8592,2008176453,BGC0001475,8260,8592,['hypothetical protein'],True,Terpene
+3242307949,3242307949_8674_9618,3856073544,BGC0001475,8674,9618,['hypothetical protein'],True,Terpene

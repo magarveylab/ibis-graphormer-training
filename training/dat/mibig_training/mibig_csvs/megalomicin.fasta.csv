@@ -1,0 +1,20 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1167383277,1167383277_1_144,4023232619,BGC0000092,1,144,"['TDP-4-keto-6-deoxyglucose-2,3-dehydratase']",True,Polyketide
+1167383277,1167383277_928_2061,332931841,BGC0000092,928,2061,"['TDP-4-keto-6-deoxyhexose 3,4-isomerase']",True,Polyketide
+1167383277,1167383277_2072_3382,3003200807,BGC0000092,2072,3382,['TDP-megosamine glycosyltransferase'],True,Polyketide
+1167383277,1167383277_3462_4634,2159862139,BGC0000092,3462,4634,['mycarose O-acyltransferase'],True,Polyketide
+1167383277,1167383277_4651_5775,4089781640,BGC0000092,4651,5775,['TDP-3-keto-6-deoxyhexose 3-aminotransaminase'],True,Polyketide
+1167383277,1167383277_5822_6595,3525544212,BGC0000092,5822,6595,"['daunosaminyl-N,N-dimethyltransferase']",True,Polyketide
+1167383277,1167383277_6592_7197,2137979289,BGC0000092,6592,7197,"['TDP-4-keto-6-deoxyhexose 3,5-epimerase']",True,Polyketide
+1167383277,1167383277_7220_8206,3417800380,BGC0000092,7220,8206,['TDP-4-keto-6-deoxyhexose 4-ketoreductase'],True,Polyketide
+1167383277,1167383277_8228_9229,787411490,BGC0000092,8228,9229,"['TDP-4-keto-6-deoxyhexose 2,3-reductase']",True,Polyketide
+1167383277,1167383277_9226_10479,3984077629,BGC0000092,9226,10479,['TDP-mycarose glycosyltransferase'],True,Polyketide
+1167383277,1167383277_10483_11424,870933041,BGC0000092,10483,11424,['TDP-4-keto-6-deoxyhexose 4-ketoreductase'],True,Polyketide
+1167383277,1167383277_12331_22821,3647104726,BGC0000092,12331,22821,['megalomicin 6-deoxyerythronolide B synthase 1'],True,Polyketide
+1167383277,1167383277_22867_33555,2640557000,BGC0000092,22867,33555,['megalomicin 6-deoxyerythronolide B synthase 2'],True,Polyketide
+1167383277,1167383277_33666_43271,585206753,BGC0000092,33666,43271,['megalomicin 6-deoxyerythronolide B synthase 3'],True,Polyketide
+1167383277,1167383277_43268_44344,1919615803,BGC0000092,43268,44344,"['TDP-4-keto-6-deoxyglucose 3,4-isomerase']",True,Polyketide
+1167383277,1167383277_44355_45623,1931879959,BGC0000092,44355,45623,['TDP-desosamine glycosyltransferase'],True,Polyketide
+1167383277,1167383277_45620_46591,1811010683,BGC0000092,45620,46591,"['TDP-4-keto-6-deoxyglucose 2,3 dehydratase']",True,Polyketide
+1167383277,1167383277_46660_47403,3858879993,BGC0000092,46660,47403,['TEII'],True,Polyketide
+1167383277,1167383277_47411_47980,2098410432,BGC0000092,47411,47980,['C-6 hydroxylase'],True,Polyketide

@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2622209323,2622209323_1_1116,2894197729,BGC0001361,1,1116,['putative terpene cyclase'],True,Terpene
+2622209323,2622209323_1196_2173,1380920394,BGC0001361,1196,2173,['hypothetical protein'],True,Terpene
+2622209323,2622209323_2170_4008,16807735,BGC0001361,2170,4008,['1-deoxy-D-xylulose-5-phosphate synthase Dxs'],True,Terpene
+2622209323,2622209323_4041_4580,2153201750,BGC0001361,4041,4580,['hypothetical protein'],True,Terpene

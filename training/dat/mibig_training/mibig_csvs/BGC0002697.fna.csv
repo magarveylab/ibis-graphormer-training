@@ -1,0 +1,19 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+117309066,117309066_1_351,1880071683,BGC0002697,1,351,['hypothetical protein'],True,NRP__Polyketide
+117309066,117309066_371_1201,2723897733,BGC0002697,371,1201,['methylthioadenosine phosphorylase'],True,NRP__Polyketide
+117309066,117309066_1198_1938,1648936788,BGC0002697,1198,1938,"['2,3-diketo-5-methylthio-1-phosphopentane phosphatase']",True,NRP__Polyketide
+117309066,117309066_1935_2513,2178376864,BGC0002697,1935,2513,['putative oxidoreductase'],True,NRP__Polyketide
+117309066,117309066_2554_4197,1257450946,BGC0002697,2554,4197,['putative initiation factor eIF-2B alpha subunit-like protein'],True,NRP__Polyketide
+117309066,117309066_4258_4974,223752601,BGC0002697,4258,4974,['hypothetical protein'],True,NRP__Polyketide
+117309066,117309066_5047_6525,2354895760,BGC0002697,5047,6525,['crotonyl CoA reductase'],True,NRP__Polyketide
+117309066,117309066_6522_7895,3984945364,BGC0002697,6522,7895,['cytochrome P450 protein'],True,NRP__Polyketide
+117309066,117309066_8220_15374,1274941575,BGC0002697,8220,15374,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+117309066,117309066_15371_16576,2906364769,BGC0002697,15371,16576,['FAD-dependent monooxygenase'],True,NRP__Polyketide
+117309066,117309066_16573_17943,1850052515,BGC0002697,16573,17943,"['monooxygenase, FAD-binding protein']",True,NRP__Polyketide
+117309066,117309066_17994_18881,3444735558,BGC0002697,17994,18881,['hypothetical protein'],True,NRP__Polyketide
+117309066,117309066_18925_19377,17739137,BGC0002697,18925,19377,['hypothetical protein'],True,NRP__Polyketide
+117309066,117309066_19475_37327,1948598326,BGC0002697,19475,37327,['type I polyketide synthase'],True,NRP__Polyketide
+117309066,117309066_37389_38162,1813987406,BGC0002697,37389,38162,['hypothetical protein'],True,NRP__Polyketide
+117309066,117309066_38666_39313,435852850,BGC0002697,38666,39313,['ATP-dependent Clp protease proteolytic subunit 1'],True,NRP__Polyketide
+117309066,117309066_39613_40329,3661487774,BGC0002697,39613,40329,['ATP-dependent Clp protease proteolytic subunit'],True,NRP__Polyketide
+117309066,117309066_40322_41791,2305310765,BGC0002697,40322,41791,['transmembrane efflux protein'],True,NRP__Polyketide

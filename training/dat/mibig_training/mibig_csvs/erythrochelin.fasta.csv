@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3959277626,3959277626_1_894,1343295185,BGC0000349,1,894,['LysR-family transcriptional regulator'],True,NRP
+3959277626,3959277626_1314_2639,2580904547,BGC0000349,1314,2639,['putative peptide monooxygenase'],True,NRP
+3959277626,3959277626_2784_3770,1403036715,BGC0000349,2784,3770,['possible ABC Fe(3+) transporter binding protein'],True,NRP
+3959277626,3959277626_3828_20117,7187418,BGC0000349,3828,20117,['putative non-ribosomal peptide synthetase'],True,NRP
+3959277626,3959277626_20114_20317,3783303234,BGC0000349,20114,20317,['MbtH protein'],True,NRP
+3959277626,3959277626_20739_22496,439191185,BGC0000349,20739,22496,['putative ABC transporter transmembrane'],True,NRP
+3959277626,3959277626_22508_24145,1379707802,BGC0000349,22508,24145,"['ABC transporter protein, ATP-binding component']",True,NRP

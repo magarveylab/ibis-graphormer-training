@@ -1,0 +1,15 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4211425244,4211425244_1_675,1789939759,BGC0001674,1,675,"['two component transcriptional regulator, LuxR family']",True,RiPP
+4211425244,4211425244_765_2087,1605216395,BGC0001674,765,2087,['poly-gamma-glutamate synthesis protein (capsule biosynthesis protein)'],True,RiPP
+4211425244,4211425244_2084_2815,1931635153,BGC0001674,2084,2815,['Protein-disulfide isomerase'],True,RiPP
+4211425244,4211425244_2818_3342,3118209786,BGC0001674,2818,3342,['Methylamine utilisation protein MauE'],True,RiPP
+4211425244,4211425244_3363_4232,2550313820,BGC0001674,3363,4232,['ABC-2 type transport system permease protein'],True,RiPP
+4211425244,4211425244_4229_5194,143472716,BGC0001674,4229,5194,['ABC-2 type transport system ATP-binding protein'],True,RiPP
+4211425244,4211425244_5191_5682,2089322608,BGC0001674,5191,5682,['Transglutaminase-like superfamily protein'],True,RiPP
+4211425244,4211425244_5679_5942,3065657720,BGC0001674,5679,5942,['Coenzyme PQQ synthesis protein D (PqqD)'],True,RiPP
+4211425244,4211425244_5939_7780,949872821,BGC0001674,5939,7780,['asparagine synthase (glutamine-hydrolysing)'],True,RiPP
+4211425244,4211425244_7853_8086,2578532413,BGC0001674,7853,8086,['hypothetical protein'],True,RiPP
+4211425244,4211425244_8097_8849,1144472303,BGC0001674,8097,8849,['ABC-2 family transporter protein'],True,RiPP
+4211425244,4211425244_8842_9789,479105880,BGC0001674,8842,9789,['ABC-2 type transport system ATP-binding protein'],True,RiPP
+4211425244,4211425244_9936_11069,868238,BGC0001674,9936,11069,['Signal transduction histidine kinase'],True,RiPP
+4211425244,4211425244_11221_11913,311486644,BGC0001674,11221,11913,"['DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains']",True,RiPP

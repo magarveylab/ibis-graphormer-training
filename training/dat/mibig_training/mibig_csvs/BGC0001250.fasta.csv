@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2162910663,2162910663_1_14073,2783751236,BGC0001250,1,14073,['epichloenin A synthetase'],True,NRP

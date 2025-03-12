@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+117882728,117882728_1_1401,1501118245,BGC0002633,1,1401,['diaminobutyrate aminotransferase apoenzyme'],True,Other
+117882728,117882728_1457_2965,3389852440,BGC0002633,1457,2965,"['L-2,4-diaminobutyrate decarboxylase']",True,Other
+117882728,117882728_2962_4806,2244696038,BGC0002633,2962,4806,['IucA/IucC family protein'],True,Other
+117882728,117882728_4799_5398,3241170860,BGC0002633,4799,5398,['IucB family siderophore biosynthesis protein'],True,Other
+117882728,117882728_5449_6756,2210114746,BGC0002633,5449,6756,['L-lysine 6-monooxygenase (NADPH)'],True,Other
+117882728,117882728_6753_7970,2825548289,BGC0002633,6753,7970,['major facilitator superfamily MFS_1'],True,Other
+117882728,117882728_8033_10453,1187622569,BGC0002633,8033,10453,['IucA/IucC family protein'],True,Other
+117882728,117882728_10570_11574,2560227806,BGC0002633,10570,11574,['esterase/lipase'],True,Other

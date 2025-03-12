@@ -1,0 +1,25 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1861486483,1861486483_1_870,2253775430,BGC0002060,1,870,['Acyl-CoA thioesterase'],True,Polyketide
+1861486483,1861486483_1040_2617,3139651714,BGC0002060,1040,2617,,True,Polyketide
+1861486483,1861486483_2688_3962,1815894174,BGC0002060,2688,3962,['HI0933-like protein'],True,Polyketide
+1861486483,1861486483_4211_5539,2032070704,BGC0002060,4211,5539,"['Helicase, C-terminal:DEAD/DEAH box helicase, N-terminal']",True,Polyketide
+1861486483,1861486483_5602_6516,513090321,BGC0002060,5602,6516,['Protein of unknown function DUF6'],True,Polyketide
+1861486483,1861486483_6684_7151,3016614594,BGC0002060,6684,7151,"['transcriptional regulator, AsnC family']",True,Polyketide
+1861486483,1861486483_7156_7770,2783239863,BGC0002060,7156,7770,"['DNA polymerase III, epsilon subunit']",True,Polyketide
+1861486483,1861486483_7789_8265,2558214468,BGC0002060,7789,8265,['Protein of unknown function DUF88'],True,Polyketide
+1861486483,1861486483_8546_9250,3907058302,BGC0002060,8546,9250,['conserved hypothetical protein'],True,Polyketide
+1861486483,1861486483_9448_10110,880897106,BGC0002060,9448,10110,['Protein of unknown function UPF0259'],True,Polyketide
+1861486483,1861486483_10144_11286,4109630431,BGC0002060,10144,11286,['Endonuclease/exonuclease/phosphatase'],True,Polyketide
+1861486483,1861486483_11471_11719,85478717,BGC0002060,11471,11719,['conserved hypothetical protein'],True,Polyketide
+1861486483,1861486483_11824_12021,2061212530,BGC0002060,11824,12021,['conserved hypothetical protein'],True,Polyketide
+1861486483,1861486483_12589_13467,2173622266,BGC0002060,12589,13467,['Protein of unknown function DUF142'],True,Polyketide
+1861486483,1861486483_14109_15665,2608366348,BGC0002060,14109,15665,['conserved hypothetical protein'],True,Polyketide
+1861486483,1861486483_15766_16365,4002608374,BGC0002060,15766,16365,['hypothetical protein'],True,Polyketide
+1861486483,1861486483_16504_17421,1713268264,BGC0002060,16504,17421,['hypothetical protein'],True,Polyketide
+1861486483,1861486483_17490_20657,1233672266,BGC0002060,17490,20657,['Malonyl CoA-acyl carrier protein transacylase'],True,Polyketide
+1861486483,1861486483_20662_27444,3844494979,BGC0002060,20662,27444,['Erythronolide synthase'],True,Polyketide
+1861486483,1861486483_27500_34681,3159215663,BGC0002060,27500,34681,['Beta-ketoacyl synthase:Beta-ketoacyl synthase:Phosphopantetheine-binding protein'],True,Polyketide
+1861486483,1861486483_34692_44387,963238046,BGC0002060,34692,44387,['Beta-ketoacyl synthase:Beta-ketoacyl synthase:Phosphopantetheine-binding protein'],True,Polyketide
+1861486483,1861486483_44408_46384,779587432,BGC0002060,44408,46384,"['Asparagine synthase, glutamine-hydrolyzing']",True,Polyketide
+1861486483,1861486483_46621_46866,3806695522,BGC0002060,46621,46866,['conserved hypothetical protein'],True,Polyketide
+1861486483,1861486483_46941_47954,3617694550,BGC0002060,46941,47954,['Probable taurine catabolism dioxygenase-like protein'],True,Polyketide

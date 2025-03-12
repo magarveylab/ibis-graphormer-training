@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2567853114,2567853114_1_213,2681438035,BGC0000325,1,213,['conserved hypothetical protein'],True,NRP
+2567853114,2567853114_302_1393,1114900307,BGC0000325,302,1393,['putative esterase'],True,NRP
+2567853114,2567853114_1480_3180,4083425003,BGC0000325,1480,3180,['putative ABC transporter transmembrane protein'],True,NRP
+2567853114,2567853114_3167_14098,2178893252,BGC0000325,3167,14098,['putative peptide synthetase'],True,NRP
+2567853114,2567853114_14156_15961,3849186121,BGC0000325,14156,15961,['putative ABC-transporter transmembrane protein'],True,NRP
+2567853114,2567853114_15964_17016,2113088837,BGC0000325,15964,17016,['putative iron-siderophore binding lipoprotein'],True,NRP
+2567853114,2567853114_17067_17930,845801432,BGC0000325,17067,17930,['putative iron-siderophore ABC-transporter ATP-binding protein'],True,NRP
+2567853114,2567853114_17969_19060,2702045877,BGC0000325,17969,19060,['putative iron-siderophore permease transmembrane protein'],True,NRP
+2567853114,2567853114_19072_20148,1564747407,BGC0000325,19072,20148,['putative iron-siderophore permease transmembrane protein'],True,NRP
+2567853114,2567853114_20148_21503,4054171723,BGC0000325,20148,21503,['putative peptide monooxygenase'],True,NRP
+2567853114,2567853114_21679_22626,779848875,BGC0000325,21679,22626,['putative formyltransferase'],True,NRP

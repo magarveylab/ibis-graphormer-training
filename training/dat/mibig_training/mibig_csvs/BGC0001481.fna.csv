@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+479412495,479412495_1_426,767188439,BGC0001481,1,426,['uncharacterized protein'],True,Terpene
+479412495,479412495_745_1257,4170420260,BGC0001481,745,1257,['uncharacterized protein'],True,Terpene

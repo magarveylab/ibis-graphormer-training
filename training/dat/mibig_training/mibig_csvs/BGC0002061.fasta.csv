@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2664553429,2664553429_1_13170,2770724635,BGC0002061,1,13170,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+2664553429,2664553429_13167_16943,72184625,BGC0002061,13167,16943,['acyltransferase domain-containing protein'],True,NRP__Polyketide
+2664553429,2664553429_16995_28646,2264663683,BGC0002061,16995,28646,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+2664553429,2664553429_28643_36250,2798590733,BGC0002061,28643,36250,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+2664553429,2664553429_36290_37087,1879513777,BGC0002061,36290,37087,['hypothetical protein'],True,NRP__Polyketide
+2664553429,2664553429_37136_38242,2660024175,BGC0002061,37136,38242,['zinc-binding dehydrogenase'],True,NRP__Polyketide
+2664553429,2664553429_38282_39103,1695932462,BGC0002061,38282,39103,['pyrroline-5-carboxylate reductase'],True,NRP__Polyketide
+2664553429,2664553429_39206_41197,3257142885,BGC0002061,39206,41197,['ABC transporter ATP-binding protein/permease'],True,NRP__Polyketide

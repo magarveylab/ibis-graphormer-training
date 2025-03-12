@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+260736408,260736408_2_1360,2818635414,BGC0001498,2,1360,,False,
+260736408,260736408_1443_3662,126274702,BGC0001498,1443,3662,['Ferric aerobactin receptor'],True,Other
+260736408,260736408_3700_5004,338845799,BGC0001498,3700,5004,['L-lysine 6-monooxygenase'],True,Other
+260736408,260736408_5001_6764,1194008776,BGC0001498,5001,6764,['Aerobactin siderophore biosynthesis protein iucC'],True,Other
+260736408,260736408_6761_7762,756403671,BGC0001498,6761,7762,['Aerobactin siderophore biosynthesis protein iucB'],True,Other
+260736408,260736408_7749_9521,3220562032,BGC0001498,7749,9521,['Aerobactin siderophore biosynthesis protein iucA'],True,Other
+260736408,260736408_9650_10864,212113572,BGC0001498,9650,10864,['conserved membrane hypothetical protein'],True,Other
+260736408,260736408_10884_11822,741075309,BGC0001498,10884,11822,['FAD-binding 9 siderophore-interacting domain-containing protein'],True,Other
+260736408,260736408_11825_12622,2714647016,BGC0001498,11825,12622,['Iron(3+)-hydroxamate import ATP-binding protein FhuC'],True,Other
+260736408,260736408_12622_13533,3667476112,BGC0001498,12622,13533,['Iron(3+)-hydroxamate-binding protein fhuD'],True,Other
+260736408,260736408_13530_14519,1651613731,BGC0001498,13530,14519,,False,

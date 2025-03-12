@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1332474565,1332474565_1_570,3810527272,BGC0001987,1,570,['acyl carrier protein'],True,Polyketide
+1332474565,1332474565_579_1853,653578415,BGC0001987,579,1853,['3-oxoacyl-ACP synthase'],True,Polyketide
+1332474565,1332474565_1855_2913,2749474696,BGC0001987,1855,2913,['beta-ketoacyl synthase'],True,Polyketide
+1332474565,1332474565_2910_4205,1244988920,BGC0001987,2910,4205,['3-oxoacyl-ACP synthase'],True,Polyketide
+1332474565,1332474565_4202_5410,2290676859,BGC0001987,4202,5410,['beta-ketoacyl synthase'],True,Polyketide
+1332474565,1332474565_5465_8335,719507823,BGC0001987,5465,8335,['pyridoxalphosphate dependent aminotransferase'],True,Polyketide
+1332474565,1332474565_8345_9082,2711911841,BGC0001987,8345,9082,['3-oxoacyl-ACP reductase'],True,Polyketide
+1332474565,1332474565_9079_9843,1020725885,BGC0001987,9079,9843,['short-chain dehydrogenase'],True,Polyketide
+1332474565,1332474565_9846_11144,3942621866,BGC0001987,9846,11144,['hypothetical protein'],True,Polyketide
+1332474565,1332474565_11204_12040,1159570044,BGC0001987,11204,12040,['outer membrane lipoprotein-sorting protein'],True,Polyketide
+1332474565,1332474565_12068_14689,1099992014,BGC0001987,12068,14689,['transporter'],True,Polyketide

@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1764861032,1764861032_1_726,3479035255,BGC0001134,1,726,['cupin-like domain-containing protein'],True,Other

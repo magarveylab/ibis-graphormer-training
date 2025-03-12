@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3601294030,3601294030_1_1779,2740586842,BGC0000941,1,1779,['putative siderophore biosynthetic enzyme'],True,Other
+3601294030,3601294030_1776_2345,2768651702,BGC0000941,1776,2345,['putative acetyltransferase'],True,Other
+3601294030,3601294030_2342_3619,685247101,BGC0000941,2342,3619,['putative monooxygenase'],True,Other
+3601294030,3601294030_3603_5051,3752014663,BGC0000941,3603,5051,['putative pyridoxal-dependent decarboxylase'],True,Other
+3601294030,3601294030_5207_6127,1465742922,BGC0000941,5207,6127,['putative siderophore-interacting protein'],True,Other

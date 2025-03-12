@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3486270136,3486270136_247_1077,3836583305,BGC0002277,247,1077,['atromentin synthetase'],True,NRP
+3486270136,3486270136_1074_1940,3237422582,BGC0002277,1074,1940,['atromentin synthetase'],True,NRP
+3486270136,3486270136_2420_3145,423988790,BGC0002277,2420,3145,['atromentin synthetase'],True,NRP

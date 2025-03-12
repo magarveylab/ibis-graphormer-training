@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1118021803,1118021803_1_1911,733797057,BGC0000284,1,1911,['Type I fatty acid synthase ArsD'],True,Polyketide
+1118021803,1118021803_1908_3137,2254749016,BGC0000284,1908,3137,['Type III polyketide synthase'],True,Polyketide
+1118021803,1118021803_3134_4354,221496618,BGC0000284,3134,4354,['Type III polyketide synthase'],True,Polyketide
+1118021803,1118021803_4438_11949,3074792992,BGC0000284,4438,11949,['Type I fatty acid synthase ArsA'],True,Polyketide

@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2892261719,2892261719_1_1428,3755391167,BGC0002548,1,1428,['outer membrane lipoprotein CmeC'],True,NRP
+2892261719,2892261719_1487_2281,1055648882,BGC0002548,1487,2281,['LuxR family transcriptional regulator'],True,NRP
+2892261719,2892261719_2775_9185,1619150749,BGC0002548,2775,9185,['nonribosomal peptide synthetase modules A'],True,NRP
+2892261719,2892261719_9314_22357,1708559620,BGC0002548,9314,22357,['nonribosomal peptide synthetase modules B'],True,NRP
+2892261719,2892261719_22364_30658,186102467,BGC0002548,22364,30658,['nonribosomal peptide synthetase modules C'],True,NRP
+2892261719,2892261719_30725_31873,812654217,BGC0002548,30725,31873,['macrolide-specific efflux protein MacA'],True,NRP
+2892261719,2892261719_31876_33834,3651855491,BGC0002548,31876,33834,['permease protein MacB'],True,NRP
+2892261719,2892261719_33850_34614,94800072,BGC0002548,33850,34614,['LuxR family transcriptional regulator'],True,NRP

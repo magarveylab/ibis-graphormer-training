@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1811748851,1811748851_1_816,3877203784,BGC0002476,1,816,['ferric enterobactin ABC transporter ATP binding subunit'],True,NRP
+1811748851,1811748851_813_1805,2969881270,BGC0002476,813,1805,['ferric enterobactin ABC transporter membrane subunit FepG'],True,NRP
+1811748851,1811748851_1802_2806,4052620836,BGC0002476,1802,2806,['ferric enterobactin ABC transporter membrane subunit FebD'],True,NRP
+1811748851,1811748851_2917_4167,1020252315,BGC0002476,2917,4167,['enterobactin exporter EntS'],True,NRP
+1811748851,1811748851_4171_5127,2999629191,BGC0002476,4171,5127,['ferric enterobactin ABC transporter periplasmic binding protein'],True,NRP
+1811748851,1811748851_5502_6677,421443434,BGC0002476,5502,6677,['isochorismate synthase EntC'],True,NRP
+1811748851,1811748851_6687_8297,3296061620,BGC0002476,6687,8297,"['2,3-dihydroxybenzoate-AMP ligase']",True,NRP
+1811748851,1811748851_8311_9168,887762397,BGC0002476,8311,9168,['enterobactin synthase component B'],True,NRP
+1811748851,1811748851_9168_9914,3312256286,BGC0002476,9168,9914,"['2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase']",True,NRP
+1811748851,1811748851_9917_10330,4258383737,BGC0002476,9917,10330,['proofreading thioesterase in enterobactin biosynthesis'],True,NRP

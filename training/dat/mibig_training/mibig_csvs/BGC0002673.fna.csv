@@ -1,0 +1,23 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1167028319,1167028319_1_1650,464691037,BGC0002673,1,1650,['putative SARP-family pathway specific regulatory protein'],True,Polyketide__Alkaloid
+1167028319,1167028319_1831_2364,4084799638,BGC0002673,1831,2364,['putative oxidoreductase'],True,Polyketide__Alkaloid
+1167028319,1167028319_2389_2883,1698304095,BGC0002673,2389,2883,['hypothetical protein'],True,Polyketide__Alkaloid
+1167028319,1167028319_3328_4425,1207289049,BGC0002673,3328,4425,['putative SARP-family pathway specific regulatory protein'],True,Polyketide__Alkaloid
+1167028319,1167028319_4498_10803,2556707519,BGC0002673,4498,10803,['putative type-I PKS'],True,Polyketide__Alkaloid
+1167028319,1167028319_10831_21399,2523164849,BGC0002673,10831,21399,['putative type-I PKS'],True,Polyketide__Alkaloid
+1167028319,1167028319_21406_35937,4018200218,BGC0002673,21406,35937,['putative type-I PKS'],True,Polyketide__Alkaloid
+1167028319,1167028319_35952_44267,4095001847,BGC0002673,35952,44267,['putative type-I PKS'],True,Polyketide__Alkaloid
+1167028319,1167028319_44324_45577,3380324821,BGC0002673,44324,45577,['hypothetical protein'],True,Polyketide__Alkaloid
+1167028319,1167028319_45577_47175,3041663666,BGC0002673,45577,47175,['putative diaminobutyrate-pyruvate aminotransferase'],True,Polyketide__Alkaloid
+1167028319,1167028319_47353_47742,2259050735,BGC0002673,47353,47742,['hypothetical protein'],True,Polyketide__Alkaloid
+1167028319,1167028319_47834_48340,4056309811,BGC0002673,47834,48340,['hypothetical protein'],True,Polyketide__Alkaloid
+1167028319,1167028319_48355_49299,2349128834,BGC0002673,48355,49299,['hypothetical protein'],True,Polyketide__Alkaloid
+1167028319,1167028319_49672_50862,1903561036,BGC0002673,49672,50862,['conserved hypothetical protein'],True,Polyketide__Alkaloid
+1167028319,1167028319_51053_51526,3459192954,BGC0002673,51053,51526,['putative MarR-family transcriptional regulator'],True,Polyketide__Alkaloid
+1167028319,1167028319_51635_53080,2200956046,BGC0002673,51635,53080,['putative permease of the major facilitator superfamily'],True,Polyketide__Alkaloid
+1167028319,1167028319_53517_54188,3672022523,BGC0002673,53517,54188,['putative gamma-butyrolactone-binding protein homologue'],True,Polyketide__Alkaloid
+1167028319,1167028319_54908_55513,3830564831,BGC0002673,54908,55513,['putative gamma-butyrolactone-binding protein homologue'],True,Polyketide__Alkaloid
+1167028319,1167028319_55921_57039,2734654494,BGC0002673,55921,57039,['putative TylR-like regulatory protein'],True,Polyketide__Alkaloid
+1167028319,1167028319_57185_58027,4005475997,BGC0002673,57185,58027,['putative SARP-family pathway specific regulatory protein'],True,Polyketide__Alkaloid
+1167028319,1167028319_58397_58834,731390289,BGC0002673,58397,58834,['putative FKBP-type peptidyl-prolyl cis-trans isomerase'],True,Polyketide__Alkaloid
+1167028319,1167028319_59151_61406,3697277531,BGC0002673,59151,61406,['putative catalase/peroxidase'],True,Polyketide__Alkaloid

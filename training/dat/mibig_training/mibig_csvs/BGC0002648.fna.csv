@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2506246070,2506246070_1_1647,2718246484,BGC0002648,1,1647,['eicosapentaenoate synthase subunit PfaD'],True,Polyketide
+2506246070,2506246070_1767_7682,1481633646,BGC0002648,1767,7682,['3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabA'],True,Polyketide
+2506246070,2506246070_7679_9991,1100870343,BGC0002648,7679,9991,['PfaB family protein'],True,Polyketide
+2506246070,2506246070_9988_18072,959654418,BGC0002648,9988,18072,['type I polyketide synthase'],True,Polyketide
+2506246070,2506246070_18069_18938,3118743910,BGC0002648,18069,18938,['helix-turn-helix domain-containing protein'],True,Polyketide
+2506246070,2506246070_19594_20487,1011894191,BGC0002648,19594,20487,"[""4'-phosphopantetheinyl transferase superfamily protein""]",True,Polyketide

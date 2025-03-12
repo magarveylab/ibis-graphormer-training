@@ -1,0 +1,14 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+331777828,331777828_1_1005,2037780207,BGC0000678,1,1005,['glyceraldehyde-3-phosphate dehydrogenase'],True,Terpene
+331777828,331777828_1366_2223,695993985,BGC0000678,1366,2223,['1-deoxypentalenic acid 11-beta hydroxylase; Fe(II)/alpha-ketoglutarate dependent hydroxylase'],True,Terpene
+331777828,331777828_2320_3735,1924342418,BGC0000678,2320,3735,['putative transmembrane efflux protein'],True,Terpene
+331777828,331777828_3811_4623,4013964461,BGC0000678,3811,4623,['1-deoxy-11beta-hydroxypentalenic acid dehydrogenase'],True,Terpene
+331777828,331777828_4681_6465,3844284820,BGC0000678,4681,6465,['putative monooxygenase'],True,Terpene
+331777828,331777828_6478_7386,1510201371,BGC0000678,6478,7386,['putative dioxygenase'],True,Terpene
+331777828,331777828_7438_7614,3342641116,BGC0000678,7438,7614,['hypothetical protein'],True,Terpene
+331777828,331777828_7611_8624,4133068706,BGC0000678,7611,8624,['polyprenyl diphosphate synthase'],True,Terpene
+331777828,331777828_9229_10239,3898856139,BGC0000678,9229,10239,['pentalenene synthase'],True,Terpene
+331777828,331777828_10296_11645,1584470142,BGC0000678,10296,11645,['pentalenene C13 hydroxylase; cytochrome P450'],True,Terpene
+331777828,331777828_11705_12166,1831365213,BGC0000678,11705,12166,['putative AraC-family transcriptional regulator'],True,Terpene
+331777828,331777828_12163_12597,2187017153,BGC0000678,12163,12597,['putative lyase'],True,Terpene
+331777828,331777828_12700_13437,1816682853,BGC0000678,12700,13437,['hypothetical protein'],True,Terpene

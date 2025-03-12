@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1761514878,1761514878_1_1293,224733038,BGC0000050,1,1293,['cytochrome 450 monooxygenase'],True,Polyketide
+1761514878,1761514878_1345_2616,2801576302,BGC0000050,1345,2616,['cytochrome 450 monooxygenase'],True,Polyketide
+1761514878,1761514878_2779_15678,1629294163,BGC0000050,2779,15678,['polyketide synthase type I'],True,Polyketide
+1761514878,1761514878_15744_26408,3814967424,BGC0000050,15744,26408,['polyketide synthase type I'],True,Polyketide
+1761514878,1761514878_26410_32967,2095172407,BGC0000050,26410,32967,['polyketide synthase type I'],True,Polyketide
+1761514878,1761514878_32964_42857,1889160998,BGC0000050,32964,42857,['polyketide synthase type I'],True,Polyketide
+1761514878,1761514878_42866_48607,1155572198,BGC0000050,42866,48607,['polyketide synthase type I'],True,Polyketide
+1761514878,1761514878_48600_50114,449303466,BGC0000050,48600,50114,['Baeyer-Villiger monooxygenase'],True,Polyketide

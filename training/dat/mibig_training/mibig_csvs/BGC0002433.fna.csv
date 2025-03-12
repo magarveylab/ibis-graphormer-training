@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+311541877,311541877_1_2058,2377663963,BGC0002433,1,2058,['TonB-dependent siderophore receptor/ferripyoverdine receptor'],True,NRP
+311541877,311541877_3171_11807,3988553053,BGC0002433,3171,11807,"['Non-ribosomal peptide synthase, PvdD-like protein']",True,NRP
+311541877,311541877_11819_27460,32022663,BGC0002433,11819,27460,"['Non-ribosomal peptide synthase, PvdD/PvdJ-like protein']",True,NRP
+311541877,311541877_27462_41705,1749604837,BGC0002433,27462,41705,"['Non-ribosomal peptide synthase, PvdJ(2)-like protein']",True,NRP
+311541877,311541877_42338_43705,1890768384,BGC0002433,42338,43705,['L-ornithine N5-oxygenase-PvdA-like protein'],True,NRP
+311541877,311541877_44471_45454,784772787,BGC0002433,44471,45454,['pyoverdine biosynthesis regulatory protein-TauD/TfdA family protein'],True,NRP
+311541877,311541877_45466_46212,963121226,BGC0002433,45466,46212,['Thioesterase'],True,NRP
+311541877,311541877_46224_46466,1963764396,BGC0002433,46224,46466,['MbtH-like protein'],True,NRP
+311541877,311541877_46543_47937,3225273277,BGC0002433,46543,47937,['Diaminobutyrate-2-oxoglutarate aminotransferase'],True,NRP
+311541877,311541877_47972_60928,3909943691,BGC0002433,47972,60928,['Non-ribosomal peptide synthase:Amino acid adenylation'],True,NRP
+311541877,311541877_61279_61821,1800433114,BGC0002433,61279,61821,,True,NRP

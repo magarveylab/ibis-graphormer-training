@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3554591587,3554591587_515_35485,2543045905,BGC0000307,515,35485,['aureobasidin A1 biosynthesis complex'],True,NRP

@@ -1,0 +1,25 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+340551969,340551969_1_648,1603282961,BGC0000038,1,648,['ScbR; Butyrolactone-responsive repressor protein'],True,Polyketide
+340551969,340551969_766_1710,1265900563,BGC0000038,766,1710,['ScbA; Butenolide synthase involved in SCB1 biosynthesis'],True,Polyketide
+340551969,340551969_1826_2680,20586121,BGC0000038,1826,2680,['ScbB; Reductase involved in SCB1 biosynthesis'],True,Polyketide
+340551969,340551969_2731_3552,3742050937,BGC0000038,2731,3552,['CpkM; Two-component system histidine kinase'],True,Polyketide
+340551969,340551969_3621_4673,2888729472,BGC0000038,3621,4673,['CpkP-beta; beta-Ketoacid-dependent ferredoxin reductase beta-subunit'],True,Polyketide
+340551969,340551969_4666_6558,2518757340,BGC0000038,4666,6558,['CpkP-alpha; alpha-Ketoacid-dependent ferredoxin reductase alpha-subunit'],True,Polyketide
+340551969,340551969_6562_8334,3329510975,BGC0000038,6562,8334,['AccA1; Acyl-CoA carboxylase alpha-subunit (biotinylated)'],True,Polyketide
+340551969,340551969_8643_10295,3616292181,BGC0000038,8643,10295,['ScF; Secreted flavin-dependent epoxidase/dehydrogenase'],True,Polyketide
+340551969,340551969_10371_16829,2755867183,BGC0000038,10371,16829,['CpkC; Polyketide synthase module 5'],True,Polyketide
+340551969,340551969_16886_27616,1697881791,BGC0000038,16886,27616,['CpkB; Polyketide synthase modules 3 and 4'],True,Polyketide
+340551969,340551969_27759_41432,2868336676,BGC0000038,27759,41432,"['CpkA; Polyketide synthase loading module, and modules 1 and 2']",True,Polyketide
+340551969,340551969_41758_43080,4212064612,BGC0000038,41758,43080,['CpkD; Secreted flavin-dependent epoxidase/dehydrogenase'],True,Polyketide
+340551969,340551969_43077_43937,4257926145,BGC0000038,43077,43937,"['CpkE; Putative isomerase (alpha, beta-hydrolase fold)']",True,Polyketide
+340551969,340551969_43980_45611,3578975267,BGC0000038,43980,45611,['CpkF; Transmembrane efflux protein'],True,Polyketide
+340551969,340551969_45622_47178,16921428,BGC0000038,45622,47178,['CpkG; Pyridoxal-dependent aminotransferase'],True,Polyketide
+340551969,340551969_47485_49116,2663619443,BGC0000038,47485,49116,['CpkO; KasO; SARP-family transcriptional activator'],True,Polyketide
+340551969,340551969_49380_51017,4045611020,BGC0000038,49380,51017,['CpkH; Secreted flavin-dependent epoxidase/dehydrogenase'],True,Polyketide
+340551969,340551969_51219_51989,189543559,BGC0000038,51219,51989,['CpkI; Nicotinamide-dependent dehydrogenase'],True,Polyketide
+340551969,340551969_52134_52979,1260830743,BGC0000038,52134,52979,['CpkJ; NmrA-family protein (unknown function)'],True,Polyketide
+340551969,340551969_53146_54738,2245706659,BGC0000038,53146,54738,['CpkK; Acyl-CoA carboxylase beta-subunit'],True,Polyketide
+340551969,340551969_54753_55016,1919765031,BGC0000038,54753,55016,['CpkL; Hypothetical protein (unknown function)'],True,Polyketide
+340551969,340551969_55178_55852,3684597984,BGC0000038,55178,55852,['ScbR2; Butyrolactone-responsive repressor protein'],True,Polyketide
+340551969,340551969_56090_56896,1336457412,BGC0000038,56090,56896,['ScoT; Type II thioesterase'],True,Polyketide
+340551969,340551969_57042_57887,997935782,BGC0000038,57042,57887,['CpkN; SARP-family transcriptional activator'],True,Polyketide

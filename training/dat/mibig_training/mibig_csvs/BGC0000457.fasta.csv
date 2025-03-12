@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3422254381,3422254381_1_720,3168899964,BGC0000457,1,720,['phosphopantetheinyl transferase protein'],True,NRP
+3422254381,3422254381_693_2051,158134549,BGC0000457,693,2051,['L-lysine 6-monooxygenase (Lysine N(6)-hydroxylase) protein'],True,NRP
+3422254381,3422254381_2048_6040,625768771,BGC0000457,2048,6040,['vicibactin biosynthesis non-ribosomal peptide synthase protein'],True,NRP
+3422254381,3422254381_6059_6277,332605577,BGC0000457,6059,6277,['polyketide synthase protein'],True,NRP
+3422254381,3422254381_6430_7458,1822912552,BGC0000457,6430,7458,['N6-hydroxylysine O-acetyltransferase protein'],True,NRP
+3422254381,3422254381_7455_8873,3833191986,BGC0000457,7455,8873,['efflux transporter inner membrane protein'],True,NRP
+3422254381,3422254381_8884_10071,3452630664,BGC0000457,8884,10071,['cystathionine gamma-synthase protein'],True,NRP
+3422254381,3422254381_9962_10618,3758064924,BGC0000457,9962,10618,['RNA polymerase sigma factor protein'],True,NRP
+3422254381,3422254381_10783_11274,2371962099,BGC0000457,10783,11274,['vicibactin acetylase protein'],True,NRP

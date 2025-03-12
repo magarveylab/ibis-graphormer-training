@@ -1,0 +1,15 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+807300026,807300026_1_693,943630531,BGC0001089,1,693,['hydroxyacylglutathione hydrolase'],True,Polyketide__NRP
+807300026,807300026_1008_1877,3125660997,BGC0001089,1008,1877,['malonyl-CoA-[acyl-carrier-protein] transacylase [AT]'],True,Polyketide__NRP
+807300026,807300026_2014_2988,1018766760,BGC0001089,2014,2988,['malonyl-CoA-[acyl-carrier-protein] transacylase [AT]'],True,Polyketide__NRP
+807300026,807300026_2990_5230,415575705,BGC0001089,2990,5230,['malonyl-CoA-[acyl-carrier protein] transacylase [AT]/oxidoreductase [OR]'],True,Polyketide__NRP
+807300026,807300026_5296_5544,65671984,BGC0001089,5296,5544,['acyl carrier protein'],True,Polyketide__NRP
+807300026,807300026_5596_6858,2837089067,BGC0001089,5596,6858,['3-hydroxy-3-methylglutaryl CoA synthase'],True,Polyketide__NRP
+807300026,807300026_6855_7628,3292417734,BGC0001089,6855,7628,['polyketide biosynthesis enoyl-CoA hydratase'],True,Polyketide__NRP
+807300026,807300026_7638_8387,3878839530,BGC0001089,7638,8387,['polyketide biosynthesis enoyl-CoA hydratase'],True,Polyketide__NRP
+807300026,807300026_8427_23375,1159390687,BGC0001089,8427,23375,['hybrid NRPS/PKS protein'],True,Polyketide__NRP
+807300026,807300026_23377_36804,2263993758,BGC0001089,23377,36804,['polyketide synthase of type I'],True,Polyketide__NRP
+807300026,807300026_36822_47357,3119357156,BGC0001089,36822,47357,['polyketide synthase of type I'],True,Polyketide__NRP
+807300026,807300026_47347_63648,2320777037,BGC0001089,47347,63648,['hybrid NRPS/PKS protein'],True,Polyketide__NRP
+807300026,807300026_63662_71110,3973237047,BGC0001089,63662,71110,['polyketide synthase of type I'],True,Polyketide__NRP
+807300026,807300026_71247_72494,379963451,BGC0001089,71247,72494,"[""cytochrome P450 'oxidase'""]",True,Polyketide__NRP

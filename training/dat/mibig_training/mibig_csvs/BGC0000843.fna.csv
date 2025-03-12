@@ -1,0 +1,16 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+222122898,222122898_1_1683,1296894833,BGC0000843,1,1683,['Putative serine-threonine protein kinase'],True,Other
+222122898,222122898_1747_2295,218618107,BGC0000843,1747,2295,['DNA-binding protein'],True,Other
+222122898,222122898_2653_4011,1005644708,BGC0000843,2653,4011,['Putative pyridoxal phosphate-dependent aminotransferase'],True,Other
+222122898,222122898_4296_5480,3038444470,BGC0000843,4296,5480,"['Flavin-dependent oxidoreductase, F420-dependent methylene-tetrahydromethanopterin reductase']",True,Other
+222122898,222122898_5535_6521,1800203615,BGC0000843,5535,6521,['Alpha/beta hydrolase'],True,Other
+222122898,222122898_6973_7947,1064068701,BGC0000843,6973,7947,['Clavaminate synthase 1'],True,Other
+222122898,222122898_8526_9560,2990459162,BGC0000843,8526,9560,['Aldo/keto reductase'],True,Other
+222122898,222122898_9997_10452,1495911256,BGC0000843,9997,10452,['Hypothetical protein'],True,Other
+222122898,222122898_11106_14450,1017136613,BGC0000843,11106,14450,['DnrI/RedD/AfsR-family transcriptional regulator'],True,Other
+222122898,222122898_14842_15492,3139889413,BGC0000843,14842,15492,['Putative translocator'],True,Other
+222122898,222122898_15793_17130,2816971411,BGC0000843,15793,17130,['Putative transcriptional regulatory protein'],True,Other
+222122898,222122898_17257_18429,1328630599,BGC0000843,17257,18429,['Beta-aspartyl-peptidase'],True,Other
+222122898,222122898_19614_20531,1421685006,BGC0000843,19614,20531,['LanU-like protein'],True,Other
+222122898,222122898_20662_22563,3007163195,BGC0000843,20662,22563,['putative protein-arginine deiminase'],True,Other
+222122898,222122898_22875_23666,325124263,BGC0000843,22875,23666,['Hypothetical protein'],True,Other

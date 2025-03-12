@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3582095699,3582095699_1_411,3741457107,BGC0001686,1,411,['putative uncharacterized protein'],True,NRP
+3582095699,3582095699_415_1914,3595482508,BGC0001686,415,1914,['impB/MucB/SamB family protein'],True,NRP
+3582095699,3582095699_1989_2249,2217399874,BGC0001686,1989,2249,['iron-sulfur cluster-binding protein rieske family'],True,NRP
+3582095699,3582095699_2312_3448,458198480,BGC0001686,2312,3448,['peptidase S1 and S6 chymotrypsin/Hap'],True,NRP
+3582095699,3582095699_3621_11015,3321266603,BGC0001686,3621,11015,['plipastatin synthase subunit C'],True,NRP
+3582095699,3582095699_11080_12885,1832660334,BGC0001686,11080,12885,['integral membrane sensor signal transduction histidine kinase'],True,NRP
+3582095699,3582095699_13025_14077,3001992309,BGC0001686,13025,14077,['response regulator receiver modulated metal dependent phosphohydrolase'],True,NRP
+3582095699,3582095699_14089_15225,933377098,BGC0001686,14089,15225,['putative uncharacterized protein'],True,NRP
+3582095699,3582095699_15198_15938,3897849801,BGC0001686,15198,15938,['putative uncharacterized protein'],True,NRP

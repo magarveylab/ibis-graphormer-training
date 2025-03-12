@@ -1,0 +1,53 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3378840406,3378840406_1_927,2121306064,BGC0001072,1,927,,False,
+3378840406,3378840406_1227_1475,4241044475,BGC0001072,1227,1475,['putative acyl carrier protein'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_1472_2551,3124776277,BGC0001072,1472,2551,['3-oxo-ACP synthase II'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_2602_3843,3747593863,BGC0001072,2602,3843,['3-oxo-ACP synthase II'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_3873_4139,677074983,BGC0001072,3873,4139,,True,Polyketide__Saccharide__Other
+3378840406,3378840406_4212_5369,2094978986,BGC0001072,4212,5369,['putative glycosyl transferase'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_5379_6137,4230961028,BGC0001072,5379,6137,['putative 4-ketoreductase'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_6134_7102,2127786302,BGC0001072,6134,7102,['putative 3-ketoreductase'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_7106_8059,232406866,BGC0001072,7106,8059,['putative 3-oxo-ACP synthase'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_8085_8855,763523132,BGC0001072,8085,8855,['hypothetical protein'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_8866_9330,1370328229,BGC0001072,8866,9330,['putative regulator MarR/SlyA family'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_9344_10198,22125909,BGC0001072,9344,10198,['putative hydroxylase/dehydratase'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_10932_12410,4049835109,BGC0001072,10932,12410,['putative halogenase'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_12945_14186,4234416188,BGC0001072,12945,14186,['putative Na/H antiporter'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_14573_15829,9276750,BGC0001072,14573,15829,['putative P450 oxygenase'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_15868_22506,2722134861,BGC0001072,15868,22506,['putative type I PKS'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_22560_26555,3357910540,BGC0001072,22560,26555,['putative type I PKS'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_26689_39741,410980802,BGC0001072,26689,39741,['putative type I PKS'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_40018_40788,3872081868,BGC0001072,40018,40788,['putative thioesterase'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_41230_41457,967776782,BGC0001072,41230,41457,['hypothetical protein'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_41847_43322,507498772,BGC0001072,41847,43322,['putative oxygenase SimA7'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_43372_43698,3285442279,BGC0001072,43372,43698,['putative cyclase SimA4'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_43695_44963,2236650244,BGC0001072,43695,44963,['putative ketosynthase SimA1'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_44960_46174,442710031,BGC0001072,44960,46174,['putative ketosynthase SimA2'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_46223_46489,3004856549,BGC0001072,46223,46489,['putative acyl carrier protein SimA3'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_46509_47294,308404477,BGC0001072,46509,47294,['putative ketoreductase SimA6'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_47320_48267,128237000,BGC0001072,47320,48267,['putative cyclase/dehydrase SimA5'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_48273_49757,440986154,BGC0001072,48273,49757,['putative oxygenase SimA8'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_49836_50600,3929285406,BGC0001072,49836,50600,['putative reductase SimA9'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_50731_51303,3806522538,BGC0001072,50731,51303,['putative reductase SimA10'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_51311_51976,403473131,BGC0001072,51311,51976,['putative phosphopantheine-transferase SimA11'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_51989_53575,2735170021,BGC0001072,51989,53575,['putative decarboxylase SimA12'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_53590_53808,3070836726,BGC0001072,53590,53808,['SimX2'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_53850_54623,1235759972,BGC0001072,53850,54623,['putative thioesterase SimC3'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_54620_55990,3504130254,BGC0001072,54620,55990,['putative dioxygenase SimC4'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_56007_57347,3442681795,BGC0001072,56007,57347,['putative alcohol dehydrogenase SimC5'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_57298_58077,3402432979,BGC0001072,57298,58077,['transcriptional repressor of transporter SimX'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_58180_59784,3971239012,BGC0001072,58180,59784,['simocyclinone-specific efflux pump'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_59996_60877,2449721751,BGC0001072,59996,60877,['SimX4'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_60874_61536,3041847935,BGC0001072,60874,61536,['putative phosphopantetheinyl transferase SimC8'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_61682_62392,1791581353,BGC0001072,61682,62392,['putative 3-keto-acyl-reductase SimD3'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_62429_63988,901494958,BGC0001072,62429,63988,['aminocoumarin ligase'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_63978_67010,1345188088,BGC0001072,63978,67010,['Tyroxyl-AMP-forming enzyme'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_67022_68272,3076603060,BGC0001072,67022,68272,['putative cytochrome P450 oxidase SimD1'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_68309_68521,4127744827,BGC0001072,68309,68521,['MbtH-like protein'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_68595_69353,1227679380,BGC0001072,68595,69353,['putative 3-keto-acyl-reductase SimD2'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_69562_70278,571282649,BGC0001072,69562,70278,['regulator'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_70601_71341,3902055294,BGC0001072,70601,71341,['putative 3-keto-acyl-reductase SimD4'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_71408_72856,1955362207,BGC0001072,71408,72856,"['putative dNDP-4-keto-6-deoxy-glucose-2,3-dehydratase SimB3']",True,Polyketide__Saccharide__Other
+3378840406,3378840406_72901_74253,3099220939,BGC0001072,72901,74253,['putative acetyl transferase SimB6'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_74383_74610,3404671148,BGC0001072,74383,74610,['SimX6'],True,Polyketide__Saccharide__Other
+3378840406,3378840406_74636_75379,2490144381,BGC0001072,74636,75379,,False,

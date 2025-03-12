@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2596772898,2596772898_28_783,230492472,BGC0000218,28,783,['daunorubicin-doxorubicin polyketide synthase'],True,Polyketide
+2596772898,2596772898_918_1865,1416956753,BGC0000218,918,1865,['daunorubicin-doxorubicin polyketide synthase'],True,Polyketide
+2596772898,2596772898_1895_2680,1938479339,BGC0000218,1895,2680,['daunorubicin-doxorubicin polyketide synthase'],True,Polyketide
+2596772898,2596772898_2872_3261,2078033978,BGC0000218,2872,3261,['anthraquinol monooxygenase'],True,Polyketide
+2596772898,2596772898_3258_4517,400382971,BGC0000218,3258,4517,['daunorubicin-doxorubicin polyketide synthase'],True,Polyketide
+2596772898,2596772898_4523_5800,4063898593,BGC0000218,4523,5800,['daunorubicin-doxorubicin polyketide synthase'],True,Polyketide
+2596772898,2596772898_5797_6858,2045999835,BGC0000218,5797,6858,['daunorubicin-doxorubicin polyketide synthase'],True,Polyketide
+2596772898,2596772898_6869_7882,517031074,BGC0000218,6869,7882,['daunorubicin-doxorubicin polyketide synthase'],True,Polyketide
+2596772898,2596772898_7860_8720,3181673519,BGC0000218,7860,8720,,True,Polyketide

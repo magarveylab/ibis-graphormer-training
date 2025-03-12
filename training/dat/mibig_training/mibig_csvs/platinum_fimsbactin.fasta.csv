@@ -1,0 +1,18 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+430023638,430023638_1_1341,1452651345,BGC0000352,1,1341,['putative multidrug resistance pump'],True,NRP
+430023638,430023638_1381_2502,2475473938,BGC0000352,1381,2502,['hypothetical protein; putative siderophore-interacting protein'],True,NRP
+430023638,430023638_2559_3782,495260923,BGC0000352,2559,3782,['putative transport protein (MFS superfamily)'],True,NRP
+430023638,430023638_3818_5965,3144909945,BGC0000352,3818,5965,['putative ferric siderophore receptor protein'],True,NRP
+430023638,430023638_6216_6956,21674651,BGC0000352,6216,6956,['putative thioesterase'],True,NRP
+430023638,430023638_6981_7808,2635704591,BGC0000352,6981,7808,['phosphopantetheinyl transferase component of siderophore synthetase'],True,NRP
+430023638,430023638_8011_8619,3042080383,BGC0000352,8011,8619,['putative siderophore biosynthesis protein; putative acetyltransferase'],True,NRP
+430023638,430023638_8703_9833,2817258526,BGC0000352,8703,9833,['putative ornithine decarboxylase'],True,NRP
+430023638,430023638_9873_11213,3242408866,BGC0000352,9873,11213,['putative siderophore biosynthesis protein; putative Lysine/ornithine N-monooxygenase'],True,NRP
+430023638,430023638_11227_12846,335455576,BGC0000352,11227,12846,"['2,3-dihydroxybenzoate-AMP ligase']",True,NRP
+430023638,430023638_12859_16059,2817706782,BGC0000352,12859,16059,['putative nonribosomal peptide synthetase with phosphopantetheine-binding domain'],True,NRP
+430023638,430023638_16075_19308,2272427468,BGC0000352,16075,19308,"['putative non-ribosomal peptide synthetase with condensation, AMP-binding and phosphopantetheine-binding domains']",True,NRP
+430023638,430023638_19323_21815,52785584,BGC0000352,19323,21815,['putative non-ribosomal peptide synthetase with phosphopantetheine binding domain (EntF-like)'],True,NRP
+430023638,430023638_21831_22616,4190591960,BGC0000352,21831,22616,"['2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase']",True,NRP
+430023638,430023638_22644_23273,1436874349,BGC0000352,22644,23273,"['2,3-dihydro-2,3-dihydroxybenzoate synthetase, isochorismatase']",True,NRP
+430023638,430023638_23367_24530,2612434632,BGC0000352,23367,24530,['isochorismate synthetase'],True,NRP
+430023638,430023638_25287_26231,241279135,BGC0000352,25287,26231,['putative transcriptional regulator (AraC family)'],True,NRP

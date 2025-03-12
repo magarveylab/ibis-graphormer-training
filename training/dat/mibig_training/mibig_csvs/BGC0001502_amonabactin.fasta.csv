@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1397591145,1397591145_1_1551,1365964529,BGC0001502,1,1551,['dimodular nonribosomal peptide synthetase'],True,NRP
+1397591145,1397591145_1548_7844,1544127752,BGC0001502,1548,7844,['nonribosomal peptide synthetase'],True,NRP
+1397591145,1397591145_7859_8638,344348356,BGC0001502,7859,8638,"['2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase']",True,NRP
+1397591145,1397591145_8638_11739,2990798945,BGC0001502,8638,11739,['nonribosomal peptide synthetase'],True,NRP
+1397591145,1397591145_11736_12659,3240877034,BGC0001502,11736,12659,['isochorismatase'],True,NRP
+1397591145,1397591145_12683_14344,1384910175,BGC0001502,12683,14344,"['2,3-dihydroxybenzoate-AMP ligase']",True,NRP
+1397591145,1397591145_14421_15614,176042798,BGC0001502,14421,15614,['isochorismate synthases'],True,NRP

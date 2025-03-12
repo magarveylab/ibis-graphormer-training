@@ -1,0 +1,19 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1360225738,1360225738_1_1236,3856688252,BGC0001761,1,1236,['beta branching 3-hydroxyl-3-methylglutaryl-CoA synthase'],True,Polyketide
+1360225738,1360225738_1385_4234,1322140088,BGC0001761,1385,4234,['polyketide synthase'],True,Polyketide
+1360225738,1360225738_4238_14101,4271553551,BGC0001761,4238,14101,['polyketide synthase'],True,Polyketide
+1360225738,1360225738_14127_21260,1195259192,BGC0001761,14127,21260,['polyketide synthase'],True,Polyketide
+1360225738,1360225738_21278_25984,4181142830,BGC0001761,21278,25984,['polyketide synthase'],True,Polyketide
+1360225738,1360225738_25981_27072,2417037680,BGC0001761,25981,27072,"['phenylpyruvate dehydrogenase complex, E1 component, subunit alpha']",True,Polyketide
+1360225738,1360225738_27083_28060,3344635479,BGC0001761,27083,28060,"['phenylpyruvate dehydrogenase complex, E1 component, subunit beta']",True,Polyketide
+1360225738,1360225738_28075_29787,3519224004,BGC0001761,28075,29787,"['phenylpyruvate dehydrogenase complex, E2 component and acyl carrier protein domain']",True,Polyketide
+1360225738,1360225738_29791_35310,2776045363,BGC0001761,29791,35310,['polyketide synthase'],True,Polyketide
+1360225738,1360225738_35307_42722,1864042777,BGC0001761,35307,42722,['polyketide synthase'],True,Polyketide
+1360225738,1360225738_42743_43489,1599567372,BGC0001761,42743,43489,['beta branching enoyl-CoA hydratase'],True,Polyketide
+1360225738,1360225738_43502_44290,1501510072,BGC0001761,43502,44290,['beta branching enoyl-CoA hydratase'],True,Polyketide
+1360225738,1360225738_44316_45155,247582172,BGC0001761,44316,45155,['Trans-acting acyltransferase'],True,Polyketide
+1360225738,1360225738_45270_46289,1686926074,BGC0001761,45270,46289,['acyltransferase-like acyl hydrolase'],True,Polyketide
+1360225738,1360225738_46289_47638,1536720805,BGC0001761,46289,47638,['hypothetic protein'],True,Polyketide
+1360225738,1360225738_47693_49165,898373032,BGC0001761,47693,49165,,True,Polyketide
+1360225738,1360225738_49236_49481,510846447,BGC0001761,49236,49481,['acyl carrier protein'],True,Polyketide
+1360225738,1360225738_49513_50778,670434942,BGC0001761,49513,50778,['ketosynthase'],True,Polyketide

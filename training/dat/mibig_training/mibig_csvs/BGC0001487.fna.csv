@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2119944395,2119944395_1_480,3504575827,BGC0001487,1,480,['enoyl hydratase'],True,Other
+2119944395,2119944395_530_1969,1717612037,BGC0001487,530,1969,['DAHP synthase'],True,Other
+2119944395,2119944395_2248_3840,2117270289,BGC0001487,2248,3840,"['Tropolone 3,7-monooxygenase oxidase component']",True,Other
+2119944395,2119944395_3837_4394,843131550,BGC0001487,3837,4394,"['Tropolone 3,7-monooxygenase flavin reductase component']",True,Other
+2119944395,2119944395_4439_5641,545098794,BGC0001487,4439,5641,['Tropone 2-monooxygenase'],True,Other
+2119944395,2119944395_5697_6308,699625279,BGC0001487,5697,6308,"['1,4,6-cycloheptatriene-1-carboxylic acid decarboxylase']",True,Other
+2119944395,2119944395_6536_7297,2550576659,BGC0001487,6536,7297,['putative A-factor biosynthesis hotdog domain-containing protein'],True,Other
+2119944395,2119944395_7299_8507,1646555857,BGC0001487,7299,8507,['Bifunctional prephenate dehydratase and chorismate mutase'],True,Other
+2119944395,2119944395_8504_9112,4012239053,BGC0001487,8504,9112,['TetR family transcriptional regulator'],True,Other

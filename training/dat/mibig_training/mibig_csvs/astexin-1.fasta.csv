@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2297602233,2297602233_239_856,3780080745,BGC0000570,239,856,['regulatory protein GntR HTH'],True,RiPP
+2297602233,2297602233_970_1125,2048294524,BGC0000570,970,1125,['hypothetical protein'],True,RiPP
+2297602233,2297602233_1180_1809,2311953010,BGC0000570,1180,1809,['hypothetical protein'],True,RiPP
+2297602233,2297602233_1809_3527,4250313392,BGC0000570,1809,3527,['asparagine synthase'],True,RiPP

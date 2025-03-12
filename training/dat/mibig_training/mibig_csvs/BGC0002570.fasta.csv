@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3903916469,3903916469_1_1410,471757097,BGC0002570,1,1410,['isochorismate synthase'],True,NRP__Polyketide
+3903916469,3903916469_1407_1727,294678062,BGC0002570,1407,1727,['isochorismate pyruvate-lyase'],True,NRP__Polyketide
+3903916469,3903916469_1743_3311,3068416165,BGC0002570,1743,3311,"['yersiniabactin synthetase, salicylate ligase component']",True,NRP__Polyketide
+3903916469,3903916469_3324_4106,3449870157,BGC0002570,3324,4106,"['yersiniabactin synthetase, thioesterase component']",True,NRP__Polyketide
+3903916469,3903916469_4111_5193,1315824302,BGC0002570,4111,5193,"['yersiniabactin synthetase, thiazolinyl reductase component']",True,NRP__Polyketide
+3903916469,3903916469_5190_14711,2310534227,BGC0002570,5190,14711,['yersiniabactin polyketide/non-ribosomal peptide synthetase'],True,NRP__Polyketide
+3903916469,3903916469_14698_15924,2261360705,BGC0002570,14698,15924,"['membrane protein, putative']",True,NRP__Polyketide
+3903916469,3903916469_15921_22094,1754705886,BGC0002570,15921,22094,['yersiniabactin non-ribosomal peptide synthetase'],True,NRP__Polyketide
+3903916469,3903916469_22155_23900,3631056386,BGC0002570,22155,23900,"['ABC transporter, ATP-binding/permease protein']",True,NRP__Polyketide
+3903916469,3903916469_23897_25678,4234414780,BGC0002570,23897,25678,"['ABC transporter, ATP-binding/permease protein']",True,NRP__Polyketide
+3903916469,3903916469_25833_27836,216284217,BGC0002570,25833,27836,"['TonB-dependent siderophore receptor, putative']",True,NRP__Polyketide
+3903916469,3903916469_27983_28921,3903274970,BGC0002570,27983,28921,"['transcriptional regulator, AraC family']",True,NRP__Polyketide

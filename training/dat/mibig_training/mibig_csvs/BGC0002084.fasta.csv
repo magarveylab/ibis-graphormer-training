@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1680486081,1680486081_2_193,3360156766,BGC0002084,2,193,,False,
+1680486081,1680486081_534_1670,3459652728,BGC0002084,534,1670,['putative cytochrome P450'],True,RiPP

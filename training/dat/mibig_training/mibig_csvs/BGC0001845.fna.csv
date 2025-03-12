@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+29554154,29554154_51_470,2601592841,BGC0001845,51,470,"['transcriptional regulator, AraC family, isolated domain protein']",True,Other__Polyketide__NRP
+29554154,29554154_567_1856,3809601170,BGC0001845,567,1856,['Malonyl CoA-acyl carrier protein transacylase'],True,Other__Polyketide__NRP
+29554154,29554154_1856_2920,1061408942,BGC0001845,1856,2920,['3-oxoacyl-ACP synthase III'],True,Other__Polyketide__NRP
+29554154,29554154_2917_11325,3808095367,BGC0001845,2917,11325,"['Erythronolide synthase, modules 1 and 2']",True,Other__Polyketide__NRP
+29554154,29554154_11318_15790,1527256040,BGC0001845,11318,15790,['6-deoxyerythronolide-B synthase'],True,Other__Polyketide__NRP
+29554154,29554154_15815_26623,778016096,BGC0001845,15815,26623,['polyketide synthase of type I'],True,Other__Polyketide__NRP
+29554154,29554154_26890_28068,1747804079,BGC0001845,26890,28068,['Acyl-CoA dehydrogenase'],True,Other__Polyketide__NRP
+29554154,29554154_28171_29325,2717835922,BGC0001845,28171,29325,['ribosomal RNA small subunit methyltransferase'],True,Other__Polyketide__NRP
+29554154,29554154_29452_29664,3189186064,BGC0001845,29452,29664,,False,

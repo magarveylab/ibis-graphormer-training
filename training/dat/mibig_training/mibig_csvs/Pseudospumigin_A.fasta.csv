@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2656708900,2656708900_1_4191,1540226519,BGC0001748,1,4191,['SpuA'],True,NRP__Polyketide
+2656708900,2656708900_4193_16543,2102384387,BGC0001748,4193,16543,['SpuB'],True,NRP__Polyketide
+2656708900,2656708900_16702_18705,2042908927,BGC0001748,16702,18705,['SpuF'],True,NRP__Polyketide

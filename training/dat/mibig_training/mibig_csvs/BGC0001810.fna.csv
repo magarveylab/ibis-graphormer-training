@@ -1,0 +1,14 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3389664777,3389664777_123_1517,1855869692,BGC0001810,123,1517,['major facilitator superfamily MFS_1'],True,Polyketide
+3389664777,3389664777_1680_2567,3987029754,BGC0001810,1680,2567,['serine/threonine protein kinase'],True,Polyketide
+3389664777,3389664777_2859_5009,2432827502,BGC0001810,2859,5009,['protein ThgC'],True,Polyketide
+3389664777,3389664777_5101_5391,4268286357,BGC0001810,5101,5391,,True,Polyketide
+3389664777,3389664777_5781_7565,2931828198,BGC0001810,5781,7565,['alpha-amylase'],True,Polyketide
+3389664777,3389664777_7744_8601,1737731094,BGC0001810,7744,8601,['conserved TM helix repeat-containing protein'],True,Polyketide
+3389664777,3389664777_8736_10202,618014800,BGC0001810,8736,10202,['major facilitator superfamily MFS_1'],True,Polyketide
+3389664777,3389664777_10518_11249,409674163,BGC0001810,10518,11249,"['two component transcriptional regulator, LuxR family']",True,Polyketide
+3389664777,3389664777_11470_12339,668688237,BGC0001810,11470,12339,['enoyl-CoA hydratase'],True,Polyketide
+3389664777,3389664777_12386_13411,749772444,BGC0001810,12386,13411,['3-oxoacyl-[acyl-carrier-protein] synthase'],True,Polyketide
+3389664777,3389664777_13416_14195,3665702027,BGC0001810,13416,14195,['acyl transferase'],True,Polyketide
+3389664777,3389664777_14192_14986,2026809465,BGC0001810,14192,14986,['short-chain dehydrogenase/reductase'],True,Polyketide
+3389664777,3389664777_15092_16087,3031279896,BGC0001810,15092,16087,"['transcriptional regulator, LacI family']",True,Polyketide

@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2226591372,2226591372_1_648,4194499071,BGC0000417,1,648,['isochorismatase'],True,NRP
+2226591372,2226591372_820_7920,1232546102,BGC0000417,820,7920,['non-ribosomal peptide synthetase'],True,NRP
+2226591372,2226591372_7959_8981,1273220017,BGC0000417,7959,8981,"['ABC Fe(3+) transporter, substrate binding component']",True,NRP
+2226591372,2226591372_8998_10263,823872929,BGC0000417,8998,10263,"['transporter, MFS superfamily protein']",True,NRP
+2226591372,2226591372_10415_10657,2731149996,BGC0000417,10415,10657,['probable isochorismatase'],True,NRP
+2226591372,2226591372_10733_12076,470894913,BGC0000417,10733,12076,['conserved hypothetical protein'],True,NRP

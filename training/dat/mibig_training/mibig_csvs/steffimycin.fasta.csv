@@ -1,0 +1,37 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+316242738,316242738_51_1556,3856218794,BGC0000273,51,1556,['putative inosine monophosphate dehydrogenase'],True,Polyketide__Saccharide
+316242738,316242738_1602_1976,1981601166,BGC0000273,1602,1976,['hypothetical protein'],True,Polyketide__Saccharide
+316242738,316242738_1980_2999,3334443530,BGC0000273,1980,2999,['putative transcriptional regulator'],True,Polyketide__Saccharide
+316242738,316242738_3102_3782,641133056,BGC0000273,3102,3782,['putative ribulose-phosphate 3-epimerase'],True,Polyketide__Saccharide
+316242738,316242738_3953_6091,3401509730,BGC0000273,3953,6091,['putative membrane protein'],True,Polyketide__Saccharide
+316242738,316242738_6118_6378,1025723067,BGC0000273,6118,6378,['acyl carrier protein'],True,Polyketide__Saccharide
+316242738,316242738_6391_7623,1528061505,BGC0000273,6391,7623,['chain length factor'],True,Polyketide__Saccharide
+316242738,316242738_7620_8888,3286505845,BGC0000273,7620,8888,['ketoacyl synthase'],True,Polyketide__Saccharide
+316242738,316242738_8890_9225,2828015910,BGC0000273,8890,9225,['monooxygenase'],True,Polyketide__Saccharide
+316242738,316242738_9351_10175,953798268,BGC0000273,9351,10175,['ketoreductase'],True,Polyketide__Saccharide
+316242738,316242738_10200_10640,1089194634,BGC0000273,10200,10640,['cyclase'],True,Polyketide__Saccharide
+316242738,316242738_10818_11597,2304854364,BGC0000273,10818,11597,['cyclase'],True,Polyketide__Saccharide
+316242738,316242738_11709_12668,2212100157,BGC0000273,11709,12668,['SARP family regulator'],True,Polyketide__Saccharide
+316242738,316242738_12711_13301,2013783331,BGC0000273,12711,13301,['transcriptional regulator'],True,Polyketide__Saccharide
+316242738,316242738_13694_14623,3760595986,BGC0000273,13694,14623,['aromatase'],True,Polyketide__Saccharide
+316242738,316242738_14616_15293,2636419887,BGC0000273,14616,15293,['O-methyl transferase'],True,Polyketide__Saccharide
+316242738,316242738_15424_15984,2260383072,BGC0000273,15424,15984,['SWIM Zn-finger'],True,Polyketide__Saccharide
+316242738,316242738_15984_17840,3120175558,BGC0000273,15984,17840,['SNF2 related domain'],True,Polyketide__Saccharide
+316242738,316242738_17833_19341,753110713,BGC0000273,17833,19341,['putative transmembrane efflux protein'],True,Polyketide__Saccharide
+316242738,316242738_19419_19919,1286501654,BGC0000273,19419,19919,['putative transcriptional regulator'],True,Polyketide__Saccharide
+316242738,316242738_20016_21203,3971086121,BGC0000273,20016,21203,['cytochrome P450'],True,Polyketide__Saccharide
+316242738,316242738_21249_22829,305359803,BGC0000273,21249,22829,['dehydrogenase'],True,Polyketide__Saccharide
+316242738,316242738_22887_24050,1800709770,BGC0000273,22887,24050,['putative oxygenase'],True,Polyketide__Saccharide
+316242738,316242738_24068_25243,3351868824,BGC0000273,24068,25243,['O-methyl transferase'],True,Polyketide__Saccharide
+316242738,316242738_25233_25574,2717373654,BGC0000273,25233,25574,['putative 5-chloromuconolactone dehalogenase'],True,Polyketide__Saccharide
+316242738,316242738_25654_26916,2118065180,BGC0000273,25654,26916,['glycosyltransferase'],True,Polyketide__Saccharide
+316242738,316242738_26977_28023,1178918190,BGC0000273,26977,28023,['cytochrome P450-like'],True,Polyketide__Saccharide
+316242738,316242738_28239_29417,8140263,BGC0000273,28239,29417,['O-methyl transferase'],True,Polyketide__Saccharide
+316242738,316242738_29583_33869,1482975654,BGC0000273,29583,33869,['hypothetical protein'],True,Polyketide__Saccharide
+316242738,316242738_33847_35004,2380969412,BGC0000273,33847,35004,['hypothetical protein'],True,Polyketide__Saccharide
+316242738,316242738_34976_36010,59813056,BGC0000273,34976,36010,['putative trypsin-like serine protease'],True,Polyketide__Saccharide
+316242738,316242738_36061_37383,56579251,BGC0000273,36061,37383,['hypothetical protein'],True,Polyketide__Saccharide
+316242738,316242738_37796_39223,3401360912,BGC0000273,37796,39223,['hypothetical Sun-family protein'],True,Polyketide__Saccharide
+316242738,316242738_39673_40605,3028600165,BGC0000273,39673,40605,['putative methionyl-tRNA formyltransferase'],True,Polyketide__Saccharide
+316242738,316242738_40935_41486,1112118671,BGC0000273,40935,41486,['hypothetical protein'],True,Polyketide__Saccharide
+316242738,316242738_41608_42876,116986206,BGC0000273,41608,42876,"[""putative primosomal protein N'""]",True,Polyketide__Saccharide

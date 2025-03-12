@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4181525085,4181525085_83_7456,2573834789,BGC0001254,83,7456,['polyketide synthase'],True,Polyketide

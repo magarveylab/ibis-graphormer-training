@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+161889009,161889009_1_3870,2298673377,BGC0002103,1,3870,['putative exported hydrolase'],True,Other
+161889009,161889009_4035_4508,67726724,BGC0002103,4035,4508,['putative transcriptional regulator'],True,Other
+161889009,161889009_4549_5766,4142987027,BGC0002103,4549,5766,"['cyclo-L-leucyl-L-leucyl dipeptide oxidase, pulcheriminic synthase']",True,Other
+161889009,161889009_5782_6528,1737977606,BGC0002103,5782,6528,"['cyclodipeptide synthase (tRNA-dependent), pulcherimminic acid precursor']",True,Other
+161889009,161889009_6954_7463,1347151631,BGC0002103,6954,7463,['transcriptional regulator for pulcherriminic acid synthesis'],True,Other
+161889009,161889009_7484_8695,2220609458,BGC0002103,7484,8695,['pulcherriminic acid efflux transporter'],True,Other

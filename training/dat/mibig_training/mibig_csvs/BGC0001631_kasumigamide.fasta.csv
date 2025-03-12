@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1230040477,1230040477_1_198,3592585452,BGC0001631,1,198,['transferase'],True,NRP__Polyketide
+1230040477,1230040477_502_654,2739641186,BGC0001631,502,654,,True,NRP__Polyketide
+1230040477,1230040477_1315_5337,2587641477,BGC0001631,1315,5337,['nonribosomal peptide synthetase'],True,NRP__Polyketide
+1230040477,1230040477_5348_11731,1588665803,BGC0001631,5348,11731,['nonribosomal peptide synthetase'],True,NRP__Polyketide
+1230040477,1230040477_11728_24075,2144688460,BGC0001631,11728,24075,['hybrid cis-AT polyketide synthase - nonribosomal peptide synthetase'],True,NRP__Polyketide
+1230040477,1230040477_24134_25735,656731147,BGC0001631,24134,25735,['hydroxylase'],True,NRP__Polyketide
+1230040477,1230040477_25908_26237,165144419,BGC0001631,25908,26237,['transferase'],True,NRP__Polyketide

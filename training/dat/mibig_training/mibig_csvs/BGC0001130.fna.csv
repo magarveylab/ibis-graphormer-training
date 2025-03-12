@@ -1,0 +1,15 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1625809009,1625809009_1_522,2572109557,BGC0001130,1,522,['NUDIX hydrolase'],True,NRP__Polyketide
+1625809009,1625809009_995_2002,400325070,BGC0001130,995,2002,['hypothetical protein'],True,NRP__Polyketide
+1625809009,1625809009_2197_8268,2987108344,BGC0001130,2197,8268,['malonyl CoA-acyl carrier protein transacylase'],True,NRP__Polyketide
+1625809009,1625809009_8472_12947,970219793,BGC0001130,8472,12947,['phenolpthiocerol synthesis type-I polyketide synthase ppsB'],True,NRP__Polyketide
+1625809009,1625809009_12944_15979,706354331,BGC0001130,12944,15979,"['glutamate-1-semialdehyde-2,1-aminomutase']",True,NRP__Polyketide
+1625809009,1625809009_15976_16743,2838778588,BGC0001130,15976,16743,['3-ketoacyl-ACP-reductase CylG'],True,NRP__Polyketide
+1625809009,1625809009_16856_18088,719931728,BGC0001130,16856,18088,['linear gramicidin synthetase subunit B'],True,NRP__Polyketide
+1625809009,1625809009_18152_18949,1345483828,BGC0001130,18152,18949,['amidohydrolase'],True,NRP__Polyketide
+1625809009,1625809009_19106_32206,533329072,BGC0001130,19106,32206,['pvdj'],True,NRP__Polyketide
+1625809009,1625809009_32270_39088,4091882351,BGC0001130,32270,39088,['pyoverdine synthetase D'],True,NRP__Polyketide
+1625809009,1625809009_39118_44127,47021616,BGC0001130,39118,44127,['Phthiocerol synthesis polyketide synthase type I PpsE'],True,NRP__Polyketide
+1625809009,1625809009_44124_45710,3171399390,BGC0001130,44124,45710,['Amino acid adenylation'],True,NRP__Polyketide
+1625809009,1625809009_45721_46668,1032913299,BGC0001130,45721,46668,['daunorubicin-DIM-transport ATP-binding protein ABC transporter DrrA'],True,NRP__Polyketide
+1625809009,1625809009_46661_47758,3522556559,BGC0001130,46661,47758,['ABC transporter'],True,NRP__Polyketide

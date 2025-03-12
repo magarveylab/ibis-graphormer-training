@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1489271662,1489271662_1_1086,3585938186,BGC0000660,1,1086,['putative lyase'],True,Terpene
+1489271662,1489271662_1083_2468,131033682,BGC0000660,1083,2468,['putative cytochrome P450'],True,Terpene

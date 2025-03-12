@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3658336267,3658336267_1_948,863559311,BGC0001211,1,948,['methionyl-tRNA formyltransferase'],True,NRP
+3658336267,3658336267_1086_2429,3580119298,BGC0001211,1086,2429,['lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein'],True,NRP
+3658336267,3658336267_2476_24696,805962397,BGC0001211,2476,24696,['non-ribosomal peptide synthetase'],True,NRP
+3658336267,3658336267_24693_24902,735184027,BGC0001211,24693,24902,['MbtH family protein'],True,NRP
+3658336267,3658336267_25420_26436,2019224462,BGC0001211,25420,26436,['DUF4073 domain-containing protein'],True,NRP
+3658336267,3658336267_26819_27904,2913055104,BGC0001211,26819,27904,['iron-siderophore ABC transporter substrate-binding protein'],True,NRP
+3658336267,3658336267_28018_29775,2773667104,BGC0001211,28018,29775,['ABC transporter ATP-binding protein/permease'],True,NRP
+3658336267,3658336267_29772_31448,213911079,BGC0001211,29772,31448,['ABC transporter ATP-binding protein/permease'],True,NRP
+3658336267,3658336267_31541_32584,1660206556,BGC0001211,31541,32584,['iron chelate uptake ABC transporter family permease subunit'],True,NRP
+3658336267,3658336267_32626_33663,4253790481,BGC0001211,32626,33663,['iron chelate uptake ABC transporter family permease subunit'],True,NRP

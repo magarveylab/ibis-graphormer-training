@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+539061588,539061588_148_1272,2099108708,BGC0002127,148,1272,['putative polyketide synthase'],True,Polyketide
+539061588,539061588_1269_2483,3966232814,BGC0002127,1269,2483,['putative cytochrome P450'],True,Polyketide
+539061588,539061588_2480_3013,1212710616,BGC0002127,2480,3013,['hypothetical protein'],True,Polyketide

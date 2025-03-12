@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2910470698,2910470698_4_1098,3126953137,BGC0002018,4,1098,['class I SAM-dependent methyltransferase'],True,Other
+2910470698,2910470698_1095_1385,1570945751,BGC0002018,1095,1385,['Rieske 2Fe-2S domain-containing protein'],True,Other
+2910470698,2910470698_1382_2254,1578021853,BGC0002018,1382,2254,['iron-containing redox enzyme family protein'],True,Other
+2910470698,2910470698_2251_3057,1123906637,BGC0002018,2251,3057,['dihydrodipicolinate synthase family protein'],True,Other
+2910470698,2910470698_3101_3613,2431621205,BGC0002018,3101,3613,['DUF6190 family protein'],True,Other
+2910470698,2910470698_3603_4787,2972138960,BGC0002018,3603,4787,['aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme'],True,Other

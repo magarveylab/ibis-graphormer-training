@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2349880850,2349880850_140_274,3056468597,BGC0002259,140,274,,False,
+2349880850,2349880850_1301_2098,2505331604,BGC0002259,1301,2098,"['polyketide synthase, putative']",True,Polyketide__NRP
+2349880850,2349880850_2086_2325,3657476266,BGC0002259,2086,2325,"['polyketide synthase, putative']",True,Polyketide__NRP
+2349880850,2349880850_2529_7706,1123053664,BGC0002259,2529,7706,"['polyketide synthase, putative']",True,Polyketide__NRP
+2349880850,2349880850_7737_8702,1386197486,BGC0002259,7737,8702,"['polyketide synthase, putative']",True,Polyketide__NRP
+2349880850,2349880850_10404_11846,1184155816,BGC0002259,10404,11846,['Transferase'],True,Polyketide__NRP
+2349880850,2349880850_12258_12566,865964847,BGC0002259,12258,12566,"['AMP dependent CoA ligase, putative']",True,Polyketide__NRP
+2349880850,2349880850_12604_12960,3829436405,BGC0002259,12604,12960,"['AMP dependent CoA ligase, putative']",True,Polyketide__NRP
+2349880850,2349880850_13186_13479,96644356,BGC0002259,13186,13479,"['AMP dependent CoA ligase, putative']",True,Polyketide__NRP
+2349880850,2349880850_13531_13851,632817652,BGC0002259,13531,13851,"['AMP dependent CoA ligase, putative']",True,Polyketide__NRP
+2349880850,2349880850_15384_16856,3761013997,BGC0002259,15384,16856,"['non-ribosomal peptide synthase, putative']",True,Polyketide__NRP
+2349880850,2349880850_17030_29665,3046188820,BGC0002259,17030,29665,"['non-ribosomal peptide synthase, putative']",True,Polyketide__NRP

@@ -1,0 +1,14 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1066731356,1066731356_1_1815,1276517705,BGC0001357,1,1815,['long-chain-fatty-acid--CoA ligase'],True,Polyketide
+1066731356,1066731356_1946_2257,2759608550,BGC0001357,1946,2257,['acyl carrier protein'],True,Polyketide
+1066731356,1066731356_2507_3922,2010398864,BGC0001357,2507,3922,['hypothetical protein'],True,Polyketide
+1066731356,1066731356_4171_8328,1981686316,BGC0001357,4171,8328,['polyketide synthase'],True,Polyketide
+1066731356,1066731356_8318_9559,2370786331,BGC0001357,8318,9559,['beta-ketoacyl synthase'],True,Polyketide
+1066731356,1066731356_9564_10823,2517876708,BGC0001357,9564,10823,['hydroxymethylglutaryl-CoA synthase'],True,Polyketide
+1066731356,1066731356_10814_11590,593459997,BGC0001357,10814,11590,['enoyl-CoA hydratase'],True,Polyketide
+1066731356,1066731356_11578_17811,3585432600,BGC0001357,11578,17811,['polyketide synthase'],True,Polyketide
+1066731356,1066731356_17904_19025,777787437,BGC0001357,17904,19025,['type III polyketide synthase'],True,Polyketide
+1066731356,1066731356_19038_19637,783584325,BGC0001357,19038,19637,['isoprenylcysteine carboxyl methyltransferase'],True,Polyketide
+1066731356,1066731356_20012_22075,4166346666,BGC0001357,20012,22075,['beta-propeller repeat-containing protein'],True,Polyketide
+1066731356,1066731356_22374_24119,1517118552,BGC0001357,22374,24119,['carbamoyltransferase'],True,Polyketide
+1066731356,1066731356_25424_26932,4252909783,BGC0001357,25424,26932,['Rieske [2Fe-2S] iron-sulfur domain-containing protein'],True,Polyketide

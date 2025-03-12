@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+201422592,201422592_1_204,2019178902,BGC0000478,1,204,['TruE2'],True,RiPP

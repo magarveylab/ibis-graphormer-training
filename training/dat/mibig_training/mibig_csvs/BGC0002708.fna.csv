@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1362655087,1362655087_1_552,1800858561,BGC0002708,1,552,,False,
+1362655087,1362655087_605_874,3487022125,BGC0002708,605,874,['terpene synthase'],True,Terpene
+1362655087,1362655087_937_1233,3348683357,BGC0002708,937,1233,['terpene synthase'],True,Terpene

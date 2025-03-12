@@ -1,0 +1,30 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3747636564,3747636564_1_2079,1345483231,BGC0000708,1,2079,['hypothetical protein'],True,Saccharide
+3747636564,3747636564_2169_2549,876522465,BGC0000708,2169,2549,['hypothetical protein'],True,Saccharide
+3747636564,3747636564_2775_3764,2568530304,BGC0000708,2775,3764,['transport protein'],True,Saccharide
+3747636564,3747636564_3761_4738,1361010666,BGC0000708,3761,4738,['transport protein'],True,Saccharide
+3747636564,3747636564_4761_6839,1412533027,BGC0000708,4761,6839,['transport protein'],True,Saccharide
+3747636564,3747636564_7439_8458,1653981949,BGC0000708,7439,8458,"['putative 3-amino-2,3-dideoxy-scyllo-inositol 1-dehydrogenase']",True,Saccharide
+3747636564,3747636564_8539_9813,1285265446,BGC0000708,8539,9813,['putative L-glutamine:ketocyclitol aminotransferase'],True,Saccharide
+3747636564,3747636564_9810_11024,3733112282,BGC0000708,9810,11024,['putative 2-deoxy-scyllo-inosose synthase/cyclase'],True,Saccharide
+3747636564,3747636564_11098_12348,1654949481,BGC0000708,11098,12348,['putative UDP-NAc-glucosamine:2-deoxystreptamine 4-glycosyltransferase'],True,Saccharide
+3747636564,3747636564_12345_14150,2349100953,BGC0000708,12345,14150,"['putative ABC-transporter, ATP-binding protein']",True,Saccharide
+3747636564,3747636564_14147_16012,3126133310,BGC0000708,14147,16012,"['putative ABC-transporter, ATP-binding protein']",True,Saccharide
+3747636564,3747636564_16026_17666,3804615983,BGC0000708,16026,17666,"[""putative lividomycin 6'-dehydrogenase""]",True,Saccharide
+3747636564,3747636564_17694_18593,1074062416,BGC0000708,17694,18593,['putative Fe-S oxidoreductase'],True,Saccharide
+3747636564,3747636564_18590_19279,475085338,BGC0000708,18590,19279,['putative phosphatasein lividomycin pathway'],True,Saccharide
+3747636564,3747636564_19225_20349,3588303599,BGC0000708,19225,20349,['putative glycosyltransferase'],True,Saccharide
+3747636564,3747636564_20337_21095,1646772539,BGC0000708,20337,21095,['putative 2-N-acetylhexosamine deacetylase'],True,Saccharide
+3747636564,3747636564_21149_23137,3415775164,BGC0000708,21149,23137,['putative lividomycin production gene'],True,Saccharide
+3747636564,3747636564_23304_24554,749631059,BGC0000708,23304,24554,"[""putative 6'-aminotransferase""]",True,Saccharide
+3747636564,3747636564_24937_26319,4011466502,BGC0000708,24937,26319,['putative lividomycin-phosphate phosphatase'],True,Saccharide
+3747636564,3747636564_26522_27022,3467659126,BGC0000708,26522,27022,['putative regulator component'],True,Saccharide
+3747636564,3747636564_27421_27933,2597817438,BGC0000708,27421,27933,['putative regulator component'],True,Saccharide
+3747636564,3747636564_27930_29153,2674339278,BGC0000708,27930,29153,['putative regulator component'],True,Saccharide
+3747636564,3747636564_29241_33308,3201788789,BGC0000708,29241,33308,['putative lividomycin production protein'],True,Saccharide
+3747636564,3747636564_34028_34357,611344942,BGC0000708,34028,34357,,True,Saccharide
+3747636564,3747636564_34964_36256,1268119255,BGC0000708,34964,36256,['putative lividomycin production protein'],True,Saccharide
+3747636564,3747636564_36565_37932,319393100,BGC0000708,36565,37932,['putative Fe-S oxidoreductase'],True,Saccharide
+3747636564,3747636564_38005_38694,3462556793,BGC0000708,38005,38694,['putative dehydrogenase'],True,Saccharide
+3747636564,3747636564_38712_39935,182869256,BGC0000708,38712,39935,['putative coenzyme PQQ synthesis protein'],True,Saccharide
+3747636564,3747636564_40121_40579,4191243115,BGC0000708,40121,40579,['putative nitrate reductase component'],True,Saccharide

@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+679714178,679714178_2_391,3191474559,BGC0001869,2,391,['glyoxalase'],True,Other__NRP
+679714178,679714178_826_1311,2987119911,BGC0001869,826,1311,['phenazine biosynthesis protein PhzB'],True,Other__NRP
+679714178,679714178_1666_2307,4089601709,BGC0001869,1666,2307,"[""putative pyrodoxamine 5'-phosphate oxidase""]",True,Other__NRP
+679714178,679714178_2288_3385,164321649,BGC0001869,2288,3385,['hypothetical protein'],True,Other__NRP
+679714178,679714178_3385_4782,352158934,BGC0001869,3385,4782,['5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase'],True,Other__NRP
+679714178,679714178_4848_5537,187342734,BGC0001869,4848,5537,['tellurite resistance protein TehB'],True,Other__NRP
+679714178,679714178_5564_6997,854079585,BGC0001869,5564,6997,['MFS family major facilitator transporter'],True,Other__NRP
+679714178,679714178_7015_7806,2031238011,BGC0001869,7015,7806,['3-ketoacyl-ACP-reductase CylG'],True,Other__NRP
+679714178,679714178_7811_8956,1207852061,BGC0001869,7811,8956,['acyl-CoA dehydrogenase'],True,Other__NRP
+679714178,679714178_9039_10535,2359352463,BGC0001869,9039,10535,['Amino acid adenylation'],True,Other__NRP
+679714178,679714178_10525_10770,78950584,BGC0001869,10525,10770,['hypothetical protein'],True,Other__NRP
+679714178,679714178_10767_11792,4263602405,BGC0001869,10767,11792,['3-oxoacyl-ACP synthase'],True,Other__NRP

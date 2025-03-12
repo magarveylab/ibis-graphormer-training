@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1965821302,1965821302_1_171,1541336201,BGC0000579,1,171,['prepropeptide'],True,RiPP
+1965821302,1965821302_839_2161,1519338448,BGC0000579,839,2161,['asparagine synthase-related protein'],True,RiPP
+1965821302,1965821302_2158_2421,78679564,BGC0000579,2158,2421,['lasso peptide biosynthesis PqqD family chaperone'],True,RiPP
+1965821302,1965821302_2418_2915,195444311,BGC0000579,2418,2915,['lasso peptide biosynthesis B2 protein'],True,RiPP
+1965821302,1965821302_2912_3889,739502186,BGC0000579,2912,3889,['daunorubicin resistance protein DrrA family ABC transporter ATP-binding protein'],True,RiPP
+1965821302,1965821302_3895_4779,2995248105,BGC0000579,3895,4779,['ABC transporter permease'],True,RiPP
+1965821302,1965821302_4815_5303,3291333468,BGC0000579,4815,5303,['DoxX family membrane protein'],True,RiPP
+1965821302,1965821302_5307_6125,3338793492,BGC0000579,5307,6125,['thioredoxin domain-containing protein'],True,RiPP

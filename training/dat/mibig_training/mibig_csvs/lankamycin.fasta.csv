@@ -1,0 +1,31 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3294264275,3294264275_1_987,2247968760,BGC0000085,1,987,"['putative NDP-hexose 4,6-dehydratase']",True,Polyketide
+3294264275,3294264275_1001_1792,772192355,BGC0000085,1001,1792,['putative thioesterase'],True,Polyketide
+3294264275,3294264275_1789_3009,4002921604,BGC0000085,1789,3009,['P450 hydroxylase LkmF'],True,Polyketide
+3294264275,3294264275_3043_4278,583397274,BGC0000085,3043,4278,"['putative NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase']",True,Polyketide
+3294264275,3294264275_4293_5105,4015740797,BGC0000085,4293,5105,['putative NDP-hexose 3-O-methyltransferase'],True,Polyketide
+3294264275,3294264275_5158_6165,98583214,BGC0000085,5158,6165,"['putative NDP-4-keto-2,6-dideoxyhexose 2,3-enoyl reductase']",True,Polyketide
+3294264275,3294264275_6210_8651,1546496838,BGC0000085,6210,8651,['putative beta-glycosidase'],True,Polyketide
+3294264275,3294264275_8817_10094,714110945,BGC0000085,8817,10094,['glycosyltransferase LkmI'],True,Polyketide
+3294264275,3294264275_10106_11191,2002247590,BGC0000085,10106,11191,"['putative NDP-4-keto-6-deoxyhexose 3,4-isomerase']",True,Polyketide
+3294264275,3294264275_11188_21075,691716830,BGC0000085,11188,21075,['lankamycin synthase LkmAIII'],True,Polyketide
+3294264275,3294264275_21072_32042,1730360693,BGC0000085,21072,32042,['lankamycin synthase LkmAII'],True,Polyketide
+3294264275,3294264275_32055_43010,2437645857,BGC0000085,32055,43010,['lankamycin synthase LkmAI'],True,Polyketide
+3294264275,3294264275_43447_44670,1789706101,BGC0000085,43447,44670,['putative O-acyltransferase'],True,Polyketide
+3294264275,3294264275_44667_45881,1217851143,BGC0000085,44667,45881,['P450 hydroxylase LkmK'],True,Polyketide
+3294264275,3294264275_45886_47085,666295137,BGC0000085,45886,47085,"['putative NDP-6-deoxyhexose 3,4-dehydratase']",True,Polyketide
+3294264275,3294264275_47128_48600,3304381410,BGC0000085,47128,48600,"['putative NDP-4,6-dideoxyhexose 3,4-enoyl reductase']",True,Polyketide
+3294264275,3294264275_48615_49892,3462200959,BGC0000085,48615,49892,['glycosyltransferase LkmL'],True,Polyketide
+3294264275,3294264275_50050_51027,1487607159,BGC0000085,50050,51027,"['putative NDP-3-methyl-4-keto-2,6-dideoxyhexose 4-ketoreductase']",True,Polyketide
+3294264275,3294264275_51041_51961,3304550938,BGC0000085,51041,51961,['putative NDP-3-keto-6-deoxyhexose 3-ketoreductase'],True,Polyketide
+3294264275,3294264275_52168_53337,662972071,BGC0000085,52168,53337,['putative glycosyltransferase'],True,Polyketide
+3294264275,3294264275_53765_55465,1297887371,BGC0000085,53765,55465,['putative ABC transporter protein'],True,Polyketide
+3294264275,3294264275_55655_56431,2920353010,BGC0000085,55655,56431,['putative NDP-hexose 3-O-methyltransferase'],True,Polyketide
+3294264275,3294264275_56452_57081,824603840,BGC0000085,56452,57081,"['putative NDP-4-keto-6-deoxyhexose 3,5-epimerase']",True,Polyketide
+3294264275,3294264275_57154_58584,2616863698,BGC0000085,57154,58584,['probable adenosylhomocysteinase'],True,Polyketide
+3294264275,3294264275_58574_59434,1679714021,BGC0000085,58574,59434,"['probable 5,10-methylenetetrahydrofolate reductase']",True,Polyketide
+3294264275,3294264275_59431_62880,1792469395,BGC0000085,59431,62880,['probable 5-methyltetrahydrofolate-homocysteine S-methyltransferase'],True,Polyketide
+3294264275,3294264275_62877_63887,1541895282,BGC0000085,62877,63887,['putative glucose kinase'],True,Polyketide
+3294264275,3294264275_63977_65197,632182610,BGC0000085,63977,65197,['probable S-adenosylmethionine synthetase'],True,Polyketide
+3294264275,3294264275_65499_66563,2139544450,BGC0000085,65499,66563,['putative NDP-glucose synthase'],True,Polyketide
+3294264275,3294264275_66709_68094,1978467096,BGC0000085,66709,68094,"['putative NDP-4-keto-6-deoxyhexose 2,3-dehydratase']",True,Polyketide

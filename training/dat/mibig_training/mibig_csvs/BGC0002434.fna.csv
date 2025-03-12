@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1195456715,1195456715_1_1530,4100239372,BGC0002434,1,1530,['MFS transporter'],True,Polyketide__NRP
+1195456715,1195456715_1668_2705,1663179889,BGC0002434,1668,2705,['AsnC family transcriptional regulator'],True,Polyketide__NRP
+1195456715,1195456715_2886_3764,1224319758,BGC0002434,2886,3764,['fatty acid hydroxylase family protein'],True,Polyketide__NRP
+1195456715,1195456715_3998_13540,1391204051,BGC0002434,3998,13540,['hybrid non-ribosomal peptide synthetase/type I polyketide synthase'],True,Polyketide__NRP
+1195456715,1195456715_13530_14789,3503476677,BGC0002434,13530,14789,['cytochrome P450'],True,Polyketide__NRP
+1195456715,1195456715_14876_16702,3164783565,BGC0002434,14876,16702,['NAD(P)/FAD-dependent oxidoreductase'],True,Polyketide__NRP
+1195456715,1195456715_16699_17757,3646725344,BGC0002434,16699,17757,['NADP-dependent oxidoreductase'],True,Polyketide__NRP
+1195456715,1195456715_17836_18417,1404954801,BGC0002434,17836,18417,['TrmH family RNA methyltransferase'],True,Polyketide__NRP
+1195456715,1195456715_18414_19058,3551963263,BGC0002434,18414,19058,['methyltransferase domain-containing protein'],True,Polyketide__NRP

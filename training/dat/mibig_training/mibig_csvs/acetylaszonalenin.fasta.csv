@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+727868418,727868418_1_6276,4027537996,BGC0000293,1,6276,"['nonribosomal peptide synthase, putative']",True,NRP
+727868418,727868418_6536_7117,234438221,BGC0000293,6536,7117,"['nonribosomal peptide synthase, putative']",True,NRP
+727868418,727868418_7527_8084,3806602984,BGC0000293,7527,8084,,True,NRP
+727868418,727868418_9058_10257,2111467240,BGC0000293,9058,10257,"['dimethylallyl tryptophan synthase, putative']",True,NRP
+727868418,727868418_11236_12765,2397347985,BGC0000293,11236,12765,['transferase family protein'],True,NRP

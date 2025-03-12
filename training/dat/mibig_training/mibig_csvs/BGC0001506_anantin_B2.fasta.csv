@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+269525358,269525358_1_564,2397227013,BGC0001506,1,564,['membrane protein'],True,RiPP
+269525358,269525358_600_2831,1686193733,BGC0001506,600,2831,,True,RiPP

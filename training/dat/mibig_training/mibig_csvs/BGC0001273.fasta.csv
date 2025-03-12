@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1884889609,1884889609_1_5301,3850235237,BGC0001273,1,5301,['MSAS-type polyketide synthase'],True,Polyketide

@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3557981749,3557981749_46_1137,382067173,BGC0002490,46,1137,['putative periplasmic binding protein'],True,Other
+3557981749,3557981749_1137_1373,2220058454,BGC0002490,1137,1373,,True,Other
+3557981749,3557981749_1327_2193,310262233,BGC0002490,1327,2193,['FecCD transport family protein'],True,Other
+3557981749,3557981749_2190_2975,1185630840,BGC0002490,2190,2975,['putative transport ATP-binding protein'],True,Other
+3557981749,3557981749_2963_3760,2836547390,BGC0002490,2963,3760,['conserved hypothetical protein'],True,Other
+3557981749,3557981749_3753_5123,35100377,BGC0002490,3753,5123,['putative exported protein'],True,Other
+3557981749,3557981749_5120_5965,767999966,BGC0002490,5120,5965,['putative membrane protein'],True,Other

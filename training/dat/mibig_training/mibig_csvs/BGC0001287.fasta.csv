@@ -1,0 +1,30 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2198939753,2198939753_1_507,517533438,BGC0001287,1,507,"['RifJ homologue, AminoDHQ dehydratase, AHBA biosynthesis']",True,Polyketide
+2198939753,2198939753_536_1276,1266071968,BGC0001287,536,1276,"['Transcriptional regulator, atypical response regulator']",True,Polyketide
+2198939753,2198939753_1884_3185,1765645698,BGC0001287,1884,3185,"['LuxR Family Transcriptional Regulator, possible activator; no Rif homologue']",True,Polyketide
+2198939753,2198939753_3194_3355,4088911730,BGC0001287,3194,3355,"['RifR homologue; Type II thioesterase, probably non-functional']",True,Polyketide
+2198939753,2198939753_3423_3680,2127906428,BGC0001287,3423,3680,"['RifR homologue; Type II thioesterase, probably non-functional']",True,Polyketide
+2198939753,2198939753_4191_5258,3706426689,BGC0001287,4191,5258,['Methyltransferase SAM-dependent; not homolog to rifamycin Orf14'],True,Polyketide
+2198939753,2198939753_5386_6642,888732033,BGC0001287,5386,6642,['Rif-orf5 homologue; Cytochrome P450'],True,Polyketide
+2198939753,2198939753_6771_7952,2679050629,BGC0001287,6771,7952,['Rif-orf4 homologue; Cytochrome P450'],True,Polyketide
+2198939753,2198939753_7966_8157,1455840344,BGC0001287,7966,8157,['Ferredoxin 4Fe-4S single cluster domain; no Rif homologue'],True,Polyketide
+2198939753,2198939753_8221_9429,2448411701,BGC0001287,8221,9429,['Rif-orf20 homologue; O-Acyltransferase'],True,Polyketide
+2198939753,2198939753_9732_11333,3457263868,BGC0001287,9732,11333,['Rif-orf19 homologue. FDA dependent-monooxygenase; Naphthalene ring formation; 3-(3-hydroxy-phenyl)propionate/3-hydroxycinnamic acid hydroxylase'],True,Polyketide
+2198939753,2198939753_11425_12312,1407574875,BGC0001287,11425,12312,"['Rif-orf11 homologue, Flavin-dependent oxidoreductase']",True,Polyketide
+2198939753,2198939753_12392_13315,641264725,BGC0001287,12392,13315,"['RifN homologue, kanosamine kinase, AHBA biosynthesis']",True,Polyketide
+2198939753,2198939753_13320_14018,1142956565,BGC0001287,13320,14018,"['RifM homologue, phosphoglycolate phosphatase, AHBA biosynthesis']",True,Polyketide
+2198939753,2198939753_14052_15128,672082482,BGC0001287,14052,15128,"['RifL homologue, oxidoreductase, AHBA biosynthesis']",True,Polyketide
+2198939753,2198939753_15125_16285,2690472982,BGC0001287,15125,16285,"['RifK homologue, 3-amino-5-hydroxy benzoic acid (AHBA) synthase']",True,Polyketide
+2198939753,2198939753_16466_17272,3996694966,BGC0001287,16466,17272,"['RifI homologue, Aminoquinate dehydrogenase, AHBA biosynthesis']",True,Polyketide
+2198939753,2198939753_17342_18562,416192313,BGC0001287,17342,18562,"['RifH homologue, AminoDAHP synthase, AHBA biosynthesis']",True,Polyketide
+2198939753,2198939753_18559_19665,3966940123,BGC0001287,18559,19665,"['RifG homologue, AminoDHQ synthase, AHBA biosynthesis']",True,Polyketide
+2198939753,2198939753_19662_20471,2781792465,BGC0001287,19662,20471,"['RifF homologue, amide synthase, release of polyketide from PKS and ciclysation']",True,Polyketide
+2198939753,2198939753_20516_30982,2310650585,BGC0001287,20516,30982,"['Polyketide synthase, type I, modules: 9 and 10']",True,Polyketide
+2198939753,2198939753_31055_36376,3182777668,BGC0001287,31055,36376,"['Polyketide synthase, type I, module 8']",True,Polyketide
+2198939753,2198939753_36434_41896,625506017,BGC0001287,36434,41896,"['Polyketide synthase, type I, module 7']",True,Polyketide
+2198939753,2198939753_41907_57998,3952097969,BGC0001287,41907,57998,"['Polyketide synthase, type I, modules: 4, 5 and 6']",True,Polyketide
+2198939753,2198939753_58029_74879,1951194483,BGC0001287,58029,74879,"['Polyketide synthase, type I, modules: loading, 1, 2 and 3']",True,Polyketide
+2198939753,2198939753_74943_76136,2028764869,BGC0001287,74943,76136,"['Rif-orf0(cero) homologue, Cytochrome P450']",True,Polyketide
+2198939753,2198939753_76438_77409,2586742305,BGC0001287,76438,77409,['RifT homologue; NAD-dependent oxydoreductase'],True,Polyketide
+2198939753,2198939753_77406_78389,2923080277,BGC0001287,77406,78389,['RifS homologue; NAD-dependent oxydoreductase'],True,Polyketide
+2198939753,2198939753_78365_78781,4225561063,BGC0001287,78365,78781,['Hypothetical Protein'],True,Polyketide

@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1303249210,1303249210_1_1701,3127634192,BGC0001684,1,1701,['conserved hypothetical protein'],True,Other
+1303249210,1303249210_1788_2753,1662073785,BGC0001684,1788,2753,['putative lipoprotein'],True,Other
+1303249210,1303249210_2746_3663,4280205243,BGC0001684,2746,3663,"['ABC transporter, ATP-binding protein']",True,Other
+1303249210,1303249210_3695_4789,353431312,BGC0001684,3695,4789,"['ABC transporter, permease protein']",True,Other

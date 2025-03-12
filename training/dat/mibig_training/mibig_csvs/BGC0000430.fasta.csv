@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+65735067,65735067_1_2052,3297783958,BGC0000430,1,2052,['ABC transporter ATP-binding protein'],True,NRP__Polyketide
+65735067,65735067_2249_3064,1505180800,BGC0000430,2249,3064,['Pyrroline-5-carboxylate reductase'],True,NRP__Polyketide
+65735067,65735067_3187_4290,443262885,BGC0000430,3187,4290,['Sorbitol dehydrogenase'],True,NRP__Polyketide
+65735067,65735067_4421_5215,1308112019,BGC0000430,4421,5215,['hypothetical protein'],True,NRP__Polyketide
+65735067,65735067_5278_17793,1942573411,BGC0000430,5278,17793,['Long-chain-fatty-acid--CoA ligase'],True,NRP__Polyketide
+65735067,65735067_17795_18595,1993359213,BGC0000430,17795,18595,['lichenysin synthetase A'],True,NRP__Polyketide
+65735067,65735067_18573_22001,1245762565,BGC0000430,18573,22001,['Long-chain-fatty-acid--CoA ligase'],True,NRP__Polyketide

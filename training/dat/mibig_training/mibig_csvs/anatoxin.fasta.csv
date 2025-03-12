@@ -1,0 +1,16 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+838059217,838059217_31_324,848647313,BGC0000017,31,324,,False,
+838059217,838059217_877_1596,1013195630,BGC0000017,877,1596,['cyclase-like protein'],True,Polyketide__Alkaloid
+838059217,838059217_1695_2741,529446489,BGC0000017,1695,2741,,True,Polyketide__Alkaloid
+838059217,838059217_3652_4797,2944653254,BGC0000017,3652,4797,['Prolyl-ACP oxidase'],True,Polyketide__Alkaloid
+838059217,838059217_4810_6426,13585988,BGC0000017,4810,6426,['Proline adenylation protein'],True,Polyketide__Alkaloid
+838059217,838059217_6449_6712,3029251374,BGC0000017,6449,6712,['Acyl carrier protein'],True,Polyketide__Alkaloid
+838059217,838059217_6866_13306,3762555301,BGC0000017,6866,13306,['polyketide synthase'],True,Polyketide__Alkaloid
+838059217,838059217_13308_18905,1551621418,BGC0000017,13308,18905,['polyketide synthase'],True,Polyketide__Alkaloid
+838059217,838059217_19181_24082,1624866530,BGC0000017,19181,24082,['polyketide synthase'],True,Polyketide__Alkaloid
+838059217,838059217_24527_25009,2681079651,BGC0000017,24527,25009,['transposase'],True,Polyketide__Alkaloid
+838059217,838059217_25283_25630,902103709,BGC0000017,25283,25630,['putative ATP synthase beta subunit'],True,Polyketide__Alkaloid
+838059217,838059217_25504_26589,3751089363,BGC0000017,25504,26589,['putative serine/threonine protein kinase'],True,Polyketide__Alkaloid
+838059217,838059217_26759_27457,2773783356,BGC0000017,26759,27457,['putative SAM-dependent methyltransferase'],True,Polyketide__Alkaloid
+838059217,838059217_27485_27763,2574148640,BGC0000017,27485,27763,['hypothetical conserved protein'],True,Polyketide__Alkaloid
+838059217,838059217_28215_28862,2749318502,BGC0000017,28215,28862,['putative phosphoglycerate mutase'],True,Polyketide__Alkaloid

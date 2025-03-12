@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+765032445,765032445_1_696,1155242493,BGC0001217,1,696,['7-cyano-7-deazaguanine synthase'],True,Other
+765032445,765032445_699_1334,2309306074,BGC0001217,699,1334,['7-carboxy-7-deazaguanine synthase'],True,Other
+765032445,765032445_1335_1691,1486844998,BGC0001217,1335,1691,"['6-carboxy-5,6,7,8-tetrahydropterin synthase']",True,Other

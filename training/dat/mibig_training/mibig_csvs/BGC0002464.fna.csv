@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4202541335,4202541335_1_1386,1039427863,BGC0002464,1,1386,['alcaligin siderophore biosynthesis hydroxylase AlcA'],True,Other
+4202541335,4202541335_1405_2010,2379492983,BGC0002464,1405,2010,['alcaligin siderophore biosynthesis protein AlcB'],True,Other
+4202541335,4202541335_2007_3863,2770007737,BGC0002464,2007,3863,['alcaligin siderophore biosynthesis protein AlcC'],True,Other
+4202541335,4202541335_3860_4660,227975448,BGC0002464,3860,4660,['alcaligin siderophore biosynthesis protein AlcD'],True,Other
+4202541335,4202541335_4675_5868,3411901336,BGC0002464,4675,5868,['alcaligin siderophore biosynthesis hydroxylase AlcE'],True,Other
+4202541335,4202541335_5999_6910,4011697924,BGC0002464,5999,6910,['alcaligin siderophore biosynthesis transcriptional regulator AlcR'],True,Other
+4202541335,4202541335_7033_8256,1398766863,BGC0002464,7033,8256,['alcaligin siderophore export MFS transporter Bcr'],True,Other
+4202541335,4202541335_8367_10571,1990061711,BGC0002464,8367,10571,['TonB-dependent alcaligin siderophore receptor FauA'],True,Other

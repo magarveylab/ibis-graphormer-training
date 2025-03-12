@@ -1,0 +1,15 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1936302685,1936302685_2_892,1046866007,BGC0000926,2,892,['putative transcriptional regulator'],True,Other
+1936302685,1936302685_1047_2348,868200685,BGC0000926,1047,2348,['putative threonine synthase'],True,Other
+1936302685,1936302685_2469_3611,3170834766,BGC0000926,2469,3611,['putative amino acid ligase of ATP-grasp superfamily'],True,Other
+1936302685,1936302685_3596_4819,1610501926,BGC0000926,3596,4819,['putative permease of major facilitator superfamily'],True,Other
+1936302685,1936302685_4855_5358,3373469725,BGC0000926,4855,5358,['putative phosphonopyruvate decarboxylase alpha subunit'],True,Other
+1936302685,1936302685_5370_5930,1762213717,BGC0000926,5370,5930,['putative phosphonopyruvate decarboxylase beta subunit'],True,Other
+1936302685,1936302685_5927_6940,875961275,BGC0000926,5927,6940,['putative aldolase class II'],True,Other
+1936302685,1936302685_6937_7827,3654077184,BGC0000926,6937,7827,['phosphoenolpyruvate phosphomutase'],True,Other
+1936302685,1936302685_7850_8938,528394036,BGC0000926,7850,8938,['hypothetical protein'],True,Other
+1936302685,1936302685_8974_9372,1698873742,BGC0000926,8974,9372,['hypothetical YjbQ-like protein'],True,Other
+1936302685,1936302685_9372_10553,58044584,BGC0000926,9372,10553,['hypothetical aminotransferase'],True,Other
+1936302685,1936302685_10546_10803,1131002164,BGC0000926,10546,10803,['putative glutaredoxin'],True,Other
+1936302685,1936302685_10819_11466,3417194198,BGC0000926,10819,11466,['hypothetical protein'],True,Other
+1936302685,1936302685_11483_12724,2955112177,BGC0000926,11483,12724,['putative amino acid ligase of ATP-grasp superfamily'],True,Other

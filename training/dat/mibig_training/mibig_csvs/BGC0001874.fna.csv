@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4147601557,4147601557_441_1808,3510095591,BGC0001874,441,1808,['monoamine oxidase'],True,NRP__Polyketide
+4147601557,4147601557_2309_2677,1617779523,BGC0001874,2309,2677,,True,NRP__Polyketide
+4147601557,4147601557_2522_3676,2393516254,BGC0001874,2522,3676,['dimethylallyl tryptophan synthase'],True,NRP__Polyketide
+4147601557,4147601557_4655_16375,3629554497,BGC0001874,4655,16375,['polyketide synthase A'],True,NRP__Polyketide

@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2990901057,2990901057_1_1347,39184856,BGC0000674,1,1347,['cytochrome P450 hydroxylase'],True,Terpene
+2990901057,2990901057_1349_2332,1128235916,BGC0000674,1349,2332,['terpene synthase'],True,Terpene
+2990901057,2990901057_2313_3170,2569170214,BGC0000674,2313,3170,['methyltransferase type 12'],True,Terpene
+2990901057,2990901057_3606_4991,1895260763,BGC0000674,3606,4991,['hypothetical protein'],True,Terpene

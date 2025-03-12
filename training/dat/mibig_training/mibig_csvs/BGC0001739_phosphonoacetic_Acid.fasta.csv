@@ -1,0 +1,14 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1728462695,1728462695_1_1458,3564478207,BGC0001739,1,1458,['aldehyde dehydrogenase'],True,Other
+1728462695,1728462695_1675_2937,2110327155,BGC0001739,1675,2937,['ATP-grasp domain-containing protein'],True,Other
+1728462695,1728462695_2990_4240,2213735690,BGC0001739,2990,4240,['ATP-grasp domain-containing protein'],True,Other
+1728462695,1728462695_4237_5514,1004803448,BGC0001739,4237,5514,['MFS transporter'],True,Other
+1728462695,1728462695_5492_6742,1642071670,BGC0001739,5492,6742,['amidase'],True,Other
+1728462695,1728462695_6754_7803,2317759637,BGC0001739,6754,7803,,True,Other
+1728462695,1728462695_7877_8599,3752192095,BGC0001739,7877,8599,['class I SAM-dependent methyltransferase'],True,Other
+1728462695,1728462695_8622_10091,3306379033,BGC0001739,8622,10091,['aldehyde dehydrogenase family protein'],True,Other
+1728462695,1728462695_10075_11016,1061145225,BGC0001739,10075,11016,['isocitrate lyase/phosphoenolpyruvate mutase family protein'],True,Other
+1728462695,1728462695_11114_11656,2692632292,BGC0001739,11114,11656,['thiamine pyrophosphate-dependent enzyme'],True,Other
+1728462695,1728462695_11656_12171,781002165,BGC0001739,11656,12171,['thiamine pyrophosphate-binding protein'],True,Other
+1728462695,1728462695_12168_12881,1765245906,BGC0001739,12168,12881,['CDP-alcohol phosphatidyltransferase family protein'],True,Other
+1728462695,1728462695_12878_14815,473848652,BGC0001739,12878,14815,['asparagine synthase (glutamine-hydrolyzing)'],True,Other

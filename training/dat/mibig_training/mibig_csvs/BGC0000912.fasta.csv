@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2844683365,2844683365_1_423,2345985793,BGC0000912,1,423,['putative tyrosinase co-factor protein'],True,Other
+2844683365,2844683365_441_1265,180396551,BGC0000912,441,1265,['putative tyrosinase'],True,Other

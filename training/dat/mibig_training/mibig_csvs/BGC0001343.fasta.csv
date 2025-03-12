@@ -1,0 +1,19 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1338316451,1338316451_116_1555,2024875718,BGC0001343,116,1555,['hypothetical protein'],True,Polyketide
+1338316451,1338316451_1564_2304,1503575903,BGC0001343,1564,2304,['predicted alpha/beta superfamily hydrolase'],True,Polyketide
+1338316451,1338316451_2377_3927,3407710631,BGC0001343,2377,3927,['anthranilate-CoA ligase'],True,Polyketide
+1338316451,1338316451_4078_5097,1859642853,BGC0001343,4078,5097,['predicted Rieske-[2Fe-2s]-domain protein'],True,Polyketide
+1338316451,1338316451_5156_5881,2299872427,BGC0001343,5156,5881,['predicted ABC transporter ATP-binding protein'],True,Polyketide
+1338316451,1338316451_5891_7324,2294404869,BGC0001343,5891,7324,['hypothetical protein'],True,Polyketide
+1338316451,1338316451_7345_8070,675200049,BGC0001343,7345,8070,['predicted outer membrane lipoprotein sorting protein'],True,Polyketide
+1338316451,1338316451_8101_9381,2129145414,BGC0001343,8101,9381,"['predicted ABC-type lipoprotein release transporter, permease component']",True,Polyketide
+1338316451,1338316451_9378_10268,1418292084,BGC0001343,9378,10268,['predicted ABC-type transport system'],True,Polyketide
+1338316451,1338316451_10694_11317,173321348,BGC0001343,10694,11317,['predicted transcriptional regulator'],True,Polyketide
+1338316451,1338316451_11507_12487,2188956808,BGC0001343,11507,12487,['prenyltransferase'],True,Polyketide
+1338316451,1338316451_12568_12822,459932931,BGC0001343,12568,12822,['acyl carrier protein'],True,Polyketide
+1338316451,1338316451_12819_14039,1859887735,BGC0001343,12819,14039,['beta-ketoacyl-ACP synthase II'],True,Polyketide
+1338316451,1338316451_14047_15276,2481309134,BGC0001343,14047,15276,['beta-ketoacyl-CLF synthase II'],True,Polyketide
+1338316451,1338316451_15273_16766,4202406291,BGC0001343,15273,16766,['anthranilate-CoA-ACP transferase'],True,Polyketide
+1338316451,1338316451_16755_17429,1051050313,BGC0001343,16755,17429,['predicted carboxymethylenebutenolidase'],True,Polyketide
+1338316451,1338316451_17505_18167,3438180921,BGC0001343,17505,18167,['hypothetical protein'],True,Polyketide
+1338316451,1338316451_18332_19348,3002793253,BGC0001343,18332,19348,,False,

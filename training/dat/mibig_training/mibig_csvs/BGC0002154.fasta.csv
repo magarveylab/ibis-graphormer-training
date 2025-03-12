@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4100367755,4100367755_338_6328,1078960907,BGC0002154,338,6328,['conidial yellow pigment biosynthesis polyketide synthase'],True,Polyketide
+4100367755,4100367755_6380_6559,2129391296,BGC0002154,6380,6559,['conidial yellow pigment biosynthesis polyketide synthase'],True,Polyketide
+4100367755,4100367755_6725_7126,3280838632,BGC0002154,6725,7126,['conidial yellow pigment biosynthesis polyketide synthase'],True,Polyketide

@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+814501260,814501260_1_1314,236909134,BGC0001149,1,1314,"['RhlB, TDP-rhamnosyltransferase 1']",True,NRP__Saccharide
+814501260,814501260_1410_8675,504059557,BGC0001149,1410,8675,['NRPS'],True,NRP__Saccharide
+814501260,814501260_8766_9953,1268753740,BGC0001149,8766,9953,['FAD-dependent Baeyer—Villiger monooxygenase'],True,NRP__Saccharide
+814501260,814501260_10450_11277,708852000,BGC0001149,10450,11277,['LuxR-type transcriptional regulator'],True,NRP__Saccharide
+814501260,814501260_11362_12786,55947203,BGC0001149,11362,12786,['RND efflux system'],True,NRP__Saccharide

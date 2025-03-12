@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2555092842,2555092842_1_1842,859129799,BGC0001549,1,1842,['ABC transporter ATP-binding protein/permease'],True,RiPP
+2555092842,2555092842_1839_2273,503690778,BGC0001549,1839,2273,['lasso peptide biosynthesis B2 protein'],True,RiPP
+2555092842,2555092842_2270_2524,1847087703,BGC0001549,2270,2524,['lasso peptide biosynthesis PqqD family chaperone'],True,RiPP
+2555092842,2555092842_2569_4419,278649799,BGC0001549,2569,4419,['lasso peptide isopeptide bond-forming cyclase'],True,RiPP
+2555092842,2555092842_4446_4556,2804621110,BGC0001549,4446,4556,['keywimysin-related RiPP'],True,RiPP

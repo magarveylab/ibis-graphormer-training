@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1455350586,1455350586_1_705,169681620,BGC0001069,1,705,['hypothetical protein'],True,NRP__Polyketide
+1455350586,1455350586_1400_2026,2114467221,BGC0001069,1400,2026,,True,NRP__Polyketide
+1455350586,1455350586_2572_4992,3619507305,BGC0001069,2572,4992,['acyltransferase/oxidoreductase'],True,NRP__Polyketide
+1455350586,1455350586_5072_22603,292651305,BGC0001069,5072,22603,['polyketide synthase'],True,NRP__Polyketide
+1455350586,1455350586_22603_47856,40414991,BGC0001069,22603,47856,['polyketide synthase'],True,NRP__Polyketide
+1455350586,1455350586_47908_61797,4100031672,BGC0001069,47908,61797,['hybrid nonribosomal peptide synthetase/polyketide synthase'],True,NRP__Polyketide
+1455350586,1455350586_61825_76344,1934983253,BGC0001069,61825,76344,['polyketide synthase'],True,NRP__Polyketide
+1455350586,1455350586_76368_93941,1853930981,BGC0001069,76368,93941,['polyketide synthase'],True,NRP__Polyketide
+1455350586,1455350586_94012_94950,889270467,BGC0001069,94012,94950,['methyltransferase'],True,NRP__Polyketide

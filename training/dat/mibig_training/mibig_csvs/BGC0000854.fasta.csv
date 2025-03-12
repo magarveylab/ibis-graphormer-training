@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3902564323,3902564323_839_1381,3787538428,BGC0000854,839,1381,['transcriptional regulator MarR family'],True,Other
+3902564323,3902564323_1709_2227,2504291685,BGC0000854,1709,2227,"['L-2,4-diaminobutyrat acetyltransferase']",True,Other
+3902564323,3902564323_2270_3601,2695227283,BGC0000854,2270,3601,"['L-2,4-diaminobutyrat transaminase']",True,Other
+3902564323,3902564323_3652_4056,3441118520,BGC0000854,3652,4056,['ectoine synthase'],True,Other
+3902564323,3902564323_4117_5559,3607137347,BGC0000854,4117,5559,['aspartokinase'],True,Other
+3902564323,3902564323_5920_6879,1512624827,BGC0000854,5920,6879,['putative ectoine hydroxylase'],True,Other

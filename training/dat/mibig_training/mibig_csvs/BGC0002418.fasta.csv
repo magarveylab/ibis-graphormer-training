@@ -1,0 +1,30 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+320418884,320418884_1_513,1737425628,BGC0002418,1,513,['extracytoplasmic-function sigma-70 factor'],True,NRP__Polyketide
+320418884,320418884_532_663,2353732050,BGC0002418,532,663,,True,NRP__Polyketide
+320418884,320418884_743_967,2894257666,BGC0002418,743,967,['hypothetical protein'],True,NRP__Polyketide
+320418884,320418884_1298_1525,1543048665,BGC0002418,1298,1525,['MbtH-like protein'],True,NRP__Polyketide
+320418884,320418884_1522_2274,4246882131,BGC0002418,1522,2274,['thioesterase domain-containing protein'],True,NRP__Polyketide
+320418884,320418884_2252_2908,237016974,BGC0002418,2252,2908,"[""4'-phosphopantetheinyl transferase""]",True,NRP__Polyketide
+320418884,320418884_2932_3903,643714763,BGC0002418,2932,3903,"['taurine catabolism dioxygenase TauD, TfdA family protein 2']",True,NRP__Polyketide
+320418884,320418884_3921_7166,240565191,BGC0002418,3921,7166,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide
+320418884,320418884_7163_13807,1009601086,BGC0002418,7163,13807,['erythronolide synthase'],True,NRP__Polyketide
+320418884,320418884_13837_16953,437765536,BGC0002418,13837,16953,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide
+320418884,320418884_16978_28905,3113965402,BGC0002418,16978,28905,['protein PvdD'],True,NRP__Polyketide
+320418884,320418884_29078_36826,3417224462,BGC0002418,29078,36826,['PpsD'],True,NRP__Polyketide
+320418884,320418884_37040_38074,787671921,BGC0002418,37040,38074,['hypothetical protein'],True,NRP__Polyketide
+320418884,320418884_38094_40064,2018251361,BGC0002418,38094,40064,['AMP-binding domain protein'],True,NRP__Polyketide
+320418884,320418884_40061_41020,3499942528,BGC0002418,40061,41020,['fumarylacetoacetate hydrolase'],True,NRP__Polyketide
+320418884,320418884_41036_42112,3292441778,BGC0002418,41036,42112,['glyoxalase'],True,NRP__Polyketide
+320418884,320418884_42109_43086,1219721147,BGC0002418,42109,43086,['phytanoyl-CoA dioxygenase (PhyH) family protein'],True,NRP__Polyketide
+320418884,320418884_43234_44814,1086344198,BGC0002418,43234,44814,['monooxygenase FAD-binding protein'],True,NRP__Polyketide
+320418884,320418884_44910_45548,3780515423,BGC0002418,44910,45548,['TetR family transcriptional regulator'],True,NRP__Polyketide
+320418884,320418884_45578_46141,2797095874,BGC0002418,45578,46141,['TetR family transcriptional regulator'],True,NRP__Polyketide
+320418884,320418884_46261_47178,372355477,BGC0002418,46261,47178,"['hydrolase, alpha/beta fold family, putative']",True,NRP__Polyketide
+320418884,320418884_47820_48932,3935839686,BGC0002418,47820,48932,['oxidoreductase FAD-binding domain-containing protein'],True,NRP__Polyketide
+320418884,320418884_48943_50130,1513210850,BGC0002418,48943,50130,['fatty acid desaturase domain-containing protein'],True,NRP__Polyketide
+320418884,320418884_50222_51151,571669872,BGC0002418,50222,51151,['lipolytic protein'],True,NRP__Polyketide
+320418884,320418884_51225_53378,2181194297,BGC0002418,51225,53378,['TonB-dependent siderophore receptor'],True,NRP__Polyketide
+320418884,320418884_53639_54949,2790390785,BGC0002418,53639,54949,['L-lysine 6-monooxygenase'],True,NRP__Polyketide
+320418884,320418884_54960_56060,3819829197,BGC0002418,54960,56060,['hypothetical protein'],True,NRP__Polyketide
+320418884,320418884_56107_56856,3340126488,BGC0002418,56107,56856,['FhuF/siderophore biosynthesis protein'],True,NRP__Polyketide
+320418884,320418884_56972_58606,2378457956,BGC0002418,56972,58606,"['pyoverdine synthetase E, pdvE']",True,NRP__Polyketide

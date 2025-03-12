@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1449859625,1449859625_1_183,3762887667,BGC0000564,1,183,['putative cytolysin'],True,RiPP
+1449859625,1449859625_348_1304,1733013795,BGC0000564,348,1304,['putative cytolysin-associated protein'],True,RiPP
+1449859625,1449859625_1308_2390,214623980,BGC0000564,1308,2390,['putative cytolysin-associated protein'],True,RiPP
+1449859625,1449859625_2406_3764,4164454831,BGC0000564,2406,3764,['putative cytolysin-associated protein'],True,RiPP
+1449859625,1449859625_3739_4377,1955075059,BGC0000564,3739,4377,['putative cytolysin-associated protein'],True,RiPP
+1449859625,1449859625_4385_5113,2347554695,BGC0000564,4385,5113,['putative cytolysin-associated protein'],True,RiPP
+1449859625,1449859625_5422_6354,2178731258,BGC0000564,5422,6354,"['putative cytolysin ABC transporter, ATP-binding protein']",True,RiPP
+1449859625,1449859625_6366_7490,2893890779,BGC0000564,6366,7490,['putative cytolysin ABC transporter'],True,RiPP
+1449859625,1449859625_7492_8634,1265440809,BGC0000564,7492,8634,['putative cytolysin ABC transporter'],True,RiPP

@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4251247685,4251247685_1_915,756712940,BGC0000401,1,915,['paebacillibactin esterase'],True,NRP
+4251247685,4251247685_982_1767,2549433295,BGC0000401,982,1767,"['2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase']",True,NRP
+4251247685,4251247685_1791_3056,881925297,BGC0000401,1791,3056,['isochorismate synthase'],True,NRP
+4251247685,4251247685_3053_4687,1977895668,BGC0000401,3053,4687,"['2,3-dihydroxybenzoate-AMP ligase']",True,NRP
+4251247685,4251247685_4709_5671,2818824937,BGC0000401,4709,5671,['isochorismatase'],True,NRP
+4251247685,4251247685_5686_12882,3944311601,BGC0000401,5686,12882,['nonribosomal peptide synthetase NRPS'],True,NRP

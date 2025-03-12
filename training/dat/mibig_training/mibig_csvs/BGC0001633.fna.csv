@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3179714748,3179714748_1_942,1392175872,BGC0001633,1,942,['alcohol dehydrogenase'],True,Other
+3179714748,3179714748_948_2114,2801213134,BGC0001633,948,2114,['glycine amidinotransferase'],True,Other
+3179714748,3179714748_2129_3439,4095068501,BGC0001633,2129,3439,['hypothetical protein'],True,Other
+3179714748,3179714748_3436_3984,2664098464,BGC0001633,3436,3984,['dehydratase'],True,Other
+3179714748,3179714748_4000_5241,2576479406,BGC0001633,4000,5241,['hypothetical protein'],True,Other
+3179714748,3179714748_5238_6215,1070117625,BGC0001633,5238,6215,['HpcH/HpaI aldolase'],True,Other

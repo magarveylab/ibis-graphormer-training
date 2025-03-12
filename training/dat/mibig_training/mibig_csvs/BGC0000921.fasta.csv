@@ -1,0 +1,16 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2964876295,2964876295_1_1989,1419812247,BGC0000921,1,1989,['glutamine amidotransferase'],True,Other__Polyketide__NRP
+2964876295,2964876295_2027_3025,4050261771,BGC0000921,2027,3025,['Rieske [2Fe-2S] domain protein'],True,Other__Polyketide__NRP
+2964876295,2964876295_3444_3677,1885265423,BGC0000921,3444,3677,['carrier protein'],True,Other__Polyketide__NRP
+2964876295,2964876295_3670_4437,2860631508,BGC0000921,3670,4437,['hypothetical protein'],True,Other__Polyketide__NRP
+2964876295,2964876295_4457_4759,4032646832,BGC0000921,4457,4759,['acyl carrier protein'],True,Other__Polyketide__NRP
+2964876295,2964876295_4756_5208,720071804,BGC0000921,4756,5208,['beta-hydroxymyristoyl-acyl carrier protein dehydratase'],True,Other__Polyketide__NRP
+2964876295,2964876295_5205_6191,1058874730,BGC0000921,5205,6191,['beta-ketoacyl synthase'],True,Other__Polyketide__NRP
+2964876295,2964876295_6199_7191,3638177199,BGC0000921,6199,7191,['Rieske [2Fe-2S] domain protein'],True,Other__Polyketide__NRP
+2964876295,2964876295_7258_7569,4268385931,BGC0000921,7258,7569,['isochorismate-pyruvate lyase'],True,Other__Polyketide__NRP
+2964876295,2964876295_7566_8975,3701872901,BGC0000921,7566,8975,['isochorismate synthase'],True,Other__Polyketide__NRP
+2964876295,2964876295_9013_9855,1265279691,BGC0000921,9013,9855,['metal-dependent hydrolase'],True,Other__Polyketide__NRP
+2964876295,2964876295_9855_11663,1921739580,BGC0000921,9855,11663,['amino acid adenylation protein'],True,Other__Polyketide__NRP
+2964876295,2964876295_11677_12873,1931702504,BGC0000921,11677,12873,['beta-ketoacyl synthase'],True,Other__Polyketide__NRP
+2964876295,2964876295_12870_14135,2720982398,BGC0000921,12870,14135,['BAHD family acyl transferase'],True,Other__Polyketide__NRP
+2964876295,2964876295_14132_15706,43700048,BGC0000921,14132,15706,['salicylyl-AMP ligase'],True,Other__Polyketide__NRP

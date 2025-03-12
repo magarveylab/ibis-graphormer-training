@@ -1,0 +1,15 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1862989532,1862989532_1_1083,995787415,BGC0001054,1,1083,['Fatty acid desaturase involved in xenocoumacin synthesis'],True,NRP__Polyketide
+1862989532,1862989532_1411_2496,4032500585,BGC0001054,1411,2496,['Saccharopine dehydrogenase involved in xenocoumacin synthesis'],True,NRP__Polyketide
+1862989532,1862989532_2645_7108,3865303564,BGC0001054,2645,7108,['Polyketide synthase involved in xenocoumacin synthesis'],True,NRP__Polyketide
+1862989532,1862989532_7211_9784,776233575,BGC0001054,7211,9784,['Non-ribosomal peptide synthase involved in xenocoumacin synthesis'],True,NRP__Polyketide
+1862989532,1862989532_9966_10289,1570018925,BGC0001054,9966,10289,['Conserved hypothetical protein involved in xenocoumacin synthesis'],True,NRP__Polyketide
+1862989532,1862989532_10298_11029,2358876621,BGC0001054,10298,11029,['Thioesterase involved in xenocoumacin synthesis'],True,NRP__Polyketide
+1862989532,1862989532_11235_17018,1581681466,BGC0001054,11235,17018,['Polyketide synthase involved in xenocoumacin synthesis'],True,NRP__Polyketide
+1862989532,1862989532_17143_18612,3328433620,BGC0001054,17143,18612,['Beta-lactamase class C involved in xenocoumacin synthesis'],True,NRP__Polyketide
+1862989532,1862989532_18749_29014,1610868656,BGC0001054,18749,29014,['Polyketide synthase involved in xenocoumacin synthesis'],True,NRP__Polyketide
+1862989532,1862989532_29219_30370,1436930004,BGC0001054,29219,30370,['Acyl-CoA dehydrogenase involved in xenocoumacin synthesis'],True,NRP__Polyketide
+1862989532,1862989532_30378_30635,275935032,BGC0001054,30378,30635,['Putative acyl carrier protein potentially involved in xenocoumacin synthesis'],True,NRP__Polyketide
+1862989532,1862989532_30669_31730,849519829,BGC0001054,30669,31730,['Methoxymalonate biosynthesis protein involved in xenocoumacin synthesis'],True,NRP__Polyketide
+1862989532,1862989532_31733_32590,2611249411,BGC0001054,31733,32590,['3-hydroxyacyl-CoA dehydrogenase involved in xenocoumacin synthesis'],True,NRP__Polyketide
+1862989532,1862989532_33291_41309,3240342225,BGC0001054,33291,41309,['Non-ribosomal peptide synthase involved in Xenocoumacin synthesis'],True,NRP__Polyketide

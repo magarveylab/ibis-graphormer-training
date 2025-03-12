@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3527253328,3527253328_113_1258,2146352890,BGC0000140,113,1258,['putative dipeptidyl aminopeptidase'],True,Polyketide
+3527253328,3527253328_1382_2071,4076031394,BGC0000140,1382,2071,['TetR transcriptional regulator'],True,Polyketide
+3527253328,3527253328_2074_3669,2573026862,BGC0000140,2074,3669,['antibiotic efflux protein'],True,Polyketide
+3527253328,3527253328_4025_5821,1582701366,BGC0000140,4025,5821,['palmitoyl-CoA synthetase'],True,Polyketide
+3527253328,3527253328_5864_6178,2116658573,BGC0000140,5864,6178,['acyl carrier protein'],True,Polyketide
+3527253328,3527253328_6175_9195,4207655973,BGC0000140,6175,9195,['type I modular polyketide synthase'],True,Polyketide
+3527253328,3527253328_9192_10223,88863625,BGC0000140,9192,10223,['3-oxoacyl-(acyl carrier protein) synthase III'],True,Polyketide
+3527253328,3527253328_10220_12145,2146024125,BGC0000140,10220,12145,['FkbH-like glyceryl-S-ACP synthase'],True,Polyketide
+3527253328,3527253328_12148_12387,2559324441,BGC0000140,12148,12387,['acyl carrier protein'],True,Polyketide
+3527253328,3527253328_12384_13187,3286426914,BGC0000140,12384,13187,['type II thioesterase'],True,Polyketide
+3527253328,3527253328_13197_14048,1511133842,BGC0000140,13197,14048,['putative beta-lactamase domain-containing protein'],True,Polyketide
+3527253328,3527253328_14100_14999,114659902,BGC0000140,14100,14999,,False,

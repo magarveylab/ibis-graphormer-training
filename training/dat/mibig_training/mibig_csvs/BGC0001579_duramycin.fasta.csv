@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+883369692,883369692_1_360,2340117678,BGC0001579,1,360,"['installing (2S,9S)-lysinoalanine']",True,RiPP
+883369692,883369692_404_637,1987027258,BGC0001579,404,637,['precursor peptide'],True,RiPP
+883369692,883369692_780_4031,313841936,BGC0001579,780,4031,['type 2 lantipeptide synthetase LanM'],True,RiPP
+883369692,883369692_4046_5029,1008676165,BGC0001579,4046,5029,['Nif11-like leader peptide family natural product precursor'],True,RiPP
+883369692,883369692_5076_6134,2880857326,BGC0001579,5076,6134,['ATP-binding cassette domain-containing protein'],True,RiPP
+883369692,883369692_6131_7003,1529701502,BGC0001579,6131,7003,['ABC transporter permease'],True,RiPP
+883369692,883369692_7103_8125,539729320,BGC0001579,7103,8125,['CinY protein'],True,RiPP
+883369692,883369692_8212_8838,3612447112,BGC0001579,8212,8838,['YigZ family protein'],True,RiPP

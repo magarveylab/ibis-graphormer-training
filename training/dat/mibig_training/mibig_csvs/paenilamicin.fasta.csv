@@ -1,0 +1,15 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1500748488,1500748488_1_7767,252165500,BGC0001033,1,7767,['putative non-ribosomal peptide ligase/ polyketide synthase hybrid'],True,NRP__Polyketide
+1500748488,1500748488_7806_16844,865586900,BGC0001033,7806,16844,['putative non-ribosomal peptide ligase/ polyketide synthase hybrid'],True,NRP__Polyketide
+1500748488,1500748488_16841_22156,2830723935,BGC0001033,16841,22156,['putative non-ribosomal peptide ligase domain protein'],True,NRP__Polyketide
+1500748488,1500748488_22176_26174,2915209379,BGC0001033,22176,26174,['putative non-ribosomal peptide ligase domain protein'],True,NRP__Polyketide
+1500748488,1500748488_26221_29520,484156351,BGC0001033,26221,29520,['putative non-ribosomal peptide ligase domain protein'],True,NRP__Polyketide
+1500748488,1500748488_29703_34286,3783650833,BGC0001033,29703,34286,['putative polyketide synthase subunit'],True,NRP__Polyketide
+1500748488,1500748488_34287_39869,3576844102,BGC0001033,34287,39869,['putative polyketide synthase subunit'],True,NRP__Polyketide
+1500748488,1500748488_39884_48106,572006249,BGC0001033,39884,48106,['non-ribosomal peptide ligase domain protein'],True,NRP__Polyketide
+1500748488,1500748488_48122_49063,1370144836,BGC0001033,48122,49063,['hypothetical protein'],True,NRP__Polyketide
+1500748488,1500748488_49074_52181,220567204,BGC0001033,49074,52181,['cyclic peptide transporter'],True,NRP__Polyketide
+1500748488,1500748488_52213_53070,3183650518,BGC0001033,52213,53070,['3-hydroxybutyryl-CoA dehydrogenase'],True,NRP__Polyketide
+1500748488,1500748488_53099_53368,3510751362,BGC0001033,53099,53368,['phosphopantetheine-binding protein'],True,NRP__Polyketide
+1500748488,1500748488_53383_53913,2931291767,BGC0001033,53383,53913,['transcription antitermination protein NusG'],True,NRP__Polyketide
+1500748488,1500748488_54260_58753,1275173226,BGC0001033,54260,58753,['putative non-ribosomal peptide ligase domain protein'],True,NRP__Polyketide

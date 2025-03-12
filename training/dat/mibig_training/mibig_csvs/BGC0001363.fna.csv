@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3359357553,3359357553_1_1668,3840252345,BGC0001363,1,1668,['probable cyclic peptide transporter; abc transporter protein'],True,NRP__Polyketide
+3359357553,3359357553_1794_3407,3094835381,BGC0001363,1794,3407,['probable zn-dependent hydrolase protein'],True,NRP__Polyketide
+3359357553,3359357553_3635_3841,3467335499,BGC0001363,3635,3841,['probable decoration of polyketide or non ribosomal peptide protein'],True,NRP__Polyketide
+3359357553,3359357553_4672_25341,1955706154,BGC0001363,4672,25341,['probable non ribosomal peptide synthetase protein'],True,NRP__Polyketide
+3359357553,3359357553_25341_43202,2868468915,BGC0001363,25341,43202,['probable non ribosomal peptide synthetase protein'],True,NRP__Polyketide

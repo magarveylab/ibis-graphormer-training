@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3618251951,3618251951_16_231,393043019,BGC0001021,16,231,['Putative conserved protein MbtH'],True,NRP__Polyketide
+3618251951,3618251951_209_1504,2579367401,BGC0001021,209,1504,['Lysine-N-oxygenase MbtG (L-lysine 6-monooxygenase) (lysine N6-hydroxylase)'],True,NRP__Polyketide
+3618251951,3618251951_1501_5886,3146819465,BGC0001021,1501,5886,['Peptide synthetase MbtF (peptide synthase)'],True,NRP__Polyketide
+3618251951,3618251951_5868_11108,62124934,BGC0001021,5868,11108,['Peptide synthetase MbtE (peptide synthase)'],True,NRP__Polyketide
+3618251951,3618251951_11056_14070,856595587,BGC0001021,11056,14070,['Polyketide synthetase MbtD (polyketide synthase)'],True,NRP__Polyketide
+3618251951,3618251951_14070_15404,909103743,BGC0001021,14070,15404,['Polyketide synthetase MbtC (polyketide synthase)'],True,NRP__Polyketide
+3618251951,3618251951_15394_19635,3047912186,BGC0001021,15394,19635,['Phenyloxazoline synthase MbtB (phenyloxazoline synthetase)'],True,NRP__Polyketide
+3618251951,3618251951_19737_21434,2352219196,BGC0001021,19737,21434,['Bifunctional enzyme MbtA: salicyl-AMP ligase (SAL-AMP ligase) + salicyl-S-ArCP synthetase'],True,NRP__Polyketide
+3618251951,3618251951_21530_22450,3862315434,BGC0001021,21530,22450,['Putative acetyl hydrolase MbtJ'],True,NRP__Polyketide
+3618251951,3618251951_22454_23821,3205852942,BGC0001021,22454,23821,['Isochorismate synthase MbtI'],True,NRP__Polyketide

@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3843382862,3843382862_265_1392,3338040495,BGC0002128,265,1392,['hypothetical protein'],True,Other
+3843382862,3843382862_1495_2793,90355329,BGC0002128,1495,2793,['putative flavin-binding monooxygenase'],True,Other
+3843382862,3843382862_2905_4251,1260122278,BGC0002128,2905,4251,['phenylacetate-CoA ligase'],True,Other
+3843382862,3843382862_4248_4748,2420839154,BGC0002128,4248,4748,['putative phenylacetic acid degradation protein PaaI'],True,Other
+3843382862,3843382862_4838_5911,2930762289,BGC0002128,4838,5911,['putative phenylacetic acid degradation protein PaaA'],True,Other
+3843382862,3843382862_5908_6219,1049218924,BGC0002128,5908,6219,['putative phenylacetic acid degradation protein PaaB'],True,Other
+3843382862,3843382862_6229_7056,3920942331,BGC0002128,6229,7056,['putative phenylacetic acid degradation protein PaaC'],True,Other
+3843382862,3843382862_7050_7565,1455312715,BGC0002128,7050,7565,['putative phenylacetic acid degradation protein PaaD'],True,Other
+3843382862,3843382862_7565_8671,1176659100,BGC0002128,7565,8671,['putative phenylacetic acid degradation NADH oxidoreductase PaaE'],True,Other

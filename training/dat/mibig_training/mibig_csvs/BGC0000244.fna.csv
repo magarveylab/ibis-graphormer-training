@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4037113354,4037113354_3_71,2813130762,BGC0000244,3,71,,False,
+4037113354,4037113354_205_990,1093670438,BGC0000244,205,990,['flavoprotein reductase nonH'],True,Polyketide
+4037113354,4037113354_1051_2013,2996093124,BGC0000244,1051,2013,['flavoprotein reductase'],True,Polyketide
+4037113354,4037113354_2090_3481,3044002905,BGC0000244,2090,3481,['amino acid monooxygenase-like protein'],True,Polyketide
+4037113354,4037113354_3552_5129,3840252731,BGC0000244,3552,5129,['amino acid decarboxylase-like protein'],True,Polyketide
+4037113354,4037113354_5438_6403,100724734,BGC0000244,5438,6403,['unknown'],True,Polyketide
+4037113354,4037113354_6526_8850,562846496,BGC0000244,6526,8850,['5-methyltetrahydropteroyltriglutamate- homocysteine methyltransferase-like protein'],True,Polyketide
+4037113354,4037113354_9553_9750,1640097268,BGC0000244,9553,9750,,False,
+4037113354,4037113354_9815_10027,1577851393,BGC0000244,9815,10027,,False,

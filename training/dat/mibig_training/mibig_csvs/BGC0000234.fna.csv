@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+245825038,245825038_153_1907,2642531811,BGC0000234,153,1907,['JadJ'],True,Polyketide
+245825038,245825038_2020_2349,1237826523,BGC0000234,2020,2349,['jadomycin polyketide synthase cyclase'],True,Polyketide
+245825038,245825038_2346_3614,3827705279,BGC0000234,2346,3614,['jadomycin polyketide ketosynthase'],True,Polyketide
+245825038,245825038_3611_4825,2602091129,BGC0000234,3611,4825,['chain length determinant'],True,Polyketide
+245825038,245825038_4868_5137,3735376011,BGC0000234,4868,5137,['acyl carrier protein'],True,Polyketide
+245825038,245825038_5211_6005,1213452029,BGC0000234,5211,6005,['ketoreductase'],True,Polyketide
+245825038,245825038_6046_6978,2566837547,BGC0000234,6046,6978,['bifunctional cyclase/dehydrase'],True,Polyketide
+245825038,245825038_6980_7063,3550450799,BGC0000234,6980,7063,,False,

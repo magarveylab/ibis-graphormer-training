@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+864378649,864378649_227_1090,3762996732,BGC0000016,227,1090,['Discrete thioesterase'],True,Other
+864378649,864378649_1484_4153,1733049919,BGC0000016,1484,4153,['Similar to regulatory protein'],True,Other
+864378649,864378649_4234_5727,1865403137,BGC0000016,4234,5727,['Amino acid permease'],True,Other

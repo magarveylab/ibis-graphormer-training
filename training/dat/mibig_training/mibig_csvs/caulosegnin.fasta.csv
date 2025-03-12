@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+757753900,757753900_1_2445,2472209136,BGC0000574,1,2445,['peptidase S9 prolyl oligopeptidase active site domain protein'],True,RiPP
+757753900,757753900_2331_4184,1357403020,BGC0000574,2331,4184,['asparagine synthase'],True,RiPP
+757753900,757753900_4187_4837,2042569276,BGC0000574,4187,4837,['conserved hypothetical protein'],True,RiPP
+757753900,757753900_4900_5013,2235122109,BGC0000574,4900,5013,['hypothetical protein'],True,RiPP
+757753900,757753900_5340_5468,3405299863,BGC0000574,5340,5468,['hypothetical protein'],True,RiPP
+757753900,757753900_5541_6137,393362416,BGC0000574,5541,6137,"['transcriptional regulator, GntR family']",True,RiPP

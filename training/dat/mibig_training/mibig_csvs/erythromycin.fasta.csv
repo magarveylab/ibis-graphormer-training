@@ -1,0 +1,31 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+241833068,241833068_1_1239,584460661,BGC0000055,1,1239,,True,Polyketide__Saccharide
+241833068,241833068_1293_1673,1747655663,BGC0000055,1293,1673,['putative erythromycin esterase'],True,Polyketide__Saccharide
+241833068,241833068_1733_2926,2640830069,BGC0000055,1733,2926,['cytochrome P450 Erythromycin B/D C-12 hydroxylase'],True,Polyketide__Saccharide
+241833068,241833068_2881_3462,1772067890,BGC0000055,2881,3462,"['dTDP-4-deoxyglucose 3,5-epimerase']",True,Polyketide__Saccharide
+241833068,241833068_3491_4960,4085342883,BGC0000055,3491,4960,"['EryCV NDP-4,6-dideoxyhexose 3,4-enoyl reductase']",True,Polyketide__Saccharide
+241833068,241833068_4998_6203,4174753024,BGC0000055,4998,6203,"['eryCIV NDP-6-deoxyhexose 3,4-dehydratase']",True,Polyketide__Saccharide
+241833068,241833068_6200_7663,4074260533,BGC0000055,6200,7663,"['NDP-4-keto-6-deoxy-glucose 2,3-dehydratase']",True,Polyketide__Saccharide
+241833068,241833068_7817_8530,621500616,BGC0000055,7817,8530,['TDP-desosamine-N-dimethyltransferase'],True,Polyketide__Saccharide
+241833068,241833068_8583_9830,2828415155,BGC0000055,8583,9830,['6-DEB TDP-mycarosyl glycosyltransferase'],True,Polyketide__Saccharide
+241833068,241833068_9830_10798,3776955382,BGC0000055,9830,10798,['dTDP-4-keto-6-deoxy-L-hexose 4-reductase'],True,Polyketide__Saccharide
+241833068,241833068_11023_21660,856129831,BGC0000055,11023,21660,['EryAI Erythromycin polyketide synthase modules 1 and 2'],True,Polyketide__Saccharide
+241833068,241833068_21717_22991,1666077901,BGC0000055,21717,22991,['transposase'],True,Polyketide__Saccharide
+241833068,241833068_23102_33805,1817293645,BGC0000055,23102,33805,['EryAII Erythromycin polyketide synthase modules 3 and 4'],True,Polyketide__Saccharide
+241833068,241833068_33806_43321,3280024274,BGC0000055,33806,43321,['EryAIII Erythromycin polyketide synthase modules 5 and 6'],True,Polyketide__Saccharide
+241833068,241833068_43318_44403,2336503679,BGC0000055,43318,44403,"['TDP-4-keto-6-deoxy-glucose 3,4-isomerase']",True,Polyketide__Saccharide
+241833068,241833068_44414_45679,2630318299,BGC0000055,44414,45679,"['glycosyl transferase, NDP-D-desosamine : 3-L-mycarosyl erythronolide B']",True,Polyketide__Saccharide
+241833068,241833068_45676_46677,169420638,BGC0000055,45676,46677,"['TDP-4-keto-6-deoxyhexose 2,3-reductase']",True,Polyketide__Saccharide
+241833068,241833068_46709_47629,505254321,BGC0000055,46709,47629,['erythromycin C methlytransferase'],True,Polyketide__Saccharide
+241833068,241833068_47606_48349,3609459267,BGC0000055,47606,48349,"['thioesterase, erythromycin biosynthesis']",True,Polyketide__Saccharide
+241833068,241833068_48346_49560,4279926797,BGC0000055,48346,49560,['6-deoxyerythronolide B hydroxylase (6-DEB hydroxylase)'],True,Polyketide__Saccharide
+241833068,241833068_49557_50801,2234235103,BGC0000055,49557,50801,"['eryBIII NDP-4-keto-2,6-dideoxyhexose 3-C-methyltransferase']",True,Polyketide__Saccharide
+241833068,241833068_51009_53417,2869502743,BGC0000055,51009,53417,['beta-D-glucosidase'],True,Polyketide__Saccharide
+241833068,241833068_53472_54617,2446120206,BGC0000055,53472,54617,"['N-6-aminoadenine-N-methyltransferase, erythromycinresistance']",True,Polyketide__Saccharide
+241833068,241833068_54804_55904,2694313953,BGC0000055,54804,55904,,False,
+241833068,241833068_55917_56123,963999300,BGC0000055,55917,56123,,False,
+241833068,241833068_56138_56461,1253219617,BGC0000055,56138,56461,,False,
+241833068,241833068_56454_56726,1615741235,BGC0000055,56454,56726,,False,
+241833068,241833068_56746_57090,1395652862,BGC0000055,56746,57090,,False,
+241833068,241833068_57139_57978,1776107905,BGC0000055,57139,57978,,False,
+241833068,241833068_57968_58138,1911792331,BGC0000055,57968,58138,,False,

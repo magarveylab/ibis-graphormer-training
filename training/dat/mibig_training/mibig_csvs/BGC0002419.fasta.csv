@@ -1,0 +1,18 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+234977116,234977116_1_756,2503667049,BGC0002419,1,756,"[""4'-phosphopantetheinyl transferase""]",True,NRP__Polyketide
+234977116,234977116_859_2217,2755476495,BGC0002419,859,2217,['L-lysine 6-monooxygenase (NADPH)'],True,NRP__Polyketide
+234977116,234977116_2284_3978,2376840140,BGC0002419,2284,3978,['cyclic peptide transporter'],True,NRP__Polyketide
+234977116,234977116_4181_5011,192238184,BGC0002419,4181,5011,['ferric iron reductase protein FhuF'],True,NRP__Polyketide
+234977116,234977116_5096_5959,3610662196,BGC0002419,5096,5959,['conserved hypothetical protein'],True,NRP__Polyketide
+234977116,234977116_5980_7080,3482030927,BGC0002419,5980,7080,['conserved hypothetical protein'],True,NRP__Polyketide
+234977116,234977116_7192_9393,1137822949,BGC0002419,7192,9393,['TonB-dependent siderophore receptor'],True,NRP__Polyketide
+234977116,234977116_9428_13534,3530501605,BGC0002419,9428,13534,['amino acid adenylation domain protein'],True,NRP__Polyketide
+234977116,234977116_13562_21553,3228115063,BGC0002419,13562,21553,['amino acid adenylation domain protein'],True,NRP__Polyketide
+234977116,234977116_21550_24942,2047445425,BGC0002419,21550,24942,['amino acid adenylation domain protein'],True,NRP__Polyketide
+234977116,234977116_24944_29563,1103317008,BGC0002419,24944,29563,['beta-ketoacyl synthase'],True,NRP__Polyketide
+234977116,234977116_29560_34899,1034235195,BGC0002419,29560,34899,['amino acid adenylation domain protein'],True,NRP__Polyketide
+234977116,234977116_34896_35888,1640968352,BGC0002419,34896,35888,['Taurine catabolism dioxygenase TauD/TfdA'],True,NRP__Polyketide
+234977116,234977116_35984_36760,3221545566,BGC0002419,35984,36760,['Thioesterase'],True,NRP__Polyketide
+234977116,234977116_36766_37026,4286194714,BGC0002419,36766,37026,['MbtH domain protein'],True,NRP__Polyketide
+234977116,234977116_37175_37396,1091044919,BGC0002419,37175,37396,,True,NRP__Polyketide
+234977116,234977116_37495_38028,1172447909,BGC0002419,37495,38028,"['RNA polymerase, sigma-24 subunit, ECF subfamily']",True,NRP__Polyketide

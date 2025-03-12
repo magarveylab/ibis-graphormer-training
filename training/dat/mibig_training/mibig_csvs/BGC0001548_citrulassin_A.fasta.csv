@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+216684656,216684656_1_843,3731742825,BGC0001548,1,843,['oxetanocin A resistance protein'],True,RiPP
+216684656,216684656_902_1348,745777043,BGC0001548,902,1348,['polyketide beta-ketoacyl synthase'],True,RiPP
+216684656,216684656_1506_3455,625421952,BGC0001548,1506,3455,['asparagine synthase'],True,RiPP

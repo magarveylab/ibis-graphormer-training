@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+965210760,965210760_1_171,2259781435,BGC0001743,1,171,['plantaricyclin A related protein'],True,RiPP
+965210760,965210760_166_687,2142603094,BGC0001743,166,687,['plantaricyclin A related protein'],True,RiPP
+965210760,965210760_690_1334,454525326,BGC0001743,690,1334,['plantaricyclin A membrane transporter'],True,RiPP
+965210760,965210760_1337_2020,4079617356,BGC0001743,1337,2020,['plantaricyclin A ATP-binding protein'],True,RiPP
+965210760,965210760_2040_2225,904089829,BGC0001743,2040,2225,,True,RiPP
+965210760,965210760_2207_2680,3304003178,BGC0001743,2207,2680,['plantaricyclin A immunity protein'],True,RiPP
+965210760,965210760_2772_3047,1753286245,BGC0001743,2772,3047,['plantaricyclin A precursor'],True,RiPP

@@ -1,0 +1,23 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+951671299,951671299_423_935,1478270401,BGC0001056,423,935,['hypothetical protein'],True,NRP__Polyketide
+951671299,951671299_952_2325,3795593866,BGC0001056,952,2325,['putative pyridoxal-dependent decarboxylase'],True,NRP__Polyketide
+951671299,951671299_2373_3026,1415739672,BGC0001056,2373,3026,['hypothetical protein'],True,NRP__Polyketide
+951671299,951671299_3096_3824,101235807,BGC0001056,3096,3824,['Phosphopantetheinyl transferase'],True,NRP__Polyketide
+951671299,951671299_3895_4815,3277327332,BGC0001056,3895,4815,['putative HlyD family secretion protein'],True,NRP__Polyketide
+951671299,951671299_4812_5531,3842765514,BGC0001056,4812,5531,['putative ABC transporter ATP-binding protein'],True,NRP__Polyketide
+951671299,951671299_5540_6667,31651934,BGC0001056,5540,6667,['putative ABC transporter membrane protein'],True,NRP__Polyketide
+951671299,951671299_7361_8311,865450694,BGC0001056,7361,8311,['hypothetical protein'],True,NRP__Polyketide
+951671299,951671299_8448_15194,1801262903,BGC0001056,8448,15194,['Polyketide synthase'],True,NRP__Polyketide
+951671299,951671299_15277_19527,520319623,BGC0001056,15277,19527,['Mixed fatty acid synthase-polyketide synthase'],True,NRP__Polyketide
+951671299,951671299_19524_22556,3188477429,BGC0001056,19524,22556,['PfaD family protein'],True,NRP__Polyketide
+951671299,951671299_22553_23320,2698994039,BGC0001056,22553,23320,['3-oxoacyl-ACP reductase'],True,NRP__Polyketide
+951671299,951671299_23366_24598,3515253955,BGC0001056,23366,24598,['Thioester reductase'],True,NRP__Polyketide
+951671299,951671299_24632_25411,3873479139,BGC0001056,24632,25411,['putative carbon-nitrogen hydrolase'],True,NRP__Polyketide
+951671299,951671299_25460_37969,2582021632,BGC0001056,25460,37969,['Nonribosomal peptide synthetase'],True,NRP__Polyketide
+951671299,951671299_38014_44511,1275371448,BGC0001056,38014,44511,['Nonribosomal peptide synthetase'],True,NRP__Polyketide
+951671299,951671299_44508_49103,2693048781,BGC0001056,44508,49103,['Polyketide synthase'],True,NRP__Polyketide
+951671299,951671299_49100_50419,3246490258,BGC0001056,49100,50419,['Condensation domain-containing protein'],True,NRP__Polyketide
+951671299,951671299_50657_51601,1303090476,BGC0001056,50657,51601,['ABC transporter ATP-binding protein'],True,NRP__Polyketide
+951671299,951671299_51594_52709,3776330962,BGC0001056,51594,52709,['ABC transporter permease'],True,NRP__Polyketide
+951671299,951671299_52752_53789,3424481620,BGC0001056,52752,53789,['Acylpeptide hydrolase'],True,NRP__Polyketide
+951671299,951671299_54818_55138,2580237427,BGC0001056,54818,55138,['putative NifA subfamily transcriptional regulator'],True,NRP__Polyketide

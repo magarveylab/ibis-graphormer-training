@@ -1,0 +1,25 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2016835794,2016835794_1_762,311352655,BGC0002358,1,762,['DeoR-family transcriptional regulator'],True,Polyketide
+2016835794,2016835794_885_2252,2997243247,BGC0002358,885,2252,['Substrate binding protein'],True,Polyketide
+2016835794,2016835794_2249_3217,670521629,BGC0002358,2249,3217,['Integral membrane sugar transporter'],True,Polyketide
+2016835794,2016835794_3214_4080,2494005073,BGC0002358,3214,4080,['Sugar ABC transporter permease'],True,Polyketide
+2016835794,2016835794_4077_5072,4175940882,BGC0002358,4077,5072,['Zinc-binding dehydrogenase'],True,Polyketide
+2016835794,2016835794_5329_6498,2604895605,BGC0002358,5329,6498,['Integral membrane protein'],True,Polyketide
+2016835794,2016835794_6495_7226,163037839,BGC0002358,6495,7226,['Methyltransferase FkbM'],True,Polyketide
+2016835794,2016835794_7272_8426,3501499917,BGC0002358,7272,8426,['Glycosyl transferase'],True,Polyketide
+2016835794,2016835794_8487_9152,1789374094,BGC0002358,8487,9152,['Two-component system response regulator'],True,Polyketide
+2016835794,2016835794_9140_10417,1498610481,BGC0002358,9140,10417,['Two-component system sensorhistidine kinase'],True,Polyketide
+2016835794,2016835794_10567_11313,3422837884,BGC0002358,10567,11313,['ABC transporter ATP-binding protein'],True,Polyketide
+2016835794,2016835794_11313_13307,1832622717,BGC0002358,11313,13307,"['ABC-type antimicrobial peptide transport system,permease component']",True,Polyketide
+2016835794,2016835794_13593_14264,1434820068,BGC0002358,13593,14264,['Two-component system response regulator'],True,Polyketide
+2016835794,2016835794_14283_15656,3613925605,BGC0002358,14283,15656,['Two-component system sensorhistidine kinase'],True,Polyketide
+2016835794,2016835794_15788_17128,921029993,BGC0002358,15788,17128,['Alpha/beta hydrolase MppKBeta-lactamase'],True,Polyketide
+2016835794,2016835794_17299_27537,2959793880,BGC0002358,17299,27537,['Peptide synthase'],True,Polyketide
+2016835794,2016835794_27591_27797,1217207248,BGC0002358,27591,27797,['MbtH-like protein'],True,Polyketide
+2016835794,2016835794_27950_40405,1619267426,BGC0002358,27950,40405,['Peptide synthase'],True,Polyketide
+2016835794,2016835794_40430_41410,580297575,BGC0002358,40430,41410,['oxygenase (secreted protein)'],True,Polyketide
+2016835794,2016835794_41410_42864,650631953,BGC0002358,41410,42864,['Permeases of the major facilitator superfamily'],True,Polyketide
+2016835794,2016835794_42927_44105,4152393713,BGC0002358,42927,44105,['cytochrome P450 hydroxylase'],True,Polyketide
+2016835794,2016835794_44159_44971,3594078303,BGC0002358,44159,44971,['regulatory protein'],True,Polyketide
+2016835794,2016835794_44990_45727,372481596,BGC0002358,44990,45727,['putative thioesterase involved in non-ribosomalpeptide biosynthesis'],True,Polyketide
+2016835794,2016835794_45814_47145,233499380,BGC0002358,45814,47145,['Succinoglycan biosynthesis protein'],True,Polyketide

@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3197011929,3197011929_1_318,673356930,BGC0002345,1,318,['Hydrogen cyanide synthase subunit HcnA'],True,Other
+3197011929,3197011929_315_1724,2159790303,BGC0002345,315,1724,['Hydrogen cyanide synthase subunit HcnB'],True,Other
+3197011929,3197011929_1717_2976,868268434,BGC0002345,1717,2976,['Hydrogen cyanide synthase subunit HcnC'],True,Other

@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+467673436,467673436_1_840,2095376651,BGC0002073,1,840,['ABC transporter ATP-binding protein'],True,NRP
+467673436,467673436_897_2006,4229874488,BGC0002073,897,2006,['iron ABC transporter permease'],True,NRP
+467673436,467673436_2003_3064,1202443153,BGC0002073,2003,3064,['iron ABC transporter permease'],True,NRP
+467673436,467673436_3175_5727,3328272859,BGC0002073,3175,5727,['GNAT family N-acetyltransferase'],True,NRP
+467673436,467673436_5724_7142,4259711429,BGC0002073,5724,7142,['L-lysine 6-monooxygenase'],True,NRP
+467673436,467673436_7135_8673,3948367391,BGC0002073,7135,8673,['aminotransferase class V-fold PLP-dependent enzyme'],True,NRP
+467673436,467673436_8915_9988,3594780711,BGC0002073,8915,9988,['iron-siderophore ABC transporter substrate-binding protein'],True,NRP

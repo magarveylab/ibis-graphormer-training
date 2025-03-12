@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3683989275,3683989275_1_648,2425471064,BGC0000850,1,648,['SabR'],True,Other
+3683989275,3683989275_828_1745,1073325961,BGC0000850,828,1745,['SabA'],True,Other
+3683989275,3683989275_1818_2474,2313863129,BGC0000850,1818,2474,['SabS'],True,Other

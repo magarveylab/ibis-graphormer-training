@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3692536992,3692536992_1_1179,2457389779,BGC0001873,1,1179,['FAD-dependent monooxygenase'],True,NRP
+3692536992,3692536992_1164_8606,3498516118,BGC0001873,1164,8606,['non-ribosomal peptide synthetase'],True,NRP

@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1296877694,1296877694_1_1539,7638174,BGC0002620,1,1539,['putative pyridoxal-dependent decarboxylase'],True,Other
+1296877694,1296877694_1542_2882,684046299,BGC0002620,1542,2882,['putative monooxygenase'],True,Other
+1296877694,1296877694_2879_4054,927490507,BGC0002620,2879,4054,['putative major facilitator superfamily permease'],True,Other
+1296877694,1296877694_4071_4670,3649144491,BGC0002620,4071,4670,['putative acyl CoA acyltransferase'],True,Other
+1296877694,1296877694_4690_6510,2589192782,BGC0002620,4690,6510,['putative ATP-dependent siderophore synthetase'],True,Other
+1296877694,1296877694_6483_6668,3266328416,BGC0002620,6483,6668,,True,Other
+1296877694,1296877694_6700_7797,442258645,BGC0002620,6700,7797,['acyl transferase'],True,Other

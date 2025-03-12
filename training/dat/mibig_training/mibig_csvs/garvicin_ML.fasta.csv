@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+295723537,295723537_1_483,2023111392,BGC0000490,1,483,['Membrane protein'],True,RiPP
+295723537,295723537_486_989,3564481365,BGC0000490,486,989,['Membrane protein with DUF95'],True,RiPP
+295723537,295723537_979_1620,3125971065,BGC0000490,979,1620,['putative ABC transporter ATP-binding protein'],True,RiPP
+295723537,295723537_2113_2304,1312189580,BGC0000490,2113,2304,['product Garvicin ML precursor'],True,RiPP
+295723537,295723537_2366_3799,125280014,BGC0000490,2366,3799,['membrane protein'],True,RiPP

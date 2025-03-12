@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+691678925,691678925_661_1671,1294010287,BGC0002365,661,1671,['fatty acid hydroxylase'],True,Other__Polyketide
+691678925,691678925_1682_11086,3688167162,BGC0002365,1682,11086,['polyketide synthase/non-ribosomal peptide synthetase'],True,Other__Polyketide
+691678925,691678925_11076_12776,1141270422,BGC0002365,11076,12776,['FAD-dependent oxidoreductase'],True,Other__Polyketide
+691678925,691678925_12773_14497,895313268,BGC0002365,12773,14497,['FAD-dependent oxidoreductase'],True,Other__Polyketide
+691678925,691678925_14494_15549,1319840463,BGC0002365,14494,15549,['alcohol dehydrogenase'],True,Other__Polyketide
+691678925,691678925_15599_16780,3653076504,BGC0002365,15599,16780,['cytochrome P450'],True,Other__Polyketide
+691678925,691678925_16813_17256,968432008,BGC0002365,16813,17256,,False,

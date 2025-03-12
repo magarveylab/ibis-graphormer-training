@@ -1,0 +1,36 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4158395496,4158395496_1_450,788713818,BGC0000211,1,450,['putative spore-associated protein precursor'],True,Polyketide
+4158395496,4158395496_893_1678,588001598,BGC0000211,893,1678,['putative polyketide ketoreductase'],True,Polyketide
+4158395496,4158395496_1821_2153,2606885375,BGC0000211,1821,2153,['hypothetical protein'],True,Polyketide
+4158395496,4158395496_2228_2797,127482171,BGC0000211,2228,2797,['putative oxidoreductase/NADH-dependent FMN reductase'],True,Polyketide
+4158395496,4158395496_2794_4335,1788168616,BGC0000211,2794,4335,['putative FAD-dependent monooxygenase'],True,Polyketide
+4158395496,4158395496_4396_4725,1597785545,BGC0000211,4396,4725,['putative cyclase'],True,Polyketide
+4158395496,4158395496_4760_5011,2386190186,BGC0000211,4760,5011,['putative acyl carrier protein'],True,Polyketide
+4158395496,4158395496_5072_6016,2224614375,BGC0000211,5072,6016,['putative bifunctional cyclase/dehydratase'],True,Polyketide
+4158395496,4158395496_6048_7523,4107052495,BGC0000211,6048,7523,['putative FAD-dependent monooxygenase'],True,Polyketide
+4158395496,4158395496_7586_8854,3582466384,BGC0000211,7586,8854,['putative ketoacyl synthase (KSa)'],True,Polyketide
+4158395496,4158395496_8851_10059,369188447,BGC0000211,8851,10059,['putative chain length factor (KSa)'],True,Polyketide
+4158395496,4158395496_10120_10383,340260094,BGC0000211,10120,10383,['putative acyl carrier protein'],True,Polyketide
+4158395496,4158395496_10415_11599,4272305717,BGC0000211,10415,11599,['putative P450 monooxygenase'],True,Polyketide
+4158395496,4158395496_11628_11816,1862657110,BGC0000211,11628,11816,['putative ferredoxin'],True,Polyketide
+4158395496,4158395496_11833_12819,2856730280,BGC0000211,11833,12819,['putative malonyl-CoA carrier protein transacylase'],True,Polyketide
+4158395496,4158395496_12816_13799,1278334524,BGC0000211,12816,13799,['putative propionyl-CoA carrier protein transacylase'],True,Polyketide
+4158395496,4158395496_13911_14708,2725968604,BGC0000211,13911,14708,['putative regulator'],True,Polyketide
+4158395496,4158395496_15081_15686,2930049317,BGC0000211,15081,15686,['putative two-component response regulator'],True,Polyketide
+4158395496,4158395496_15930_16916,3012662117,BGC0000211,15930,16916,"['putative TDP-glucose-4,6-dehydratase']",True,Polyketide
+4158395496,4158395496_16913_17980,2264564016,BGC0000211,16913,17980,['putative glucose-1-phosphate thymidylyltransferase'],True,Polyketide
+4158395496,4158395496_18285_19907,3370117986,BGC0000211,18285,19907,,True,Polyketide
+4158395496,4158395496_20015_20542,1844644100,BGC0000211,20015,20542,['putative marR family transcriptional regulator'],True,Polyketide
+4158395496,4158395496_20814_21953,4006473527,BGC0000211,20814,21953,['putative C-glycosyltransferase'],True,Polyketide
+4158395496,4158395496_22072_23094,2159223382,BGC0000211,22072,23094,['putative O-methyltransferase'],True,Polyketide
+4158395496,4158395496_23186_23896,1290725132,BGC0000211,23186,23896,['putative anthrone monooxygenase'],True,Polyketide
+4158395496,4158395496_23893_26178,1694532937,BGC0000211,23893,26178,['putative dehydrogenase and domain with unknown function'],True,Polyketide
+4158395496,4158395496_26423_27199,1829722432,BGC0000211,26423,27199,['putative NDP-hexose 4-ketoreductase'],True,Polyketide
+4158395496,4158395496_27217_28452,1225563120,BGC0000211,27217,28452,['putative C-methyltransferase'],True,Polyketide
+4158395496,4158395496_28508_29446,3927647972,BGC0000211,28508,29446,['putative hexokinase'],True,Polyketide
+4158395496,4158395496_29597_30229,166973347,BGC0000211,29597,30229,['putative NAD-dependent epimerase/dehydratase'],True,Polyketide
+4158395496,4158395496_30344_30958,3430684960,BGC0000211,30344,30958,['putative tetR family regulator'],True,Polyketide
+4158395496,4158395496_30996_31403,1556745585,BGC0000211,30996,31403,['putative tetR family transcriptional regulator'],True,Polyketide
+4158395496,4158395496_31466_31828,1267294731,BGC0000211,31466,31828,['hypothetical protein'],True,Polyketide
+4158395496,4158395496_32381_32989,3059201718,BGC0000211,32381,32989,['putative tetR family regulator'],True,Polyketide
+4158395496,4158395496_33017_34654,2216415860,BGC0000211,33017,34654,['putative acyl-CoA dehydrogenase'],True,Polyketide

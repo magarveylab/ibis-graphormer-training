@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1665342598,1665342598_1_1887,3842965761,BGC0001176,1,1887,['hypothetical protein'],True,RiPP
+1665342598,1665342598_1945_2376,2426860880,BGC0001176,1945,2376,['hypothetical protein'],True,RiPP
+1665342598,1665342598_2373_2639,1825392428,BGC0001176,2373,2639,['hypothetical protein'],True,RiPP
+1665342598,1665342598_2690_4576,1837571723,BGC0001176,2690,4576,['hypothetical protein'],True,RiPP
+1665342598,1665342598_4667_4792,1733247660,BGC0001176,4667,4792,['Precursor-encoding gene'],True,RiPP

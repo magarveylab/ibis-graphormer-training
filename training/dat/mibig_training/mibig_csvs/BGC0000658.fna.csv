@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4213127232,4213127232_1_879,483349239,BGC0000658,1,879,['putative methyltransferase'],True,Terpene
+4213127232,4213127232_913_2226,3523131497,BGC0000658,913,2226,['conserved hypothetical protein'],True,Terpene

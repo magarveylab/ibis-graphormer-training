@@ -1,0 +1,16 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+537268476,537268476_118_2376,2005021765,BGC0000176,118,2376,['malonyl CoA [acyl-carrier-protein] transacylase'],True,Polyketide
+537268476,537268476_2417_3397,3247979858,BGC0000176,2417,3397,['putative long-chain fatty acid CoA ligase'],True,Polyketide
+537268476,537268476_3422_3694,1511440222,BGC0000176,3422,3694,['probable acyl carrier protein'],True,Polyketide
+537268476,537268476_3691_5055,3797493487,BGC0000176,3691,5055,['acyl CoA synthetase (AMP forming)/AMP acid ligase II'],True,Polyketide
+537268476,537268476_5070_5807,1169719296,BGC0000176,5070,5807,['3-oxoacyl-(acyl carrier protein) reductase'],True,Polyketide
+537268476,537268476_5847_18437,3792660430,BGC0000176,5847,18437,['polyketide synthase type I'],True,Polyketide
+537268476,537268476_18456_24752,3673501083,BGC0000176,18456,24752,['polyketide synthase type I'],True,Polyketide
+537268476,537268476_24792_30518,2606065413,BGC0000176,24792,30518,['polyketide synthase type I'],True,Polyketide
+537268476,537268476_30570_46184,2195248066,BGC0000176,30570,46184,['polyketide synthase type I'],True,Polyketide
+537268476,537268476_46189_53907,3484588585,BGC0000176,46189,53907,['polyketide synthase type I'],True,Polyketide
+537268476,537268476_53930_60082,1597058080,BGC0000176,53930,60082,['polyketide synthase type I'],True,Polyketide
+537268476,537268476_60079_66294,604438088,BGC0000176,60079,66294,['polyketide synthase type I'],True,Polyketide
+537268476,537268476_66376_67530,2161882577,BGC0000176,66376,67530,['putative cytochrome P450 monooxygenase'],True,Polyketide
+537268476,537268476_67609_68835,1800083997,BGC0000176,67609,68835,['3-hydroxy-3-methylglutaryl coenzyme A synthase-like'],True,Polyketide
+537268476,537268476_68895_69641,245225349,BGC0000176,68895,69641,['Enoyl-CoA hydratase'],True,Polyketide

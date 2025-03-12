@@ -1,0 +1,39 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3334856098,3334856098_1_792,1176339491,BGC0002732,1,792,"['putative transcriptional regulator, TetR family']",True,Polyketide
+3334856098,3334856098_1324_2550,1243186297,BGC0002732,1324,2550,"['monooxygenase, FAD-binding protein']",True,Polyketide
+3334856098,3334856098_2662_2970,3772184332,BGC0002732,2662,2970,['hypothetical protein'],True,Polyketide
+3334856098,3334856098_3113_3568,1433222884,BGC0002732,3113,3568,['hypothetical protein'],True,Polyketide
+3334856098,3334856098_3574_4431,922083075,BGC0002732,3574,4431,['Coenzyme F420-dependent N5 N10-methylene tetrahydromethanopterin reductase-like protein'],True,Polyketide
+3334856098,3334856098_4508_4888,607513025,BGC0002732,4508,4888,['hypothetical protein'],True,Polyketide
+3334856098,3334856098_4888_5625,132207018,BGC0002732,4888,5625,['short-chain dehydrogenase/reductase SDR'],True,Polyketide
+3334856098,3334856098_5784_6149,58278838,BGC0002732,5784,6149,['hypothetical protein'],True,Polyketide
+3334856098,3334856098_6742_7482,1362965871,BGC0002732,6742,7482,['short-chain dehydrogenase/reductase SDR'],True,Polyketide
+3334856098,3334856098_7497_9185,3515665215,BGC0002732,7497,9185,"['All-trans-retinol 13,14-reductase']",True,Polyketide
+3334856098,3334856098_9188_10066,3138134844,BGC0002732,9188,10066,['3-hydroxyisobutyrate dehydrogenase family protein'],True,Polyketide
+3334856098,3334856098_10425_10751,859795980,BGC0002732,10425,10751,['hypothetical protein'],True,Polyketide
+3334856098,3334856098_10744_11196,912349326,BGC0002732,10744,11196,['hypothetical protein'],True,Polyketide
+3334856098,3334856098_11196_12464,2182882322,BGC0002732,11196,12464,['3-oxoacyl-(acyl-carrier-protein) synthase II'],True,Polyketide
+3334856098,3334856098_12461_13681,3135903064,BGC0002732,12461,13681,['3-oxoacyl-(acyl-carrier-protein) synthase II'],True,Polyketide
+3334856098,3334856098_13693_13953,1404354808,BGC0002732,13693,13953,['conserved hypothetical protein'],True,Polyketide
+3334856098,3334856098_14014_14496,1366824365,BGC0002732,14014,14496,['hypothetical protein'],True,Polyketide
+3334856098,3334856098_14493_14966,2136231005,BGC0002732,14493,14966,['hypothetical protein'],True,Polyketide
+3334856098,3334856098_15016_15747,3801096028,BGC0002732,15016,15747,['NAD dependent epimerase/dehydratase family protein'],True,Polyketide
+3334856098,3334856098_15747_17372,3295602999,BGC0002732,15747,17372,['PheA/TfdB family FAD-binding monooxygenase'],True,Polyketide
+3334856098,3334856098_17405_18073,2172398673,BGC0002732,17405,18073,"['putative transcriptional activator, TenA family']",True,Polyketide
+3334856098,3334856098_18270_19796,192985278,BGC0002732,18270,19796,['conserved hypothetical protein'],True,Polyketide
+3334856098,3334856098_19978_21318,3781545204,BGC0002732,19978,21318,['sodium/hydrogen exchanger'],True,Polyketide
+3334856098,3334856098_21441_22541,4006900769,BGC0002732,21441,22541,['hypothetical protein'],True,Polyketide
+3334856098,3334856098_22587_23999,1614189242,BGC0002732,22587,23999,['putative tryptophan halogenase'],True,Polyketide
+3334856098,3334856098_24285_25286,3214399269,BGC0002732,24285,25286,['Coenzyme F420-dependent N5 N10-methylene tetrahydromethanopterin reductase-like protein'],True,Polyketide
+3334856098,3334856098_25731_26588,1454323954,BGC0002732,25731,26588,['Coenzyme F420-dependent N5 N10-methylene tetrahydromethanopterin reductase-like protein'],True,Polyketide
+3334856098,3334856098_26602_27849,1129317763,BGC0002732,26602,27849,['putative monoxygenase'],True,Polyketide
+3334856098,3334856098_27864_28877,2889659398,BGC0002732,27864,28877,['O-methyltransferase family protein'],True,Polyketide
+3334856098,3334856098_29028_29873,3255860903,BGC0002732,29028,29873,['nucleotide-diphosphate-sugar epimerase'],True,Polyketide
+3334856098,3334856098_29885_30919,1100623212,BGC0002732,29885,30919,['O-methyltransferase family protein'],True,Polyketide
+3334856098,3334856098_31097_31291,1675800532,BGC0002732,31097,31291,['ferredoxin (4Fe-4S)'],True,Polyketide
+3334856098,3334856098_31362_33221,3217150191,BGC0002732,31362,33221,['Asparagine synthase (glutamine-hydrolyzing)'],True,Polyketide
+3334856098,3334856098_33242_33841,269072680,BGC0002732,33242,33841,['Nitroreductase-like protein'],True,Polyketide
+3334856098,3334856098_33900_35372,2483039951,BGC0002732,33900,35372,['NADPH-dependent glutamate synthase beta chain'],True,Polyketide
+3334856098,3334856098_35752_36108,925411528,BGC0002732,35752,36108,['hypothetical protein'],True,Polyketide
+3334856098,3334856098_36131_36520,1981519831,BGC0002732,36131,36520,['hypothetical protein'],True,Polyketide
+3334856098,3334856098_36748_38514,2025073360,BGC0002732,36748,38514,,False,

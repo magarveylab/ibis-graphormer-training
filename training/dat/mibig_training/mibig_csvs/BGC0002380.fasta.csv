@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2146234195,2146234195_1_543,395064512,BGC0002380,1,543,['N-acetyltransferase'],True,RiPP
+2146234195,2146234195_987_1139,3256676502,BGC0002380,987,1139,['microviridin/marinostatin family tricyclic proteinase inhibitor'],True,RiPP
+2146234195,2146234195_1416_2396,2600006112,BGC0002380,1416,2396,['MvdC family ATP-grasp ribosomal peptide maturase'],True,RiPP
+2146234195,2146234195_2451_3425,223912727,BGC0002380,2451,3425,['MvdD family ATP-grasp ribosomal peptide maturase'],True,RiPP
+2146234195,2146234195_3654_3995,1649682537,BGC0002380,3654,3995,['IS4/IS5 family transposase'],True,RiPP
+2146234195,2146234195_4053_4421,1566540420,BGC0002380,4053,4421,,True,RiPP
+2146234195,2146234195_4425_4640,2152111395,BGC0002380,4425,4640,,True,RiPP
+2146234195,2146234195_4848_5006,456606499,BGC0002380,4848,5006,['microviridin/marinostatin family tricyclic proteinase inhibitor'],True,RiPP

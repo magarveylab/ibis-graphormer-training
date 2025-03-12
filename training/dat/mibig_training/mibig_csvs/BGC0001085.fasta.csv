@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2886259282,2886259282_1_1197,2595982570,BGC0001085,1,1197,['cytochrome P-450'],True,NRP__Terpene
+2886259282,2886259282_1194_1424,2474021446,BGC0001085,1194,1424,['MbtH'],True,NRP__Terpene
+2886259282,2886259282_1497_9014,2762334361,BGC0001085,1497,9014,['nonribosomal peptide synthetase'],True,NRP__Terpene
+2886259282,2886259282_9471_10646,2637345440,BGC0001085,9471,10646,['tryptophan dimethylallyltransferase'],True,NRP__Terpene

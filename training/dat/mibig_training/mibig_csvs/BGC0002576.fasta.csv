@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+950318237,950318237_1_3141,991989018,BGC0002576,1,3141,['McmL'],True,RiPP

@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1518723730,1518723730_140_907,3415181987,BGC0002682,140,907,['ATP-binding protein'],True,Other
+1518723730,1518723730_931_1824,601111122,BGC0002682,931,1824,['periplasmic binding protein'],True,Other
+1518723730,1518723730_1821_3818,305093072,BGC0002682,1821,3818,['membrane permease'],True,Other
+1518723730,1518723730_4030_5826,3391689633,BGC0002682,4030,5826,['aerobactin synthetase'],True,Other
+1518723730,1518723730_5819_6736,1579410703,BGC0002682,5819,6736,['N6-hydroxylysine acetyl transferase'],True,Other
+1518723730,1518723730_6736_8505,121666395,BGC0002682,6736,8505,['aerobactin synthetase'],True,Other
+1518723730,1518723730_8571_9833,1213067086,BGC0002682,8571,9833,['lysine N6-monooxygenase'],True,Other
+1518723730,1518723730_9984_12158,4060223248,BGC0002682,9984,12158,['ferric aerobactin receptor precursor'],True,Other

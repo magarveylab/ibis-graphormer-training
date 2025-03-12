@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3114773859,3114773859_1_1194,504299616,BGC0002487,1,1194,['antibiotic resistance protein'],True,Other
+3114773859,3114773859_1206_1955,371611208,BGC0002487,1206,1955,['oligopeptide transporter putative ATPase domain'],True,Other
+3114773859,3114773859_1948_2763,369119231,BGC0002487,1948,2763,['oligopeptide transporter putative ATPase domain'],True,Other
+3114773859,3114773859_2760_3629,2559485786,BGC0002487,2760,3629,['oligopeptide transporter putative membrane permease domain'],True,Other
+3114773859,3114773859_3626_4561,3523097457,BGC0002487,3626,4561,['oligopeptide transporter putative membrane permease domain'],True,Other
+3114773859,3114773859_4574_6172,2707408980,BGC0002487,4574,6172,['oligopeptide transporter putative substrate binding domain'],True,Other
+3114773859,3114773859_6315_7616,4061952668,BGC0002487,6315,7616,['conserved hypothetical protein'],True,Other
+3114773859,3114773859_7609_8427,4006922459,BGC0002487,7609,8427,['conserved hypothetical protein'],True,Other
+3114773859,3114773859_8438_9259,312467811,BGC0002487,8438,9259,['similar to diaminopimelate epimerase'],True,Other

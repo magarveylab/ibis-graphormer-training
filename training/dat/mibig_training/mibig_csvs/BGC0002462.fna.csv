@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+397453006,397453006_4_798,1524423983,BGC0002462,4,798,['hypothetical protein'],True,Saccharide
+397453006,397453006_791_1213,2754099144,BGC0002462,791,1213,['hypothetical protein'],True,Saccharide
+397453006,397453006_1248_1949,2130984984,BGC0002462,1248,1949,['short-chain dehydrogenase'],True,Saccharide
+397453006,397453006_1942_2661,4102846088,BGC0002462,1942,2661,['SAICAR synthetase'],True,Saccharide
+397453006,397453006_2889_4247,4015351617,BGC0002462,2889,4247,['GntR family transcriptional regulator'],True,Saccharide
+397453006,397453006_4456_5463,1889079003,BGC0002462,4456,5463,['hypothetical protein'],True,Saccharide
+397453006,397453006_5506_6714,1049150959,BGC0002462,5506,6714,['major facilitator superfamily (MFS) transporter'],True,Saccharide

@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2818412879,2818412879_1_2181,4016190484,BGC0001181,1,2181,['putative cyclase'],True,Terpene

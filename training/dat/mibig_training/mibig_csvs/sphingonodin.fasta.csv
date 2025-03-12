@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1017656323,1017656323_1_2571,2329910527,BGC0000577,1,2571,['TonB-dependent receptor-like protein'],True,RiPP
+1017656323,1017656323_2571_4814,464123699,BGC0000577,2571,4814,['putative peptidase'],True,RiPP
+1017656323,1017656323_4693_6438,823041174,BGC0000577,4693,6438,['putative asparagine synthase'],True,RiPP
+1017656323,1017656323_6438_7091,1193136729,BGC0000577,6438,7091,['hypothetical protein'],True,RiPP
+1017656323,1017656323_7154_7294,1251511296,BGC0000577,7154,7294,['hypothetical protein'],True,RiPP
+1017656323,1017656323_7470_8087,2336036797,BGC0000577,7470,8087,['GntR-family transcriptional regulator'],True,RiPP
+1017656323,1017656323_8097_8513,174136051,BGC0000577,8097,8513,['Xre-family transcriptional regulator'],True,RiPP

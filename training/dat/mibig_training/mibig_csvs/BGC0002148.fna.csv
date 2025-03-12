@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+884006337,884006337_2_64,919174662,BGC0002148,2,64,['L-arginine gamma (S) hydroxylase'],True,Alkaloid
+884006337,884006337_6_755,1976373643,BGC0002148,6,755,['guanitoxin forming phosphate O-methyltransferase'],True,Alkaloid
+884006337,884006337_1018_1821,1971612732,BGC0002148,1018,1821,['heme dependent pre-guanitoxin N-hydroxylase'],True,Alkaloid
+884006337,884006337_1845_2801,2005860041,BGC0002148,1845,2801,['L-arginine gamma (S) hydroxylase'],True,Alkaloid
+884006337,884006337_2953_4065,148428972,BGC0002148,2953,4065,['PLP-dependent (S)-gamma-hydroxy-L-arginine cyclodehydratase'],True,Alkaloid
+884006337,884006337_4062_5105,810340387,BGC0002148,4062,5105,['L-enduracididine beta-hydroxylase'],True,Alkaloid
+884006337,884006337_5120_6430,4077597066,BGC0002148,5120,6430,['PLP-dependent transaminase'],True,Alkaloid
+884006337,884006337_6634_7458,3818896879,BGC0002148,6634,7458,['pre-guanitoxin forming N-methyltransferase'],True,Alkaloid
+884006337,884006337_7464_8498,1834636170,BGC0002148,7464,8498,['PLP-dependent aldolase'],True,Alkaloid
+884006337,884006337_8690_9931,2670355694,BGC0002148,8690,9931,['MBL fold metallo-hydrolase'],True,Alkaloid
+884006337,884006337_9994_10911,859468623,BGC0002148,9994,10911,['pre-guanitoxin N-oxide kinase'],True,Alkaloid
+884006337,884006337_11219_12577,2796886975,BGC0002148,11219,12577,['MATE family efflux transporter'],True,Alkaloid

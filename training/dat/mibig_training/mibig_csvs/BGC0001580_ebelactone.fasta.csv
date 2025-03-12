@@ -1,0 +1,37 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+5001762,5001762_127_2505,1278751227,BGC0001580,127,2505,['peptidoglycan binding protein'],True,Polyketide
+5001762,5001762_2535_4106,2863715042,BGC0001580,2535,4106,['putative peptidoglycan binding protein'],True,Polyketide
+5001762,5001762_4257_6302,1830585301,BGC0001580,4257,6302,['glycoside hydrolase'],True,Polyketide
+5001762,5001762_6437_7456,223159934,BGC0001580,6437,7456,['esterase LipW'],True,Polyketide
+5001762,5001762_7722_9050,456731941,BGC0001580,7722,9050,['alkaline D-peptidase'],True,Polyketide
+5001762,5001762_9252_10013,202808087,BGC0001580,9252,10013,['hypothetical protein'],True,Polyketide
+5001762,5001762_10194_11072,2050760470,BGC0001580,10194,11072,['SAM-dependent methlyltransferase'],True,Polyketide
+5001762,5001762_11088_12161,1258117927,BGC0001580,11088,12161,['2-methylisoborneol synthase'],True,Polyketide
+5001762,5001762_12617_13195,1624704578,BGC0001580,12617,13195,['hypothetical protein'],True,Polyketide
+5001762,5001762_13840_17031,2798796935,BGC0001580,13840,17031,['ebeA-type I polyketide synthase KSQ-ATa-ACP'],True,Polyketide
+5001762,5001762_17094_23708,4017312638,BGC0001580,17094,23708,['EbeB-type I polyketide synthase'],True,Polyketide
+5001762,5001762_23865_33065,2348328624,BGC0001580,23865,33065,['ebeC-type I polyketide synthase'],True,Polyketide
+5001762,5001762_33058_44862,323856704,BGC0001580,33058,44862,['ebeD-type I polyketide synthase'],True,Polyketide
+5001762,5001762_44953_51489,1423561024,BGC0001580,44953,51489,['ebeE-type I polyketide synthase'],True,Polyketide
+5001762,5001762_51557_53254,3556900287,BGC0001580,51557,53254,['Orf1 putative non-ribosomal peptide synthetase'],True,Polyketide
+5001762,5001762_53756_54631,1709845935,BGC0001580,53756,54631,['short-chain alcohol dehydrogenase'],True,Polyketide
+5001762,5001762_54655_55461,1979506733,BGC0001580,54655,55461,['esterase'],True,Polyketide
+5001762,5001762_55574_55927,122671072,BGC0001580,55574,55927,['hypothetical protein'],True,Polyketide
+5001762,5001762_55966_57030,2369782317,BGC0001580,55966,57030,,True,Polyketide
+5001762,5001762_57337_58041,2331153660,BGC0001580,57337,58041,['ATP/GTP-binding protein'],True,Polyketide
+5001762,5001762_58336_59355,2483398562,BGC0001580,58336,59355,['metalloprotease MEP1-like protein'],True,Polyketide
+5001762,5001762_59621_60085,2451897114,BGC0001580,59621,60085,['universal stress protein UspA'],True,Polyketide
+5001762,5001762_60216_60428,4125831926,BGC0001580,60216,60428,['cold-shock DNA-binding protein'],True,Polyketide
+5001762,5001762_60509_61366,4035957292,BGC0001580,60509,61366,['DNA glycosylase'],True,Polyketide
+5001762,5001762_61314_61949,3188417830,BGC0001580,61314,61949,['uridine kinase'],True,Polyketide
+5001762,5001762_61995_63314,1798896551,BGC0001580,61995,63314,['hypothetical protein'],True,Polyketide
+5001762,5001762_63421_63780,3918813069,BGC0001580,63421,63780,['hypothetical protein'],True,Polyketide
+5001762,5001762_63936_66362,1679662325,BGC0001580,63936,66362,"['putative serine phosphatase RsbU, regulator of sigma subunit']",True,Polyketide
+5001762,5001762_66593_68203,3092226379,BGC0001580,66593,68203,['putative two-component system sensor kinase'],True,Polyketide
+5001762,5001762_68299_68967,2316734803,BGC0001580,68299,68967,['LuxR family transcriptional regulator'],True,Polyketide
+5001762,5001762_69071_69502,3556380353,BGC0001580,69071,69502,['AsnC family transcriptional regulator'],True,Polyketide
+5001762,5001762_69573_70220,2605218519,BGC0001580,69573,70220,['lysine exporter protein LysE'],True,Polyketide
+5001762,5001762_70746_71525,3318423012,BGC0001580,70746,71525,['putative transglycosylase'],True,Polyketide
+5001762,5001762_71600_72310,107258811,BGC0001580,71600,72310,['ubiquinone biosynthesis methyltransferase UbiE'],True,Polyketide
+5001762,5001762_72410_73165,232389629,BGC0001580,72410,73165,['short-chain dehydrogenase/reductase SDR'],True,Polyketide
+5001762,5001762_73339_73935,2869670691,BGC0001580,73339,73935,['putative ArsR family transcriptional regulator'],True,Polyketide

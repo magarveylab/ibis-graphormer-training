@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3409826481,3409826481_1_876,3625262628,BGC0001992,1,876,['LysR family transcriptional regulator'],True,Other
+3409826481,3409826481_1082_1786,2330597893,BGC0001992,1082,1786,['hypothetical protein'],True,Other
+3409826481,3409826481_1839_2237,1321460805,BGC0001992,1839,2237,['NUDIX domain-containing protein'],True,Other
+3409826481,3409826481_2237_3112,845985629,BGC0001992,2237,3112,['DUF6024 family protein'],True,Other
+3409826481,3409826481_3109_4011,1496686256,BGC0001992,3109,4011,['DMT family transporter'],True,Other
+3409826481,3409826481_4105_4749,2525345030,BGC0001992,4105,4749,['adenylate kinase'],True,Other

@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+75907000,75907000_1_2961,1532122815,BGC0001294,1,2961,['winged helix-turn-helix domain-containing protein'],True,Other
+75907000,75907000_3131_4309,1411140212,BGC0001294,3131,4309,['hypothetical protein'],True,Other
+75907000,75907000_4396_5904,2968250821,BGC0001294,4396,5904,['tryptophanase'],True,Other
+75907000,75907000_6326_6667,2454826983,BGC0001294,6326,6667,['hypothetical protein'],True,Other
+75907000,75907000_6772_7479,670157543,BGC0001294,6772,7479,,True,Other
+75907000,75907000_8696_9019,4128094103,BGC0001294,8696,9019,['hypothetical protein'],True,Other

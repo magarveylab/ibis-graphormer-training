@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2737196889,2737196889_1_345,121923898,BGC0002681,1,345,['hypothetical protein'],True,Other
+2737196889,2737196889_393_1922,3955927911,BGC0002681,393,1922,['hypothetical membrane protein'],True,Other
+2737196889,2737196889_2007_3197,2381590260,BGC0002681,2007,3197,['conserved membrane protein'],True,Other
+2737196889,2737196889_3213_4466,2354027418,BGC0002681,3213,4466,['diaminopimelate decarboxylase'],True,Other
+2737196889,2737196889_4459_5721,3339292909,BGC0002681,4459,5721,['conserved membrane protein'],True,Other
+2737196889,2737196889_5728_7647,1842805290,BGC0002681,5728,7647,['conserved hypothetical protein'],True,Other
+2737196889,2737196889_7900_8322,3907763532,BGC0002681,7900,8322,['ferric uptake regulation protein'],True,Other

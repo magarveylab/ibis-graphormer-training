@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+345377578,345377578_1_1752,3194633509,BGC0000132,1,1752,['halogenase'],True,Polyketide
+345377578,345377578_1787_3445,221254520,BGC0000132,1787,3445,['halogenase'],True,Polyketide
+345377578,345377578_3567_5882,1821698603,BGC0000132,3567,5882,['assimilatory nitrate reductase catalytic subunit'],True,Polyketide
+345377578,345377578_5879_7312,4065486077,BGC0000132,5879,7312,['assimilatory nitrate reductase electron transfer subunit'],True,Polyketide
+345377578,345377578_7655_8638,981866279,BGC0000132,7655,8638,['putative kinase'],True,Polyketide
+345377578,345377578_9062_9508,603723769,BGC0000132,9062,9508,['methyl transferase'],True,Polyketide
+345377578,345377578_9791_11008,1055892850,BGC0000132,9791,11008,['cytochrome P450'],True,Polyketide
+345377578,345377578_11122_11433,2332923443,BGC0000132,11122,11433,['monooxygenase'],True,Polyketide
+345377578,345377578_11584_12264,783861221,BGC0000132,11584,12264,['methyl transferase'],True,Polyketide
+345377578,345377578_12408_13469,2737235843,BGC0000132,12408,13469,['putative membrane protein'],True,Polyketide
+345377578,345377578_13704_19907,3651575521,BGC0000132,13704,19907,['polyketide synthase'],True,Polyketide

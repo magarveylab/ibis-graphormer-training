@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1307690659,1307690659_1_177,1091380038,BGC0002116,1,177,['peptide antibiotic darobactin A'],True,RiPP
+1307690659,1307690659_574_2943,1341319047,BGC0002116,574,2943,['darobactin export ABC transporter permease subunit'],True,RiPP
+1307690659,1307690659_2952_4205,3091502013,BGC0002116,2952,4205,['darobactin export ABC transporter periplasmic adaptor subunit'],True,RiPP
+1307690659,1307690659_4207_4869,3870850595,BGC0002116,4207,4869,['darobactin export ABC transporter ATP-binding protein'],True,RiPP
+1307690659,1307690659_4899_6188,2780750069,BGC0002116,4899,6188,['darobactin maturation radical SAM/SPASM protein DarE'],True,RiPP

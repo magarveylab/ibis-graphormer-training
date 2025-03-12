@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+203813832,203813832_1_6636,3720845158,BGC0000043,1,6636,['polyketide synthase'],True,Polyketide
+203813832,203813832_7051_8061,4175283940,BGC0000043,7051,8061,['hypothetical protein'],True,Polyketide
+203813832,203813832_8201_8377,2824880817,BGC0000043,8201,8377,,True,Polyketide
+203813832,203813832_8510_9577,1068835261,BGC0000043,8510,9577,['putative tRNA 2-selenouridine synthase'],True,Polyketide
+203813832,203813832_9627_13097,898876141,BGC0000043,9627,13097,['putative adenylate/guanylate cyclase'],True,Polyketide

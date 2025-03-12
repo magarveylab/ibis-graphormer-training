@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+466014206,466014206_1_735,1643206513,BGC0001152,1,735,['enoyl-acyl carrier protein reductase'],True,NRP__Polyketide
+466014206,466014206_748_2208,1661774293,BGC0001152,748,2208,['acyl-CoA ligase'],True,NRP__Polyketide
+466014206,466014206_2253_3476,2316671399,BGC0001152,2253,3476,['aldehyde dehydrogenase'],True,NRP__Polyketide
+466014206,466014206_3473_5173,4141717450,BGC0001152,3473,5173,['acetolactate synthase large subunit'],True,NRP__Polyketide
+466014206,466014206_5197_6438,2259178481,BGC0001152,5197,6438,,True,NRP__Polyketide
+466014206,466014206_6443_6850,3111587710,BGC0001152,6443,6850,['(3R)-hydroxymyristoyl-acyl carrier protein dehydratase'],True,NRP__Polyketide
+466014206,466014206_6944_30670,3939762832,BGC0001152,6944,30670,['fusaricidin synthetase'],True,NRP__Polyketide
+466014206,466014206_31188_31811,747770372,BGC0001152,31188,31811,['alpa/beta hydrolase-thioesterase'],True,NRP__Polyketide

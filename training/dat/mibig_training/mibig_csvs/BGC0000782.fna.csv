@@ -1,0 +1,22 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+180879294,180879294_1_696,1867537573,BGC0000782,1,696,['putative dihydroorotase'],True,Saccharide
+180879294,180879294_711_1580,446429574,BGC0000782,711,1580,['putative 1-acyl-sn-glycerol-3-phosphate acyltransferase'],True,Saccharide
+180879294,180879294_1710_2558,4062430331,BGC0000782,1710,2558,['putative diadenosine tetraphosphatase'],True,Saccharide
+180879294,180879294_2936_3997,446846459,BGC0000782,2936,3997,"['putative dTDP-D-glucose 4,6-dehydratase']",True,Saccharide
+180879294,180879294_4009_4902,2265964082,BGC0000782,4009,4902,['putative glucose-1-phosphate thymidyltransferase'],True,Saccharide
+180879294,180879294_4887_5438,4186144842,BGC0000782,4887,5438,"['putative dTDP-4-keto-6-deoxy-D-glucose 3,5-epimerase']",True,Saccharide
+180879294,180879294_5435_6331,3670325999,BGC0000782,5435,6331,['putative dTDP-4-keto-L-rhamnose reductase'],True,Saccharide
+180879294,180879294_6358_7191,746906980,BGC0000782,6358,7191,['putative ABC-2 transporter integral membrane component'],True,Saccharide
+180879294,180879294_7181_8590,851806463,BGC0000782,7181,8590,['putative ABC-2 transporter hydrophilic component'],True,Saccharide
+180879294,180879294_8587_9825,2288052016,BGC0000782,8587,9825,['putative O-antigen acetylase'],True,Saccharide
+180879294,180879294_9825_10916,2196823432,BGC0000782,9825,10916,['putative epimerase/dehydratase WbiB'],True,Saccharide
+180879294,180879294_10937_11860,181875267,BGC0000782,10937,11860,['putative glycosyl transferase WbiC'],True,Saccharide
+180879294,180879294_11864_13588,490252290,BGC0000782,11864,13588,['putative O-antigen methyl transferase'],True,Saccharide
+180879294,180879294_13640_15481,2305092097,BGC0000782,13640,15481,['putative glycosyl transferase WbiE'],True,Saccharide
+180879294,180879294_15430_16386,3973160026,BGC0000782,15430,16386,,True,Saccharide
+180879294,180879294_16383_17348,1191022852,BGC0000782,16383,17348,['putative epimerase/dehydratase WbiG'],True,Saccharide
+180879294,180879294_17363_18376,4086520115,BGC0000782,17363,18376,['putative undecaprenyl phosphate N-acetylglucosaminyltransferase WbiH'],True,Saccharide
+180879294,180879294_18383_20296,2612275661,BGC0000782,18383,20296,['putative epimerase/dehydratase WbiI'],True,Saccharide
+180879294,180879294_20670_21776,3217327488,BGC0000782,20670,21776,['putative undecaprenyl phosphate N-acetylglucosaminyltransferase'],True,Saccharide
+180879294,180879294_21804_22826,721647185,BGC0000782,21804,22826,['putative UDP-glucose 4-epimerase'],True,Saccharide
+180879294,180879294_22841_23182,2466564313,BGC0000782,22841,23182,['putative galactosyl transferase'],True,Saccharide

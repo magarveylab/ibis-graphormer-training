@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1281695098,1281695098_170_1327,3215352596,BGC0000656,170,1327,['lycopene cyclase'],True,Terpene
+1281695098,1281695098_1324_2838,4138079936,BGC0000656,1324,2838,['phytoene dehydrogenase'],True,Terpene
+1281695098,1281695098_2835_3770,252364365,BGC0000656,2835,3770,['phytoene synthase'],True,Terpene

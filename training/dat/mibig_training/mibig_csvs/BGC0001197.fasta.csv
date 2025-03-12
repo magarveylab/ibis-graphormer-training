@@ -1,0 +1,15 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+295689816,295689816_1_3399,1941622025,BGC0001197,1,3399,['integral membrane sensor signal transduction histidine kinase'],True,Polyketide
+295689816,295689816_3399_3818,3437056198,BGC0001197,3399,3818,['Roadblock/LC7 family protein'],True,Polyketide
+295689816,295689816_3936_4307,1522871314,BGC0001197,3936,4307,['protein of unknown function DUF742'],True,Polyketide
+295689816,295689816_4288_4911,1924375661,BGC0001197,4288,4911,['protein of unknown function ATP binding'],True,Polyketide
+295689816,295689816_4908_5972,704705145,BGC0001197,4908,5972,"['transcriptional regulator, LuxR family']",True,Polyketide
+295689816,295689816_6305_6682,2752831297,BGC0001197,6305,6682,['Polyketide synthesis cyclase'],True,Polyketide
+295689816,295689816_7083_7340,2103382822,BGC0001197,7083,7340,['putative actinorhodin polyketide synthase acyl carrier protein (ACP) (ActI ORF3)'],True,Polyketide
+295689816,295689816_7391_7885,1647266180,BGC0001197,7391,7885,['cyclase/dehydrase'],True,Polyketide
+295689816,295689816_7896_8318,2612648371,BGC0001197,7896,8318,['Cupin 2 conserved barrel domain protein'],True,Polyketide
+295689816,295689816_8315_9667,1281741523,BGC0001197,8315,9667,['Beta-ketoacyl synthase'],True,Polyketide
+295689816,295689816_9664_10950,1215791420,BGC0001197,9664,10950,['Beta-ketoacyl synthase'],True,Polyketide
+295689816,295689816_11053_11790,1873714856,BGC0001197,11053,11790,['short-chain dehydrogenase/reductase SDR'],True,Polyketide
+295689816,295689816_11790_12113,2739031672,BGC0001197,11790,12113,['Antibiotic biosynthesis monooxygenase'],True,Polyketide
+295689816,295689816_12110_12679,2974051383,BGC0001197,12110,12679,,True,Polyketide

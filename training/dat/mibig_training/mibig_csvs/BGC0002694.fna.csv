@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1213630747,1213630747_1_1338,4056972585,BGC0002694,1,1338,['FAD dependent oxidoreductase'],True,Other
+1213630747,1213630747_1437_2195,2807078625,BGC0002694,1437,2195,['putative ferrichrome transport ATP-binding protein'],True,Other
+1213630747,1213630747_2192_3193,1985062508,BGC0002694,2192,3193,"['ABC transporter, permease protein']",True,Other
+1213630747,1213630747_3186_4199,179358938,BGC0002694,3186,4199,"['ABC transporter, permease protein']",True,Other
+1213630747,1213630747_4174_5157,2323054726,BGC0002694,4174,5157,['periplasmic binding protein'],True,Other
+1213630747,1213630747_5427_7421,593253544,BGC0002694,5427,7421,['tonB dependent receptor'],True,Other
+1213630747,1213630747_7786_9618,3360730904,BGC0002694,7786,9618,['putative siderophore biosynthesis protein'],True,Other
+1213630747,1213630747_9605_11353,4252192511,BGC0002694,9605,11353,['putative siderophore biosynthesis protein'],True,Other
+1213630747,1213630747_11356_12660,672518488,BGC0002694,11356,12660,['putative AMP-dependent synthetase and ligase'],True,Other
+1213630747,1213630747_12657_13958,3785502611,BGC0002694,12657,13958,['hypothetical protein'],True,Other
+1213630747,1213630747_13955_14821,3201697012,BGC0002694,13955,14821,['hypothetical protein'],True,Other
+1213630747,1213630747_14875_16770,3429405068,BGC0002694,14875,16770,"['ABC transporter, transmembrane ATP-binding protein']",True,Other

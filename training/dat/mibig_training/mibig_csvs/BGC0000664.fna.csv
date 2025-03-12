@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1180296073,1180296073_1_1242,540737095,BGC0000664,1,1242,['putative lycopene cyclase'],True,Terpene
+1180296073,1180296073_1239_1967,3358811912,BGC0000664,1239,1967,['putative methyltransferase'],True,Terpene
+1180296073,1180296073_1964_3520,1082363817,BGC0000664,1964,3520,['putative beta-carotene desaturase/methylase'],True,Terpene
+1180296073,1180296073_3556_4572,3805296781,BGC0000664,3556,4572,['putative methylesterase'],True,Terpene
+1180296073,1180296073_4569_5597,1014452720,BGC0000664,4569,5597,['putative phytoene synthase'],True,Terpene
+1180296073,1180296073_5594_7117,1628366744,BGC0000664,5594,7117,['putative phytoene dehydrogenase'],True,Terpene
+1180296073,1180296073_7114_8391,3791668111,BGC0000664,7114,8391,['putative geranylgeranyl pyrophosphate synthase'],True,Terpene

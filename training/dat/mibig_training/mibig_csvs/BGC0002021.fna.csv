@@ -1,0 +1,40 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2781096759,2781096759_4_405,1056367465,BGC0002021,4,405,['hypothetical protein'],True,Polyketide
+2781096759,2781096759_513_2294,4041265901,BGC0002021,513,2294,['putative beta-ketoacyl synthase'],True,Polyketide
+2781096759,2781096759_2296_3072,1528552040,BGC0002021,2296,3072,['putative enoyl-CoA hydratase/isomerase'],True,Polyketide
+2781096759,2781096759_3069_3815,2870637003,BGC0002021,3069,3815,['putative enoyl-CoA hydratase/isomerase'],True,Polyketide
+2781096759,2781096759_3806_5029,3997210146,BGC0002021,3806,5029,['putative 3-hydroxy-3-methylglutaryl-CoA synthase'],True,Polyketide
+2781096759,2781096759_5026_5271,3227942099,BGC0002021,5026,5271,['putative acyl carrier protein'],True,Polyketide
+2781096759,2781096759_5268_6215,68960609,BGC0002021,5268,6215,['hypothetical protein'],True,Polyketide
+2781096759,2781096759_6212_6484,1023373224,BGC0002021,6212,6484,['putative acyl carrier protein'],True,Polyketide
+2781096759,2781096759_6570_7781,1064597333,BGC0002021,6570,7781,['putative beta-ketoacyl synthase beta subunit'],True,Polyketide
+2781096759,2781096759_7778_9046,1872797239,BGC0002021,7778,9046,['putative beta-ketoacyl synthase alpha subunit'],True,Polyketide
+2781096759,2781096759_9049_9285,1683215294,BGC0002021,9049,9285,['putative acyl carrier protein'],True,Polyketide
+2781096759,2781096759_9400_10524,1703016828,BGC0002021,9400,10524,['putative 3-oxoacyl-ACP synthase III'],True,Polyketide
+2781096759,2781096759_10746_11486,3031059627,BGC0002021,10746,11486,['putative short-chain dehydrogenase'],True,Polyketide
+2781096759,2781096759_11588_12625,3056033310,BGC0002021,11588,12625,['putative luciferase-like monooxygenase'],True,Polyketide
+2781096759,2781096759_12745_13260,798782463,BGC0002021,12745,13260,['hypothetical protein'],True,Polyketide
+2781096759,2781096759_13318_14463,1585417755,BGC0002021,13318,14463,['putative oxidoreductase'],True,Polyketide
+2781096759,2781096759_15016_15867,979278846,BGC0002021,15016,15867,['putative SARP-family transcriptional activator'],True,Polyketide
+2781096759,2781096759_15906_16829,3134724557,BGC0002021,15906,16829,['putative polyketide cyclase'],True,Polyketide
+2781096759,2781096759_16895_17344,4123854754,BGC0002021,16895,17344,['hypothetical protein'],True,Polyketide
+2781096759,2781096759_17602_18513,1272073022,BGC0002021,17602,18513,['hypothetical protein'],True,Polyketide
+2781096759,2781096759_18722_19930,589213249,BGC0002021,18722,19930,['putative acyltransferase'],True,Polyketide
+2781096759,2781096759_19927_21126,3446232763,BGC0002021,19927,21126,['putative cytochrome P450'],True,Polyketide
+2781096759,2781096759_21201_22394,1537282545,BGC0002021,21201,22394,['hypothetical protein'],True,Polyketide
+2781096759,2781096759_22422_23582,837506292,BGC0002021,22422,23582,['putative carboxylesterase'],True,Polyketide
+2781096759,2781096759_23817_25175,3632918359,BGC0002021,23817,25175,"['putative NDP-deoxyglucose-2,3-dehydratase']",True,Polyketide
+2781096759,2781096759_25172_26296,2395046336,BGC0002021,25172,26296,['putative aminotransferase'],True,Polyketide
+2781096759,2781096759_26338_27102,2514085511,BGC0002021,26338,27102,['putative methyltransferase'],True,Polyketide
+2781096759,2781096759_27099_27692,3395571167,BGC0002021,27099,27692,"['putative dTDP-4-dehydrorhamnose 3,5-epimerase']",True,Polyketide
+2781096759,2781096759_27689_28687,295295858,BGC0002021,27689,28687,['putative NAD-dependent epimerase/dehydratase'],True,Polyketide
+2781096759,2781096759_28772_29905,3671783900,BGC0002021,28772,29905,['hypothetical protein'],True,Polyketide
+2781096759,2781096759_30082_31347,190093935,BGC0002021,30082,31347,['putative beta-ketoacyl synthase alpha subunit'],True,Polyketide
+2781096759,2781096759_31344_32543,897970048,BGC0002021,31344,32543,['putative beta-ketoacyl synthase beta subunit'],True,Polyketide
+2781096759,2781096759_32561_33514,1397681012,BGC0002021,32561,33514,['putative polyketide cyclase/dehydrase'],True,Polyketide
+2781096759,2781096759_33511_34701,4209150240,BGC0002021,33511,34701,['putative carboxylesterase'],True,Polyketide
+2781096759,2781096759_34698_35480,2098532663,BGC0002021,34698,35480,['putative short-chain dehydrogenase'],True,Polyketide
+2781096759,2781096759_35647_37356,3925472507,BGC0002021,35647,37356,['putative ABC transporter ATPase and permease protein'],True,Polyketide
+2781096759,2781096759_37587_38585,1671979284,BGC0002021,37587,38585,"['putative dTDP-glucose-4,6-dehydratase']",True,Polyketide
+2781096759,2781096759_38638_39528,2281721976,BGC0002021,38638,39528,['putative glucose-1-phosphate thymidylyltransferase'],True,Polyketide
+2781096759,2781096759_39626_40216,1340673709,BGC0002021,39626,40216,['putative NADPH-dependent FMN reductase'],True,Polyketide

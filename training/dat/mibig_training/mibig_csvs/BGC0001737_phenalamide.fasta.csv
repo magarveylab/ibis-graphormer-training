@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+704584773,704584773_1_1041,2153870491,BGC0001737,1,1041,"['phenylpyruvate dehydrogenase complex, E1 component, subunit alpha']",True,NRP__Polyketide
+704584773,704584773_1038_2015,889306656,BGC0001737,1038,2015,"['phenylpyruvate dehydrogenase complex, E1 component, subunit beta']",True,NRP__Polyketide
+704584773,704584773_2015_3703,3191251228,BGC0001737,2015,3703,"['phenylpyruvate dehydrogenase complex, E2 component and acyl carrier protein']",True,NRP__Polyketide
+704584773,704584773_3700_10212,3810729984,BGC0001737,3700,10212,['polyketide synthase'],True,NRP__Polyketide
+704584773,704584773_10235_15802,1737838710,BGC0001737,10235,15802,['polyketide synthase'],True,NRP__Polyketide
+704584773,704584773_15799_21366,1306484182,BGC0001737,15799,21366,['polyketide synthase'],True,NRP__Polyketide
+704584773,704584773_21383_26956,2750726542,BGC0001737,21383,26956,['polyketide synthase'],True,NRP__Polyketide
+704584773,704584773_26959_42495,2784820225,BGC0001737,26959,42495,['polyketide synthase'],True,NRP__Polyketide
+704584773,704584773_42492_48947,1547718724,BGC0001737,42492,48947,['polyketide synthase'],True,NRP__Polyketide
+704584773,704584773_48944_53488,1465629269,BGC0001737,48944,53488,['non-ribosomal peptide synthetase'],True,NRP__Polyketide

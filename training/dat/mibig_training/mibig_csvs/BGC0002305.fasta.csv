@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2171405443,2171405443_1_1038,1893348404,BGC0002305,1,1038,['ABC transporter substrate-binding protein'],True,Other
+2171405443,2171405443_1046_1891,3040789265,BGC0002305,1046,1891,['siderophore interacting protein'],True,Other
+2171405443,2171405443_2190_3707,1253476894,BGC0002305,2190,3707,['PLP dependent decarboxylase'],True,Other
+2171405443,2171405443_3801_5099,2411883069,BGC0002305,3801,5099,['FAD dependent amine monooxygenase'],True,Other
+2171405443,2171405443_5096_5674,3096749336,BGC0002305,5096,5674,['acyl transferase'],True,Other
+2171405443,2171405443_5671_7452,2202975496,BGC0002305,5671,7452,['LucA/LucC family siderophore biosynthesis protein'],True,Other

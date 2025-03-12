@@ -1,0 +1,24 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+826580782,826580782_1_1545,3931454350,BGC0002302,1,1545,['hypothetical protein'],True,Saccharide
+826580782,826580782_1606_3195,341598538,BGC0002302,1606,3195,['cell envelope-like function transcriptional attenuator common domain protein'],True,Saccharide
+826580782,826580782_3268_4194,4006597034,BGC0002302,3268,4194,"['glycosyltransferase, group 2 family protein']",True,Saccharide
+826580782,826580782_4181_5512,2565809878,BGC0002302,4181,5512,['hypothetical protein'],True,Saccharide
+826580782,826580782_5528_6610,4104133791,BGC0002302,5528,6610,['cell envelope-like function transcriptional attenuator common domain protein'],True,Saccharide
+826580782,826580782_6626_8032,605319169,BGC0002302,6626,8032,['undecaprenyl-phosphate glucose phosphotransferase'],True,Saccharide
+826580782,826580782_8259_9239,524594200,BGC0002302,8259,9239,"['glycosyltransferase, group 2 family protein']",True,Saccharide
+826580782,826580782_9286_11991,687726589,BGC0002302,9286,11991,"['glycosyltransferase, group 1 family protein']",True,Saccharide
+826580782,826580782_12091_12702,4227814067,BGC0002302,12091,12702,['hypothetical protein'],True,Saccharide
+826580782,826580782_12718_13566,3948886200,BGC0002302,12718,13566,['dTDP-4-dehydrorhamnose reductase'],True,Saccharide
+826580782,826580782_13646_15172,1887302520,BGC0002302,13646,15172,['hypothetical protein'],True,Saccharide
+826580782,826580782_15182_16531,3530908835,BGC0002302,15182,16531,['hypothetical protein'],True,Saccharide
+826580782,826580782_16667_19111,814797765,BGC0002302,16667,19111,"['glycosyltransferase, group 2 family protein']",True,Saccharide
+826580782,826580782_19121_19729,3181836598,BGC0002302,19121,19729,['hypothetical protein'],True,Saccharide
+826580782,826580782_19745_20479,39804414,BGC0002302,19745,20479,"['ABC transporter, ATP-binding protein']",True,Saccharide
+826580782,826580782_20489_21265,2402644156,BGC0002302,20489,21265,['ABC-2 type transporter'],True,Saccharide
+826580782,826580782_21282_21833,1805760902,BGC0002302,21282,21833,"['dTDP-4-dehydrorhamnose 3,5-epimerase']",True,Saccharide
+826580782,826580782_21849_22733,2545276556,BGC0002302,21849,22733,['glucose-1-phosphate thymidylyltransferase'],True,Saccharide
+826580782,826580782_22815_23891,3816404262,BGC0002302,22815,23891,"['dTDP-glucose 4,6-dehydratase']",True,Saccharide
+826580782,826580782_24057_27995,3042591312,BGC0002302,24057,27995,['N-acetylmuramoyl-L-alanine amidase'],True,Saccharide
+826580782,826580782_28046_28981,3491566636,BGC0002302,28046,28981,"['glycosyltransferase, group 2 family protein']",True,Saccharide
+826580782,826580782_29051_30703,3219647956,BGC0002302,29051,30703,['arylsulfatase'],True,Saccharide
+826580782,826580782_30805_31758,953823225,BGC0002302,30805,31758,['hypothetical protein'],True,Saccharide

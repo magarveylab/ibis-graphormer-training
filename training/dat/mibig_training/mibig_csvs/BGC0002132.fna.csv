@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3236570860,3236570860_1_2250,3493781479,BGC0002132,1,2250,['hypothetical protein'],True,Other
+3236570860,3236570860_2734_4038,411263434,BGC0002132,2734,4038,['hypothetical protein'],True,Other
+3236570860,3236570860_4035_4625,239758644,BGC0002132,4035,4625,['methanobactin biosynthesis cassette protein MbnC'],True,Other
+3236570860,3236570860_4597_5427,2317879,BGC0002132,4597,5427,['methanobactin biosynthesis cassette protein MbnB'],True,Other
+3236570860,3236570860_5512_5607,1351321037,BGC0002132,5512,5607,['methanobactin'],True,Other
+3236570860,3236570860_5721_6857,4244434142,BGC0002132,5721,6857,['histidinol-phosphate aminotransferase family protein'],True,Other
+3236570860,3236570860_7217_7855,1281655705,BGC0002132,7217,7855,,True,Other
+3236570860,3236570860_7958_8455,100045797,BGC0002132,7958,8455,['RNA polymerase sigma factor'],True,Other

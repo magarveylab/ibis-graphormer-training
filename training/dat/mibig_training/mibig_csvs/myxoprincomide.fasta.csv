@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+662093300,662093300_1_2319,717033805,BGC0000393,1,2319,['DnaK family protein'],True,NRP__Polyketide
+662093300,662093300_2462_45286,3664137102,BGC0000393,2462,45286,['non-ribosomal peptide synthetase/polyketide synthase'],True,NRP__Polyketide
+662093300,662093300_45273_47834,407523534,BGC0000393,45273,47834,['patatin-like phospholipase family protein'],True,NRP__Polyketide

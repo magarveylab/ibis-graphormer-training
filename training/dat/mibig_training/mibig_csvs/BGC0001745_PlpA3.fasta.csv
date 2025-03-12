@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+229584118,229584118_3_167,313524692,BGC0001745,3,167,,False,
+229584118,229584118_180_1439,1503031353,BGC0001745,180,1439,['nif11-class peptide radical SAM maturase 3'],True,RiPP
+229584118,229584118_1476_1784,1969879193,BGC0001745,1476,1784,['Nif11-like leader peptide family natural product precursor'],True,RiPP
+229584118,229584118_1896_2192,1605961252,BGC0001745,1896,2192,['Nif11-like leader peptide family natural product precursor'],True,RiPP
+229584118,229584118_2327_3775,4114509123,BGC0001745,2327,3775,['radical SAM family RiPP maturation amino acid epimerase'],True,RiPP
+229584118,229584118_3878_4213,4061591353,BGC0001745,3878,4213,['NHLP leader peptide family RiPP precursor'],True,RiPP
+229584118,229584118_4455_5393,4244606611,BGC0001745,4455,5393,['hypothetical protein'],True,RiPP

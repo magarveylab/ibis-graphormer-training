@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3441001984,3441001984_1_1236,492217858,BGC0001463,1,1236,['ferredoxin reductase'],True,Other
+3441001984,3441001984_1250_1570,966518305,BGC0001463,1250,1570,['ferredoxin'],True,Other
+3441001984,3441001984_1740_2813,81425838,BGC0001463,1740,2813,['prolyl acyl carrier protein-thioesterase didomain'],True,Other
+3441001984,3441001984_2813_4033,4252186537,BGC0001463,2813,4033,['pyrrole halogenase'],True,Other
+3441001984,3441001984_4078_5220,1100387354,BGC0001463,4078,5220,['proline dehydrogenase'],True,Other
+3441001984,3441001984_5217_6707,2936484136,BGC0001463,5217,6707,['L-proline adenyl transferase'],True,Other

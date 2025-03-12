@@ -1,0 +1,18 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2973659179,2973659179_1_1131,473981476,BGC0001644,1,1131,['(acyl-carrier-protein) S-malonyltransferase'],True,Polyketide
+2973659179,2973659179_1691_2905,3510838298,BGC0001644,1691,2905,['arabinose efflux permease'],True,Polyketide
+2973659179,2973659179_2902_4287,1402967885,BGC0001644,2902,4287,['dioxygenases-like 2-nitropropane dioxygenase'],True,Polyketide
+2973659179,2973659179_4342_12873,1791065664,BGC0001644,4342,12873,['polyketide synthase modules-related protein'],True,Polyketide
+2973659179,2973659179_12892_31524,2552351038,BGC0001644,12892,31524,['polyketide synthase modules-related protein'],True,Polyketide
+2973659179,2973659179_31546_57060,1857741133,BGC0001644,31546,57060,['polyketide synthase modules-related protein'],True,Polyketide
+2973659179,2973659179_57132_69650,646938552,BGC0001644,57132,69650,['polyketide synthase modules-related protein'],True,Polyketide
+2973659179,2973659179_69706_111285,3278643797,BGC0001644,69706,111285,['polyketide synthase modules-related protein'],True,Polyketide
+2973659179,2973659179_112345_112944,2000744969,BGC0001644,112345,112944,['putative site-specific integrase-resolvase'],True,Polyketide
+2973659179,2973659179_113655_116936,1451646929,BGC0001644,113655,116936,['ATPase involved in DNA replication initiation'],True,Polyketide
+2973659179,2973659179_117170_118249,1620494807,BGC0001644,117170,118249,['hypothetical Protein'],True,Polyketide
+2973659179,2973659179_118233_118457,3578723035,BGC0001644,118233,118457,,True,Polyketide
+2973659179,2973659179_118707_119423,881902459,BGC0001644,118707,119423,['hypothetical Protein'],True,Polyketide
+2973659179,2973659179_119528_124237,3739018316,BGC0001644,119528,124237,['rhs family protein'],True,Polyketide
+2973659179,2973659179_124836_125864,3476470503,BGC0001644,124836,125864,['polyketide synthase modules-related protein'],True,Polyketide
+2973659179,2973659179_126158_126925,2189175562,BGC0001644,126158,126925,['dehydrogenases with different specificities (related to short-chain alcohol dehydrogenase)'],True,Polyketide
+2973659179,2973659179_127022_128482,1443160618,BGC0001644,127022,128482,['NAD-dependent aldehyde dehydrogenase'],True,Polyketide

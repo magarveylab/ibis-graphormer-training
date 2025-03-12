@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3554070922,3554070922_1_1059,3244365474,BGC0002331,1,1059,['hypothetical protein'],True,Other
+3554070922,3554070922_1123_2106,3570615392,BGC0002331,1123,2106,['putative fatty acid desaturase'],True,Other

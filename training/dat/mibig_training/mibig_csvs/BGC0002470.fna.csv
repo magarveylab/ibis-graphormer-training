@@ -1,0 +1,21 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2634414923,2634414923_1_990,3799454437,BGC0002470,1,990,['Periplasmic binding protein'],True,Other
+2634414923,2634414923_996_3494,833369744,BGC0002470,996,3494,['TonB dependent receptor'],True,Other
+2634414923,2634414923_3596_4624,3419554529,BGC0002470,3596,4624,"['transcriptional regulator, AraC family']",True,Other
+2634414923,2634414923_4990_7815,3566060425,BGC0002470,4990,7815,['conserved hypothetical protein with GTPase domain'],True,Other
+2634414923,2634414923_7849_8133,727810676,BGC0002470,7849,8133,['conserved hypothetical protein; domain of unknown function (DUF427)'],True,Other
+2634414923,2634414923_9035_9667,2861971179,BGC0002470,9035,9667,['hypothetical protein'],True,Other
+2634414923,2634414923_9801_11531,1513928014,BGC0002470,9801,11531,['conserved outer membrane protein'],True,Other
+2634414923,2634414923_12130_15054,3796965132,BGC0002470,12130,15054,"['ATPase, P-type (transporting), HAD superfamily, subfamily IC']",True,Other
+2634414923,2634414923_15075_15668,2709544920,BGC0002470,15075,15668,"['Exopolysaccharide synthesis, ExoD family']",True,Other
+2634414923,2634414923_15699_16523,2397113295,BGC0002470,15699,16523,"['ABC-type nitrate/sulfonate/bicarbonate transport system, ATP-binding protein']",True,Other
+2634414923,2634414923_16546_17943,3789120358,BGC0002470,16546,17943,"['ABC-type nitrate/sulfonate/bicarbonate transport system, periplasmic component']",True,Other
+2634414923,2634414923_17957_18796,802244131,BGC0002470,17957,18796,"['ABC-type nitrate/sulfonate/bicarbonate transport system, permease']",True,Other
+2634414923,2634414923_19612_20589,3329652831,BGC0002470,19612,20589,['esterase/lipase'],True,Other
+2634414923,2634414923_20694_23141,1707566340,BGC0002470,20694,23141,"['Siderophore biosynthesis protein, IucA / IucC family']",True,Other
+2634414923,2634414923_23183_24400,896553147,BGC0002470,23183,24400,['major facilitator transport protein'],True,Other
+2634414923,2634414923_24402_25703,3700751842,BGC0002470,24402,25703,['siderophore biosynthesis protein; N-monooxygenase'],True,Other
+2634414923,2634414923_25722_26321,1676175075,BGC0002470,25722,26321,"['Siderophore biosynthesis protein, IucB family; acetyl transferase']",True,Other
+2634414923,2634414923_26314_28158,4217129108,BGC0002470,26314,28158,['Siderophore biosynthesis protein'],True,Other
+2634414923,2634414923_28155_29663,3810991247,BGC0002470,28155,29663,,True,Other
+2634414923,2634414923_29709_31112,1031281790,BGC0002470,29709,31112,"['2,4-diaminobutyrate 4-transaminase']",True,Other

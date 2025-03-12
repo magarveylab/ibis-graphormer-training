@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3480293311,3480293311_49_1566,3570226703,BGC0002083,49,1566,['putative aldehyde dehydrogenase AldA'],True,Polyketide
+3480293311,3480293311_1636_2508,2769227329,BGC0002083,1636,2508,['2-(hydroxymethyl)glutarate dehydrogenase'],True,Polyketide
+3480293311,3480293311_2652_3560,1068578170,BGC0002083,2652,3560,['HTH-type transcriptional activator CmpR'],True,Polyketide
+3480293311,3480293311_3858_4880,3033893450,BGC0002083,3858,4880,['putative NADP-dependent oxidoreductase YfmJ'],True,Polyketide
+3480293311,3480293311_4915_5628,3939431745,BGC0002083,4915,5628,['hypothetical protein'],True,Polyketide
+3480293311,3480293311_5689_36234,4230275626,BGC0002083,5689,36234,['Polyketide synthase PksN'],True,Polyketide
+3480293311,3480293311_36235_45981,886678547,BGC0002083,36235,45981,['Polyketide synthase PksL'],True,Polyketide
+3480293311,3480293311_45974_47971,4136013798,BGC0002083,45974,47971,['Asparagine synthetase [glutamine-hydrolyzing] 1'],True,Polyketide
+3480293311,3480293311_48066_48308,1927086991,BGC0002083,48066,48308,['D-alanine--poly(phosphoribitol) ligase subunit 2'],True,Polyketide
+3480293311,3480293311_48350_51709,1400331812,BGC0002083,48350,51709,['Polyketide biosynthesis protein BaeE'],True,Polyketide
+3480293311,3480293311_51785_52486,4106698612,BGC0002083,51785,52486,['hypothetical protein'],True,Polyketide
+3480293311,3480293311_54238_54957,1553938515,BGC0002083,54238,54957,['hypothetical protein'],True,Polyketide

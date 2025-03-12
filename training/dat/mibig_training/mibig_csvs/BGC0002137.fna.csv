@@ -1,0 +1,28 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+581671233,581671233_32_373,1127658469,BGC0002137,32,373,['PadR family transcriptional regulator'],True,Polyketide
+581671233,581671233_449_1039,2794559723,BGC0002137,449,1039,['hypothetical protein'],True,Polyketide
+581671233,581671233_1202_1474,1425530829,BGC0002137,1202,1474,['hypothetical protein'],True,Polyketide
+581671233,581671233_1803_2798,4074174186,BGC0002137,1803,2798,['acyltransferase domain-containing protein'],True,Polyketide
+581671233,581671233_2950_3984,601408423,BGC0002137,2950,3984,['ketoacyl-ACP synthase III family protein'],True,Polyketide
+581671233,581671233_4042_4815,2058565440,BGC0002137,4042,4815,['cyclase family protein'],True,Polyketide
+581671233,581671233_4832_5581,758111343,BGC0002137,4832,5581,['SDR family oxidoreductase'],True,Polyketide
+581671233,581671233_5578_7431,2243429950,BGC0002137,5578,7431,['AMP-binding protein'],True,Polyketide
+581671233,581671233_7424_8383,1218473554,BGC0002137,7424,8383,['aromatase/cyclase'],True,Polyketide
+581671233,581671233_8397_9182,548751842,BGC0002137,8397,9182,['3-oxoacyl-ACP reductase FabG'],True,Polyketide
+581671233,581671233_9179_10414,3944439592,BGC0002137,9179,10414,['FAD-dependent monooxygenase'],True,Polyketide
+581671233,581671233_10574_11035,513408619,BGC0002137,10574,11035,['nuclear transport factor 2 family protein'],True,Polyketide
+581671233,581671233_11871_12629,3799512902,BGC0002137,11871,12629,['SDR family oxidoreductase'],True,Polyketide
+581671233,581671233_12797_13819,1156674032,BGC0002137,12797,13819,['hypothetical protein'],True,Polyketide
+581671233,581671233_13841_15370,2309048456,BGC0002137,13841,15370,['MFS transporter'],True,Polyketide
+581671233,581671233_15406_15663,4155749390,BGC0002137,15406,15663,['acyl carrier protein'],True,Polyketide
+581671233,581671233_15764_16969,2517124841,BGC0002137,15764,16969,['ketosynthase chain-length factor'],True,Polyketide
+581671233,581671233_16966_18198,209898812,BGC0002137,16966,18198,['beta-ketoacyl-[acyl-carrier-protein] synthase family protein'],True,Polyketide
+581671233,581671233_18423_20510,2512159747,BGC0002137,18423,20510,['AfsR/SARP family transcriptional regulator'],True,Polyketide
+581671233,581671233_20633_21388,970939668,BGC0002137,20633,21388,['SDR family oxidoreductase'],True,Polyketide
+581671233,581671233_21423_22973,1969600467,BGC0002137,21423,22973,['FAD-dependent oxidoreductase'],True,Polyketide
+581671233,581671233_22970_23992,2470360412,BGC0002137,22970,23992,['methyltransferase'],True,Polyketide
+581671233,581671233_24274_25773,3947313183,BGC0002137,24274,25773,['FAD-dependent monooxygenase'],True,Polyketide
+581671233,581671233_26003_29686,3325440327,BGC0002137,26003,29686,['multifunctional oxoglutarate decarboxylase/oxoglutarate dehydrogenase thiamine pyrophosphate-binding subunit/dihydrolipoyllysine-residue succinyltransferase subunit'],True,Polyketide
+581671233,581671233_29784_30284,3099605916,BGC0002137,29784,30284,,True,Polyketide
+581671233,581671233_30384_31622,3670850894,BGC0002137,30384,31622,['FAD-dependent oxidoreductase'],True,Polyketide
+581671233,581671233_31682_32881,2976476400,BGC0002137,31682,32881,['MFS transporter'],True,Polyketide

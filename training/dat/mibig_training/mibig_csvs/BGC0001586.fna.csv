@@ -1,0 +1,18 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+649977189,649977189_1_1605,3429623302,BGC0001586,1,1605,['sensor domain-containing diguanylate cyclase'],True,Saccharide
+649977189,649977189_1898_3376,3007825650,BGC0001586,1898,3376,['AAA family ATPase'],True,Saccharide
+649977189,649977189_3369_3779,1774319083,BGC0001586,3369,3779,['response regulator'],True,Saccharide
+649977189,649977189_3800_4870,1335153141,BGC0001586,3800,4870,['acyltransferase'],True,Saccharide
+649977189,649977189_4913_5965,2668365043,BGC0001586,4913,5965,['glycosyltransferase'],True,Saccharide
+649977189,649977189_6035_6259,2894096921,BGC0001586,6035,6259,['hypothetical protein'],True,Saccharide
+649977189,649977189_6283_6609,4043272163,BGC0001586,6283,6609,,True,Saccharide
+649977189,649977189_6644_7861,2140634988,BGC0001586,6644,7861,['glycosyltransferase family 4 protein'],True,Saccharide
+649977189,649977189_7988_9106,2567522599,BGC0001586,7988,9106,['glycosyltransferase family 4 protein'],True,Saccharide
+649977189,649977189_9123_10460,3159112270,BGC0001586,9123,10460,['hypothetical protein'],True,Saccharide
+649977189,649977189_10457_11776,1177695207,BGC0001586,10457,11776,['hypothetical protein'],True,Saccharide
+649977189,649977189_11721_12980,71017867,BGC0001586,11721,12980,['glycosyltransferase family 4 protein'],True,Saccharide
+649977189,649977189_13002_13529,3850074641,BGC0001586,13002,13529,['transcription/translation regulatory transformer protein RfaH'],True,Saccharide
+649977189,649977189_13577_14320,1780163626,BGC0001586,13577,14320,['WbqC family protein'],True,Saccharide
+649977189,649977189_14341_16551,2658358614,BGC0001586,14341,16551,['polysaccharide biosynthesis tyrosine autokinase'],True,Saccharide
+649977189,649977189_16616_17545,2862015542,BGC0001586,16616,17545,['glycosyltransferase'],True,Saccharide
+649977189,649977189_17547_19073,424898770,BGC0001586,17547,19073,['oligosaccharide flippase family protein'],True,Saccharide

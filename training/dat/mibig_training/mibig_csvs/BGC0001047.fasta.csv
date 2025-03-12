@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+366695512,366695512_2_718,2616889928,BGC0001047,2,718,['putative HTH_LUXR domain-containing transcription activator'],True,NRP__Polyketide
+366695512,366695512_870_1922,1694589953,BGC0001047,870,1922,['putative desaturase'],True,NRP__Polyketide
+366695512,366695512_2144_6112,3804633841,BGC0001047,2144,6112,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+366695512,366695512_6223_18789,1611071653,BGC0001047,6223,18789,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+366695512,366695512_18862_20097,282526773,BGC0001047,18862,20097,['putative syringolin A exporter'],True,NRP__Polyketide
+366695512,366695512_20117_20767,2885857153,BGC0001047,20117,20767,['hypothetical protein'],True,NRP__Polyketide
+366695512,366695512_20926_22119,3935163673,BGC0001047,20926,22119,['hypothetical protein'],True,NRP__Polyketide

@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1843517559,1843517559_1_267,2683990359,BGC0001905,1,267,['hypothetical protein'],True,Polyketide
+1843517559,1843517559_545_634,623302451,BGC0001905,545,634,,True,Polyketide
+1843517559,1843517559_688_1740,1445773462,BGC0001905,688,1740,['polyketide synthase'],True,Polyketide
+1843517559,1843517559_1907_2725,1735797310,BGC0001905,1907,2725,['transcriptional regulator'],True,Polyketide
+1843517559,1843517559_3100_3576,4013003017,BGC0001905,3100,3576,['hypothetical protein'],True,Polyketide
+1843517559,1843517559_3573_3803,823356335,BGC0001905,3573,3803,['hypothetical protein'],True,Polyketide

@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+159128269,159128269_1_810,3236237155,BGC0001843,1,810,,False,
+159128269,159128269_1161_2855,45227136,BGC0001843,1161,2855,['ABC transporter ATP-binding protein'],True,NRP
+159128269,159128269_2830_4695,1702597838,BGC0001843,2830,4695,['ABC transporter ATP-binding protein'],True,NRP
+159128269,159128269_4747_47136,2827053264,BGC0001843,4747,47136,['amino acid adenylation domain-containing protein'],True,NRP
+159128269,159128269_47304_58556,3186305466,BGC0001843,47304,58556,['amino acid adenylation domain-containing protein'],True,NRP

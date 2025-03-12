@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1698695569,1698695569_1_1143,4001887361,BGC0002004,1,1143,['di-heme enzyme'],True,RiPP
+1698695569,1698695569_1140_2114,878936498,BGC0002004,1140,2114,['metallo-mystery pair system four-Cys motif protein'],True,RiPP
+1698695569,1698695569_2527_3651,516836784,BGC0002004,2527,3651,['histidinol-phosphate aminotransferase family protein'],True,RiPP
+1698695569,1698695569_3677_4987,3978581386,BGC0002004,3677,4987,['MATE family efflux transporter'],True,RiPP
+1698695569,1698695569_4984_5571,3224801733,BGC0002004,4984,5571,['methanobactin biosynthesis cassette protein MbnC'],True,RiPP
+1698695569,1698695569_5543_6373,3194528333,BGC0002004,5543,6373,['methanobactin biosynthesis cassette protein MbnB'],True,RiPP
+1698695569,1698695569_7365_9803,2674325116,BGC0002004,7365,9803,,False,

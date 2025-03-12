@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2327495359,2327495359_1_14850,1183361573,BGC0001825,1,14850,['Non-ribosomal peptide synthase involved in xenematides synthesis'],True,NRP

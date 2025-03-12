@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3667011758,3667011758_1_3894,1202281543,BGC0002174,1,3894,['e-poly-L-lysine synthetase'],True,NRP

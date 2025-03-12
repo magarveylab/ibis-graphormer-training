@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2023369658,2023369658_196_2334,3497749660,BGC0002173,196,2334,"['squalene-hopene-cyclase, putative']",True,Terpene__Saccharide
+2023369658,2023369658_2883_4040,3710647487,BGC0002173,2883,4040,"['cytochrome P450 oxidoreductase/alkane hydroxylase, putative']",True,Terpene__Saccharide
+2023369658,2023369658_4051_4323,3285453324,BGC0002173,4051,4323,"['cytochrome P450 oxidoreductase/alkane hydroxylase, putative']",True,Terpene__Saccharide
+2023369658,2023369658_4339_4542,1469116939,BGC0002173,4339,4542,"['cytochrome P450 oxidoreductase/alkane hydroxylase, putative']",True,Terpene__Saccharide
+2023369658,2023369658_4676_4969,2862575266,BGC0002173,4676,4969,,True,Terpene__Saccharide
+2023369658,2023369658_5089_6264,2251294567,BGC0002173,5089,6264,"['capsule polysaccharide biosynthesis protein, putative']",True,Terpene__Saccharide
+2023369658,2023369658_6257_7165,90600837,BGC0002173,6257,7165,['hypothetical protein'],True,Terpene__Saccharide
+2023369658,2023369658_7351_7686,357565428,BGC0002173,7351,7686,,False,

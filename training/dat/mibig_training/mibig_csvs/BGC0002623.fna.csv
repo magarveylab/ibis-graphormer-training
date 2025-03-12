@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+172745987,172745987_1_1743,1145843944,BGC0002623,1,1743,['fatty acyl-AMP ligase'],True,NRP__Polyketide
+172745987,172745987_1892_2158,1964257379,BGC0002623,1892,2158,['acyl carrier protein'],True,NRP__Polyketide
+172745987,172745987_2400_3797,2043882640,BGC0002623,2400,3797,['hypothetical protein'],True,NRP__Polyketide
+172745987,172745987_3834_12032,1642413766,BGC0002623,3834,12032,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide
+172745987,172745987_12029_15466,278091519,BGC0002623,12029,15466,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide
+172745987,172745987_15470_22948,1432107904,BGC0002623,15470,22948,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide
+172745987,172745987_23011_25011,596452311,BGC0002623,23011,25011,['ABC transporter ATP-binding protein/permease'],True,NRP__Polyketide

@@ -1,0 +1,41 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1304144870,1304144870_1_438,1609079858,BGC0001046,1,438,['putative glycerophosphoryl diester phosphodiesterase'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_808_1194,1358202544,BGC0001046,808,1194,['hypothetical protein'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_1280_1375,1656269702,BGC0001046,1280,1375,,True,NRP__Polyketide__Saccharide
+1304144870,1304144870_1429_4260,758238596,BGC0001046,1429,4260,['LuxR-family transcriptional regulator'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_4318_6441,3578108184,BGC0001046,4318,6441,['non-ribosomal peptide synthetase'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_6495_7337,2575460560,BGC0001046,6495,7337,['hypothetical protein'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_7392_8672,1675396378,BGC0001046,7392,8672,['methyltransferase'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_8767_9423,2608523420,BGC0001046,8767,9423,"['NDP-hexose-3,5-epimerase']",True,NRP__Polyketide__Saccharide
+1304144870,1304144870_9405_10709,687286088,BGC0001046,9405,10709,"['NDP-hexose-3,4-dehydratase']",True,NRP__Polyketide__Saccharide
+1304144870,1304144870_10720_11742,2235473009,BGC0001046,10720,11742,['NDP-4-keto-6-deoxyhexose reductase'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_11739_12755,2964101918,BGC0001046,11739,12755,['NDP-hexose-3-ketoreductase'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_12752_14104,3391273281,BGC0001046,12752,14104,"['NDP-hexose-2,3-dehydratase']",True,NRP__Polyketide__Saccharide
+1304144870,1304144870_14101_15342,2616221759,BGC0001046,14101,15342,['cytochrome P450'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_15339_16193,2699919674,BGC0001046,15339,16193,['putative secreted hydrolase'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_16402_17577,4247284199,BGC0001046,16402,17577,['glycosyltransferase'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_17691_18218,1003548857,BGC0001046,17691,18218,,True,NRP__Polyketide__Saccharide
+1304144870,1304144870_18302_19282,729684919,BGC0001046,18302,19282,['asparaginyl-tRNA synthetase-like'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_19279_20601,3818403151,BGC0001046,19279,20601,['ferredoxin-dependent glutamate synthase'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_20544_22301,2693906800,BGC0001046,20544,22301,['non-ribosomal peptide synthetase'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_22449_23435,3743953221,BGC0001046,22449,23435,"['NDP-glucose-4,6-dehydratase']",True,NRP__Polyketide__Saccharide
+1304144870,1304144870_23432_24499,2532062889,BGC0001046,23432,24499,['NDP-glucose synthase'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_24496_25845,1286222860,BGC0001046,24496,25845,['glutamate mutase-E chain'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_25842_26303,1849015405,BGC0001046,25842,26303,['glutamate mutase subunit'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_26650_28749,2485126756,BGC0001046,26650,28749,['putative ATP/GTP binding-protein'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_28862_29503,843136041,BGC0001046,28862,29503,['TetR-family transcriptional regulator'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_29676_31172,1970783006,BGC0001046,29676,31172,['putative transport integral membrain protein'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_31294_32538,2430359979,BGC0001046,31294,32538,['cytochrome P450'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_32589_34136,2819955972,BGC0001046,32589,34136,['putative ent-copalyl diphosphate synthase'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_34133_35035,2652500821,BGC0001046,34133,35035,['putative secreted hydrolase'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_35032_35814,4235615395,BGC0001046,35032,35814,['thioesterase type II'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_35811_46142,3551729218,BGC0001046,35811,46142,['polyketide synthase type I'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_46319_56758,1010173711,BGC0001046,46319,56758,['polyketide synthase type I'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_56865_75347,119044066,BGC0001046,56865,75347,['polyketide synthase type I'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_75897_76637,2974680740,BGC0001046,75897,76637,['putative integral membrane protein'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_76841_77776,50080782,BGC0001046,76841,77776,['putative integral membrane protein'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_77818_78480,3509587678,BGC0001046,77818,78480,['putative integral membrane protein'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_78477_79205,3609952920,BGC0001046,78477,79205,['putative hydrolase'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_79234_79632,1864375887,BGC0001046,79234,79632,['hypothetical protein'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_79840_80457,2532655108,BGC0001046,79840,80457,['putative TetR-family transcriptional regulator'],True,NRP__Polyketide__Saccharide
+1304144870,1304144870_80468_80893,3277788830,BGC0001046,80468,80893,['hypothetical protein'],True,NRP__Polyketide__Saccharide

@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3441003082,3441003082_1_2454,101826667,BGC0001162,1,2454,['fatty acyl ACP ligase'],True,Polyketide
+3441003082,3441003082_2476_9348,911413093,BGC0001162,2476,9348,['polyketide synthase'],True,Polyketide

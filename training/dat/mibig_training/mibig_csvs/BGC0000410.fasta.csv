@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+979606444,979606444_181_4524,3726286060,BGC0000410,181,4524,['non-ribosomal peptide synthetase'],True,NRP
+979606444,979606444_4617_5948,24076229,BGC0000410,4617,5948,['lysine 6-monooxygenase-like protein'],True,NRP
+979606444,979606444_5983_8148,398109606,BGC0000410,5983,8148,['non-ribosomal peptide synthetase'],True,NRP
+979606444,979606444_8379_8930,1143751434,BGC0000410,8379,8930,['putative RNA polymerase sigma-70 factor'],True,NRP
+979606444,979606444_9039_10832,4110716248,BGC0000410,9039,10832,['putative ABC transporter permease/ATP-binding protein'],True,NRP
+979606444,979606444_10826_12595,1730670314,BGC0000410,10826,12595,['putative ABC transporter permease/ATP-binding protein'],True,NRP
+979606444,979606444_12592_13536,4224911437,BGC0000410,12592,13536,['putative transport system permease protein'],True,NRP
+979606444,979606444_13533_14483,3319602136,BGC0000410,13533,14483,['putative ferric siderophore ABC transporter permease protein'],True,NRP
+979606444,979606444_14480_15262,3488247523,BGC0000410,14480,15262,['putative ferric siderophore ABC transporter ATP-binding protein'],True,NRP
+979606444,979606444_15259_16011,886093795,BGC0000410,15259,16011,['putative ferric siderophore ABC transporter periplasmic siderophore binding protein'],True,NRP

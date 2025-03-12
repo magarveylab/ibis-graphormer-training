@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2064334789,2064334789_1_633,2631737656,BGC0000884,1,633,['amino acid exporter protein'],True,Other
+2064334789,2064334789_697_1860,3056800903,BGC0000884,697,1860,['aminotransferase subfamily I gamma'],True,Other
+2064334789,2064334789_1857_2909,2178495543,BGC0000884,1857,2909,['methyltransferase type 12'],True,Other

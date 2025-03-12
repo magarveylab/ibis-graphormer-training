@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3224216581,3224216581_1_345,2913785572,BGC0001986,1,345,['cyclodipeptide oxidase'],True,Other
+3224216581,3224216581_346_945,3812297516,BGC0001986,346,945,['cyclodipeptide oxidase'],True,Other
+3224216581,3224216581_946_2181,1074376544,BGC0001986,946,2181,['P450'],True,Other
+3224216581,3224216581_2278_2952,1128196326,BGC0001986,2278,2952,['cyclodipeptide synthase'],True,Other
+3224216581,3224216581_2953_3657,394361378,BGC0001986,2953,3657,['methyltransferase'],True,Other

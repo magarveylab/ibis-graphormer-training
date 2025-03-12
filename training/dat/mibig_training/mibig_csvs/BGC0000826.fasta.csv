@@ -1,0 +1,18 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3161349764,3161349764_1_1173,1102093826,BGC0000826,1,1173,['Transcriptional regulator'],True,Alkaloid
+3161349764,3161349764_1324_2973,2279098429,BGC0000826,1324,2973,['Staurosporine biosynthesis monooxygenase StaC'],True,Alkaloid
+3161349764,3161349764_3075_3950,2615602822,BGC0000826,3075,3950,['Staurosporine biosynthesis methyltransferase StaMB'],True,Alkaloid
+3161349764,3161349764_3947_4648,3367205307,BGC0000826,3947,4648,"['Staurosporine biosynthesis 3,5-epimerase StaE']",True,Alkaloid
+3161349764,3161349764_4720_5829,4096160608,BGC0000826,4720,5829,['Staurosporine biosynthesis aminotransferase StaI'],True,Alkaloid
+3161349764,3161349764_5893_6900,3703292401,BGC0000826,5893,6900,['Staurosporine biosynthesis 4-ketoreductase StaK'],True,Alkaloid
+3161349764,3161349764_6902_8560,4100688537,BGC0000826,6902,8560,"['Staurosporine biosynthesis 2,3-dehydratase StaJ']",True,Alkaloid
+3161349764,3161349764_8672_9505,87465699,BGC0000826,8672,9505,['Staurosporine biosynthesis methyltransferase StaMA'],True,Alkaloid
+3161349764,3161349764_9597_11042,3953452838,BGC0000826,9597,11042,['Staurosporine biosynthesis cytochrome P450 StaP'],True,Alkaloid
+3161349764,3161349764_11170_14787,2085980051,BGC0000826,11170,14787,['Staurosporine biosynthesis chromopyrrolic acid synthase StaD'],True,Alkaloid
+3161349764,3161349764_14879_16396,3617043587,BGC0000826,14879,16396,['Staurosporine biosynthesis L-amino acid oxidase StaO'],True,Alkaloid
+3161349764,3161349764_16915_18231,1792671284,BGC0000826,16915,18231,['Staurosporine biosynthesis N-glycosyltransferase StaG'],True,Alkaloid
+3161349764,3161349764_18228_19631,2149941168,BGC0000826,18228,19631,['Staurosporine biosynthesis Cytochrome P450 StaN'],True,Alkaloid
+3161349764,3161349764_19690_20856,630129238,BGC0000826,19690,20856,['Staurosporine biosynthesis glucose-1-phosphate thymidyltransferase StaA'],True,Alkaloid
+3161349764,3161349764_20853_21827,2322411174,BGC0000826,20853,21827,"['Staurosporine biosynthesis dTDP-glucose 4,6-dehydratase StaB']",True,Alkaloid
+3161349764,3161349764_21817_24972,13953398,BGC0000826,21817,24972,['Staurosporine biosynthesis transcriptional activator StaR'],True,Alkaloid
+3161349764,3161349764_25199_25873,3018939397,BGC0000826,25199,25873,['Putative methyltransferase'],True,Alkaloid

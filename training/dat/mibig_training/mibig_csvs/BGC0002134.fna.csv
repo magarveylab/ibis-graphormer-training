@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+592381510,592381510_1_924,673875148,BGC0002134,1,924,['acetylation'],True,Other
+592381510,592381510_921_2192,3328644253,BGC0002134,921,2192,['activate carboxylate with ATP and ligate second amino acid'],True,Other
+592381510,592381510_2237_4642,3293881079,BGC0002134,2237,4642,"['ligate third amino acid, reduce CoA thioester to aldehyde']",True,Other
+592381510,592381510_4644_5774,647365352,BGC0002134,4644,5774,['activate carboxylate with CoA'],True,Other

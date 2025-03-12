@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+985338248,985338248_1_2667,3891549122,BGC0000427,1,2667,['Amino acid adenylation'],True,NRP
+985338248,985338248_2824_4200,3893265493,BGC0000427,2824,4200,['ATP-grasp enzyme-like protein'],True,NRP
+985338248,985338248_4215_5054,3663444332,BGC0000427,4215,5054,"['O-methyltransferase, family 3']",True,NRP
+985338248,985338248_5229_6461,3111487726,BGC0000427,5229,6461,['3-dehydroquinate synthase'],True,NRP

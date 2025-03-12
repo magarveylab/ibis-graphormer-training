@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1412468236,1412468236_1_1260,722188034,BGC0002295,1,1260,['MFS transporter'],True,NRP__Saccharide
+1412468236,1412468236_1565_5704,3987480414,BGC0002295,1565,5704,['NRPS(A-Ox-T-TE-Tau)'],True,NRP__Saccharide
+1412468236,1412468236_5736_6689,1324144354,BGC0002295,5736,6689,"[""Pseudouridine-5'-phosphate glycosidase""]",True,NRP__Saccharide
+1412468236,1412468236_6686_8566,2681172068,BGC0002295,6686,8566,['HAD phosphatase and DUF4243 domain containing protein'],True,NRP__Saccharide
+1412468236,1412468236_8593_9315,2637528482,BGC0002295,8593,9315,['Uracil phosphoribosyltransferase'],True,NRP__Saccharide

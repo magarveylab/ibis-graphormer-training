@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+381046198,381046198_1_1173,2474357861,BGC0000890,1,1173,"['Bmp10, Ferredoxin Reductase']",True,Other
+381046198,381046198_1220_1540,56938850,BGC0000890,1220,1540,"['Bmp9, Ferredoxin']",True,Other
+381046198,381046198_1549_2139,1231683009,BGC0000890,1549,2139,['bmp8'],True,Other
+381046198,381046198_2372_3445,1348234397,BGC0000890,2372,3445,"['Bmp1, ACP-TE didomain']",True,Other
+381046198,381046198_3445_4665,3089713918,BGC0000890,3445,4665,"['Bmp2, Flavin-dependent pyrroly-S-ACP brominase']",True,Other
+381046198,381046198_4675_5817,1952899642,BGC0000890,4675,5817,"['Bmp3, Flavin-dependent prolyl-S-ACP dehydrogenase']",True,Other
+381046198,381046198_5814_7361,2966072114,BGC0000890,5814,7361,"['Bmp4, prolyl adenylation domain']",True,Other
+381046198,381046198_7408_8955,4129503522,BGC0000890,7408,8955,"['Bmp5, Flavin-dependent single-component p-hydroxybenzoate brominase/decarboxylase']",True,Other
+381046198,381046198_8979_9608,2101777452,BGC0000890,8979,9608,"['Bmp6, Chorismate lyase']",True,Other
+381046198,381046198_9612_11090,354523034,BGC0000890,9612,11090,"['Bmp7, Cytochrome P450']",True,Other

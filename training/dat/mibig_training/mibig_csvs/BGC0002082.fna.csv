@@ -1,0 +1,21 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1273587019,1273587019_8_904,2571631579,BGC0002082,8,904,['acyltransferase domain-containing protein'],True,NRP__Polyketide
+1273587019,1273587019_972_1796,3689366667,BGC0002082,972,1796,"[""4'-phosphopantetheinyl transferase superfamily protein""]",True,NRP__Polyketide
+1273587019,1273587019_1754_2620,3028098927,BGC0002082,1754,2620,['metallophosphoesterase'],True,NRP__Polyketide
+1273587019,1273587019_2748_3554,1888266590,BGC0002082,2748,3554,['FkbM family methyltransferase'],True,NRP__Polyketide
+1273587019,1273587019_3570_4826,2939614817,BGC0002082,3570,4826,['cytochrome P450'],True,NRP__Polyketide
+1273587019,1273587019_4823_6079,1548672357,BGC0002082,4823,6079,['3-hydroxy-3-methylglutaryl-ACP synthase'],True,NRP__Polyketide
+1273587019,1273587019_6123_6368,3656128343,BGC0002082,6123,6368,['acyl carrier protein'],True,NRP__Polyketide
+1273587019,1273587019_6349_7569,392040318,BGC0002082,6349,7569,['polyketide beta-ketoacyl:ACP synthase'],True,NRP__Polyketide
+1273587019,1273587019_7566_8339,718419713,BGC0002082,7566,8339,['enoyl-CoA hydratase/isomerase'],True,NRP__Polyketide
+1273587019,1273587019_8303_10312,4234008795,BGC0002082,8303,10312,['asparagine synthase (glutamine-hydrolyzing)'],True,NRP__Polyketide
+1273587019,1273587019_10366_10614,1905775499,BGC0002082,10366,10614,['acyl carrier protein'],True,NRP__Polyketide
+1273587019,1273587019_11035_12672,3249393921,BGC0002082,11035,12672,['cyclic peptide export ABC transporter'],True,NRP__Polyketide
+1273587019,1273587019_12675_14324,3270062046,BGC0002082,12675,14324,['cyclic peptide export ABC transporter'],True,NRP__Polyketide
+1273587019,1273587019_14321_16684,3297363447,BGC0002082,14321,16684,['ACP S-malonyltransferase'],True,NRP__Polyketide
+1273587019,1273587019_16681_37371,1175111772,BGC0002082,16681,37371,['SDR family NAD(P)-dependent oxidoreductase'],True,NRP__Polyketide
+1273587019,1273587019_37368_38705,4135460392,BGC0002082,37368,38705,['SidA/IucD/PvdA family monooxygenase'],True,NRP__Polyketide
+1273587019,1273587019_38702_59023,3307406766,BGC0002082,38702,59023,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide
+1273587019,1273587019_59168_60034,2506405399,BGC0002082,59168,60034,['prohibitin family protein'],True,NRP__Polyketide
+1273587019,1273587019_60039_61415,80947120,BGC0002082,60039,61415,['ABC transporter substrate-binding protein'],True,NRP__Polyketide
+1273587019,1273587019_61412_61633,3493987596,BGC0002082,61412,61633,['hypothetical protein'],True,NRP__Polyketide

@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4026494595,4026494595_1_1809,521497991,BGC0000942,1,1809,['petrobactin biosynthesis protein AsbA'],True,Other
+4026494595,4026494595_1850_3706,116658021,BGC0000942,1850,3706,['petrobactin biosynthesis protein AsbB'],True,Other
+4026494595,4026494595_3693_4931,1783783566,BGC0000942,3693,4931,"['3,4-dihydroxybenzoic acid-AMP ligase AsbC']",True,Other
+4026494595,4026494595_4928_5203,2969594004,BGC0000942,4928,5203,['petrobactin biosynthesis aryl carrier protein AsbD'],True,Other
+4026494595,4026494595_5227_6210,2130005834,BGC0000942,5227,6210,['petrobactin biosynthesis protein AsbE'],True,Other
+4026494595,4026494595_6248_7090,2182524377,BGC0000942,6248,7090,['petrobactin biosynthesis protein AsbF'],True,Other

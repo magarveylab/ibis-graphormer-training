@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+989339246,989339246_1_2001,2369941983,BGC0001634,1,2001,,True,RiPP
+989339246,989339246_1949_2425,3357555126,BGC0001634,1949,2425,['lasso peptide biosynthesis B2 protein'],True,RiPP
+989339246,989339246_2422_2673,525245311,BGC0001634,2422,2673,['lasso peptide biosynthesis PqqD family chaperone'],True,RiPP
+989339246,989339246_2670_4790,3777304555,BGC0001634,2670,4790,['asparagine synthase-related protein'],True,RiPP
+989339246,989339246_4841_4963,4044659397,BGC0001634,4841,4963,['keywimysin-related RiPP'],True,RiPP

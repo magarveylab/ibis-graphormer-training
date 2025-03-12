@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3336543953,3336543953_9_596,2572531106,BGC0002171,9,596,['hypothetical protein'],True,NRP__Polyketide
+3336543953,3336543953_1753_7317,3944849148,BGC0002171,1753,7317,['hypothetical protein'],True,NRP__Polyketide

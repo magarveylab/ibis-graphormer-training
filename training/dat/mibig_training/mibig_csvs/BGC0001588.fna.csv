@@ -1,0 +1,19 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3525858753,3525858753_1_1245,3028999057,BGC0001588,1,1245,['glycosyltransferase family 4 protein'],True,Saccharide
+3525858753,3525858753_1426_2715,341414046,BGC0001588,1426,2715,['polysaccharide biosynthesis/export family protein'],True,Saccharide
+3525858753,3525858753_2787_4169,1140183192,BGC0001588,2787,4169,['undecaprenyl-phosphate glucose phosphotransferase'],True,Saccharide
+3525858753,3525858753_4202_5011,1602428041,BGC0001588,4202,5011,['Crp/Fnr family transcriptional regulator'],True,Saccharide
+3525858753,3525858753_5935_6729,2846243673,BGC0001588,5935,6729,['Crp/Fnr family transcriptional regulator'],True,Saccharide
+3525858753,3525858753_6981_7232,3593112396,BGC0001588,6981,7232,['acyl carrier protein'],True,Saccharide
+3525858753,3525858753_7229_8452,2594354612,BGC0001588,7229,8452,['acyl-CoA/acyl-ACP dehydrogenase'],True,Saccharide
+3525858753,3525858753_8458_9423,4030430154,BGC0001588,8458,9423,['amino acid--[acyl-carrier-protein] ligase'],True,Saccharide
+3525858753,3525858753_9420_10508,1772875516,BGC0001588,9420,10508,['DUF1839 family protein'],True,Saccharide
+3525858753,3525858753_10505_13024,15308633,BGC0001588,10505,13024,['glycoside hydrolase family 2 protein'],True,Saccharide
+3525858753,3525858753_13021_15009,1705705980,BGC0001588,13021,15009,['alpha/beta hydrolase'],True,Saccharide
+3525858753,3525858753_15064_16452,1881296713,BGC0001588,15064,16452,['sigma-54 dependent transcriptional regulator'],True,Saccharide
+3525858753,3525858753_17197_17898,3816891883,BGC0001588,17197,17898,['phosphatase PAP2 family protein'],True,Saccharide
+3525858753,3525858753_17965_19206,1938800550,BGC0001588,17965,19206,['glycosyltransferase family 4 protein'],True,Saccharide
+3525858753,3525858753_19584_20234,2498685867,BGC0001588,19584,20234,['hypothetical protein'],True,Saccharide
+3525858753,3525858753_20231_21823,1720193314,BGC0001588,20231,21823,['mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase'],True,Saccharide
+3525858753,3525858753_21858_23054,3756178000,BGC0001588,21858,23054,['glycosyltransferase'],True,Saccharide
+3525858753,3525858753_23131_24399,3487663796,BGC0001588,23131,24399,['oligosaccharide flippase family protein'],True,Saccharide

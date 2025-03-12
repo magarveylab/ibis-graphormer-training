@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2229860700,2229860700_140_1687,2658311377,BGC0001301,140,1687,['AtcA; major facilitator superfamily (MFS) transporter; 12 transmembrane helices'],True,Polyketide
+2229860700,2229860700_1684_2298,286577261,BGC0001301,1684,2298,"['AtcB; transcriptional regulator, TetR family']",True,Polyketide
+2229860700,2229860700_2782_6108,4226728194,BGC0001301,2782,6108,"['AtcC; trans-AT; acylhydrolase, acyltransferase (malonyl-CoA), FMN-dependent enoylreductase']",True,Polyketide
+2229860700,2229860700_6105_25790,846918362,BGC0001301,6105,25790,"['AtcD; polyketide synthase, modules 1-4']",True,Polyketide
+2229860700,2229860700_25780_39186,1122401057,BGC0001301,25780,39186,"['AtcE; polyketide synthase, modules 5-7']",True,Polyketide
+2229860700,2229860700_39183_50792,3331816907,BGC0001301,39183,50792,"['AtcF; polyketide synthase, modules 8-10']",True,Polyketide
+2229860700,2229860700_50789_51739,2091844083,BGC0001301,50789,51739,,True,Polyketide
+2229860700,2229860700_51736_52485,1077846286,BGC0001301,51736,52485,"['AtcH; putative antibiotic-transport ABC-transporter, leucine and valine rich protein, 6 transmembrane helices']",True,Polyketide
+2229860700,2229860700_52482_53189,503690913,BGC0001301,52482,53189,"['AtcI; hypothetical protein, 6 transmembrane helices']",True,Polyketide

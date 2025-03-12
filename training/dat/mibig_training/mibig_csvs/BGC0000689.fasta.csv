@@ -1,0 +1,27 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3752223083,3752223083_102_1235,433025592,BGC0000689,102,1235,['putative integral membrane inon antiporter protein'],True,Saccharide
+3752223083,3752223083_1866_2876,3442490516,BGC0000689,1866,2876,['putative alcohol dehydrogenase'],True,Saccharide
+3752223083,3752223083_3169_4575,2963578060,BGC0000689,3169,4575,['putative transmembrane efflux protein'],True,Saccharide
+3752223083,3752223083_4785_5705,3660831509,BGC0000689,4785,5705,['putative WD-repeat-containing protein'],True,Saccharide
+3752223083,3752223083_5760_6272,4175772926,BGC0000689,5760,6272,['conserved hypothetical protein'],True,Saccharide
+3752223083,3752223083_6369_7613,595081477,BGC0000689,6369,7613,['glutamate-1-semialdehyde aminotransferase-like protein'],True,Saccharide
+3752223083,3752223083_7863_9779,2365882322,BGC0000689,7863,9779,['putative methyltransferase'],True,Saccharide
+3752223083,3752223083_10415_11767,926497431,BGC0000689,10415,11767,['glutamate-1-semialdehyde aminotransferase-like protein'],True,Saccharide
+3752223083,3752223083_11805_12617,3577361131,BGC0000689,11805,12617,['aminoglycoside-O-phosphoryl-transferase'],True,Saccharide
+3752223083,3752223083_12669_14003,3472584310,BGC0000689,12669,14003,['glutamate-1-semialdehyde aminotransferase-like protein'],True,Saccharide
+3752223083,3752223083_14096_14467,3153942085,BGC0000689,14096,14467,['conserved hypothetical protein'],True,Saccharide
+3752223083,3752223083_14475_15731,2277097538,BGC0000689,14475,15731,['putative L-glutamine:scyllo-inosose aminotransferase'],True,Saccharide
+3752223083,3752223083_15731_17218,2576413384,BGC0000689,15731,17218,['putative methyltransferase'],True,Saccharide
+3752223083,3752223083_17714_18982,982216257,BGC0000689,17714,18982,['putative glycosyltransferase'],True,Saccharide
+3752223083,3752223083_18975_20000,3749096514,BGC0000689,18975,20000,['putative NAD dependent dehydrogenase'],True,Saccharide
+3752223083,3752223083_19993_21186,2469047607,BGC0000689,19993,21186,['2-deoxy-scyllo-inosose synthase'],True,Saccharide
+3752223083,3752223083_21321_22583,3603078321,BGC0000689,21321,22583,['putative L-glutamine:2-deoxy-scyllo-inosose aminotransferase'],True,Saccharide
+3752223083,3752223083_22878_23702,3724604060,BGC0000689,22878,23702,['gentamicin resistance ribosomal methyl transferase'],True,Saccharide
+3752223083,3752223083_23739_24986,3471778008,BGC0000689,23739,24986,['GtmG protein'],True,Saccharide
+3752223083,3752223083_24983_25810,3587348535,BGC0000689,24983,25810,['putative dehydrogenase'],True,Saccharide
+3752223083,3752223083_25983_27506,4286099559,BGC0000689,25983,27506,['putative sugar-alcohol dehydrogenase'],True,Saccharide
+3752223083,3752223083_27538_28791,848046144,BGC0000689,27538,28791,['putative glutamate-1-semialdehyde aminotransferase'],True,Saccharide
+3752223083,3752223083_28805_29722,17308886,BGC0000689,28805,29722,['putative ribosomal RNA-methyltransferase'],True,Saccharide
+3752223083,3752223083_29730_30890,2491673404,BGC0000689,29730,30890,['putative tRNA-ribosyltransferase'],True,Saccharide
+3752223083,3752223083_30957_32036,400791891,BGC0000689,30957,32036,['putative tryptophanyl-tRNA synthatase'],True,Saccharide
+3752223083,3752223083_32389_32658,2305447216,BGC0000689,32389,32658,,True,Saccharide

@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1157539993,1157539993_461_601,1278838671,BGC0000575,461,601,['lariatin precursor protein'],True,RiPP
+1157539993,1157539993_628_2442,4010813483,BGC0000575,628,2442,['lariatin biosynthetic protein'],True,RiPP
+1157539993,1157539993_2454_2705,2840895775,BGC0000575,2454,2705,['lariatin biosynthetic protein'],True,RiPP
+1157539993,1157539993_2702_3163,417660212,BGC0000575,2702,3163,['lariatin biosynthetic protein'],True,RiPP
+1157539993,1157539993_3160_4938,2951551593,BGC0000575,3160,4938,['lariatin biosynthetic protein'],True,RiPP
+1157539993,1157539993_4981_5595,1384864931,BGC0000575,4981,5595,,False,

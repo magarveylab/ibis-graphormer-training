@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2275184275,2275184275_1_648,1603282961,BGC0000849,1,648,['gamma-butyrolactone binding protein'],True,Other
+2275184275,2275184275_766_1710,1265900563,BGC0000849,766,1710,['ScbA protein'],True,Other

@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+832596077,832596077_116_319,1628202327,BGC0000623,116,319,['plantaricin W beta precursor'],True,RiPP
+832596077,832596077_348_527,2788299860,BGC0000623,348,527,['plantaricin W alpha precursor'],True,RiPP
+832596077,832596077_672_2792,350407373,BGC0000623,672,2792,['ABC transporter'],True,RiPP

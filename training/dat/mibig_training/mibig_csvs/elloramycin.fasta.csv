@@ -1,0 +1,27 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+704540707,704540707_3_404,3307529326,BGC0000219,3,404,['dehydrogenase'],True,Polyketide__Saccharide
+704540707,704540707_414_1085,798070499,BGC0000219,414,1085,['phosphatase'],True,Polyketide__Saccharide
+704540707,704540707_1169_1720,1543140675,BGC0000219,1169,1720,['membrane protein'],True,Polyketide__Saccharide
+704540707,704540707_1881_2807,2811582764,BGC0000219,1881,2807,['C12a O-methyltransferase'],True,Polyketide__Saccharide
+704540707,704540707_3099_4658,2663392996,BGC0000219,3099,4658,['elloramycin permease'],True,Polyketide__Saccharide
+704540707,704540707_4655_5875,825980900,BGC0000219,4655,5875,['ElmF protein'],True,Polyketide__Saccharide
+704540707,704540707_6162_7781,4146830480,BGC0000219,6162,7781,['TcmB2 oxygenase'],True,Polyketide__Saccharide
+704540707,704540707_7813_8142,130192146,BGC0000219,7813,8142,['TcmF1 monooxygenase'],True,Polyketide__Saccharide
+704540707,704540707_8139_8459,796298096,BGC0000219,8139,8459,['TcmF2 cyclase'],True,Polyketide__Saccharide
+704540707,704540707_8471_8902,1815807156,BGC0000219,8471,8902,['third ring cyclase'],True,Polyketide__Saccharide
+704540707,704540707_8899_10170,3417481905,BGC0000219,8899,10170,['ketoacyl synthase alpha'],True,Polyketide__Saccharide
+704540707,704540707_10167_11402,2609022030,BGC0000219,10167,11402,['ketoacyl synthase beta'],True,Polyketide__Saccharide
+704540707,704540707_11429_11680,197111455,BGC0000219,11429,11680,['acyl carrier protein'],True,Polyketide__Saccharide
+704540707,704540707_11677_12135,3212377820,BGC0000219,11677,12135,['aromatase'],True,Polyketide__Saccharide
+704540707,704540707_12132_13181,3692652602,BGC0000219,12132,13181,['C3 O-methyltransferase'],True,Polyketide__Saccharide
+704540707,704540707_13178_14008,662452543,BGC0000219,13178,14008,['carboxyl O-methyltransferase'],True,Polyketide__Saccharide
+704540707,704540707_14028_15164,2628732071,BGC0000219,14028,15164,"[""rhamnose C2'-methyltransferase""]",True,Polyketide__Saccharide
+704540707,704540707_15166_16314,2476595695,BGC0000219,15166,16314,['glycosyltransferase'],True,Polyketide__Saccharide
+704540707,704540707_16311_17483,1170260903,BGC0000219,16311,17483,"[""rhamnose C3'-methyltransferase""]",True,Polyketide__Saccharide
+704540707,704540707_17510_18295,2271491240,BGC0000219,17510,18295,"[""rhamnose C4'-methyltransferase""]",True,Polyketide__Saccharide
+704540707,704540707_18306_18506,473465880,BGC0000219,18306,18506,,True,Polyketide__Saccharide
+704540707,704540707_18668_19450,1868311283,BGC0000219,18668,19450,['dehydrogenase'],True,Polyketide__Saccharide
+704540707,704540707_19447_20376,592700901,BGC0000219,19447,20376,['lipase'],True,Polyketide__Saccharide
+704540707,704540707_20417_21688,2914415231,BGC0000219,20417,21688,['solute binding protein'],True,Polyketide__Saccharide
+704540707,704540707_21952_23718,2409335554,BGC0000219,21952,23718,['VanW-like protein'],True,Polyketide__Saccharide
+704540707,704540707_23835_24200,3025620300,BGC0000219,23835,24200,['IclR-family regulator'],True,Polyketide__Saccharide

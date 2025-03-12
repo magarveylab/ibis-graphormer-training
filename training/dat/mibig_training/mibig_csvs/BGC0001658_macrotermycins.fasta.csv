@@ -1,0 +1,27 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3222673223,3222673223_1_654,2530545945,BGC0001658,1,654,['Transcriptional regulatory protein DegU'],True,Polyketide
+3222673223,3222673223_678_1793,1739937253,BGC0001658,678,1793,['Sensor histidine kinase LiaS'],True,Polyketide
+3222673223,3222673223_1784_3046,555637868,BGC0001658,1784,3046,['Desosaminyl transferase EryCIII precursor'],True,Polyketide
+3222673223,3222673223_3281_4213,3581859209,BGC0001658,3281,4213,['L-amino acid amidase'],True,Polyketide
+3222673223,3222673223_4206_5165,650313311,BGC0001658,4206,5165,['Malonyl CoA-acyl carrier protein transacylase'],True,Polyketide
+3222673223,3222673223_5158_5403,145978262,BGC0001658,5158,5403,['Acyl carrier protein'],True,Polyketide
+3222673223,3222673223_5637_7136,3245533252,BGC0001658,5637,7136,['Surfactin synthase subunit 1'],True,Polyketide
+3222673223,3222673223_7336_8796,533526254,BGC0001658,7336,8796,['Long-chain-fatty-acid--CoA ligase'],True,Polyketide
+3222673223,3222673223_8793_10007,2281852990,BGC0001658,8793,10007,['L-glutamyl-[BtrI acyl-carrier protein] decarboxylase'],True,Polyketide
+3222673223,3222673223_10004_10480,1314584975,BGC0001658,10004,10480,['Methylaspartate mutase S chain'],True,Polyketide
+3222673223,3222673223_10477_11268,3194542395,BGC0001658,10477,11268,['Methylaspartate mutase E chain'],True,Polyketide
+3222673223,3222673223_11210_11752,3855311975,BGC0001658,11210,11752,['Methylaspartate mutase E chain (MutE)'],True,Polyketide
+3222673223,3222673223_11752_12948,2665607252,BGC0001658,11752,12948,['Cytochrome P450 107B1'],True,Polyketide
+3222673223,3222673223_13102_15141,2739503272,BGC0001658,13102,15141,['Phenolphthiocerol synthesis polyketide synthase type I Pks15/1'],True,Polyketide
+3222673223,3222673223_15150_18428,531606201,BGC0001658,15150,18428,['Phenolphthiocerol synthesis polyketide synthase type I Pks15/1'],True,Polyketide
+3222673223,3222673223_18494_18757,51543683,BGC0001658,18494,18757,['hypothetical protein'],True,Polyketide
+3222673223,3222673223_18864_19679,3351771326,BGC0001658,18864,19679,['Linear gramicidin dehydrogenase LgrE'],True,Polyketide
+3222673223,3222673223_19967_28408,254960625,BGC0001658,19967,28408,['Phenolphthiocerol synthesis polyketide synthase type I Pks15/1'],True,Polyketide
+3222673223,3222673223_28907_29095,238192193,BGC0001658,28907,29095,"['UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain']",True,Polyketide
+3222673223,3222673223_29445_29861,1943553529,BGC0001658,29445,29861,['hypothetical protein'],True,Polyketide
+3222673223,3222673223_30082_30978,2099395990,BGC0001658,30082,30978,['Desosaminyl transferase EryCIII precursor'],True,Polyketide
+3222673223,3222673223_31237_36495,2014576035,BGC0001658,31237,36495,['Phenolphthiocerol synthesis polyketide synthase type I Pks15/1'],True,Polyketide
+3222673223,3222673223_36492_41255,4268816430,BGC0001658,36492,41255,"['Erythronolide synthase, modules 1 and 2']",True,Polyketide
+3222673223,3222673223_41289_51665,252399255,BGC0001658,41289,51665,['Phenolphthiocerol synthesis polyketide synthase type I Pks15/1'],True,Polyketide
+3222673223,3222673223_51779_52702,2756942198,BGC0001658,51779,52702,['Daunorubicin/doxorubicin resistance ATP-binding protein DrrA'],True,Polyketide
+3222673223,3222673223_52702_53529,3972682786,BGC0001658,52702,53529,['Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB'],True,Polyketide

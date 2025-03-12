@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3832952056,3832952056_1_6675,1441700387,BGC0002429,1,6675,['Polyketide synthase'],True,Terpene__Polyketide
+3832952056,3832952056_8408_8689,4096567682,BGC0002429,8408,8689,['hypothetical protein'],True,Terpene__Polyketide
+3832952056,3832952056_9378_9674,491522007,BGC0002429,9378,9674,['FAD binding domain-containing protein'],True,Terpene__Polyketide
+3832952056,3832952056_9798_10067,2531444535,BGC0002429,9798,10067,['FAD binding domain-containing protein'],True,Terpene__Polyketide
+3832952056,3832952056_10116_10553,1884855969,BGC0002429,10116,10553,['FAD binding domain-containing protein'],True,Terpene__Polyketide
+3832952056,3832952056_10573_11037,3824810887,BGC0002429,10573,11037,['FAD binding domain-containing protein'],True,Terpene__Polyketide
+3832952056,3832952056_11679_11807,2680020390,BGC0002429,11679,11807,['hypothetical protein'],True,Terpene__Polyketide
+3832952056,3832952056_11913_12500,2566460351,BGC0002429,11913,12500,['hypothetical protein'],True,Terpene__Polyketide
+3832952056,3832952056_13374_13664,3034221973,BGC0002429,13374,13664,['Short chain dehydrogenase'],True,Terpene__Polyketide
+3832952056,3832952056_13748_14296,2862237953,BGC0002429,13748,14296,['Short chain dehydrogenase'],True,Terpene__Polyketide

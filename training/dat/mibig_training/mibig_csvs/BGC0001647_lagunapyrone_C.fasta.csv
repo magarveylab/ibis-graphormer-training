@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2291180255,2291180255_1_2247,2122435499,BGC0001647,1,2247,['Regulatory protein AfsR'],True,Polyketide
+2291180255,2291180255_2391_2915,640483128,BGC0001647,2391,2915,['putative protein-S-isoprenylcysteine methyltransferase'],True,Polyketide
+2291180255,2291180255_2929_3981,1647210521,BGC0001647,2929,3981,['Alpha-pyrone synthesis polyketide synthase-like Pks11'],True,Polyketide
+2291180255,2291180255_4273_12006,594043230,BGC0001647,4273,12006,['Beta-ketoacyl-acyl-carrier-protein synthase I'],True,Polyketide
+2291180255,2291180255_12060_13532,565235903,BGC0001647,12060,13532,['tricarballylate dehydrogenase'],True,Polyketide
+2291180255,2291180255_13684_14157,2653031172,BGC0001647,13684,14157,['alkylhydroperoxidase AhpD family core domain protein'],True,Polyketide
+2291180255,2291180255_14246_15988,2083713564,BGC0001647,14246,15988,['FAD-linked oxidoreductase'],True,Polyketide
+2291180255,2291180255_16175_17092,572664804,BGC0001647,16175,17092,['Nodulation protein NolA'],True,Polyketide
+2291180255,2291180255_17245_18309,2289706490,BGC0001647,17245,18309,['D-arabitol-phosphate dehydrogenase'],True,Polyketide

@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+587345275,587345275_1_1287,1366297550,BGC0002352,1,1287,['lysine 6-monooxygenase'],True,Other
+587345275,587345275_1319_2260,1398844528,BGC0002352,1319,2260,['methionyl-tRNA formyltransferase'],True,Other
+587345275,587345275_2291_3046,3257884840,BGC0002352,2291,3046,['thioesterase'],True,Other
+587345275,587345275_3043_4356,3311657213,BGC0002352,3043,4356,['beta-ketoacyl synthase'],True,Other
+587345275,587345275_4349_7513,1853449983,BGC0002352,4349,7513,['polyketide synthase'],True,Other
+587345275,587345275_7548_13499,3265125829,BGC0002352,7548,13499,['non-ribosomal peptide synthetase'],True,Other
+587345275,587345275_13496_18187,1892102255,BGC0002352,13496,18187,['non-ribosomal peptide synthetase'],True,Other

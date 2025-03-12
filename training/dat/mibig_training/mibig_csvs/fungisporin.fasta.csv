@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1089629076,1089629076_1_1377,781512720,BGC0000357,1,1377,['cyclic hydrophobic tetrapeptide'],True,NRP
+1089629076,1089629076_1405_13029,4267831856,BGC0000357,1405,13029,['cyclic hydrophobic tetrapeptide'],True,NRP
+1089629076,1089629076_13111_15873,2624118925,BGC0000357,13111,15873,['cyclic hydrophobic tetrapeptide'],True,NRP
+1089629076,1089629076_15870_18536,3588394045,BGC0000357,15870,18536,['cyclic hydrophobic tetrapeptide'],True,NRP

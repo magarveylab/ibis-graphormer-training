@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+10393422,10393422_1_4683,2224953755,BGC0000416,1,4683,['peptide synthetase'],True,NRP
+10393422,10393422_4680_9344,204461114,BGC0000416,4680,9344,['Peptide synthetase'],True,NRP
+10393422,10393422_9341_15337,2935290036,BGC0000416,9341,15337,['peptide synthetase'],True,NRP

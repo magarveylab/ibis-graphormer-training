@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1542323432,1542323432_1_747,3749897908,BGC0000528,1,747,['conserved membrane protein'],True,RiPP
+1542323432,1542323432_753_1493,1909218364,BGC0000528,753,1493,['conserved membrane protein'],True,RiPP
+1542323432,1542323432_1502_2401,1962786622,BGC0000528,1502,2401,"['putative ABC transporter, ATP-binding protein']",True,RiPP
+1542323432,1542323432_2555_3229,1218208813,BGC0000528,2555,3229,"['putative two-component system, response regulator']",True,RiPP
+1542323432,1542323432_3226_4362,2461152159,BGC0000528,3226,4362,"['putative two-component system, sensor kinase']",True,RiPP
+1542323432,1542323432_4724_4930,2460620331,BGC0000528,4724,4930,['putative lantibiotic precursor'],True,RiPP
+1542323432,1542323432_5022_8183,3807790923,BGC0000528,5022,8183,['putative lantibiotic modifying enzyme'],True,RiPP

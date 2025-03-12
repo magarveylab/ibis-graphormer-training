@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1192004150,1192004150_1317_6575,2224671088,BGC0001276,1317,6575,['6-methylsalicylic acid synthase'],True,Polyketide

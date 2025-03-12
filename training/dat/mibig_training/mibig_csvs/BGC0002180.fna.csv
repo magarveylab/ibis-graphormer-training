@@ -1,0 +1,19 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1158467921,1158467921_751_1011,3631298731,BGC0002180,751,1011,['conserved hypothetical protein'],True,Polyketide
+1158467921,1158467921_1246_1512,323908927,BGC0002180,1246,1512,"['cytochrome P450, putative (Eurofung)']",True,Polyketide
+1158467921,1158467921_1591_2388,1961998889,BGC0002180,1591,2388,"['cytochrome P450, putative (Eurofung)']",True,Polyketide
+1158467921,1158467921_2643_3095,2009688104,BGC0002180,2643,3095,"['cytochrome P450, putative (Eurofung)']",True,Polyketide
+1158467921,1158467921_3443_4666,4098787600,BGC0002180,3443,4666,"['Putative Zn(II)2Cys6 transcription factor, putative (Eurofung)']",True,Polyketide
+1158467921,1158467921_4832_5011,147126398,BGC0002180,4832,5011,,True,Polyketide
+1158467921,1158467921_5334_6059,90620579,BGC0002180,5334,6059,"['Putative Zn(II)2Cys6 transcription factor, putative (Eurofung)']",True,Polyketide
+1158467921,1158467921_8407_9003,3758015164,BGC0002180,8407,9003,"['toxin biosynthesis protein (GliH), putative (AFU_orthologue; AFUA_5G10320)']",True,Polyketide
+1158467921,1158467921_8981_9712,3012353051,BGC0002180,8981,9712,"['toxin biosynthesis protein (GliH), putative (AFU_orthologue; AFUA_5G10320)']",True,Polyketide
+1158467921,1158467921_9974_10294,701842158,BGC0002180,9974,10294,,True,Polyketide
+1158467921,1158467921_10385_11911,3165954202,BGC0002180,10385,11911,"['MFS transporter, putative (AFU_orthologue; AFUA_5G10340)']",True,Polyketide
+1158467921,1158467921_12438_13283,1078359037,BGC0002180,12438,13283,"['cytochrome P450, putative (Eurofung)']",True,Polyketide
+1158467921,1158467921_13280_14239,1456111125,BGC0002180,13280,14239,"['cytochrome P450, putative (Eurofung)']",True,Polyketide
+1158467921,1158467921_14608_15762,3352789546,BGC0002180,14608,15762,['conserved hypothetical protein'],True,Polyketide
+1158467921,1158467921_16071_16769,4069074230,BGC0002180,16071,16769,['conserved hypothetical protein'],True,Polyketide
+1158467921,1158467921_17216_17500,880663270,BGC0002180,17216,17500,"['polyketide synthase, putative (JCVI)']",True,Polyketide
+1158467921,1158467921_18149_23905,2916813664,BGC0002180,18149,23905,"['polyketide synthase, putative (JCVI)']",True,Polyketide
+1158467921,1158467921_23947_24690,861488058,BGC0002180,23947,24690,"['polyketide synthase, putative (JCVI)']",True,Polyketide

@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3540873491,3540873491_1_1299,2893875367,BGC0000044,1,1299,['conserved uncharacterized protein'],True,Polyketide
+3540873491,3540873491_1367_2317,1184805644,BGC0000044,1367,2317,['Malonyl CoA-acyl carrier protein transacylase'],True,Polyketide
+3540873491,3540873491_2681_6859,3160031176,BGC0000044,2681,6859,"['beta-ketoacyl synthase-like protein, Acyl transferase subunit']",True,Polyketide
+3540873491,3540873491_6856_10797,2691709722,BGC0000044,6856,10797,['Beta-ketoacyl synthase'],True,Polyketide
+3540873491,3540873491_10787_12892,3542490546,BGC0000044,10787,12892,"['Peptidase C45, DszB protein']",True,Polyketide
+3540873491,3540873491_12885_15737,2332874872,BGC0000044,12885,15737,['Beta-ketoacyl synthase'],True,Polyketide
+3540873491,3540873491_15734_19567,2839155249,BGC0000044,15734,19567,['Beta-ketoacyl synthase'],True,Polyketide
+3540873491,3540873491_19606_20400,331152568,BGC0000044,19606,20400,['Ppant transferase'],True,Polyketide
+3540873491,3540873491_20397_21257,661692131,BGC0000044,20397,21257,['uncharacterized protein'],True,Polyketide

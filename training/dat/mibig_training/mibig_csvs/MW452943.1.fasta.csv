@@ -1,0 +1,19 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2414546105,2414546105_390_1412,4187099976,BGC0002372,390,1412,['geranylfarnesyl diphosphate synthase'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_1518_2648,3708297800,BGC0002372,1518,2648,['UbiA family prenyltransferase'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_2645_2887,592219574,BGC0002372,2645,2887,['acyl carrier protein'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_2890_4131,10180251,BGC0002372,2890,4131,['beta-ketoacyl-[acyl-carrier-protein] synthase family protein'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_4128_5408,1966771162,BGC0002372,4128,5408,['beta-ketoacyl-CLF synthase II'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_5482_7119,3855610062,BGC0002372,5482,7119,['benzoate-CoA ligase'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_7278_8177,140489518,BGC0002372,7278,8177,['NAD-dependent epimerase/dehydratase'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_8374_9564,3830429182,BGC0002372,8374,9564,['FAD-dependent monooxygenase'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_9747_10610,218154414,BGC0002372,9747,10610,['class I SAM-dependent methyltransferase'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_10925_12703,1477522602,BGC0002372,10925,12703,['FAD-dependent oxidoreductase'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_12815_14170,584362806,BGC0002372,12815,14170,['cytochrome P450'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_14344_15705,3581133605,BGC0002372,14344,15705,['cytochrome P450'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_15801_18326,3118398198,BGC0002372,15801,18326,['FtsX-like permease family protein'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_18323_19051,2638332745,BGC0002372,18323,19051,['ABC transporter ATP-binding protein'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_19456_20931,1156117727,BGC0002372,19456,20931,['MFS transporter'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_21014_22072,1488237905,BGC0002372,21014,22072,['LysR family transcriptional regulator'],True,Polyketide__Terpene__Alkaloid
+2414546105,2414546105_22379_22468,2352174909,BGC0002372,22379,22468,,False,
+2414546105,2414546105_22623_22871,4238125765,BGC0002372,22623,22871,,False,

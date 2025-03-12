@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1877328838,1877328838_1723_2850,3070699664,BGC0002749,1723,2850,['kynurenine 3-monooxygenase'],True,NRP__Polyketide
+1877328838,1877328838_2876_3223,1951139884,BGC0002749,2876,3223,['kynurenine 3-monooxygenase'],True,NRP__Polyketide
+1877328838,1877328838_3249_3476,3872606157,BGC0002749,3249,3476,['kynurenine 3-monooxygenase'],True,NRP__Polyketide
+1877328838,1877328838_3768_3947,4077750483,BGC0002749,3768,3947,,True,NRP__Polyketide
+1877328838,1877328838_4196_4843,491423863,BGC0002749,4196,4843,['major facilitator superfamily domain-containing protein'],True,NRP__Polyketide
+1877328838,1877328838_4836_5774,418446460,BGC0002749,4836,5774,['major facilitator superfamily domain-containing protein'],True,NRP__Polyketide
+1877328838,1877328838_6610_14106,3707750471,BGC0002749,6610,14106,['polyketide synthase'],True,NRP__Polyketide
+1877328838,1877328838_16130_16606,354775158,BGC0002749,16130,16606,"['indoleamine 2,3-dioxygenase']",True,NRP__Polyketide
+1877328838,1877328838_16603_17133,702240449,BGC0002749,16603,17133,"['indoleamine 2,3-dioxygenase']",True,NRP__Polyketide
+1877328838,1877328838_17174_17470,4264320471,BGC0002749,17174,17470,"['indoleamine 2,3-dioxygenase']",True,NRP__Polyketide
+1877328838,1877328838_17675_17980,3729488092,BGC0002749,17675,17980,,False,

@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+901853086,901853086_1_1644,3887582177,BGC0000841,1,1644,['Carboxyethyl arginine synthase isoenzyme 1'],True,Other
+901853086,901853086_1668_3251,1419241376,BGC0000841,1668,3251,['Beta-lactam synthetase isoenzyme 1'],True,Other
+901853086,901853086_3248_4621,1619693077,BGC0000841,3248,4621,['Proclavaminate amidinohydrolase'],True,Other
+901853086,901853086_4813_5958,3206976808,BGC0000841,4813,5958,['Probable glutamate N-acetyltransferase 1'],True,Other
+901853086,901853086_6622_8103,2902996315,BGC0000841,6622,8103,['Putative pyridoxal phosphate-dependent aminotransferase'],True,Other
+901853086,901853086_8276_10858,4190612441,BGC0000841,8276,10858,['Putative transcriptional regulator'],True,Other

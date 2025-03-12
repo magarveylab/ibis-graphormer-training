@@ -1,0 +1,27 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2083217074,2083217074_1_468,3510432545,BGC0002107,1,468,['aspartate 1-decarboxylase'],True,NRP__Polyketide
+2083217074,2083217074_500_1021,3319696959,BGC0002107,500,1021,['siderophore biosynthesis protein'],True,NRP__Polyketide
+2083217074,2083217074_1136_2497,1916624279,BGC0002107,1136,2497,['siderophore biosynthesis protein'],True,NRP__Polyketide
+2083217074,2083217074_2529_5912,3827209228,BGC0002107,2529,5912,['siderophore biosynthesis protein'],True,NRP__Polyketide
+2083217074,2083217074_5926_6993,275582004,BGC0002107,5926,6993,['siderophore biosynthesis protein'],True,NRP__Polyketide
+2083217074,2083217074_7033_11595,3521398790,BGC0002107,7033,11595,"['polyketide synthase, siderophore biosynthesis protein']",True,NRP__Polyketide
+2083217074,2083217074_11637_13889,618924712,BGC0002107,11637,13889,['siderophore biosynthesis protein'],True,NRP__Polyketide
+2083217074,2083217074_14211_18773,2078199205,BGC0002107,14211,18773,"['peptide synthetase, siderophore biosynthesis protein']",True,NRP__Polyketide
+2083217074,2083217074_18770_19666,3297328208,BGC0002107,18770,19666,['putative siderophore biosynthesis protein'],True,NRP__Polyketide
+2083217074,2083217074_19663_21138,2932090869,BGC0002107,19663,21138,"['polyketide synthase, siderophore biosynthesis protein']",True,NRP__Polyketide
+2083217074,2083217074_21153_21392,434006365,BGC0002107,21153,21392,['putative siderophore biosynthesis protein'],True,NRP__Polyketide
+2083217074,2083217074_21403_21921,1891456629,BGC0002107,21403,21921,['putative siderophore biosynthesis protein'],True,NRP__Polyketide
+2083217074,2083217074_21918_22481,1854375234,BGC0002107,21918,22481,['putative siderophore biosynthesis protein'],True,NRP__Polyketide
+2083217074,2083217074_22519_26952,1809168636,BGC0002107,22519,26952,"['polyketide synthetase, siderophore biosynthesis protein']",True,NRP__Polyketide
+2083217074,2083217074_26949_34148,357033728,BGC0002107,26949,34148,"['non-ribosomal peptide synthetase, siderophore biosynthesis protein']",True,NRP__Polyketide
+2083217074,2083217074_34151_41851,1576599877,BGC0002107,34151,41851,"['peptide synthetase, siderophore biosynthesis protein']",True,NRP__Polyketide
+2083217074,2083217074_41856_43523,1527786111,BGC0002107,41856,43523,['siderophore biosynthesis protein'],True,NRP__Polyketide
+2083217074,2083217074_43538_44284,1177360213,BGC0002107,43538,44284,"['Thioesterase, putative siderophore biosynthesis protein']",True,NRP__Polyketide
+2083217074,2083217074_44324_45205,1928291434,BGC0002107,44324,45205,['putative siderophore biosynthesis protein'],True,NRP__Polyketide
+2083217074,2083217074_45339_47777,1003744731,BGC0002107,45339,47777,['TonB-dependent receptor'],True,NRP__Polyketide
+2083217074,2083217074_47831_48751,1560258922,BGC0002107,47831,48751,"['ABC transporter, membrane spanning protein (iron(III) dicitrate)']",True,NRP__Polyketide
+2083217074,2083217074_48748_49797,3890636380,BGC0002107,48748,49797,"['ABC transporter, membrane spanning protein (iron(III) dicitrate)']",True,NRP__Polyketide
+2083217074,2083217074_49794_50768,1580924522,BGC0002107,49794,50768,"['ABC transporter, membrane spanning protein (iron (III) dicitrate)']",True,NRP__Polyketide
+2083217074,2083217074_50761_51564,107211568,BGC0002107,50761,51564,"['ABC transporter, nucleotide binding/ATPase protein (iron (III) dicitrate)']",True,NRP__Polyketide
+2083217074,2083217074_51916_52458,1151132227,BGC0002107,51916,52458,['sigma factor'],True,NRP__Polyketide
+2083217074,2083217074_52518_53477,3577543035,BGC0002107,52518,53477,['two component sensor kinase'],True,NRP__Polyketide

@@ -1,0 +1,17 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+125658299,125658299_407_700,2940483679,BGC0002602,407,700,"['aspergillic acid biosynthesis Ankyrin domain protein, putative (AsaA)']",True,Alkaloid
+125658299,125658299_2169_2342,2524982016,BGC0002602,2169,2342,,True,Alkaloid
+125658299,125658299_2433_2630,1807655389,BGC0002602,2433,2630,,True,Alkaloid
+125658299,125658299_2856_3002,556749809,BGC0002602,2856,3002,,True,Alkaloid
+125658299,125658299_3168_3449,4186959308,BGC0002602,3168,3449,['GA4 family aspergillic acid hydroxylase (AsaB)'],True,Alkaloid
+125658299,125658299_3395_3580,1886290731,BGC0002602,3395,3580,,True,Alkaloid
+125658299,125658299_3615_4163,3059681509,BGC0002602,3615,4163,['GA4 family aspergillic acid hydroxylase (AsaB)'],True,Alkaloid
+125658299,125658299_4678_7638,1475497324,BGC0002602,4678,7638,['aspergillic acid non-ribosomal peptide sythetase-like (NRPS-like) (AsaC)'],True,Alkaloid
+125658299,125658299_8895_10007,563825261,BGC0002602,8895,10007,['deoxyaspergillic acid cytochrome P450 oxidase (AsaD)'],True,Alkaloid
+125658299,125658299_10216_11235,3311725703,BGC0002602,10216,11235,"['aspergillic acid biosynthesis C6 transcription factor, putative (AsaR)']",True,Alkaloid
+125658299,125658299_11291_12334,2595393883,BGC0002602,11291,12334,"['aspergillic acid biosynthesis C6 transcription factor, putative (AsaR)']",True,Alkaloid
+125658299,125658299_12677_12898,2411430194,BGC0002602,12677,12898,,True,Alkaloid
+125658299,125658299_12933_13187,3334265267,BGC0002602,12933,13187,"['aspergillic acid MFS transporter, putative (AsaE)']",True,Alkaloid
+125658299,125658299_13294_13581,2597722421,BGC0002602,13294,13581,"['aspergillic acid MFS transporter, putative (AsaE)']",True,Alkaloid
+125658299,125658299_13689_14432,3747544094,BGC0002602,13689,14432,"['aspergillic acid MFS transporter, putative (AsaE)']",True,Alkaloid
+125658299,125658299_14938_15135,119536987,BGC0002602,14938,15135,,False,

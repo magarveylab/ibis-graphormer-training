@@ -1,0 +1,24 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3119691466,3119691466_1_900,1908428760,BGC0002712,1,900,"['Glyoxylase, beta-lactamase superfamily II']",True,Polyketide
+3119691466,3119691466_1030_1563,2496391100,BGC0002712,1030,1563,"['Protein N-acetyltransferase, RimJ/RimL family']",True,Polyketide
+3119691466,3119691466_1944_3512,2531986885,BGC0002712,1944,3512,['2-polyprenyl-6-methoxyphenol hydroxylase'],True,Polyketide
+3119691466,3119691466_3588_4391,305935848,BGC0002712,3588,4391,"['NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family']",True,Polyketide
+3119691466,3119691466_4546_5652,2753544300,BGC0002712,4546,5652,"['NADH dehydrogenase, FAD-containing subunit']",True,Polyketide
+3119691466,3119691466_5951_6877,3651517357,BGC0002712,5951,6877,['NADPH:quinone reductase'],True,Polyketide
+3119691466,3119691466_7289_8053,2917377652,BGC0002712,7289,8053,['hypothetical protein'],True,Polyketide
+3119691466,3119691466_8662_10176,2511694665,BGC0002712,8662,10176,['bifunctional hydroxylase/dehydrase'],True,Polyketide
+3119691466,3119691466_10340_10669,3916554918,BGC0002712,10340,10669,['cyclase'],True,Polyketide
+3119691466,3119691466_10666_11937,1690726658,BGC0002712,10666,11937,['act minimal PKS ketosynthase (KS/KS alpha)'],True,Polyketide
+3119691466,3119691466_11934_13151,3085556519,BGC0002712,11934,13151,['act minimal PKS chain-length factor (CLF/KS beta)'],True,Polyketide
+3119691466,3119691466_13310_13579,1031035305,BGC0002712,13310,13579,['act minimal PKS acyl carrier protein'],True,Polyketide
+3119691466,3119691466_13722_14555,3791563104,BGC0002712,13722,14555,['ketoreductase'],True,Polyketide
+3119691466,3119691466_14620_15600,3141623016,BGC0002712,14620,15600,['aromatase'],True,Polyketide
+3119691466,3119691466_15604_17175,2024715713,BGC0002712,15604,17175,['oxygenase/bifunctional oxygenase/reductase'],True,Polyketide
+3119691466,3119691466_17239_17754,3252463481,BGC0002712,17239,17754,['SnoaL-like domain-containing protein'],True,Polyketide
+3119691466,3119691466_18487_19497,1699452068,BGC0002712,18487,19497,['Dimerisation domain-containing protein'],True,Polyketide
+3119691466,3119691466_19589_20266,1074749236,BGC0002712,19589,20266,['Antibiotic biosynthesis monooxygenase'],True,Polyketide
+3119691466,3119691466_20359_21264,1241552939,BGC0002712,20359,21264,"['Flavin-dependent oxidoreductase, luciferase family (includes alkanesulfonate monooxygenase SsuD and methylene tetrahydromethanopterin reductase)']",True,Polyketide
+3119691466,3119691466_21396_23045,2930782088,BGC0002712,21396,23045,['peptide/nickel transport system substrate-binding protein'],True,Polyketide
+3119691466,3119691466_23047_23997,1641336691,BGC0002712,23047,23997,['peptide/nickel transport system permease protein'],True,Polyketide
+3119691466,3119691466_23994_24878,3052388397,BGC0002712,23994,24878,['peptide/nickel transport system permease protein'],True,Polyketide
+3119691466,3119691466_24875_26722,854841866,BGC0002712,24875,26722,['peptide/nickel transport system ATP-binding protein'],True,Polyketide

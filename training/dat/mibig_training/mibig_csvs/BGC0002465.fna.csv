@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3849608471,3849608471_1_693,24064581,BGC0002465,1,693,"['siderophore biosynthesis protein, putative']",True,NRP
+3849608471,3849608471_816_1547,3072292545,BGC0002465,816,1547,"['ferric iron reductase protein, putative']",True,NRP
+3849608471,3849608471_1547_2839,2763143280,BGC0002465,1547,2839,['L-ornithine N5-oxygenase'],True,NRP
+3849608471,3849608471_2990_3976,1397981588,BGC0002465,2990,3976,['siderophore biosynthesis protein'],True,NRP
+3849608471,3849608471_3966_6203,2035608197,BGC0002465,3966,6203,['Ferrioxamine receptor precursor'],True,NRP
+3849608471,3849608471_6304_11778,3193315648,BGC0002465,6304,11778,"['peptide synthetase, putative']",True,NRP
+3849608471,3849608471_11792_22594,1598672339,BGC0002465,11792,22594,"['peptide synthetase, putative']",True,NRP
+3849608471,3849608471_22631_22834,2988211469,BGC0002465,22631,22834,['MbtH-family protein'],True,NRP

@@ -1,0 +1,26 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+592259519,592259519_1_591,2756632897,BGC0002356,1,591,,True,Polyketide__Other
+592259519,592259519_751_1800,3625838518,BGC0002356,751,1800,['sulfotransferase'],True,Polyketide__Other
+592259519,592259519_2395_5223,2497591557,BGC0002356,2395,5223,['putative LuxR family transcriptional regulator'],True,Polyketide__Other
+592259519,592259519_5325_6986,3262022646,BGC0002356,5325,6986,['putative L-arginine mono-oxygenase'],True,Polyketide__Other
+592259519,592259519_7063_8469,3868828327,BGC0002356,7063,8469,['putative 4-guanidinylbutanoate:CoA ligase'],True,Polyketide__Other
+592259519,592259519_8533_9174,3213495881,BGC0002356,8533,9174,['putative type II TE'],True,Polyketide__Other
+592259519,592259519_9694_10638,1803750868,BGC0002356,9694,10638,['putative 4-guanidinylbutanoyl-CoA:ACP acyltransferase'],True,Polyketide__Other
+592259519,592259519_10797_22298,1500420458,BGC0002356,10797,22298,['modular polyketide synthase'],True,Polyketide__Other
+592259519,592259519_22380_39473,3384420819,BGC0002356,22380,39473,['modular polyketide synthase'],True,Polyketide__Other
+592259519,592259519_39529_49164,1972215830,BGC0002356,39529,49164,['modular polyketide synthase'],True,Polyketide__Other
+592259519,592259519_49217_70618,2817105335,BGC0002356,49217,70618,['modular polyketide synthase'],True,Polyketide__Other
+592259519,592259519_70676_86161,2557664353,BGC0002356,70676,86161,['modular polyketide synthase'],True,Polyketide__Other
+592259519,592259519_86385_91340,3388510938,BGC0002356,86385,91340,['modular polyketide synthase'],True,Polyketide__Other
+592259519,592259519_91468_116679,1553148260,BGC0002356,91468,116679,['modular polyketide synthase'],True,Polyketide__Other
+592259519,592259519_116705_126841,2968648348,BGC0002356,116705,126841,['modular polyketide synthase'],True,Polyketide__Other
+592259519,592259519_126848_151198,12606642,BGC0002356,126848,151198,['modular polyketide synthase'],True,Polyketide__Other
+592259519,592259519_151485_153041,2393529714,BGC0002356,151485,153041,['putative membrane protein'],True,Polyketide__Other
+592259519,592259519_153038_153532,1861857653,BGC0002356,153038,153532,['putative membrane protein'],True,Polyketide__Other
+592259519,592259519_153607_154140,699039607,BGC0002356,153607,154140,,True,Polyketide__Other
+592259519,592259519_154308_155561,2769941810,BGC0002356,154308,155561,['putative histidine kinase'],True,Polyketide__Other
+592259519,592259519_155554_156183,1062028542,BGC0002356,155554,156183,['putative two-component system response regulator'],True,Polyketide__Other
+592259519,592259519_156241_159135,1638397261,BGC0002356,156241,159135,['putative LuxR-family transcriptional regulator'],True,Polyketide__Other
+592259519,592259519_159224_159991,851703492,BGC0002356,159224,159991,,True,Polyketide__Other
+592259519,592259519_160257_161042,2984871520,BGC0002356,160257,161042,['putative 4-guanidinobutyramide hydrolase'],True,Polyketide__Other
+592259519,592259519_161083_161523,1972177327,BGC0002356,161083,161523,['putative transcriptional regulator'],True,Polyketide__Other

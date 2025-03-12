@@ -1,0 +1,3 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4201545219,4201545219_80_325,2784138863,BGC0002428,80,325,['hypothetical protein'],True,Terpene__Polyketide
+4201545219,4201545219_412_846,3739667003,BGC0002428,412,846,['hypothetical protein'],True,Terpene__Polyketide

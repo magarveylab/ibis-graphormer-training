@@ -1,0 +1,22 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2965443621,2965443621_1920_4772,909501213,BGC0002101,1920,4772,['HrnH; LuxR-type transcriptional regulator; Pfam00196'],True,Polyketide
+2965443621,2965443621_5059_24174,1663558139,BGC0002101,5059,24174,"['HrnA1; Starter unit polyketide synthase type I; modules loading, 1-3']",True,Polyketide
+2965443621,2965443621_24212_27343,1385431349,BGC0002101,24212,27343,['HrnA2; Starter unit polyketide synthase type I; module 4 (partial)'],True,Polyketide
+2965443621,2965443621_27509_28600,3039795783,BGC0002101,27509,28600,['HrnI; Glycine oxidase/FAD-dependent oxidoreductase; Pfam01266'],True,Polyketide
+2965443621,2965443621_28597_30684,1696253215,BGC0002101,28597,30684,['HrnC; Starter unit polyketide synthase type I; module 4 (partial)'],True,Polyketide
+2965443621,2965443621_30716_31279,3134822730,BGC0002101,30716,31279,['HrnU; putative NRPS accessory protein; Pfam10862'],True,Polyketide
+2965443621,2965443621_31276_41856,1893823250,BGC0002101,31276,41856,"['HrnB; Macrolactam polyketide synthase type I; modules loading, 1-2']",True,Polyketide
+2965443621,2965443621_41913_43511,3278074071,BGC0002101,41913,43511,['HrnJ; Putative AMP-dependent acyl-CoA synthetase/ligase; AMP-binding enzyme; Pfam00501'],True,Polyketide
+2965443621,2965443621_43738_44679,195928393,BGC0002101,43738,44679,['HrnK; Acyltransferase'],True,Polyketide
+2965443621,2965443621_44696_44932,3795147884,BGC0002101,44696,44932,['HrnS; Peptidyl carrier protein; phosphopantetheine attachment site; Pfam00550'],True,Polyketide
+2965443621,2965443621_45050_46564,2252155641,BGC0002101,45050,46564,['HrnL; NRPS adenylation domain; AMP-binding enzyme; Long-chain fatty acid CoA ligase; Pfam00501'],True,Polyketide
+2965443621,2965443621_46547_47146,3188921431,BGC0002101,46547,47146,['HrnM; TetR-type transcriptional regulator; Pfam00440'],True,Polyketide
+2965443621,2965443621_47247_48818,1907306063,BGC0002101,47247,48818,['HrnN; Major facilitator; MFS_1 family; Pfam07690'],True,Polyketide
+2965443621,2965443621_48938_50173,3587502365,BGC0002101,48938,50173,['HrnO; P450 monooxygenase; Cytochrome P450; Pfam00067'],True,Polyketide
+2965443621,2965443621_50222_60328,3538571729,BGC0002101,50222,60328,['HrnD; Macrolactam polyketidesynthase type I; modules 3-4'],True,Polyketide
+2965443621,2965443621_60336_61271,2579468847,BGC0002101,60336,61271,['HrnP; Putative L-amino acid amidase/ proline iminopeptidase; alpha/beta hydrolase fold; Pfam00561'],True,Polyketide
+2965443621,2965443621_61368_67373,2999514311,BGC0002101,61368,67373,['HrnG; Macrolactam polyketide synthase type I; module 8'],True,Polyketide
+2965443621,2965443621_67381_77529,1833573480,BGC0002101,67381,77529,['HrnF; Macrolactam polyketide synthase type I; modules 6-7'],True,Polyketide
+2965443621,2965443621_77573_82489,2547491690,BGC0002101,77573,82489,['HrnE; Macrolactam polyketide synthase type I; module 5'],True,Polyketide
+2965443621,2965443621_82826_83092,1728870896,BGC0002101,82826,83092,['HrnT; SimX-like protein; Acyl-CoA carboxylase epsilon subunit; Pfam13822'],True,Polyketide
+2965443621,2965443621_83416_84186,2028581364,BGC0002101,83416,84186,['HrnQ; Thioesterase type II; Pfam00975'],True,Polyketide

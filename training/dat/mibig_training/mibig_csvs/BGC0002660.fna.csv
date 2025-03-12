@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3491602587,3491602587_1_2070,3468861369,BGC0002660,1,2070,['acyl-homoserine-lactone acylase'],True,NRP
+3491602587,3491602587_3031_21411,665612842,BGC0002660,3031,21411,['non-ribosomal peptide synthase domain TIGR01720/amino acid adenylation domain-containing protein/thioester reductase domain-containing protein'],True,NRP
+3491602587,3491602587_21488_21820,3663743232,BGC0002660,21488,21820,['hypothetical protein'],True,NRP
+3491602587,3491602587_22046_22594,2633615019,BGC0002660,22046,22594,"['RNA polymerase sigma-70 factor, ECF subfamily']",True,NRP
+3491602587,3491602587_22672_23622,3261898621,BGC0002660,22672,23622,"['ferric-dicitrate binding protein FerR, regulates iron transport through sigma-19']",True,NRP

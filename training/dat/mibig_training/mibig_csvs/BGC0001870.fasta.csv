@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+307780595,307780595_1_1812,2107461910,BGC0001870,1,1812,['desferrioxamine siderophore biosynthesis protein dfoC'],True,Other
+307780595,307780595_1895_4108,3690070619,BGC0001870,1895,4108,['ferric alcaligin siderophore receptor'],True,Other
+307780595,307780595_4176_5234,529784346,BGC0001870,4176,5234,['putative lipoprotein'],True,Other
+307780595,307780595_5221_6231,752172789,BGC0001870,5221,6231,['hypothetical protein'],True,Other
+307780595,307780595_6236_7288,4094966142,BGC0001870,6236,7288,['putative ferrichrome ABC transporter permease'],True,Other
+307780595,307780595_7288_8103,4121174541,BGC0001870,7288,8103,['hypothetical protein'],True,Other
+307780595,307780595_8105_8872,1850528426,BGC0001870,8105,8872,['putative iron transport-related membrane protein'],True,Other
+307780595,307780595_9291_10907,1574782280,BGC0001870,9291,10907,['putative decarboxylase involved in desferrioxamine biosynthesis'],True,Other
+307780595,307780595_10934_12253,3225081354,BGC0001870,10934,12253,['L-lysine 6-monooxygenase involved in desferrioxamine biosynthesis'],True,Other
+307780595,307780595_12253_14658,324846936,BGC0001870,12253,14658,['desferrioxamine siderophore biosynthesis protein dfoC'],True,Other

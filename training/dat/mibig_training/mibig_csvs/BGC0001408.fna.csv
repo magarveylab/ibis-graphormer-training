@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+447222168,447222168_1_1197,2044163607,BGC0001408,1,1197,['diaminopimelate decarboxylase'],True,Other
+447222168,447222168_1194_2963,4136230946,BGC0001408,1194,2963,['iron transporter'],True,Other
+447222168,447222168_2941_4137,3629123404,BGC0001408,2941,4137,['transport protein'],True,Other
+447222168,447222168_4134_5936,3369855896,BGC0001408,4134,5936,['Siderophore synthetase component'],True,Other
+447222168,447222168_5933_7159,3838016906,BGC0001408,5933,7159,['Carbamoylphosphate synthase large subunit (split gene in MJ)'],True,Other
+447222168,447222168_7395_9536,100789845,BGC0001408,7395,9536,['citrate-dependent iron transporter'],True,Other
+447222168,447222168_9537_10298,1229623360,BGC0001408,9537,10298,['4-hydroxy-2-oxovalerate aldolase'],True,Other

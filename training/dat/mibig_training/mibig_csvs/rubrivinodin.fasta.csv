@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2381279160,2381279160_1_2790,2284447981,BGC0000576,1,2790,['putative TonB-dependent receptor'],True,RiPP
+2381279160,2381279160_2858_5242,1418884935,BGC0000576,2858,5242,['hypothetical protein'],True,RiPP
+2381279160,2381279160_5187_7040,847772729,BGC0000576,5187,7040,['putative asparagine synthase'],True,RiPP
+2381279160,2381279160_7053_7778,3304196175,BGC0000576,7053,7778,['hypothetical protein'],True,RiPP
+2381279160,2381279160_7840_7956,4154500532,BGC0000576,7840,7956,['hypothetical protein'],True,RiPP

@@ -1,0 +1,14 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4157860099,4157860099_1_1860,4093384993,BGC0000632,1,1860,['hypothetical protein'],True,Terpene__Saccharide
+4157860099,4157860099_1862_2875,1178944845,BGC0000632,1862,2875,['hypothetical protein'],True,Terpene__Saccharide
+4157860099,4157860099_2905_3834,2005255990,BGC0000632,2905,3834,['hypothetical protein'],True,Terpene__Saccharide
+4157860099,4157860099_3831_5021,4096524511,BGC0000632,3831,5021,['hypothetical protein'],True,Terpene__Saccharide
+4157860099,4157860099_5083_6066,1966059983,BGC0000632,5083,6066,['hypothetical protein'],True,Terpene__Saccharide
+4157860099,4157860099_6035_7672,1742447627,BGC0000632,6035,7672,['hypothetical protein'],True,Terpene__Saccharide
+4157860099,4157860099_7852_9060,2625007189,BGC0000632,7852,9060,['hypothetical protein'],True,Terpene__Saccharide
+4157860099,4157860099_9054_10322,903816071,BGC0000632,9054,10322,['hypothetical protein'],True,Terpene__Saccharide
+4157860099,4157860099_10315_11985,1145564615,BGC0000632,10315,11985,['hypothetical protein'],True,Terpene__Saccharide
+4157860099,4157860099_11982_12950,2135275161,BGC0000632,11982,12950,['hypothetical protein'],True,Terpene__Saccharide
+4157860099,4157860099_12947_13945,938607316,BGC0000632,12947,13945,['hypothetical protein'],True,Terpene__Saccharide
+4157860099,4157860099_13942_14970,2772893551,BGC0000632,13942,14970,['hypothetical protein'],True,Terpene__Saccharide
+4157860099,4157860099_15268_16122,2982850590,BGC0000632,15268,16122,['taurine dioxygenase'],True,Terpene__Saccharide

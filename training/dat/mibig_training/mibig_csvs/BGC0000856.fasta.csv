@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2381557310,2381557310_3_323,836521317,BGC0000856,3,323,,False,
+2381557310,2381557310_518_1027,1137569089,BGC0000856,518,1027,"['L-2,4-diaminobutyric acid acetyltransferase']",True,Other
+2381557310,2381557310_1088_2425,2711687081,BGC0000856,1088,2425,"['L-2,4-diaminobutyrate aminotransferase']",True,Other
+2381557310,2381557310_2497_2901,1698185108,BGC0000856,2497,2901,['ectoine synthase'],True,Other
+2381557310,2381557310_3034_4347,3544088595,BGC0000856,3034,4347,['aspartokinase'],True,Other

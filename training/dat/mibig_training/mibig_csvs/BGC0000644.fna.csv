@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+527545811,527545811_140_1246,3517301129,BGC0000644,140,1246,['geranylgeranyl pyrophosphate synthase'],True,Terpene
+527545811,527545811_1243_2124,1036911011,BGC0000644,1243,2124,['phytoene synthase'],True,Terpene
+527545811,527545811_2121_3812,2255516288,BGC0000644,2121,3812,['phytoene desaturase'],True,Terpene
+527545811,527545811_3809_4183,3467954196,BGC0000644,3809,4183,['lycopene beta-elongase A'],True,Terpene
+527545811,527545811_4180_5478,1104718823,BGC0000644,4180,5478,['lycopene beta-elongase BC'],True,Terpene
+527545811,527545811_5545_6267,317935019,BGC0000644,5545,6267,['glucosyl transferase'],True,Terpene

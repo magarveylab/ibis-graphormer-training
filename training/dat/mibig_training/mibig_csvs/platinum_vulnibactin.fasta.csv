@@ -1,0 +1,17 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4027766501,4027766501_1_339,289800315,BGC0000460,1,339,['hypothetical protein'],True,NRP
+4027766501,4027766501_390_1085,1175010432,BGC0000460,390,1085,['Phosphopantetheinyl transferase component of siderophore synthetase'],True,NRP
+4027766501,4027766501_1090_4158,1425477698,BGC0000460,1090,4158,"['Non-ribosomal peptide synthetase module, siderophore biosynthesis vulnibactin-specific']",True,NRP
+4027766501,4027766501_4228_8790,777767970,BGC0000460,4228,8790,"['Non-ribosomal peptide synthetase module, siderophore biosynthesis vulnibactin-specific']",True,NRP
+4027766501,4027766501_9016_10086,4219157085,BGC0000460,9016,10086,['3-deoxy-7-phosphoheptulonate synthase'],True,NRP
+4027766501,4027766501_10318_11106,4166080603,BGC0000460,10318,11106,"['2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase']",True,NRP
+4027766501,4027766501_11478_12659,2418536610,BGC0000460,11478,12659,['Isochorismate synthase'],True,NRP
+4027766501,4027766501_12669_14306,2867126906,BGC0000460,12669,14306,"['2,3-dihydroxybenzoate-AMP ligase']",True,NRP
+4027766501,4027766501_14425_15240,3560851459,BGC0000460,14425,15240,['Vulnibactin utilization protein VuuB'],True,NRP
+4027766501,4027766501_15304_16191,886069223,BGC0000460,15304,16191,['Isochorismatase'],True,NRP
+4027766501,4027766501_16294_16623,2390962911,BGC0000460,16294,16623,['Isochorismate pyruvate-lyase of siderophore biosynthesis Vulnibactin-specific'],True,NRP
+4027766501,4027766501_16852_18480,2890813444,BGC0000460,16852,18480,"['2,3-dihydroxybenzoate-AMP ligase']",True,NRP
+4027766501,4027766501_18706_18948,3447194274,BGC0000460,18706,18948,['Aryl carrier domain protein'],True,NRP
+4027766501,4027766501_19004_19912,86369783,BGC0000460,19004,19912,"['ABC-type enterochelin transport system, periplasmic component']",True,NRP
+4027766501,4027766501_19997_22054,1719470637,BGC0000460,19997,22054,['Ferric vulnibactin receptor VuuA'],True,NRP
+4027766501,4027766501_22395_23711,3796576289,BGC0000460,22395,23711,['Amide synthase component of siderophore synthetase Vulnibactin-specific'],True,NRP

@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1839175958,1839175958_1_588,2572531106,BGC0002275,1,588,['S-adenosyl-L-methionine dependent methyltransferase'],True,NRP__Polyketide
+1839175958,1839175958_1745_7309,3153616409,BGC0002275,1745,7309,['hypothetical protein'],True,NRP__Polyketide
+1839175958,1839175958_7873_8130,173210310,BGC0002275,7873,8130,['hypothetical protein'],True,NRP__Polyketide
+1839175958,1839175958_8169_9011,2830037246,BGC0002275,8169,9011,['hypothetical protein'],True,NRP__Polyketide
+1839175958,1839175958_9370_10320,1076037977,BGC0002275,9370,10320,['hypothetical protein'],True,NRP__Polyketide

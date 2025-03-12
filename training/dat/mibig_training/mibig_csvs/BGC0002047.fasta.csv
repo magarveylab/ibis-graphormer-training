@@ -1,0 +1,15 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2399802816,2399802816_251_577,1260008364,BGC0002047,251,577,['tetracenomycin F2 cyclase'],True,Polyketide
+2399802816,2399802816_574_1845,3071223776,BGC0002047,574,1845,['polyketide putative beta-ketoacyl synthase'],True,Polyketide
+2399802816,2399802816_1842_3041,4083502196,BGC0002047,1842,3041,['polyketide putative beta-ketoacyl synthase 2'],True,Polyketide
+2399802816,2399802816_3054_3311,2546392677,BGC0002047,3054,3311,['acyl carrier protein'],True,Polyketide
+2399802816,2399802816_3324_4109,891086418,BGC0002047,3324,4109,['putative ketoacyl reductase'],True,Polyketide
+2399802816,2399802816_4131_5078,3112180936,BGC0002047,4131,5078,['putative polyketide cyclase'],True,Polyketide
+2399802816,2399802816_5082_6536,2663192403,BGC0002047,5082,6536,['anhydrotetracycline monooxygenase'],True,Polyketide
+2399802816,2399802816_6565_8076,1555112536,BGC0002047,6565,8076,['anhydrotetracycline monooxygenase'],True,Polyketide
+2399802816,2399802816_8073_8984,3923249419,BGC0002047,8073,8984,"['2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase']",True,Polyketide
+2399802816,2399802816_9016_9885,2775933648,BGC0002047,9016,9885,['glucose-1-phosphate thymidylyltransferase 1'],True,Polyketide
+2399802816,2399802816_9942_11063,2323482870,BGC0002047,9942,11063,"['dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase']",True,Polyketide
+2399802816,2399802816_11060_12442,2116827012,BGC0002047,11060,12442,"['NDP-hexose 2,3-dehydratase']",True,Polyketide
+2399802816,2399802816_12435_12866,4133219166,BGC0002047,12435,12866,['hypothetical protein'],True,Polyketide
+2399802816,2399802816_12872_13603,2334368117,BGC0002047,12872,13603,['sensory transduction protein regX3'],True,Polyketide

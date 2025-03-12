@@ -1,0 +1,12 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3954558544,3954558544_1_885,2439165728,BGC0002572,1,885,['cupin-like domain-containing protein'],True,NRP__Polyketide
+3954558544,3954558544_999_1916,14631536,BGC0002572,999,1916,['cupin-like domain-containing protein'],True,NRP__Polyketide
+3954558544,3954558544_2492_3376,1559585246,BGC0002572,2492,3376,['cupin-like domain-containing protein'],True,NRP__Polyketide
+3954558544,3954558544_3608_7195,3477470453,BGC0002572,3608,7195,['aminotransferase class III-fold pyridoxal phosphate-dependent enzyme'],True,NRP__Polyketide
+3954558544,3954558544_7242_44648,3769418753,BGC0002572,7242,44648,['non-ribosomal peptide synthase/polyketide synthase'],True,NRP__Polyketide
+3954558544,3954558544_44699_46123,2982582205,BGC0002572,44699,46123,['polyketide synthase'],True,NRP__Polyketide
+3954558544,3954558544_46253_46411,1489496256,BGC0002572,46253,46411,,True,NRP__Polyketide
+3954558544,3954558544_47349_47615,2447322512,BGC0002572,47349,47615,['acyl carrier protein'],True,NRP__Polyketide
+3954558544,3954558544_48001_63108,2924154269,BGC0002572,48001,63108,['non-ribosomal peptide synthase/polyketide synthase'],True,NRP__Polyketide
+3954558544,3954558544_63105_67928,2984173860,BGC0002572,63105,67928,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide
+3954558544,3954558544_67932_91412,3698301713,BGC0002572,67932,91412,['amino acid adenylation domain-containing protein'],True,NRP__Polyketide

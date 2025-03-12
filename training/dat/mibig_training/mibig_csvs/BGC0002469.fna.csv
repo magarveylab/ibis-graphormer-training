@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2658872772,2658872772_1_2778,4060381870,BGC0002469,1,2778,['IucA/IucC family protein'],True,Other
+2658872772,2658872772_2778_4112,2992560154,BGC0002469,2778,4112,['L-lysine 6-monooxygenase (NADPH)'],True,Other
+2658872772,2658872772_4112_6373,2672215690,BGC0002469,4112,6373,['TonB-dependent receptor'],True,Other

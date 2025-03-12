@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4099467495,4099467495_1_135,152944274,BGC0002074,1,135,['lasso peptide precursor'],True,RiPP
+4099467495,4099467495_150_1991,3139794394,BGC0002074,150,1991,['lasso peptide cyclase'],True,RiPP
+4099467495,4099467495_1969_2229,4040122643,BGC0002074,1969,2229,['RiPP recognition element'],True,RiPP
+4099467495,4099467495_2226_2630,2172808838,BGC0002074,2226,2630,['lasso peptide protease'],True,RiPP

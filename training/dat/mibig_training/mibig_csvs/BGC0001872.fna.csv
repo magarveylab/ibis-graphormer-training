@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+785054436,785054436_1_1098,206685606,BGC0001872,1,1098,['conserved hypothetical protein; putative membrane protein'],True,Polyketide
+785054436,785054436_1091_2035,2084642072,BGC0001872,1091,2035,"['ABC Transporter, ATP-binding protein']",True,Polyketide
+785054436,785054436_2107_2856,1322888661,BGC0001872,2107,2856,['hypothetical protein'],True,Polyketide
+785054436,785054436_3068_3991,3243053208,BGC0001872,3068,3991,['putative NAD(P)-binding amidase-type enzyme with nitrilase/N-carbamoyl-D-aminoacid amidohydrolase'],True,Polyketide
+785054436,785054436_3991_5223,747692733,BGC0001872,3991,5223,['hypothetical protein'],True,Polyketide
+785054436,785054436_5316_6083,4167422937,BGC0001872,5316,6083,['3-oxoacyl-[acyl-carrier-protein] reductase (3-ketoacyl-acyl carrier protein reductase)'],True,Polyketide
+785054436,785054436_6080_9160,1759145407,BGC0001872,6080,9160,"['putative Glutamate-1-semialdehyde 2,1-aminomutase']",True,Polyketide
+785054436,785054436_9157_13521,666483941,BGC0001872,9157,13521,['putative 3-oxoacyl-[acyl-carrier-protein] synthase'],True,Polyketide
+785054436,785054436_13667_20491,1900401669,BGC0001872,13667,20491,['hypothetical protein'],True,Polyketide

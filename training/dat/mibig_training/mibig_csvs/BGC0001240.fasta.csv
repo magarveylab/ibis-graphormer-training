@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+239349188,239349188_1_3405,2876901114,BGC0001240,1,3405,"['nonribosomal peptide synthetase, serinocyclin synthetase NPS1']",True,NRP
+239349188,239349188_3495_7988,2772730727,BGC0001240,3495,7988,"['nonribosomal peptide synthetase, serinocyclin synthetase NPS1']",True,NRP
+239349188,239349188_8095_12780,1657470551,BGC0001240,8095,12780,"['nonribosomal peptide synthetase, serinocyclin synthetase NPS1']",True,NRP
+239349188,239349188_12841_23994,2599909813,BGC0001240,12841,23994,"['nonribosomal peptide synthetase, serinocyclin synthetase NPS1']",True,NRP
+239349188,239349188_24026_28516,1594414768,BGC0001240,24026,28516,"['nonribosomal peptide synthetase, serinocyclin synthetase NPS1']",True,NRP

@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1067944417,1067944417_1_870,2342506569,BGC0001627,1,870,['Possible oxidoreductase'],True,NRP
+1067944417,1067944417_867_1418,2402918982,BGC0001627,867,1418,['Probable fatty acyl CoA thioesterase type III FcoT'],True,NRP
+1067944417,1067944417_1447_3045,2111460341,BGC0001627,1447,3045,['Possible fatty-acid-CoA ligase FadD10 (fatty-acid-CoA synthetase) (fatty-acid-CoA synthase)'],True,NRP
+1067944417,1067944417_3038_3286,416699474,BGC0001627,3038,3286,['Conserved hypothetical protein'],True,NRP
+1067944417,1067944417_3268_10806,3532016197,BGC0001627,3268,10806,['Probable peptide synthetase Nrp (peptide synthase)'],True,NRP

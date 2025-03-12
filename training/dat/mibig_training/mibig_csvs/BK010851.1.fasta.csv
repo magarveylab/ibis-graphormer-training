@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1766813295,1766813295_1_3789,4168593699,BGC0001841,1,3789,['peptide synthetase'],True,NRP__Polyketide
+1766813295,1766813295_3786_12152,476790141,BGC0001841,3786,12152,['malonyl CoA-acyl carrier protein transacylase'],True,NRP__Polyketide
+1766813295,1766813295_12177_13049,903659555,BGC0001841,12177,13049,['alpha-ketoglutarate-dependent taurine dioxygenase'],True,NRP__Polyketide
+1766813295,1766813295_13066_14286,1565115480,BGC0001841,13066,14286,['putative cytochrome P450 hydroxylase'],True,NRP__Polyketide

@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2174101737,2174101737_2_1066,2937851618,BGC0001831,2,1066,['conserved hypothetical protein'],True,Polyketide
+2174101737,2174101737_1273_2370,573660258,BGC0001831,1273,2370,"['monooxygenase, FAD-binding']",True,Polyketide
+2174101737,2174101737_2452_4230,1625685227,BGC0001831,2452,4230,['AMP-binding protein'],True,Polyketide
+2174101737,2174101737_4227_4508,3049049717,BGC0001831,4227,4508,['acyl carrier protein'],True,Polyketide
+2174101737,2174101737_4501_5076,455336770,BGC0001831,4501,5076,['conserved hypothetical protein'],True,Polyketide
+2174101737,2174101737_5070_6152,3203713256,BGC0001831,5070,6152,['chalcone/stilbene synthase family protein'],True,Polyketide

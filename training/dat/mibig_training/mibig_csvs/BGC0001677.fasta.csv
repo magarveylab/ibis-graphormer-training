@@ -1,0 +1,24 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4106056137,4106056137_4_174,1181960709,BGC0001677,4,174,,True,Polyketide
+4106056137,4106056137_223_420,1198339475,BGC0001677,223,420,,True,Polyketide
+4106056137,4106056137_445_1479,3225813558,BGC0001677,445,1479,['putative hydrolase'],True,Polyketide
+4106056137,4106056137_2772_3758,3192659048,BGC0001677,2772,3758,['putative O-methyltransferase'],True,Polyketide
+4106056137,4106056137_4345_4515,1983635086,BGC0001677,4345,4515,['putative inosine monophosphate dehydrogenase'],True,Polyketide
+4106056137,4106056137_4622_4855,4255745874,BGC0001677,4622,4855,['putative inosine monophosphate dehydrogenase'],True,Polyketide
+4106056137,4106056137_4871_6052,1744847001,BGC0001677,4871,6052,['putative inosine monophosphate dehydrogenase'],True,Polyketide
+4106056137,4106056137_6293_7186,77095231,BGC0001677,6293,7186,['putative P450 monooxygenase and putative metallo-beta-lactamase superfamily II'],True,Polyketide
+4106056137,4106056137_7640_8083,3750717486,BGC0001677,7640,8083,['putative P450 monooxygenase and putative metallo-beta-lactamase superfamily II'],True,Polyketide
+4106056137,4106056137_8118_8222,1541016928,BGC0001677,8118,8222,,True,Polyketide
+4106056137,4106056137_8206_8421,2757467262,BGC0001677,8206,8421,['putative P450 monooxygenase and putative metallo-beta-lactamase superfamily II'],True,Polyketide
+4106056137,4106056137_8370_8729,2246995517,BGC0001677,8370,8729,['putative P450 monooxygenase and putative metallo-beta-lactamase superfamily II'],True,Polyketide
+4106056137,4106056137_8726_9325,3938349974,BGC0001677,8726,9325,['putative P450 monooxygenase and putative metallo-beta-lactamase superfamily II'],True,Polyketide
+4106056137,4106056137_9856_10002,4000836084,BGC0001677,9856,10002,['putative P450 monooxygenase and putative metallo-beta-lactamase superfamily II'],True,Polyketide
+4106056137,4106056137_11164_11271,695970398,BGC0001677,11164,11271,,True,Polyketide
+4106056137,4106056137_11695_12378,4061874036,BGC0001677,11695,12378,['putative polyketide synthase'],True,Polyketide
+4106056137,4106056137_12568_13545,2584521096,BGC0001677,12568,13545,['putative polyketide synthase'],True,Polyketide
+4106056137,4106056137_13915_18477,4110787374,BGC0001677,13915,18477,['putative polyketide synthase'],True,Polyketide
+4106056137,4106056137_18546_19451,3713549085,BGC0001677,18546,19451,['putative polyketide synthase'],True,Polyketide
+4106056137,4106056137_19762_19947,2302235830,BGC0001677,19762,19947,,True,Polyketide
+4106056137,4106056137_20210_20701,62909147,BGC0001677,20210,20701,['putative dephospho-CoA kinase'],True,Polyketide
+4106056137,4106056137_20820_21089,1715122620,BGC0001677,20820,21089,['putative dephospho-CoA kinase'],True,Polyketide
+4106056137,4106056137_22759_23325,4212716575,BGC0001677,22759,23325,['putative prenyl transferase'],True,Polyketide

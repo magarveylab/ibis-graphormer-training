@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4084934999,4084934999_1_816,3203695708,BGC0002492,1,816,['iron-chelator utilization protein'],True,NRP
+4084934999,4084934999_813_2087,1855809311,BGC0002492,813,2087,['siderophore biosynthesis aminotransferase'],True,NRP
+4084934999,4084934999_2126_3352,68593324,BGC0002492,2126,3352,['major facilitator family transporter'],True,NRP
+4084934999,4084934999_3369_4667,2475460172,BGC0002492,3369,4667,['3-deoxy-7-phosphoheptulonate synthase'],True,NRP
+4084934999,4084934999_4718_9058,4247564967,BGC0002492,4718,9058,['non-ribosomal peptide synthase MxcG'],True,NRP
+4084934999,4084934999_9119_10018,2865641284,BGC0002492,9119,10018,['isochorismatase'],True,NRP
+4084934999,4084934999_10031_11677,1630775386,BGC0002492,10031,11677,"['2,3-dihydroxybenzoate-AMP ligase']",True,NRP
+4084934999,4084934999_11674_12882,2982792507,BGC0002492,11674,12882,['isochorismate synthase'],True,NRP
+4084934999,4084934999_13030_13803,195198365,BGC0002492,13030,13803,"['2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase']",True,NRP

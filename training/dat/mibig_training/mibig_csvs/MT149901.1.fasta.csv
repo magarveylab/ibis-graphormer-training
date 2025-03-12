@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3359073136,3359073136_163_1470,838379554,BGC0002051,163,1470,['putative multidrug-efflux transporter'],True,NRP
+3359073136,3359073136_1588_2883,1669564749,BGC0002051,1588,2883,['dimodular nonribosomal peptide synthase'],True,NRP
+3359073136,3359073136_3033_6227,2719592406,BGC0002051,3033,6227,['tyrocidine synthase 3'],True,NRP
+3359073136,3359073136_6224_8167,1403591417,BGC0002051,6224,8167,['linear gramicidin synthase subunit D'],True,NRP
+3359073136,3359073136_8169_10088,85332870,BGC0002051,8169,10088,['linear gramicidin synthase subunit B'],True,NRP
+3359073136,3359073136_10078_12936,4158866965,BGC0002051,10078,12936,['linear gramicidin synthase subunit B'],True,NRP
+3359073136,3359073136_13013_13306,1011473656,BGC0002051,13013,13306,,False,

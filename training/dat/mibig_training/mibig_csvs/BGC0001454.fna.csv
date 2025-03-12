@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+703454067,703454067_1_1185,2722023481,BGC0001454,1,1185,['germicidin synthase'],True,Other

@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1081644950,1081644950_1_837,3799802227,BGC0000964,1,837,['thioesterase type II'],True,NRP__Polyketide
+1081644950,1081644950_834_1754,2919660873,BGC0000964,834,1754,['lipase/esterase'],True,NRP__Polyketide
+1081644950,1081644950_1821_2726,3646566955,BGC0000964,1821,2726,"['pyridine nucleotide-disulphide oxidoreductase, class II']",True,NRP__Polyketide
+1081644950,1081644950_2808_5039,3958531694,BGC0000964,2808,5039,"['nonribosomal peptide synthetase, putative']",True,NRP__Polyketide
+1081644950,1081644950_5036_6004,1401585004,BGC0000964,5036,6004,"['phosphotransferase enzyme family protein, putative']",True,NRP__Polyketide
+1081644950,1081644950_6001_7173,2590592779,BGC0000964,6001,7173,['acyl-CoA dehydrogenase domain protein'],True,NRP__Polyketide
+1081644950,1081644950_7166_11743,526872048,BGC0000964,7166,11743,['polyketide synthase'],True,NRP__Polyketide
+1081644950,1081644950_11740_22692,1568160874,BGC0000964,11740,22692,"['peptide synthetase, putative']",True,NRP__Polyketide
+1081644950,1081644950_22689_26243,407996792,BGC0000964,22689,26243,['polyketide synthase'],True,NRP__Polyketide
+1081644950,1081644950_26240_30922,694800949,BGC0000964,26240,30922,['polyketide synthase'],True,NRP__Polyketide
+1081644950,1081644950_30919_36018,3677714893,BGC0000964,30919,36018,['dihydroaeruginoic acid synthetase'],True,NRP__Polyketide
+1081644950,1081644950_37637_38578,1873971036,BGC0000964,37637,38578,"['transcriptional regulator, AraC family domain protein']",True,NRP__Polyketide

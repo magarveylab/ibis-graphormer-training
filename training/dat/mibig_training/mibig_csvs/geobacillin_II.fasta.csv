@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+646954265,646954265_1_1173,635365968,BGC0000516,1,1173,['conserved hypothetical protein'],True,RiPP
+646954265,646954265_1174_3339,1200649728,BGC0000516,1174,3339,['ABC transporter-related protein'],True,RiPP
+646954265,646954265_3369_6449,2987684263,BGC0000516,3369,6449,['Lanthionine synthetase C family protein'],True,RiPP
+646954265,646954265_6534_6725,975937572,BGC0000516,6534,6725,['hypothetical protein'],True,RiPP
+646954265,646954265_6847_7518,2610338343,BGC0000516,6847,7518,"['two component transcriptional regulator, LuxR family']",True,RiPP
+646954265,646954265_7544_9808,1016537018,BGC0000516,7544,9808,['integral membrane sensor signal transduction histidine kinase'],True,RiPP
+646954265,646954265_9815_9970,4021969646,BGC0000516,9815,9970,['hypothetical protein'],True,RiPP
+646954265,646954265_9988_10920,1867668881,BGC0000516,9988,10920,['Polyprenyl synthetase'],True,RiPP

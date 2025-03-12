@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+167518667,167518667_1_966,320301906,BGC0001485,1,966,['tryptophanyl-tRNA synthetase'],True,Alkaloid
+167518667,167518667_1177_2118,3482252340,BGC0001485,1177,2118,['LysR family transcriptional regulator'],True,Alkaloid
+167518667,167518667_2463_3905,1116356777,BGC0001485,2463,3905,['MFS transporter'],True,Alkaloid
+167518667,167518667_3974_4690,3468230402,BGC0001485,3974,4690,['metal-dependent protease'],True,Alkaloid
+167518667,167518667_4694_4996,2112431135,BGC0001485,4694,4996,['sufur carrier protein'],True,Alkaloid
+167518667,167518667_4993_6207,499331851,BGC0001485,4993,6207,['cytochrome P450'],True,Alkaloid
+167518667,167518667_6204_7160,3806528995,BGC0001485,6204,7160,['2-dehydropantoate 2-reductase'],True,Alkaloid
+167518667,167518667_7157_8245,1177246686,BGC0001485,7157,8245,['PLP-dependent aminotransferase'],True,Alkaloid
+167518667,167518667_8330_10189,3880188419,BGC0001485,8330,10189,['B12-dependent radical S-adenosylmethionine'],True,Alkaloid
+167518667,167518667_10186_10917,816277010,BGC0001485,10186,10917,['hypothetical protein'],True,Alkaloid

@@ -1,0 +1,30 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+311876200,311876200_1_417,913493806,BGC0002012,1,417,['transcriptional repressor'],True,Polyketide
+311876200,311876200_564_956,1981365755,BGC0002012,564,956,['CBS domain-containing protein'],True,Polyketide
+311876200,311876200_1134_1934,1532448049,BGC0002012,1134,1934,['histidinol-phosphatase'],True,Polyketide
+311876200,311876200_2141_2746,1016734236,BGC0002012,2141,2746,['TetR/AcrR family transcriptional regulator'],True,Polyketide
+311876200,311876200_2754_3077,1230521148,BGC0002012,2754,3077,['multidrug efflux SMR transporter'],True,Polyketide
+311876200,311876200_3225_4235,3433969115,BGC0002012,3225,4235,['ribosome small subunit-dependent GTPase A'],True,Polyketide
+311876200,311876200_4253_5569,1521865000,BGC0002012,4253,5569,['3-phosphoshikimate 1-carboxyvinyltransferase'],True,Polyketide
+311876200,311876200_5667_6401,429424064,BGC0002012,5667,6401,['M50 family metallopeptidase'],True,Polyketide
+311876200,311876200_6573_7427,1216711801,BGC0002012,6573,7427,['NAD(P)H-binding protein'],True,Polyketide
+311876200,311876200_7508_8968,547889709,BGC0002012,7508,8968,['FAD-dependent oxidoreductase'],True,Polyketide
+311876200,311876200_9153_10316,3362641424,BGC0002012,9153,10316,['hypothetical protein'],True,Polyketide
+311876200,311876200_10358_11365,1966597213,BGC0002012,10358,11365,['LLM class F420-dependent oxidoreductase'],True,Polyketide
+311876200,311876200_11377_12603,141212022,BGC0002012,11377,12603,['cytochrome P450'],True,Polyketide
+311876200,311876200_12638_12919,3592449505,BGC0002012,12638,12919,,True,Polyketide
+311876200,311876200_12778_13482,231479818,BGC0002012,12778,13482,['TetR/AcrR family transcriptional regulator C-terminal domain-containing protein'],True,Polyketide
+311876200,311876200_13732_15195,997022509,BGC0002012,13732,15195,['MFS transporter'],True,Polyketide
+311876200,311876200_15562_16368,1998055970,BGC0002012,15562,16368,['response regulator transcription factor'],True,Polyketide
+311876200,311876200_16626_17297,4023082628,BGC0002012,16626,17297,['TcmI family type II polyketide cyclase'],True,Polyketide
+311876200,311876200_17294_18565,3417830685,BGC0002012,17294,18565,['beta-ketoacyl-[acyl-carrier-protein] synthase family protein'],True,Polyketide
+311876200,311876200_18562_19755,4087910105,BGC0002012,18562,19755,['ketosynthase chain-length factor'],True,Polyketide
+311876200,311876200_19836_20099,3097236776,BGC0002012,19836,20099,['acyl carrier protein'],True,Polyketide
+311876200,311876200_20152_20937,493364527,BGC0002012,20152,20937,['SDR family NAD(P)-dependent oxidoreductase'],True,Polyketide
+311876200,311876200_20966_21916,3542426666,BGC0002012,20966,21916,['aromatase/cyclase'],True,Polyketide
+311876200,311876200_21913_22821,161938130,BGC0002012,21913,22821,['alpha/beta hydrolase'],True,Polyketide
+311876200,311876200_22818_23219,3271221510,BGC0002012,22818,23219,['lipocalin-like domain-containing protein'],True,Polyketide
+311876200,311876200_23216_23407,2318195605,BGC0002012,23216,23407,['hypothetical protein'],True,Polyketide
+311876200,311876200_23404_24138,3466301417,BGC0002012,23404,24138,"[""4'-phosphopantetheinyl transferase superfamily protein""]",True,Polyketide
+311876200,311876200_24230_25045,3385189045,BGC0002012,24230,25045,['SOS response-associated peptidase'],True,Polyketide
+311876200,311876200_25047_25703,2855527280,BGC0002012,25047,25703,['hydrolase'],True,Polyketide

@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3993408254,3993408254_1_15624,1438287797,BGC0001166,1,15624,['HC-toxin synthetase'],True,NRP

@@ -1,0 +1,14 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4101254543,4101254543_538_1026,4158142799,BGC0000684,538,1026,,True,Polyketide
+4101254543,4101254543_2011_2295,3936769524,BGC0000684,2011,2295,,True,Polyketide
+4101254543,4101254543_3494_5107,2699554438,BGC0000684,3494,5107,['conserved hypothetical protein'],True,Polyketide
+4101254543,4101254543_5910_7163,1538339964,BGC0000684,5910,7163,"['FAD-dependent monooxygenase, putative (AFU_orthologue; AFUA_7G00150)']",True,Polyketide
+4101254543,4101254543_7309_8055,679301859,BGC0000684,7309,8055,['metallo-beta-lactamase domain protein (AFU_orthologue; AFUA_7G00120)'],True,Polyketide
+4101254543,4101254543_8006_8305,902873068,BGC0000684,8006,8305,['metallo-beta-lactamase domain protein (AFU_orthologue; AFUA_7G00120)'],True,Polyketide
+4101254543,4101254543_8738_9058,2032337381,BGC0000684,8738,9058,"['polyketide synthase, putative (JCVI)']",True,Polyketide
+4101254543,4101254543_9067_10275,516475302,BGC0000684,9067,10275,"['polyketide synthase, putative (JCVI)']",True,Polyketide
+4101254543,4101254543_10265_12940,613761276,BGC0000684,10265,12940,"['polyketide synthase, putative (JCVI)']",True,Polyketide
+4101254543,4101254543_12982_14283,3249963253,BGC0000684,12982,14283,"['polyketide synthase, putative (JCVI)']",True,Polyketide
+4101254543,4101254543_15948_19124,1967446562,BGC0000684,15948,19124,"['carbamoyl-phosphate synthetase, arginine-specific large chain (Eurofung)']",True,Polyketide
+4101254543,4101254543_20563_20844,3928987009,BGC0000684,20563,20844,"['SET and MYND domain protein, putative (AFU_orthologue; AFUA_2G10080)']",True,Polyketide
+4101254543,4101254543_20841_21746,3696190863,BGC0000684,20841,21746,"['SET and MYND domain protein, putative (AFU_orthologue; AFUA_2G10080)']",True,Polyketide

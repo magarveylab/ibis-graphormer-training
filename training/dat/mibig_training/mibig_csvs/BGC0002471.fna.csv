@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3138847328,3138847328_1_621,3923910996,BGC0002471,1,621,['putative acetyltransferase; putative siderophore biosynthesis protein'],True,Other
+3138847328,3138847328_756_1094,3300823363,BGC0002471,756,1094,,True,Other
+3138847328,3138847328_1091_2614,4261350491,BGC0002471,1091,2614,['conserved hypothetical protein; putative membrane protein'],True,Other
+3138847328,3138847328_2615_2908,2457790864,BGC0002471,2615,2908,['conserved hypothetical protein; putative membrane protein'],True,Other
+3138847328,3138847328_2993_5302,4250637718,BGC0002471,2993,5302,['putative ferric siderophore receptor protein'],True,Other
+3138847328,3138847328_5397_6011,982451603,BGC0002471,5397,6011,['putative demethylmenaquinone methyltransferase'],True,Other
+3138847328,3138847328_5998_6768,3735172092,BGC0002471,5998,6768,['conserved hypothetical protein'],True,Other
+3138847328,3138847328_6781_8691,3201002566,BGC0002471,6781,8691,['conserved hypothetical protein; putative siderophore biosynthesis protein'],True,Other
+3138847328,3138847328_8701_10542,1583704782,BGC0002471,8701,10542,['conserved hypothetical protein'],True,Other
+3138847328,3138847328_10554_11993,3553323175,BGC0002471,10554,11993,['putative multidrug resistance protein (MFS superfamily)'],True,Other
+3138847328,3138847328_12014_13447,2339481084,BGC0002471,12014,13447,['putative lysine/ornithine N-monooxygenase'],True,Other
+3138847328,3138847328_13440_15224,589189711,BGC0002471,13440,15224,['putative siderophore biosynthesis protein'],True,Other

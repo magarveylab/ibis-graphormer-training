@@ -1,0 +1,8 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+834559173,834559173_884_12373,294619901,BGC0000385,884,12373,['amino acid adenylation domain-containing protein/NRPS'],True,NRP
+834559173,834559173_12373_37983,3586056743,BGC0000385,12373,37983,['amino acid adenylation domain-containing protein/NRPS'],True,NRP
+834559173,834559173_37980_39572,603619790,BGC0000385,37980,39572,['lactamase B'],True,NRP
+834559173,834559173_39569_41377,2164079193,BGC0000385,39569,41377,['ABC transporter/permease/ATP-binding protein'],True,NRP
+834559173,834559173_41370_44591,4243531176,BGC0000385,41370,44591,['RND superfamily protein/acriflavin resistance protein'],True,NRP
+834559173,834559173_44769_46046,2974502522,BGC0000385,44769,46046,['membrane fusion protein precursor'],True,NRP
+834559173,834559173_46054_49278,2326498944,BGC0000385,46054,49278,['RND superfamily protein/acriflavin resistance protein'],True,NRP

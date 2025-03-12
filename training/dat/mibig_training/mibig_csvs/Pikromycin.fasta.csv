@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4069188316,4069188316_154_1122,3983705445,BGC0000094,154,1122,['rRNA methyltransferase PikR2'],True,Polyketide__Saccharide
+4069188316,4069188316_1283_2293,4234470982,BGC0000094,1283,2293,['rRNA methyltransferase PikR1'],True,Polyketide__Saccharide
+4069188316,4069188316_3098_16753,2156887812,BGC0000094,3098,16753,['type I polyketide synthase PikAI'],True,Polyketide__Saccharide
+4069188316,4069188316_16858_28077,3076986202,BGC0000094,16858,28077,['type I polyketide synthase PikAII'],True,Polyketide__Saccharide
+4069188316,4069188316_28161_32849,3487240005,BGC0000094,28161,32849,['type I polyketide synthase PikAIII'],True,Polyketide__Saccharide
+4069188316,4069188316_32952_36992,3403692560,BGC0000094,32952,36992,['type I polyketide synthase PikAIV'],True,Polyketide__Saccharide
+4069188316,4069188316_36989_37834,435802147,BGC0000094,36989,37834,['thioesterase II PikAV'],True,Polyketide__Saccharide
+4069188316,4069188316_37816_37947,2921952790,BGC0000094,37816,37947,,False,

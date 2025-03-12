@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3851151559,3851151559_2_1966,3999322315,BGC0002530,2,1966,,False,
+3851151559,3851151559_2409_3212,983203287,BGC0002530,2409,3212,"['Helix-turn-helix, AraC type']",True,NRP
+3851151559,3851151559_3362_4582,3338727260,BGC0002530,3362,4582,['Leu/Ile/Val-binding protein family:Extracellular ligand-binding receptor'],True,NRP

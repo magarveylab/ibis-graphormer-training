@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2122359747,2122359747_189_1088,3352287332,BGC0002052,189,1088,['ectoine dioxygenase'],True,Other
+2122359747,2122359747_1184_1600,3464191886,BGC0002052,1184,1600,['EctC'],True,Other
+2122359747,2122359747_1647_2915,3729031433,BGC0002052,1647,2915,['diaminobutyrate--2-oxoglutarate transaminase'],True,Other
+2122359747,2122359747_3051_3620,3068018836,BGC0002052,3051,3620,"['L-2,4-diaminobutyric acid acetyltransferase']",True,Other

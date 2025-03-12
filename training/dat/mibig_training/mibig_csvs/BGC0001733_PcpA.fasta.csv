@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1116966678,1116966678_1_846,2890444339,BGC0001733,1,846,['diaminopimelate epimerase'],True,RiPP
+1116966678,1116966678_1051_1485,748997977,BGC0001733,1051,1485,['Nif11-like leader peptide family natural product precursor'],True,RiPP
+1116966678,1116966678_1591_2853,3529511547,BGC0001733,1591,2853,['nif11-class peptide radical SAM maturase 3'],True,RiPP
+1116966678,1116966678_2888_3052,3517055737,BGC0001733,2888,3052,['hypothetical protein'],True,RiPP
+1116966678,1116966678_3049_6147,176424291,BGC0001733,3049,6147,['efflux RND transporter permease subunit'],True,RiPP
+1116966678,1116966678_6484_8070,545989123,BGC0001733,6484,8070,['efflux RND transporter periplasmic adaptor subunit'],True,RiPP

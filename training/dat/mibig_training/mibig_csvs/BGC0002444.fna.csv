@@ -1,0 +1,2 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+324202735,324202735_43_1431,1415566669,BGC0002444,43,1431,,False,

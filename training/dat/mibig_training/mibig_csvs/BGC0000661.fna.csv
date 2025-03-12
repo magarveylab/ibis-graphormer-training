@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1417152292,1417152292_1_1410,1668691171,BGC0000661,1,1410,['cyclic nucleotide-binding protein'],True,Terpene
+1417152292,1417152292_1645_3054,97337183,BGC0000661,1645,3054,['cyclic nucleotide-binding protein'],True,Terpene
+1417152292,1417152292_3151_5412,549459457,BGC0000661,3151,5412,['Geosmin synthase'],True,Terpene

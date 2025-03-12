@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+615787994,615787994_1_2499,3443179603,BGC0001014,1,2499,['protein with thioesterase and phosphopantetheinyl transferase domains'],True,NRP__Polyketide
+615787994,615787994_2496_3659,1131860598,BGC0001014,2496,3659,['thiazolinyl imide reductase'],True,NRP__Polyketide
+615787994,615787994_3876_16793,3042273582,BGC0001014,3876,16793,['polyketide synthase/non-ribosomal peptide synthetase'],True,NRP__Polyketide
+615787994,615787994_16956_19031,3539881208,BGC0001014,16956,19031,['TonB-dependent receptor'],True,NRP__Polyketide
+615787994,615787994_19139_20995,2165062157,BGC0001014,19139,20995,['ATP-binding transmembrane ABC transporter protein'],True,NRP__Polyketide
+615787994,615787994_20992_22737,1436996980,BGC0001014,20992,22737,['ATP-binding transmembrane ABC transporter protein'],True,NRP__Polyketide
+615787994,615787994_23038_30180,3837666161,BGC0001014,23038,30180,['polyketide synthase'],True,NRP__Polyketide
+615787994,615787994_30612_36632,1783157146,BGC0001014,30612,36632,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+615787994,615787994_36722_37138,1960526280,BGC0001014,36722,37138,['conserved hypothetical protein'],True,NRP__Polyketide
+615787994,615787994_37213_38124,2550419891,BGC0001014,37213,38124,['AraC-like regulator'],True,NRP__Polyketide

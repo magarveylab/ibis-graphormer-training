@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3962317289,3962317289_1_3510,666903687,BGC0001434,1,3510,['nonribosomal peptide synthetase BudA'],True,NRP
+3962317289,3962317289_3507_8210,44838781,BGC0001434,3507,8210,['nonribosomal peptide synthetase BudB'],True,NRP
+3962317289,3962317289_8207_14218,886660956,BGC0001434,8207,14218,['nonribosomal peptide synthetase BudC'],True,NRP

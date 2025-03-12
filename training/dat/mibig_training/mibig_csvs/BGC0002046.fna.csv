@@ -1,0 +1,21 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2852020258,2852020258_1_465,1106927450,BGC0002046,1,465,['methyl-accepting chemotaxis protein'],True,NRP__Polyketide
+2852020258,2852020258_607_1545,3284260168,BGC0002046,607,1545,"['putative permease, DMT superfamily']",True,NRP__Polyketide
+2852020258,2852020258_1706_2584,2498319940,BGC0002046,1706,2584,['transcriptional regulator'],True,NRP__Polyketide
+2852020258,2852020258_2606_6070,1774970388,BGC0002046,2606,6070,['polyketide synthase modules-related protein'],True,NRP__Polyketide
+2852020258,2852020258_6082_17013,300999083,BGC0002046,6082,17013,['polyketide synthase modules-related protein'],True,NRP__Polyketide
+2852020258,2852020258_17010_33785,673291911,BGC0002046,17010,33785,['polyketide synthase modules-related protein'],True,NRP__Polyketide
+2852020258,2852020258_33856_44652,1471328650,BGC0002046,33856,44652,['polyketide synthase modules-related protein'],True,NRP__Polyketide
+2852020258,2852020258_44652_59054,766815165,BGC0002046,44652,59054,['polyketide synthase modules-related protein'],True,NRP__Polyketide
+2852020258,2852020258_59510_59668,1653635186,BGC0002046,59510,59668,,True,NRP__Polyketide
+2852020258,2852020258_59917_60102,4216682637,BGC0002046,59917,60102,['hypothetical Protein'],True,NRP__Polyketide
+2852020258,2852020258_60346_60777,3186576137,BGC0002046,60346,60777,['acetyltransferase'],True,NRP__Polyketide
+2852020258,2852020258_60982_61374,1027296462,BGC0002046,60982,61374,,True,NRP__Polyketide
+2852020258,2852020258_61577_62104,2864004928,BGC0002046,61577,62104,['adenylate kinase and related kinase'],True,NRP__Polyketide
+2852020258,2852020258_62174_62635,1192522964,BGC0002046,62174,62635,['putative acetyltransferase'],True,NRP__Polyketide
+2852020258,2852020258_63165_64019,1400202349,BGC0002046,63165,64019,"['NAD-dependent protein deacetylase, SIR2 family']",True,NRP__Polyketide
+2852020258,2852020258_64007_64903,3553425262,BGC0002046,64007,64903,"['putative phosphatase, C-terminal domain of histone macroH2A1-like protein']",True,NRP__Polyketide
+2852020258,2852020258_64966_65835,2423889978,BGC0002046,64966,65835,['hypothetical protein'],True,NRP__Polyketide
+2852020258,2852020258_65951_66835,971289021,BGC0002046,65951,66835,['araC-type DNA-binding domain-containing protein'],True,NRP__Polyketide
+2852020258,2852020258_67592_68563,1026588630,BGC0002046,67592,68563,['nucleoside-diphosphate-sugar epimerase'],True,NRP__Polyketide
+2852020258,2852020258_68576_69559,261609146,BGC0002046,68576,69559,"['2-keto-4-pentenoate hydratase/2-oxohepta-3-ene-1,7-dioic acid hydratase (catechol pathway)']",True,NRP__Polyketide

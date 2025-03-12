@@ -1,0 +1,23 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+748929743,748929743_1_1668,2298492541,BGC0002369,1,1668,['N-methyltryptophan oxidase'],True,Polyketide
+748929743,748929743_1869_2492,1371738848,BGC0002369,1869,2492,['HTH-type transcriptional regulator AcrR'],True,Polyketide
+748929743,748929743_2489_2680,2998025777,BGC0002369,2489,2680,['hypothetical protein'],True,Polyketide
+748929743,748929743_2888_4441,242711116,BGC0002369,2888,4441,['Methylmalonyl-CoA carboxyltransferase 12S subunit'],True,Polyketide
+748929743,748929743_4438_4611,2904083773,BGC0002369,4438,4611,['hypothetical protein'],True,Polyketide
+748929743,748929743_4693_6168,2909764379,BGC0002369,4693,6168,['Pentachlorophenol 4-monooxygenase'],True,Polyketide
+748929743,748929743_6181_6504,3080297417,BGC0002369,6181,6504,['Tetracenomycin polyketide synthesis protein TcmI'],True,Polyketide
+748929743,748929743_6507_7754,1393474468,BGC0002369,6507,7754,['Actinorhodin polyketide putative beta-ketoacyl synthase 1'],True,Polyketide
+748929743,748929743_7751_8974,3222036903,BGC0002369,7751,8974,['Actinorhodin polyketide putative beta-ketoacyl synthase 2'],True,Polyketide
+748929743,748929743_8978_9241,4149849464,BGC0002369,8978,9241,['Actinorhodin polyketide synthase acyl carrier protein'],True,Polyketide
+748929743,748929743_9238_10020,1868426639,BGC0002369,9238,10020,['putative ketoacyl reductase'],True,Polyketide
+748929743,748929743_10051_10989,4258904623,BGC0002369,10051,10989,['putative polyketide cyclase'],True,Polyketide
+748929743,748929743_10991_12127,60255332,BGC0002369,10991,12127,['Pentachlorophenol 4-monooxygenase'],True,Polyketide
+748929743,748929743_12124_13419,2574269881,BGC0002369,12124,13419,['High-affinity Na(+)/H(+) antiporter NhaS3'],True,Polyketide
+748929743,748929743_13416_13946,2598640437,BGC0002369,13416,13946,['FMN reductase (NADH) NtaB'],True,Polyketide
+748929743,748929743_13943_15715,1069932637,BGC0002369,13943,15715,['Biotin carboxylase'],True,Polyketide
+748929743,748929743_15835_17319,1328544952,BGC0002369,15835,17319,['putative MFS-type transporter EfpA'],True,Polyketide
+748929743,748929743_17343_17741,36775352,BGC0002369,17343,17741,"[""Pyridoxamine 5'-phosphate oxidase""]",True,Polyketide
+748929743,748929743_17734_18192,3146069065,BGC0002369,17734,18192,['hypothetical protein'],True,Polyketide
+748929743,748929743_18292_19809,2560836051,BGC0002369,18292,19809,['Pentachlorophenol 4-monooxygenase'],True,Polyketide
+748929743,748929743_19810_20520,1756277063,BGC0002369,19810,20520,['Antibiotic biosynthesis monooxygenase'],True,Polyketide
+748929743,748929743_20791_21486,1136627528,BGC0002369,20791,21486,['Transcriptional regulatory protein SrrA'],True,Polyketide

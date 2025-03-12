@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1355036258,1355036258_1_1266,1425076914,BGC0000375,1,1266,['transmembrane transporter'],True,NRP
+1355036258,1355036258_1630_5763,853447426,BGC0000375,1630,5763,['indigoidine synthase'],True,NRP
+1355036258,1355036258_5798_6751,618211256,BGC0000375,5798,6751,['IndA'],True,NRP
+1355036258,1355036258_6748_8679,2545912410,BGC0000375,6748,8679,['putative phosphatase'],True,NRP
+1355036258,1355036258_8741_9457,2136709888,BGC0000375,8741,9457,['phosphoribosyl transferase-type I domain protein'],True,NRP

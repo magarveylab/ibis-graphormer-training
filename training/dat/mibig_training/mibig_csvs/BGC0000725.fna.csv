@@ -1,0 +1,13 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+677443996,677443996_1_1311,459226695,BGC0000725,1,1311,['GDP-mannose 6-dehydrogenase AlgD'],True,Saccharide
+677443996,677443996_1454_2935,3597098157,BGC0000725,1454,2935,['alginate biosynthesis protein Alg8'],True,Saccharide
+677443996,677443996_3018_4187,3844202381,BGC0000725,3018,4187,['alginate biosynthesis protein Alg44'],True,Saccharide
+677443996,677443996_4201_5628,3933719472,BGC0000725,4201,5628,['alginate biosynthetic protein AlgK precursor'],True,Saccharide
+677443996,677443996_5625_7097,2843872210,BGC0000725,5625,7097,['Alginate production outer membrane protein AlgE precursor'],True,Saccharide
+677443996,677443996_7118_8749,1691034977,BGC0000725,7118,8749,['alginate-c5-mannuronan-epimerase AlgG'],True,Saccharide
+677443996,677443996_8762_10186,533183138,BGC0000725,8762,10186,['alginate biosynthesis protein AlgX'],True,Saccharide
+677443996,677443996_10190_11293,1269029050,BGC0000725,10190,11293,['poly(beta-d-mannuronate) lyase precursor AlgL'],True,Saccharide
+677443996,677443996_11535_13097,421963975,BGC0000725,11535,13097,['alginate o-acetyltransferase AlgI'],True,Saccharide
+677443996,677443996_13112_14287,2971668793,BGC0000725,13112,14287,['alginate o-acetyltransferase AlgJ'],True,Saccharide
+677443996,677443996_14360_15010,3497923169,BGC0000725,14360,15010,['alginate o-acetyltransferase AlgF'],True,Saccharide
+677443996,677443996_15207_16652,855218054,BGC0000725,15207,16652,"[""phosphomannose isomerase / guanosine 5'-diphospho-D-mannose pyrophosphorylase""]",True,Saccharide

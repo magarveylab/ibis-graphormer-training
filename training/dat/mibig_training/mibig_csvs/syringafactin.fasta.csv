@@ -1,0 +1,7 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3591747715,3591747715_1_774,1561286041,BGC0000435,1,774,['transcriptional regulator SyrR'],True,NRP
+3591747715,3591747715_1065_10571,3319148228,BGC0000435,1065,10571,['non-ribosomal peptide synthetase SyfA'],True,NRP
+3591747715,3591747715_10568_28357,2651714104,BGC0000435,10568,28357,['non-ribosomal peptide synthetase SyfB'],True,NRP
+3591747715,3591747715_28354_29505,3923289933,BGC0000435,28354,29505,['syringafactin efflux protein SyfC'],True,NRP
+3591747715,3591747715_29508_31514,1200275793,BGC0000435,29508,31514,['syringafactin efflux protein SyfD'],True,NRP
+3591747715,3591747715_31520_32188,3671874262,BGC0000435,31520,32188,"['transcriptional regulator, LuxR family']",True,NRP

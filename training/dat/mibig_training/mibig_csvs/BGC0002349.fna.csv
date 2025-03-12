@@ -1,0 +1,43 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3389193710,3389193710_1_1233,1734309790,BGC0002349,1,1233,['sensor histidine kinase'],True,Polyketide__Saccharide
+3389193710,3389193710_1206_1895,298359820,BGC0002349,1206,1895,['response regulator transcription factor'],True,Polyketide__Saccharide
+3389193710,3389193710_2049_2498,3659007218,BGC0002349,2049,2498,['hypothetical protein'],True,Polyketide__Saccharide
+3389193710,3389193710_2524_2844,2805084987,BGC0002349,2524,2844,['hypothetical protein'],True,Polyketide__Saccharide
+3389193710,3389193710_3026_5635,3145893691,BGC0002349,3026,5635,['AAA ATPase domain protein'],True,Polyketide__Saccharide
+3389193710,3389193710_5632_8082,941792168,BGC0002349,5632,8082,['LuxR family transcriptional regulator'],True,Polyketide__Saccharide
+3389193710,3389193710_8091_10829,3721715679,BGC0002349,8091,10829,['HTH-type transcriptional regulator MalT'],True,Polyketide__Saccharide
+3389193710,3389193710_11695_12375,4064708087,BGC0002349,11695,12375,['LuxR family transcriptional regulator'],True,Polyketide__Saccharide
+3389193710,3389193710_12368_13354,3939243607,BGC0002349,12368,13354,"['dTDP-glucose 4,6-dehydratase']",True,Polyketide__Saccharide
+3389193710,3389193710_13569_14147,3330780199,BGC0002349,13569,14147,"['dTDP-4-dehydrorhamnose 3,5-epimerase']",True,Polyketide__Saccharide
+3389193710,3389193710_14288_15160,2614837070,BGC0002349,14288,15160,['glucose-1-phosphate thymidylyltransferase'],True,Polyketide__Saccharide
+3389193710,3389193710_15177_16388,392981290,BGC0002349,15177,16388,['glycosyl transferase'],True,Polyketide__Saccharide
+3389193710,3389193710_16385_17620,2872351747,BGC0002349,16385,17620,['glycosyl transferase'],True,Polyketide__Saccharide
+3389193710,3389193710_17620_18852,3119144808,BGC0002349,17620,18852,['cytochrome P450'],True,Polyketide__Saccharide
+3389193710,3389193710_19031_28459,2090478484,BGC0002349,19031,28459,['3-ketoacyl-CoA thiolase'],True,Polyketide__Saccharide
+3389193710,3389193710_28452_51002,3284037355,BGC0002349,28452,51002,['3-ketoacyl-CoA thiolase'],True,Polyketide__Saccharide
+3389193710,3389193710_51058_52572,1966561435,BGC0002349,51058,52572,['Dolichyl-phosphate-mannose-protein mannosyltransferase'],True,Polyketide__Saccharide
+3389193710,3389193710_52841_75301,3185789936,BGC0002349,52841,75301,['3-ketoacyl-CoA thiolase'],True,Polyketide__Saccharide
+3389193710,3389193710_75330_84530,538027467,BGC0002349,75330,84530,['type I polyketide synthase'],True,Polyketide__Saccharide
+3389193710,3389193710_84579_90584,1008608429,BGC0002349,84579,90584,['type I polyketide synthase'],True,Polyketide__Saccharide
+3389193710,3389193710_90958_92103,4244191105,BGC0002349,90958,92103,['hypothetical protein'],True,Polyketide__Saccharide
+3389193710,3389193710_92541_94238,2754489512,BGC0002349,92541,94238,['3-hydroxybutyryl-CoA dehydrogenase'],True,Polyketide__Saccharide
+3389193710,3389193710_94257_95591,2199679628,BGC0002349,94257,95591,['crotonyl-CoA carboxylase/reductase'],True,Polyketide__Saccharide
+3389193710,3389193710_95706_107663,497804177,BGC0002349,95706,107663,['type I polyketide synthase'],True,Polyketide__Saccharide
+3389193710,3389193710_107757_108524,3401770816,BGC0002349,107757,108524,['NAD-dependent epimerase/dehydratase family protein'],True,Polyketide__Saccharide
+3389193710,3389193710_108687_109358,4095671404,BGC0002349,108687,109358,['response regulator transcription factor'],True,Polyketide__Saccharide
+3389193710,3389193710_109591_110802,228762148,BGC0002349,109591,110802,['sensor histidine kinase'],True,Polyketide__Saccharide
+3389193710,3389193710_110956_111279,71018585,BGC0002349,110956,111279,['hypothetical protein'],True,Polyketide__Saccharide
+3389193710,3389193710_111417_112664,1325858032,BGC0002349,111417,112664,['class I SAM-dependent methyltransferase'],True,Polyketide__Saccharide
+3389193710,3389193710_112776_113657,4016778857,BGC0002349,112776,113657,['LLM class F420-dependent oxidoreductase'],True,Polyketide__Saccharide
+3389193710,3389193710_113701_114903,4228921901,BGC0002349,113701,114903,['glycosyl transferase'],True,Polyketide__Saccharide
+3389193710,3389193710_115083_115676,525049342,BGC0002349,115083,115676,['dTDP-4-keto-6-deoxy-D-glucose epimerase'],True,Polyketide__Saccharide
+3389193710,3389193710_115784_117247,644746523,BGC0002349,115784,117247,"['NDP-hexose 2,3-dehydratase']",True,Polyketide__Saccharide
+3389193710,3389193710_117321_118568,615855232,BGC0002349,117321,118568,['activator-dependent family glycosyltransferase'],True,Polyketide__Saccharide
+3389193710,3389193710_118639_119748,3521991452,BGC0002349,118639,119748,['DegT/DnrJ/EryC1/StrS family aminotransferase'],True,Polyketide__Saccharide
+3389193710,3389193710_119745_120953,452737477,BGC0002349,119745,120953,['glycosyl transferase'],True,Polyketide__Saccharide
+3389193710,3389193710_121222_122016,3780586447,BGC0002349,121222,122016,['NAD-dependent epimerase/dehydratase family protein'],True,Polyketide__Saccharide
+3389193710,3389193710_122523_124349,4224467860,BGC0002349,122523,124349,['ABC transporter'],True,Polyketide__Saccharide
+3389193710,3389193710_124354_125958,1256228665,BGC0002349,124354,125958,['beta-N-acetylhexosaminidase'],True,Polyketide__Saccharide
+3389193710,3389193710_126037_127041,3438346626,BGC0002349,126037,127041,['3-oxoacyl-ACP synthase III'],True,Polyketide__Saccharide
+3389193710,3389193710_127439_128068,4148836728,BGC0002349,127439,128068,['TetR family transcriptional regulator'],True,Polyketide__Saccharide
+3389193710,3389193710_128357_128719,3814277212,BGC0002349,128357,128719,['beta-N-acetylhexosaminidase'],True,Polyketide__Saccharide

@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+452425166,452425166_357_1613,3165161285,BGC0000777,357,1613,['putative O antigen flippase'],True,Saccharide
+452425166,452425166_1613_2599,1213954509,BGC0000777,1613,2599,,True,Saccharide
+452425166,452425166_2962_3822,980846008,BGC0000777,2962,3822,['putative glycosyltransferase'],True,Saccharide
+452425166,452425166_3819_4850,1764714457,BGC0000777,3819,4850,['putative glycosyltransferase'],True,Saccharide
+452425166,452425166_4837_5982,419796939,BGC0000777,4837,5982,['putative glycosyltransferase'],True,Saccharide
+452425166,452425166_5999_7006,2246576972,BGC0000777,5999,7006,['putative epimerase'],True,Saccharide
+452425166,452425166_7027_8232,391715951,BGC0000777,7027,8232,['putative glycosyltransferase'],True,Saccharide
+452425166,452425166_8222_9661,2813379501,BGC0000777,8222,9661,['putative mannose-1-phosphate guanosyltransferase'],True,Saccharide
+452425166,452425166_9744_11114,1373831895,BGC0000777,9744,11114,['putative phosphomannomutase'],True,Saccharide

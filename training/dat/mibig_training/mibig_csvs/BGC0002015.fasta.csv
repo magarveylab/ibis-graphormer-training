@@ -1,0 +1,15 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+220291403,220291403_1_702,4006508442,BGC0002015,1,702,['response regulator transcription factor'],True,RiPP
+220291403,220291403_1214_2323,2184046473,BGC0002015,1214,2323,['sensor histidine kinase'],True,RiPP
+220291403,220291403_2434_3336,820614615,BGC0002015,2434,3336,['ATP-binding cassette domain-containing protein'],True,RiPP
+220291403,220291403_3329_4081,1370830256,BGC0002015,3329,4081,['ABC transporter permease'],True,RiPP
+220291403,220291403_4198_4326,638238560,BGC0002015,4198,4326,['aborycin family tricyclic lasso peptide'],True,RiPP
+220291403,220291403_4388_6199,2840587566,BGC0002015,4388,6199,['lasso peptide isopeptide bond-forming cyclase'],True,RiPP
+220291403,220291403_6196_6459,1402371150,BGC0002015,6196,6459,['lasso peptide biosynthesis PqqD family chaperone'],True,RiPP
+220291403,220291403_6456_6881,1826287229,BGC0002015,6456,6881,['lasso peptide biosynthesis B2 protein'],True,RiPP
+220291403,220291403_6878_7843,225339323,BGC0002015,6878,7843,['ATP-binding cassette domain-containing protein'],True,RiPP
+220291403,220291403_7840_8709,2015303426,BGC0002015,7840,8709,['ABC transporter permease'],True,RiPP
+220291403,220291403_8723_9196,452337640,BGC0002015,8723,9196,['DoxX family membrane protein'],True,RiPP
+220291403,220291403_9199_9924,3652089347,BGC0002015,9199,9924,['thioredoxin domain-containing protein'],True,RiPP
+220291403,220291403_9921_11267,1365640041,BGC0002015,9921,11267,['lasso peptide C-terminal Trp epimerase'],True,RiPP
+220291403,220291403_11341_12018,3960550075,BGC0002015,11341,12018,['response regulator transcription factor'],True,RiPP

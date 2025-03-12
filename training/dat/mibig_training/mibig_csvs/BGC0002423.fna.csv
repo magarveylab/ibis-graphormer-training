@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+4014534419,4014534419_1_1287,362948390,BGC0002423,1,1287,['radical SAM protein'],True,Other
+4014534419,4014534419_1369_2562,2795718941,BGC0002423,1369,2562,['methyltransferase domain-containing protein'],True,Other
+4014534419,4014534419_2543_3769,1175606803,BGC0002423,2543,3769,['GntP family permease'],True,Other
+4014534419,4014534419_3990_4337,411505262,BGC0002423,3990,4337,['helix-turn-helix transcriptional regulator'],True,Other

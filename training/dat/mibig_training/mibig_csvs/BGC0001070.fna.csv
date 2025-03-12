@@ -1,0 +1,27 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+760355217,760355217_2_757,2814511259,BGC0001070,2,757,['putative Sfp type phosphopantetheinyl transferase'],True,NRP__Polyketide
+760355217,760355217_1055_7123,500425392,BGC0001070,1055,7123,['putative polyketide synthase'],True,NRP__Polyketide
+760355217,760355217_7148_20302,2190082948,BGC0001070,7148,20302,['putative polyketide synthase'],True,NRP__Polyketide
+760355217,760355217_20299_24951,3886283255,BGC0001070,20299,24951,['putative hybrid non-ribosomal peptide synthetase/polyketide synthase'],True,NRP__Polyketide
+760355217,760355217_24951_44147,3564202254,BGC0001070,24951,44147,['putative polyketide synthase'],True,NRP__Polyketide
+760355217,760355217_44147_51028,3848041690,BGC0001070,44147,51028,['putative polyketide synthase'],True,NRP__Polyketide
+760355217,760355217_51025_59721,702593953,BGC0001070,51025,59721,['putative polyketide synthase'],True,NRP__Polyketide
+760355217,760355217_59961_60809,3887830009,BGC0001070,59961,60809,['hypothetical protein'],True,NRP__Polyketide
+760355217,760355217_60806_63907,4040851568,BGC0001070,60806,63907,['putative non-ribosomal peptide synthetase'],True,NRP__Polyketide
+760355217,760355217_63931_67167,3841727336,BGC0001070,63931,67167,['putative acyltransferase'],True,NRP__Polyketide
+760355217,760355217_67182_68381,652057768,BGC0001070,67182,68381,['putative cytochrome P450 hydroxylase'],True,NRP__Polyketide
+760355217,760355217_68375_68815,801638989,BGC0001070,68375,68815,['putative aspartate-1-decarboxylase precursor'],True,NRP__Polyketide
+760355217,760355217_68847_69803,585543998,BGC0001070,68847,69803,['putative SAM-dependent methyltransferase'],True,NRP__Polyketide
+760355217,760355217_69813_71150,1490068656,BGC0001070,69813,71150,,True,NRP__Polyketide
+760355217,760355217_71142_71699,3074801197,BGC0001070,71142,71699,['hypothetical protein'],True,NRP__Polyketide
+760355217,760355217_71696_72028,1736569034,BGC0001070,71696,72028,['hypothetical protein'],True,NRP__Polyketide
+760355217,760355217_72080_72982,3484589634,BGC0001070,72080,72982,['putative major facilitator family transporter'],True,NRP__Polyketide
+760355217,760355217_72998_73744,1915365027,BGC0001070,72998,73744,['putative major facilitator family transporter'],True,NRP__Polyketide
+760355217,760355217_73802_74116,2477698444,BGC0001070,73802,74116,['putative TetR family transcriptional regulator'],True,NRP__Polyketide
+760355217,760355217_74150_74509,1550198348,BGC0001070,74150,74509,['putative TetR family transcriptional regulator'],True,NRP__Polyketide
+760355217,760355217_74629_75846,296780940,BGC0001070,74629,75846,['putative cytochrome P450 hydroxylase'],True,NRP__Polyketide
+760355217,760355217_75890_76669,4102977361,BGC0001070,75890,76669,['hypothetical protein'],True,NRP__Polyketide
+760355217,760355217_76666_77061,143749874,BGC0001070,76666,77061,['hypothetical protein'],True,NRP__Polyketide
+760355217,760355217_77120_78487,620092656,BGC0001070,77120,78487,['putative crotonyl-CoA reductase'],True,NRP__Polyketide
+760355217,760355217_78484_79329,3927671022,BGC0001070,78484,79329,['hypothetical protein'],True,NRP__Polyketide
+760355217,760355217_79380_79889,2916401761,BGC0001070,79380,79889,['putative GNAT family acetyltransferase'],True,NRP__Polyketide

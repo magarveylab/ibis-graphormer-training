@@ -1,0 +1,4 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+110328611,110328611_138_16277,3530421379,BGC0000438,138,16277,['syringopeptin synthetase'],True,NRP
+110328611,110328611_16274_32689,1010160322,BGC0000438,16274,32689,['syringopeptin synthetase B'],True,NRP
+110328611,110328611_33115_73725,2480789145,BGC0000438,33115,73725,['syringopeptin synthetase C'],True,NRP

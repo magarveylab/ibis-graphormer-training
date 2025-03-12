@@ -1,0 +1,10 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3806656564,3806656564_1_1719,2392044121,BGC0002064,1,1719,['Putative multidrug export ATP-binding/permease protein'],True,RiPP
+3806656564,3806656564_1716_3380,4173739766,BGC0002064,1716,3380,['Lipid A export ATP-binding/permease protein MsbA'],True,RiPP
+3806656564,3806656564_3415_4461,3390395028,BGC0002064,3415,4461,['Alkanal monooxygenase alpha chain'],True,RiPP
+3806656564,3806656564_4479_4889,972108254,BGC0002064,4479,4889,['hypothetical protein'],True,RiPP
+3806656564,3806656564_4886_5143,2728804897,BGC0002064,4886,5143,['hypothetical protein'],True,RiPP
+3806656564,3806656564_5140_6951,972729058,BGC0002064,5140,6951,['Putative asparagine synthetase [glutamine-hydrolyzing]'],True,RiPP
+3806656564,3806656564_7071_7196,2211253790,BGC0002064,7071,7196,['hypothetical protein'],True,RiPP
+3806656564,3806656564_7233_7400,1346126001,BGC0002064,7233,7400,['hypothetical protein'],True,RiPP
+3806656564,3806656564_7457_8887,1828810885,BGC0002064,7457,8887,['Regulatory protein AfsR'],True,RiPP

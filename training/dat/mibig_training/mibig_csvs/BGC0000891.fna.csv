@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1693402666,1693402666_1_1248,1193343264,BGC0000891,1,1248,['NAD(FAD)-dependent dehydrogenase'],True,Other
+1693402666,1693402666_1260_1580,1085746662,BGC0000891,1260,1580,['ferredoxin'],True,Other
+1693402666,1693402666_1591_2181,779365547,BGC0000891,1591,2181,['hypothetical protein'],True,Other
+1693402666,1693402666_2467_3543,1109829700,BGC0000891,2467,3543,['putative hydrolase or acyltransferases (alpha/beta hydrolase superfamily)'],True,Other
+1693402666,1693402666_3540_4760,554043338,BGC0000891,3540,4760,['Dehydrogenases (flavoprotein)'],True,Other
+1693402666,1693402666_4803_5945,1500196525,BGC0000891,4803,5945,['acyl-CoA dehydrogenase'],True,Other
+1693402666,1693402666_5942_7498,3182945548,BGC0000891,5942,7498,['amino acid adenylation domain protein'],True,Other
+1693402666,1693402666_7610_9157,1342752635,BGC0000891,7610,9157,['putative flavoprotein'],True,Other
+1693402666,1693402666_9176_9784,229737887,BGC0000891,9176,9784,['4-hydroxybenzoate synthetase (chorismate lyase)'],True,Other
+1693402666,1693402666_9788_11263,217665678,BGC0000891,9788,11263,['cytochrome P450'],True,Other

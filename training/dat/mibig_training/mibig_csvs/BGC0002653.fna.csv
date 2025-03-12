@@ -1,0 +1,6 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1987976011,1987976011_1_18843,1927529176,BGC0002653,1,18843,['non-ribosomal peptide synthetase'],True,NRP
+1987976011,1987976011_18989_20722,15575267,BGC0002653,18989,20722,['multidrug ABC transporter permease'],True,NRP
+1987976011,1987976011_20719_22545,3710392086,BGC0002653,20719,22545,['multidrug ABC transporter permease'],True,NRP
+1987976011,1987976011_22535_25813,1567795501,BGC0002653,22535,25813,['non-ribosomal peptide synthetase'],True,NRP
+1987976011,1987976011_25966_40983,2242598108,BGC0002653,25966,40983,['hypothetical protein'],True,NRP

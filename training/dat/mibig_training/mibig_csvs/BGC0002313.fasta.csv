@@ -1,0 +1,11 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+892506833,892506833_162_755,1702532398,BGC0002313,162,755,['RNA polymerase sigma-70 factor'],True,Other
+892506833,892506833_752_1552,2844753031,BGC0002313,752,1552,['O6-methylguanine-DNA--protein-cysteine methyltransferase'],True,Other
+892506833,892506833_1611_2156,1455368801,BGC0002313,1611,2156,['methylated-DNA-[protein]-cysteine S methyltransferase'],True,Other
+892506833,892506833_2239_3006,364923966,BGC0002313,2239,3006,['Fe(II)-2-oxoglutarate-dependent oxygenase family protein'],True,Other
+892506833,892506833_3290_4375,1183015857,BGC0002313,3290,4375,['methyltransferase domain-containing protein'],True,Other
+892506833,892506833_4446_5861,795777661,BGC0002313,4446,5861,['iron-containing redox enzyme'],True,Other
+892506833,892506833_5852_6226,3316676595,BGC0002313,5852,6226,['rieske domain-containing protein'],True,Other
+892506833,892506833_6372_7622,1514352523,BGC0002313,6372,7622,['ATP-grasp domain-containing protein'],True,Other
+892506833,892506833_7619_8914,1274676601,BGC0002313,7619,8914,['MFS transporter'],True,Other
+892506833,892506833_8958_9914,4269818407,BGC0002313,8958,9914,['alpha/beta hydrolase'],True,Other

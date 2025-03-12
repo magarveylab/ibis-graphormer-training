@@ -1,0 +1,9 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+831580534,831580534_4_738,2476451721,BGC0001415,4,738,['putative thioesterase'],True,NRP__Polyketide
+831580534,831580534_885_16931,3338977496,BGC0001415,885,16931,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+831580534,831580534_16931_24061,3299400631,BGC0001415,16931,24061,['non-ribosomal peptide synthetase'],True,NRP__Polyketide
+831580534,831580534_24083_24994,2605107755,BGC0001415,24083,24994,['hypothetical protein'],True,NRP__Polyketide
+831580534,831580534_25009_25965,220849689,BGC0001415,25009,25965,['hypothetical protein'],True,NRP__Polyketide
+831580534,831580534_26064_27245,963434900,BGC0001415,26064,27245,['putative drug efflux protein'],True,NRP__Polyketide
+831580534,831580534_27551_28900,2933266465,BGC0001415,27551,28900,['bacteriocin 28b'],True,NRP__Polyketide
+831580534,831580534_29206_30285,3987116292,BGC0001415,29206,30285,['hypothetical protein'],True,NRP__Polyketide

@@ -1,0 +1,5 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+3572766816,3572766816_1_1056,4252637016,BGC0000817,1,1056,['N-methyltransferase MarM'],True,Alkaloid
+3572766816,3572766816_1410_4838,3502350157,BGC0000817,1410,4838,['chromopyrrolic acid synthase MarB'],True,Alkaloid
+3572766816,3572766816_4884_6221,3319454418,BGC0000817,4884,6221,['Rieske [2Fe-2S] domain dioxygenase MarC'],True,Alkaloid
+3572766816,3572766816_6218_6814,3128688615,BGC0000817,6218,6814,['putative VioE-like protein MarE'],True,Alkaloid

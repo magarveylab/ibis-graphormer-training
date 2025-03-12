@@ -1,0 +1,23 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+1086744378,1086744378_278_1285,3197377523,BGC0002096,278,1285,['hypothetical protein'],True,Polyketide
+1086744378,1086744378_1369_2160,103084198,BGC0002096,1369,2160,['thioesterase'],True,Polyketide
+1086744378,1086744378_2365_2658,4058816368,BGC0002096,2365,2658,['acyl carrier protein'],True,Polyketide
+1086744378,1086744378_2834_3580,3962771172,BGC0002096,2834,3580,"[""4'-phosphopantetheinyl transferase superfamily protein""]",True,Polyketide
+1086744378,1086744378_3577_4932,1549056131,BGC0002096,3577,4932,['cation/H(+) antiporter'],True,Polyketide
+1086744378,1086744378_5256_6392,2678478925,BGC0002096,5256,6392,['acyl-CoA dehydrogenase'],True,Polyketide
+1086744378,1086744378_6389_7861,1121702453,BGC0002096,6389,7861,['D-alanine--poly(phosphoribitol) ligase'],True,Polyketide
+1086744378,1086744378_7982_8659,2743512875,BGC0002096,7982,8659,['response regulator transcription factor'],True,Polyketide
+1086744378,1086744378_9415_10047,4133028003,BGC0002096,9415,10047,['TetR/AcrR family transcriptional regulator'],True,Polyketide
+1086744378,1086744378_10083_10856,2702271607,BGC0002096,10083,10856,['ABC transporter permease'],True,Polyketide
+1086744378,1086744378_10856_11596,3629287887,BGC0002096,10856,11596,['ABC transporter ATP-binding protein'],True,Polyketide
+1086744378,1086744378_11782_13092,2901663673,BGC0002096,11782,13092,['beta-ketoacyl-[acyl-carrier-protein] synthase family protein'],True,Polyketide
+1086744378,1086744378_13089_13364,2582196407,BGC0002096,13089,13364,['acyl carrier protein'],True,Polyketide
+1086744378,1086744378_13401_14834,1060874895,BGC0002096,13401,14834,['FAD-binding oxidoreductase'],True,Polyketide
+1086744378,1086744378_14960_16642,380721882,BGC0002096,14960,16642,['hypothetical protein'],True,Polyketide
+1086744378,1086744378_16639_21186,845712329,BGC0002096,16639,21186,['acyltransferase domain-containing protein'],True,Polyketide
+1086744378,1086744378_21183_30230,3603418425,BGC0002096,21183,30230,['acyltransferase domain-containing protein'],True,Polyketide
+1086744378,1086744378_30242_31588,4179117647,BGC0002096,30242,31588,['NAD(P)/FAD-dependent oxidoreductase'],True,Polyketide
+1086744378,1086744378_31641_32819,2221967221,BGC0002096,31641,32819,['zinc-binding alcohol dehydrogenase family protein'],True,Polyketide
+1086744378,1086744378_32977_33765,3224087485,BGC0002096,32977,33765,['enoyl-[acyl-carrier-protein] reductase FabI'],True,Polyketide
+1086744378,1086744378_33929_34324,3886294918,BGC0002096,33929,34324,['hypothetical protein'],True,Polyketide
+1086744378,1086744378_34685_35125,2370797670,BGC0002096,34685,35125,['MarR family transcriptional regulator'],True,Polyketide

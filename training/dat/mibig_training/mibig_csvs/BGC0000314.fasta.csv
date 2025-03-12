@@ -1,0 +1,15 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2821400586,2821400586_1_1620,3946553447,BGC0000314,1,1620,['aromatic amino acid ammonia-lyase'],True,NRP__Polyketide__Other
+2821400586,2821400586_1758_2051,628453788,BGC0000314,1758,2051,['phosphopantetheine-binding protein'],True,NRP__Polyketide__Other
+2821400586,2821400586_2086_3582,2789216886,BGC0000314,2086,3582,['AMP-binding protein'],True,NRP__Polyketide__Other
+2821400586,2821400586_3575_5758,1624379374,BGC0000314,3575,5758,['beta-ketoacyl-[acyl-carrier-protein] synthase family protein'],True,NRP__Polyketide__Other
+2821400586,2821400586_5760_6527,982672634,BGC0000314,5760,6527,['ABC transporter ATP-binding protein'],True,NRP__Polyketide__Other
+2821400586,2821400586_6520_7635,1268416325,BGC0000314,6520,7635,['ABC transporter permease'],True,NRP__Polyketide__Other
+2821400586,2821400586_7632_8030,4050268543,BGC0000314,7632,8030,['3-hydroxyacyl-ACP dehydratase FabZ'],True,NRP__Polyketide__Other
+2821400586,2821400586_8042_8773,453183161,BGC0000314,8042,8773,['SDR family oxidoreductase'],True,NRP__Polyketide__Other
+2821400586,2821400586_8770_9477,2263169597,BGC0000314,8770,9477,['hypothetical protein'],True,NRP__Polyketide__Other
+2821400586,2821400586_9474_10229,1868526836,BGC0000314,9474,10229,['alpha/beta fold hydrolase'],True,NRP__Polyketide__Other
+2821400586,2821400586_10253_14806,858225700,BGC0000314,10253,14806,['non-ribosomal peptide synthetase'],True,NRP__Polyketide__Other
+2821400586,2821400586_14810_22657,1447347212,BGC0000314,14810,22657,['non-ribosomal peptide synthetase'],True,NRP__Polyketide__Other
+2821400586,2821400586_22660_32502,2917299598,BGC0000314,22660,32502,['non-ribosomal peptide synthetase'],True,NRP__Polyketide__Other
+2821400586,2821400586_32630_33868,411026218,BGC0000314,32630,33868,['tryptophan 7-halogenase'],True,NRP__Polyketide__Other

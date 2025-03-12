@@ -1,0 +1,19 @@
+contig_id,orf_id,protein_id,mibig_name,start,stop,CDS_product,ground_truth,mibig_chemotypes
+2505536615,2505536615_1_1212,950730901,BGC0001443,1,1212,['methylmalonyl Co-A mutase-associated GTPase MeaB'],True,NRP__Polyketide
+2505536615,2505536615_1209_1616,1912773003,BGC0001443,1209,1616,['cobalamin B12-binding domain-containing protein'],True,NRP__Polyketide
+2505536615,2505536615_1613_2548,2408932764,BGC0001443,1613,2548,['alpha/beta fold hydrolase'],True,NRP__Polyketide
+2505536615,2505536615_2545_7191,533845292,BGC0001443,2545,7191,['type I polyketide synthase'],True,NRP__Polyketide
+2505536615,2505536615_7237_8847,2441264092,BGC0001443,7237,8847,['MFS transporter'],True,NRP__Polyketide
+2505536615,2505536615_8894_9559,2357845729,BGC0001443,8894,9559,['helix-turn-helix domain-containing protein'],True,NRP__Polyketide
+2505536615,2505536615_9546_10889,861440263,BGC0001443,9546,10889,['crotonyl-CoA carboxylase/reductase'],True,NRP__Polyketide
+2505536615,2505536615_10894_12708,2232991843,BGC0001443,10894,12708,['condensation domain-containing protein'],True,NRP__Polyketide
+2505536615,2505536615_12705_14270,1542377674,BGC0001443,12705,14270,['AMP-binding protein'],True,NRP__Polyketide
+2505536615,2505536615_14267_14518,2670049153,BGC0001443,14267,14518,['phosphopantetheine-binding protein'],True,NRP__Polyketide
+2505536615,2505536615_14515_15777,2654432038,BGC0001443,14515,15777,['condensation domain-containing protein'],True,NRP__Polyketide
+2505536615,2505536615_15777_17417,905787099,BGC0001443,15777,17417,['acyl-CoA/acyl-ACP dehydrogenase'],True,NRP__Polyketide
+2505536615,2505536615_17404_18102,2427415293,BGC0001443,17404,18102,['FMN-binding negative transcriptional regulator'],True,NRP__Polyketide
+2505536615,2505536615_18119_18535,487847525,BGC0001443,18119,18535,,True,NRP__Polyketide
+2505536615,2505536615_18535_19833,1993974567,BGC0001443,18535,19833,['lysine N(6)-hydroxylase/L-ornithine N(5)-oxygenase family protein'],True,NRP__Polyketide
+2505536615,2505536615_19830_21686,1394424816,BGC0001443,19830,21686,['asparagine synthase (glutamine-hydrolyzing)'],True,NRP__Polyketide
+2505536615,2505536615_21725_23170,1444684494,BGC0001443,21725,23170,['methylmalonyl-CoA mutase family protein'],True,NRP__Polyketide
+2505536615,2505536615_23172_24014,3825866164,BGC0001443,23172,24014,,False,
