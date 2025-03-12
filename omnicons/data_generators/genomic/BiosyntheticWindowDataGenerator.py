@@ -97,7 +97,7 @@ class BiosyntheticWindowOrfGraphDataGenerator:
                 open(save_fp, "r")
             )
         else:
-            from OmniconDatasets.DataGenerators.GenomicOrf.utils import (
+            from omnicons.data_generators.genomic.utils import (
                 universal_chemotypes_w_hybrid,
             )
 
