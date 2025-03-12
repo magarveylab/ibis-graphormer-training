@@ -13,6 +13,9 @@ from omnicons.lightning.GraphModelForMultiTask import (
 )
 from omnicons.metrics import ClassificationMetrics
 from omnicons.optimizers.preconfigured import get_deepspeed_adamw
+from training.ibis_sm.BiosyntheticWindowsTraining.data_modules import (
+    BiosyntheticWindowMultiDataModule,
+)
 
 
 def get_cluster_chemotype_dict(cluster_chemotype_fp: str = None) -> dict:
@@ -135,7 +138,7 @@ def get_heads(
 
 
 def get_model(
-    dm=None,  # an instance of BiosyntheticWindowDataModule
+    dm: BiosyntheticWindowMultiDataModule = None,
     weights_fp: str = os.path.join(
         datdir, "biosyn_windows", "biosyn_windows_weights.pkl"
     ),

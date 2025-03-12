@@ -77,7 +77,7 @@ def train(
 ################################################################################################
 
 parser = argparse.ArgumentParser(
-    description="Train the enzyme classification model."
+    description="Train the BGC boundary/chemotype classification model."
 )
 parser.add_argument(
     "-checkpoint_dir",
@@ -112,6 +112,12 @@ parser.add_argument(
     default="user",
 )
 
+parser.add_argument(
+    "-logger_name",
+    help="wandb entity",
+    default="ibis_sm",
+)
+
 if __name__ == "__main__":
     args = parser.parse_args()
     freeze_support()
@@ -122,4 +128,5 @@ if __name__ == "__main__":
         pretrained_checkpoint_path=args.pretrained_checkpoint_path,
         checkpoint_name=args.checkpoint_name,
         logger_entity=args.logger_entity,
+        logger_name=args.logger_name,
     )
