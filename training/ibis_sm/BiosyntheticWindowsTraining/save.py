@@ -21,5 +21,5 @@ parser = argparse.ArgumentParser(
 parser.add_argument(
     "-checkpoint_dir",
     help="Directory to save model checkpoints",
-    default=f"{datdir}/training/biosyn_windows/checkpoints",
+    default=f"{datdir}/biosyn_windows/checkpoints",
 )

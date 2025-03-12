@@ -15,8 +15,8 @@ from training.ibis_sm.BiosyntheticWindowsTraining.models import get_model
 
 
 def train(
-    checkpoint_dir: str = f"{datdir}/training/dat/biosyn_windows/checkpoints",
-    config_dir: str = f"{datdir}/training/dat/biosyn_windows/configs",
+    checkpoint_dir: str = f"{datdir}/biosyn_windows/checkpoints",
+    config_dir: str = f"{datdir}/biosyn_windows/configs",
     weights_fp: str = os.path.join(
         datdir, "biosyn_windows", "biosyn_windows_weights.pkl"
     ),
@@ -82,12 +82,12 @@ parser = argparse.ArgumentParser(
 parser.add_argument(
     "-checkpoint_dir",
     help="Directory to save model checkpoints",
-    default=f"{datdir}/training/dat/biosyn_windows/checkpoints",
+    default=f"{datdir}/biosyn_windows/checkpoints",
 )
 parser.add_argument(
     "-config_dir",
     help="Directory to save model configs",
-    default=f"{datdir}/training/dat/biosyn_windows/configs",
+    default=f"{datdir}/biosyn_windows/configs",
 )
 parser.add_argument(
     "-pretrained_checkpoint_path",
