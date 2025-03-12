@@ -489,3 +489,27 @@ def get_orflist_from_fh(faa_fh: str = None) -> List[OrfData]:
             }
         )
     return proteins
+
+def get_orflist_from_json(pyrodigal_json_fp:str = None, return_seqs: bool = False) -> List[OrfData]:
+    records = json.load(open(pyrodigal_json_fp, 'r'))
+    proteins = []
+    for record in records:
+        nuc_id = record['nuc_id']
+        protein_id = record['protein_id']
+        start = record['start']
+        stop = record['end']
+        orf_id = f'{nuc_id}_{start}_{stop}'
+        out={
+            'contig_id': nuc_id,
+            'orf_id': orf_id,
+            'protein_id': protein_id,
+            'start': start,
+            'stop': stop,
+            'domains': [],
+            'embedding': None,
+            'ec_number': None,
+            'ec_homology_score': None}
+        if return_seqs:
+            out['sequence']=record['sequence']
+        proteins.append(out)
+    return proteins
