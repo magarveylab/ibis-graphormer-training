@@ -1,7 +1,7 @@
 # IBIS SM Training Scripts
 Training Graphormers to predict BGC boundaries
 
-## Dataset preparation
+## Dataset preparation for Biosynthetic Window Training
 Due to the large size of this dataset and the file hosting limitations on Zenodo, users intending to retrain the model using the original genome data or an augmented dataset must regenerate the dataset by following these steps:
 
 1. **Download Genomic Data**
@@ -17,7 +17,7 @@ Due to the large size of this dataset and the file hosting limitations on Zenodo
     - Use `training/ibis_sm/data_generator.py` to convert the windowed genome graphs into tensor representations and store them on disk.
     - This step also integrates embeddings, significantly increasing file size. The processed data requires approximately 443 GiB of storage. To optimize training performance, it is recommended to store these files on a local machine or a low-latency storage solution.
 
-## Dataset preparation for MiBIG Chemotype Training
+## Dataset preparation for MiBIG Training
 1. **Generate MiBIG Graph Files**
     - Use `preprocessing/ibis_sm/mibig_training/generate_graphs.py` to regenerate the MiBIG graph files from the provided .csv files.
 2. **Generate Protein Embeddings with Ibis-Enzyme**
