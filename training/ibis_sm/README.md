@@ -30,7 +30,7 @@ Due to the large size of this dataset and the file hosting limitations on Zenodo
 1. **Set Up Weights & Biases (wandb)**
     - Follow the [official quickstart guide](https://docs.wandb.ai/quickstart/) to configure Weights & Biases for experiment tracking.
 2. **Prepare the Dataset**
-    - Download and extract ibis_sm_datasets.zip from Zenodo.
+    - Download and extract `ibis_sm_datasets.zip` from Zenodo.
     - Move the extracted contents to training/dat, ensuring the original file structure is preserved.
 3. **Training Worflow**
     - **BiosyntheticWindowsTraining**: Identifies biosynthetic gene clusters (BGCs) in real genome data across multiple chemotypes.
