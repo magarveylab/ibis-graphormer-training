@@ -42,12 +42,12 @@ cd BiosyntheticWindowsTraining
 CUDA_VISIBLE_DEVICES=0,1,2,3 python train.py -logger_entity new_user
 ```
 4. **Checkpoint Management**
-- Convert DeepSpeed checkpoints to standard PyTorch format to facilitate seamless loading in subsequent training steps:
+    - Convert DeepSpeed checkpoints to standard PyTorch format to facilitate seamless loading in subsequent training steps:
 ```
 python save.py
 ```
 5. **Model Export**
-- Export the trained model in TorchScript format for efficient and scalable inference. Before exporting, ensure the selected model parameters match those in the export script, updating them if necessary:
+    - Export the trained model in TorchScript format for efficient and scalable inference. Before exporting, ensure the selected model parameters match those in the export script, updating them if necessary:
 ```
 python export.py
 ```
