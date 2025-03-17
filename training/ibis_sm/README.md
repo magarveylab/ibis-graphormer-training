@@ -1,47 +1,53 @@
+# IBIS SM Training Scripts
+Training Graphormers to predict BGC boundaries
 
+## Dataset preparation
+Due to the large size of this dataset and the file hosting limitations on Zenodo, users intending to retrain the model using the original genome data or an augmented dataset must regenerate the dataset by following these steps:
 
-### Preparing the Data for IBIS-SM (Base)###
-Due to the size of this dataset and Zenodo file hosting limits, users looking to retrain this model with the original genome data (or an augmented dataset) will need to re-generate the dataset as follows:
-1. Download Genomes from the [NCBI FTP portal ](https://ftp.ncbi.nlm.nih.gov/) or using one of the [NCBI recommended methods](https://www.ncbi.nlm.nih.gov/guide/howto/dwn-records/) for large-scale downloads of data.
-   - To download the genome files used in the paper, please refer to the assembly accessions provided in the `basename` column of `ibis_sm_datasets/biosyn_windows/genomes.csv` hosted on Zenodo
-2.  A dataset of csvs representing the extracted biosynthetic windows of these genomes, containing chemotype and boundary annotations defined by PRISM and AntiSMASH is contained in the Zenodo archive `ibis_sm_datasets/biosyn_windows/`. Should you wish to expand the dataset, it will be necessary to run PRISM and AntiSMASH independently on external genomes, and provide similarly formatted csvs. 
-3.  Use `preprocessing/ibis_sm/generate_graphs.py` to generate windowed genome graphs from these csvs.
-    - NOTE: If you have your own dataset of genomes and all the prerequisite annotations (IBIS, PRISM, and optionally, antiSMASH), please instead use the `omnicons.graph_converters.homogeneous.genome_graph.get_biosynthetic_windows_from_orfs()` directly. You do not need to generate an intermediary csv file. This graph format is directly compatible with the tensor generation funtions in the `BiosyntheticWindowDataGenerator`.
-4.  `training/ibis_sm/data_generator.py` Convert your windowed genome graphs into tensors and store them on disk. This step also patches in the embeddings and so resulting files can be very large. Be aware that the data occupies approximately 443 GiB of disk space. We suggest storing these files on-machine or using similar low-latency storage options to optimize training time, if possible.
-5.  Proceed with training!
+1. **Download Genomic Data**
+    - Obtain genome sequences from the [NCBI FTP portal](https://ftp.ncbi.nlm.nih.gov/) or use one of the [NCBI recommended methods](https://www.ncbi.nlm.nih.gov/guide/howto/dwn-records/) for large-scale data downloads.
+    - To download the genome files used in the paper, please refer to the assembly accessions provided in the `basename` column of `ibis_sm_datasets/biosyn_windows/genomes.csv` hosted on Zenodo
+2. **Obtain Biosynthetic Window Data**
+    - A dataset of CSV files representing biosynthetic windows extracted from these genomes—annotated with chemotype and boundary information as defined by PRISM and antiSMASH—is available in the Zenodo archive under `ibis_sm_datasets/biosyn_windows/`.
+    - To expand this dataset, users must run PRISM and antiSMASH independently on additional genomes and provide similarly formatted CSV files.
+3. **Generate Windowed Genome Graphs**
+    - Use  `preprocessing/ibis_sm/generate_graphs.py` to construct genome graphs from the extracted biosynthetic windows.
+    - **Note**: If working with a custom genome dataset that includes all necessary annotations (IBIS, PRISM, and optionally antiSMASH), use the function `get_biosynthetic_windows_from_orfs` from `omnicons.graph_converters.homogeneous.genome_graph` directly. This eliminates the need to generate an intermediary CSV file, as the resulting graph format is fully compatible with tensor generation functions in `BiosyntheticWindowDataGenerator`.
+4. **Convert Genome Graphs into Tensors**
+    - Use `training/ibis_sm/data_generator.py` to convert the windowed genome graphs into tensor representations and store them on disk.
+    - This step also integrates embeddings, significantly increasing file size. The processed data requires approximately 443 GiB of storage. To optimize training performance, it is recommended to store these files on a local machine or a low-latency storage solution.
 
-### Preparing the Data for IBIS-SM (MIBiG Fine-Tuned)###
+## Dataset preparation for MiBIG Chemotype Training
+1. **Generate MiBIG Graph Files**
+    - Use `preprocessing/ibis_sm/mibig_training/generate_graphs.py` to regenerate the MiBIG graph files from the provided .csv files.
+2. **Generate Protein Embeddings with Ibis-Enzyme**
+    - Run Ibis-Enzyme to generate embeddings for all protein sequences. Only the protein embedding module is required. The embeddings used in this work have already been precomputed and are available at the Zenodo repository under      `ibis_sm_datasets/mibig_training/ibis_on_mibig3.1`.
+3. **Convert Genome Graphs into Tensors**
+    - Use `preprocessing/ibis_sm/mibig_training/generate_tensors.py` to generate the final training tensors for all MiBIG entries. The dataset splits are pre-prepared, but the script also includes the necessary code for reproducing them if needed.
 
-Note: You do not need to complete the same data extraction procedures as above to proceed with mibig fine-tuning, provided you are happy to use the checkpoint from the original model, which is provided under `/training/dat/mibig_training/pretrained_checkpoints/ibis_sm.pt`
-1. Regenerate the MIBiG graph files from the provided .csvs using `preprocessing/ibis_sm/mibig_training/generate_graphs.py`
-2. Run [IBIS](https://github.com/magarveylab/ibis-publication/tree/main) to generate embeddings for all protein sequences. The protein embedding module alone is sufficient. This data has been prepared for the datasets used in this work and is hosted at the zenodo link under `ibis_sm_datasets/mibig_training/ibis_on_mibig3.1`
-3. Generate the final training tensors for all MIBiG entries using `preprocessing/ibis_sm/mibig_training/generate_tensors.py`. The data splits have already been prepared for you, but the code for reproducing these is included in the file as well. 
+## Training
 
-### Training 
+1. **Set Up Weights & Biases (wandb)**
+    - Follow the [official quickstart guide](https://docs.wandb.ai/quickstart/) to configure Weights & Biases for experiment tracking.
+2. **Prepare the Dataset**
+    - Download and extract ibis_sm_datasets.zip from Zenodo.
+    - Move the extracted contents to training/dat, ensuring the original file structure is preserved.
+3. **Training Worflow**
+    - **BiosyntheticWindowsTraining**: Identifies biosynthetic gene clusters (BGCs) in real genome data across multiple chemotypes.
+    - **MibigTraining**: Trains on known BGCs from the MiBIG dataset, primarily for benchmarking against other tools.
 
-Set up Weights & Biases (wandb) by following the instructions [here](https://docs.wandb.ai/quickstart/).
-
-
-Download and extract `ibis_sm_datasets.zip` from Zenodo, then move the contents to `training/dat`, preserving the existing file structure.
-
-Training Order:
-1. BiosyntheticWindowsTraining: Identifying BGCs in real-genome data, many chemotypes.
-2. MibigTraining: BGC identification with MIBiG chemotypes on a dataset of known BGCs. Primarily for comparison with other tools.
-
-Modify the default arguments in train.py as needed. The training process supports multiple GPUs; specify the target GPUs using CUDA_VISIBLE_DEVICES.
+Modify the default arguments in train.py as needed. The training process supports multiple GPUs, which can be specified using CUDA_VISIBLE_DEVICES:
 ```
 cd BiosyntheticWindowsTraining
 CUDA_VISIBLE_DEVICES=0,1,2,3 python train.py -logger_entity new_user
 ```
-Convert DeepSpeed checkpoints to PyTorch checkpoints to enable seamless checkpoint loading in subsequent training steps.
+4. **Checkpoint Management**
+- Convert DeepSpeed checkpoints to standard PyTorch format to facilitate seamless loading in subsequent training steps:
 ```
 python save.py
 ```
-
-Export the model in torchscript format to support efficient and scalable inference. Before exporting, please ensure that the model parameters you have selected are the same as those reflected in the export script and update as necessary.
+5. **Model Export**
+- Export the trained model in TorchScript format for efficient and scalable inference. Before exporting, ensure the selected model parameters match those in the export script, updating them if necessary:
 ```
 python export.py
 ```
-
-
-
